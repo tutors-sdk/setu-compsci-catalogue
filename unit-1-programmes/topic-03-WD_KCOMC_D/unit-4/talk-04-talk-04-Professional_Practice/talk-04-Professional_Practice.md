@@ -1,9 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 795548
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Professional Practice
-
-The aim of this module is to prepare and encourage students to capitalize on the learning potential  ... 
+The aim of this module is to prepare and encourage students to capitalize on the learning potential of their flexible semester experience and enhance  ... 

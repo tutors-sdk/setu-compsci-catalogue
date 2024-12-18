@@ -1,9 +1,7 @@
 ---
 icon:
-  type: ph:function-bold
-  color: FF9800
+  type: fa:superscript
+  color: 398126
 ---
 
-Discrete Mathematics
-
-This module provides a solid foundation of selected topics in discrete mathematics related to comput ... 
+This module provides a solid foundation of selected topics in discrete mathematics related to computing and information sciences. The topics are cover ... 

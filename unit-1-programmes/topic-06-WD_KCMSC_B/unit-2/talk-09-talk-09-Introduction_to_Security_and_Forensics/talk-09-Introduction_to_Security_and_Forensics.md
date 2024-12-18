@@ -1,9 +1,7 @@
 ---
 icon:
-  type: mdi:shield-lock
-  color: F44336
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Introduction to Security and Forensics
-
-This module aims to make the student security aware. By the end of the module the student will be co ... 
+This module aims to make the student security aware. By the end of the module the student will be conscious of threats to their data and their person, ... 

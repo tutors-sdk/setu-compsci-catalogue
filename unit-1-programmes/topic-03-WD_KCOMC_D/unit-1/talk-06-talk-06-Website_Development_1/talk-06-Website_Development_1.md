@@ -1,9 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 03A9F4
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Website Development 1
-
-This module introduces the student to the creation and development of web based applications. The st ... 
+This module introduces the student to the creation and development of web based applications. The student will become skilled in HyperText Markup Lang ... 

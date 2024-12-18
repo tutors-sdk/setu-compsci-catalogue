@@ -1,9 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 03A9F4
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Web App Development 1
-
-Introduce the the student to the software development lifecycle via the implementation of a simple b ... 
+Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application. In doing this, anal ... 

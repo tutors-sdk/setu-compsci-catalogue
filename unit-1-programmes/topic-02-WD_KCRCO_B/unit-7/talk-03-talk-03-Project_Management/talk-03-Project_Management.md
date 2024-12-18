@@ -1,9 +1,7 @@
 ---
 icon:
-  type: carbon:task
-  color: 607D8B
+  type: mdi:clipboard-check-outline
+  color: 398126
 ---
 
-Project Management
-
-This module aims to provide the student with the ability to initiate, plan, execute, control and clo ... 
+This module aims to provide the student with the ability to initiate, plan, execute, control and close-out the work of a team in order to achieve spec ... 

@@ -1,9 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 03A9F4
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Web Design and Development
-
-This module focuses on the Web Design and Development Process, from User Experience (UX), Planning,  ... 
+This module focuses on the Web Design and Development Process, from User Experience (UX), Planning, Responsive Design, to Development and Maintenance. ... 

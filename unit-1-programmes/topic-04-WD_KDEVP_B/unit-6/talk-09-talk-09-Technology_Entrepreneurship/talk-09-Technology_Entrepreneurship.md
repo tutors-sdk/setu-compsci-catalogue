@@ -1,9 +1,7 @@
 ---
 icon:
-  type: ph:rocket-launch-bold
-  color: 6D4C41
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
-Technology Entrepreneurship
-
-This module is designed to develop knowledge, skills and capabilities for the formulation and initia ... 
+This module is designed to develop knowledge, skills and capabilities for the formulation and initiation of technology enterprises.The module will emp ... 
