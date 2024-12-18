@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Project 2 (Research)
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 Cloud Computing 2
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly
-  color: 78909C
+  type: carbon:report
+  color: 455A64
 ---
 Statistics and Probability
 

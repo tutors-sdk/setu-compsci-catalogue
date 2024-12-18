@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:template
+  color: 607D8B
 ---
 Project 2 IT (Prototyping)
 

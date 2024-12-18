@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workspace
-  color: 546E7A
+  type: carbon:notebook
+  color: 263238
 ---
 Applied Calculus
 

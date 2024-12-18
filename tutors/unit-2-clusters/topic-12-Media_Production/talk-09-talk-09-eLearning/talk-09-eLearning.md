@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:course
-  color: 546E7A
+  type: carbon:forum
+  color: 607D8B
 ---
 eLearning
 

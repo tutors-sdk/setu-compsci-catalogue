@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:terminal
-  color: 78909C
+  type: carbon:virtual-machine
+  color: 03A9F4
 ---
 Computer Systems 2
 

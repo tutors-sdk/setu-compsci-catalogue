@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:study-next
-  color: 455A64
+  type: carbon:education
+  color: 78909C
 ---
 Digital Imaging
 

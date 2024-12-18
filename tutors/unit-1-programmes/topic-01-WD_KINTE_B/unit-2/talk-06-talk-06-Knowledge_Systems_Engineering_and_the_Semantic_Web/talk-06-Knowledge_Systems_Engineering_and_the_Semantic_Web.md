@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: carbon:assembly
+  color: 78909C
 ---
 Knowledge Systems Engineering and the Semantic Web
 

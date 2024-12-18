@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: carbon:learning
+  color: 37474F
 ---
 Audio Production
 

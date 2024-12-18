@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-base
-  color: 37474F
+  type: carbon:skill-level-intermediate
+  color: 607D8B
 ---
 Project Management
 

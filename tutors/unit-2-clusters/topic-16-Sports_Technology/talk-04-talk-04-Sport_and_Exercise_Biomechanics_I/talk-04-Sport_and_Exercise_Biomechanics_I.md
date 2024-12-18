@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:report
-  color: 455A64
+  type: carbon:skill-level-basic
+  color: 78909C
 ---
 Sport & Exercise Biomechanics I
 

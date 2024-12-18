@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: carbon:catalog
+  color: 607D8B
 ---
 Study Abroad 2
 

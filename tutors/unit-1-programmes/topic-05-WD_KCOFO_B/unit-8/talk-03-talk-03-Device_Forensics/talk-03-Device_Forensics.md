@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:lecture
+  color: 263238
 ---
 Device Forensics
 

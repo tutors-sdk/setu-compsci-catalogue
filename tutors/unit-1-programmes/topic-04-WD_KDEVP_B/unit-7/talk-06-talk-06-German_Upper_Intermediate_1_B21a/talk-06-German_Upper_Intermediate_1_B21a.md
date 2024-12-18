@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 German Upper Intermediate 1( B2.1a)
 

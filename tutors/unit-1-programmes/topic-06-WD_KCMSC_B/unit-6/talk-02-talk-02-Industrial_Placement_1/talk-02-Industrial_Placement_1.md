@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: carbon:study-next
+  color: 455A64
 ---
 Industrial Placement 1
 

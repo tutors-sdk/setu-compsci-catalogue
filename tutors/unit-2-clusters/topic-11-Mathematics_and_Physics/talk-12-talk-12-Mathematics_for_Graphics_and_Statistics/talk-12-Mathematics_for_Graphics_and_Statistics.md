@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: carbon:document
+  color: 78909C
 ---
 Mathematics for Graphics and Statistics
 

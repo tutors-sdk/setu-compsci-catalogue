@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workspace
-  color: 546E7A
+  type: carbon:document
+  color: 78909C
 ---
 Study Abroad 1
 

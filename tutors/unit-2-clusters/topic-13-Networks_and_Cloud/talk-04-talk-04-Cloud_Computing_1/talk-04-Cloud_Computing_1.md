@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:laptop
+  color: 42A5F5
 ---
 Cloud Computing 1
 

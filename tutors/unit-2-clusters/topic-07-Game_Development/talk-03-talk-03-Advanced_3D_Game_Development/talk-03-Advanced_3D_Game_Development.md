@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:learning
-  color: 37474F
+  type: carbon:book
+  color: 607D8B
 ---
 Advanced 3D Game Development
 

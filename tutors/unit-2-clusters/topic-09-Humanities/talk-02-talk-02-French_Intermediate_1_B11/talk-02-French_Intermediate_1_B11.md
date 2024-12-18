@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:learning
-  color: 37474F
+  type: carbon:book
+  color: 607D8B
 ---
 French Intermediate 1 (B1.1)
 

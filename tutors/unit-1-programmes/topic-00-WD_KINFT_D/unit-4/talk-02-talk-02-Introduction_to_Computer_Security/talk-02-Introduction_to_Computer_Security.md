@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:course
-  color: 546E7A
+  type: carbon:computer
+  color: 1E88E5
 ---
 Introduction to Computer Security
 

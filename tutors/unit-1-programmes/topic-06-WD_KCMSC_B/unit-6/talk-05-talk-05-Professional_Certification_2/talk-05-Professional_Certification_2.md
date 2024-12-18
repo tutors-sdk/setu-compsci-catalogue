@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: carbon:notebook
+  color: 263238
 ---
 Professional Certification 2
 

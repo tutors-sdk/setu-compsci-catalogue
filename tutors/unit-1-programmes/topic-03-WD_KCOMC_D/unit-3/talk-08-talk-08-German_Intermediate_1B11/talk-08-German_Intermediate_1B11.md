@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: carbon:course
+  color: 546E7A
 ---
 German Intermediate 1(B1.1)
 

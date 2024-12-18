@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-basic
-  color: 78909C
+  type: carbon:cognitive
+  color: 37474F
 ---
 Application Security
 

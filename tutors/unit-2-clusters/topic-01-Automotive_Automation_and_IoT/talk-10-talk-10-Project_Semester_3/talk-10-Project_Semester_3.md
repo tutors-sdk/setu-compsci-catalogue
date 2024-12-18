@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: carbon:cognitive
+  color: 37474F
 ---
 Project Semester 3
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:document
-  color: 78909C
+  type: carbon:study-next
+  color: 455A64
 ---
 Physics 1
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:forum
-  color: 607D8B
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Data Science in Practice
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:study-next
-  color: 455A64
+  type: carbon:network-4
+  color: 81D4FA
 ---
 Networks Infrastructure
 

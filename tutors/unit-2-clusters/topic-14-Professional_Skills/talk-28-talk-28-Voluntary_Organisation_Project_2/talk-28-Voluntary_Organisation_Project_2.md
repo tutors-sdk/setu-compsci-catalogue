@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:concept
-  color: 263238
+  type: carbon:workspace
+  color: 546E7A
 ---
 Voluntary Organisation Project 2
 

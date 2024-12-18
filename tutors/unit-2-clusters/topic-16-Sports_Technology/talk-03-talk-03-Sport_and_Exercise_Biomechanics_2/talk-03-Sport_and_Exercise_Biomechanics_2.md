@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:template
+  color: 607D8B
 ---
 Sport & Exercise Biomechanics 2
 
