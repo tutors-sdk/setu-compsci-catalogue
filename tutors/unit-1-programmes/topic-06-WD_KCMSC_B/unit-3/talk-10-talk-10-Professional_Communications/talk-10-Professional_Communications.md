@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:forum
-  color: 607D8B
+  type: carbon:skill-level-basic
+  color: 78909C
 ---
 Professional Communications
 

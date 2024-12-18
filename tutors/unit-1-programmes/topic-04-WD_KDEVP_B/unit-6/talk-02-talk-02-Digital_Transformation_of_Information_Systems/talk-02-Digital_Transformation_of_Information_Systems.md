@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-basic
-  color: 78909C
+  type: logos:git
+  color: F05032
 ---
 Digital Transformation of Information Systems
 

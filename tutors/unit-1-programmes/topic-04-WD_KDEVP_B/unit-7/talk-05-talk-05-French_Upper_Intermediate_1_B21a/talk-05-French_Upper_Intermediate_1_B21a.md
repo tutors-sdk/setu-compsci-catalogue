@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:template
+  color: 607D8B
 ---
 French Upper Intermediate 1 (B2.1a)
 

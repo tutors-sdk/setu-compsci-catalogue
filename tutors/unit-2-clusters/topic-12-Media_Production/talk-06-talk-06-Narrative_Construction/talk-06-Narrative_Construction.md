@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:group-presentation
-  color: 78909C
+  type: carbon:concept
+  color: 263238
 ---
 Narrative Construction
 

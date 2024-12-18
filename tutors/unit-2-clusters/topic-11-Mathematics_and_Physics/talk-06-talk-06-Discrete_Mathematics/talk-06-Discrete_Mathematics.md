@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:chart-combo
-  color: 3E2723
+  type: carbon:notebook
+  color: 263238
 ---
 Discrete Mathematics
 

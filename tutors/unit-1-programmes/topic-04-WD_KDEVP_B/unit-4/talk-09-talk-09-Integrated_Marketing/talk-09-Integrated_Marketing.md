@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Integrated Marketing
 

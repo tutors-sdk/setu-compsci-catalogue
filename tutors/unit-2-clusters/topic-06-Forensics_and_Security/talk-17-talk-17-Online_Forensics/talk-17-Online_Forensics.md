@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:report
-  color: 455A64
+  type: carbon:lecture
+  color: 263238
 ---
 Online Forensics
 

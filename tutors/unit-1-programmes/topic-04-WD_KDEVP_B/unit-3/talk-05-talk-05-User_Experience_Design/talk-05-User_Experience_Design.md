@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:user-interface
-  color: FB8C00
+  type: carbon:book
+  color: 607D8B
 ---
 User Experience Design
 

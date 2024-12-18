@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:group-presentation
+  type: carbon:document
   color: 78909C
 ---
 Physics 1

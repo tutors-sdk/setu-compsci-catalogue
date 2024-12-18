@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:enterprise
-  color: 0D47A1
+  color: F57C00
 ---
 Enterprise Applications
 

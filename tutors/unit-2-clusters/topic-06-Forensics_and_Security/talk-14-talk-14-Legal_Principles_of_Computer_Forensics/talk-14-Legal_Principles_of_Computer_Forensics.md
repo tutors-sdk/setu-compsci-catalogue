@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-basic
-  color: 78909C
+  type: carbon:certificate
+  color: 546E7A
 ---
 Legal Principles of Computer Forensics
 

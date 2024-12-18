@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:user-avatar
-  color: FF5722
+  type: carbon:study-next
+  color: 455A64
 ---
 Formal Specification
 

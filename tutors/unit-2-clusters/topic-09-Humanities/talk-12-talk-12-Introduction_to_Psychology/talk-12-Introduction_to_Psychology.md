@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:learning
-  color: 37474F
+  type: carbon:document
+  color: 78909C
 ---
 Introduction to Psychology
 

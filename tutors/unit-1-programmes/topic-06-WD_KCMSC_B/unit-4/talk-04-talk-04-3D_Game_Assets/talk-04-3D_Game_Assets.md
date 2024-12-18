@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:3d-cursor
-  color: 1A237E
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 3D Game Assets
 

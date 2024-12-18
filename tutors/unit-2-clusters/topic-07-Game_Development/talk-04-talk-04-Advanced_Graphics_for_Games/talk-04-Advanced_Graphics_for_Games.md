@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:machine-learning
+  color: AB47BC
 ---
 Advanced Graphics for Games
 

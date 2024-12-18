@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:study-next
-  color: 455A64
+  type: carbon:learning
+  color: 37474F
 ---
 French Intermediate 1 (B1.1)
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cloud-satellite
-  color: 03A9F4
+  type: carbon:cloud
+  color: 29B6F6
 ---
 Introduction to Cloud Computing
 

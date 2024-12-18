@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: carbon:assembly
+  color: 78909C
 ---
 Enterprise Systems Architecture
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:network-enterprise
-  color: E64A19
+  type: carbon:network
+  color: FF7043
 ---
 Computer Networks
 

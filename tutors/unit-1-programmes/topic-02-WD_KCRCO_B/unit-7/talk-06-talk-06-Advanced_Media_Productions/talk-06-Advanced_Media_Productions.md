@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:certificate
+  color: 546E7A
 ---
 Advanced Media Productions
 

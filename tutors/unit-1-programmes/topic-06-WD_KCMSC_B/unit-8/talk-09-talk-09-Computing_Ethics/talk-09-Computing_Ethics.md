@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:template
+  type: carbon:book
   color: 607D8B
 ---
 Computing Ethics

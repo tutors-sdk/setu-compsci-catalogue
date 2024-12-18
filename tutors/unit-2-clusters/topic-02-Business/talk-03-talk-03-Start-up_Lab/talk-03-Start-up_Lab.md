@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-basic
+  type: carbon:group-presentation
   color: 78909C
 ---
 Start-up Lab

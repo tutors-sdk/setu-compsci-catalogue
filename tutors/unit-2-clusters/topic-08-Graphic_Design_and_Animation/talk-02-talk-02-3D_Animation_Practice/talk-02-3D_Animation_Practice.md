@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:delivery
-  color: 1B5E20
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 3D Animation Practice
 

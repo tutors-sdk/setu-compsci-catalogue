@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:css-3
-  color: 2196F3
+  type: carbon:industry
+  color: EF6C00
 ---
 Web Design and Development
 

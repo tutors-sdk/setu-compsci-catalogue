@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:bare-metal-server
-  color: FF5722
+  type: carbon:system
+  color: BA68C8
 ---
 Computer Systems 1
 

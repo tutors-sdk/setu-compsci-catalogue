@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workflow
-  color: 558B2F
+  type: carbon:catalog
+  color: 607D8B
 ---
 Developmental Psychology
 

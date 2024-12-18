@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:analytics-reference
-  color: 00695C
+  color: B2EBF2
 ---
 Statistical Analysis
 

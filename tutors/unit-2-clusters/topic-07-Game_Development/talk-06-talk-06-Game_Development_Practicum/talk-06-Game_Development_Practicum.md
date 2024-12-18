@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:document
-  color: 78909C
+  type: carbon:template
+  color: 607D8B
 ---
 Game Development Practicum
 

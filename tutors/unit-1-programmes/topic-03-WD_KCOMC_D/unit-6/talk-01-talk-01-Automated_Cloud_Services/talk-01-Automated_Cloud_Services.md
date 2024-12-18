@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:concept
-  color: 263238
+  type: carbon:skill-level-intermediate
+  color: 607D8B
 ---
 Automated Cloud Services
 

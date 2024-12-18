@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: carbon:chart-bubble
+  color: 4DB6AC
 ---
 Business Intelligence Visualisation
 

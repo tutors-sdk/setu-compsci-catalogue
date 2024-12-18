@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:industry
-  color: 0D47A1
+  type: carbon:infrastructure
+  color: 8D6E63
 ---
 Enterprise Data Exchange and XML
 

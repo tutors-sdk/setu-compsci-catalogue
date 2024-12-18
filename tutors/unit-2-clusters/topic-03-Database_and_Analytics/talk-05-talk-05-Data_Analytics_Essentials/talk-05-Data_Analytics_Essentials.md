@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-enrichment
-  color: 311B92
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Data Analytics Essentials
 

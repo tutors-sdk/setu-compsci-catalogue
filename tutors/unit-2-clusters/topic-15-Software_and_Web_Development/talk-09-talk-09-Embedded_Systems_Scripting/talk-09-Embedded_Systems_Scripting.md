@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: logos:python
+  color: 4B8BBE
 ---
 Embedded Systems Scripting
 

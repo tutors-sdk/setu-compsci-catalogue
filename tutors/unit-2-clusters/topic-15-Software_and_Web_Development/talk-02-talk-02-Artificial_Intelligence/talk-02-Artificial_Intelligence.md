@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:machine-learning-model
-  color: E91E63
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Artificial Intelligence
 

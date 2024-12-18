@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: carbon:report
+  color: 455A64
 ---
 Forensic Accounting and Fraud Audit
 

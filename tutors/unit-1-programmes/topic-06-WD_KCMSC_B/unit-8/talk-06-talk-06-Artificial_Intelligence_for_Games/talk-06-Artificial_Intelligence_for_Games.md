@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: carbon:notebook
+  color: 263238
 ---
 Artificial Intelligence for Games
 

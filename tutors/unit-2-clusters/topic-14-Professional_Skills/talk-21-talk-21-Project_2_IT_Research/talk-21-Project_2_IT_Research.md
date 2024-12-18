@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:group-presentation
-  color: 78909C
+  type: carbon:lecture
+  color: 263238
 ---
 Project 2 IT (Research)
 

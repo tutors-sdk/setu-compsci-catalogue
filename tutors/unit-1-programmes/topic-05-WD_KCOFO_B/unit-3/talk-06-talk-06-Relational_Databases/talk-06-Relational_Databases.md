@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:learning
-  color: 37474F
+  type: carbon:skill-level-intermediate
+  color: 607D8B
 ---
 Relational Databases
 

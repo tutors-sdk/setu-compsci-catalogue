@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:forum
+  type: carbon:catalog
   color: 607D8B
 ---
 The Computer Industry

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:workspace
+  color: 546E7A
 ---
 The Connected Car
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:notebook
+  color: 263238
 ---
 Physics 2
 

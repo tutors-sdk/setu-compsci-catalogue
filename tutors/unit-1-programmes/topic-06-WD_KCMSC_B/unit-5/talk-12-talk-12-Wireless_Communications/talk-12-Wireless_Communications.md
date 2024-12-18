@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:concept
+  type: carbon:lecture
   color: 263238
 ---
 Wireless Communications

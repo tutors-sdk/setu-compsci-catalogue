@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: carbon:report
+  color: 455A64
 ---
 Digital Graphic Design
 

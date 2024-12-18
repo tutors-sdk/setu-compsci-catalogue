@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Sport & Exercise Biomechanics 2
 

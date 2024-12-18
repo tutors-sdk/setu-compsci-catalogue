@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:group-presentation
-  color: 78909C
+  type: carbon:forum
+  color: 607D8B
 ---
 Advanced Graphic Design
 

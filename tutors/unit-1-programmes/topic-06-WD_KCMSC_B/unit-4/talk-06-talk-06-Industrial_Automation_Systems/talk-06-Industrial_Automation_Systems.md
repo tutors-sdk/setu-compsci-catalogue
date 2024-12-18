@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: carbon:report
+  color: 455A64
 ---
 Industrial Automation Systems
 

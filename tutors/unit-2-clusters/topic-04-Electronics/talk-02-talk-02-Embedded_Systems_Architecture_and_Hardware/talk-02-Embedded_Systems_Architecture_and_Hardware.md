@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:hardware
-  color: 512DA8
+  color: F06292
 ---
 Embedded Systems Architecture & Hardware
 

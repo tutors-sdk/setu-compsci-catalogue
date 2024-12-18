@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: carbon:analytics
+  color: FB8C00
 ---
 Business Intelligence and Data Warehousing
 

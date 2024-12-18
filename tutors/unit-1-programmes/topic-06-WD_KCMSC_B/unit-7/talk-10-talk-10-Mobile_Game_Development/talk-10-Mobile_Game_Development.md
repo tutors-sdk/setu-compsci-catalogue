@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: carbon:study-next
+  color: 455A64
 ---
 Mobile Game Development
 

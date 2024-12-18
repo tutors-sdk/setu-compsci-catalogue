@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:report
-  color: 455A64
+  type: carbon:book
+  color: 607D8B
 ---
 Game Development in C++
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: carbon:cognitive
+  color: 37474F
 ---
 Introduction to Security and Forensics
 

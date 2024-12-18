@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: carbon:book
+  color: 607D8B
 ---
 French Upper Intermediate 2 (B2.1b)
 

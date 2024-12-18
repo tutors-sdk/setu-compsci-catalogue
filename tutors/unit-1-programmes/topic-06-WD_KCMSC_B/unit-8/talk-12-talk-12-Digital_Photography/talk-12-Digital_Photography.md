@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:certificate
+  type: carbon:course
   color: 546E7A
 ---
 Digital Photography

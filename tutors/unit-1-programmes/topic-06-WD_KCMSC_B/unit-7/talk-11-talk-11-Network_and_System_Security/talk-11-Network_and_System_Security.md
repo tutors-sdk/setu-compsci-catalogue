@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:security-compliance
-  color: D32F2F
+  type: carbon:report
+  color: 455A64
 ---
 Network and System Security
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-base
-  color: 37474F
+  type: carbon:course
+  color: 546E7A
 ---
 Introduction to Convergent Technologies
 

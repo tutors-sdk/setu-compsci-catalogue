@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:html-5
-  color: FF5722
+  type: carbon:concept
+  color: 263238
 ---
 Website Development 2
 

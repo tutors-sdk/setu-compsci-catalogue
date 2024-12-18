@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workspace
-  color: 546E7A
+  type: carbon:skill-level-basic
+  color: 78909C
 ---
 Introduction to Social Psychology
 

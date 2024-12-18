@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:assembly
+  type: carbon:education
   color: 78909C
 ---
 Device Forensics

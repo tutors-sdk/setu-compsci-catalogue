@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly
-  color: 78909C
+  type: carbon:template
+  color: 607D8B
 ---
 3D Lighting and Rendering
 

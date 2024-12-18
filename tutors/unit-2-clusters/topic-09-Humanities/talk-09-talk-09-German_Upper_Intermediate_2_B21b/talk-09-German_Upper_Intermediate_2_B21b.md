@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: carbon:course
+  color: 546E7A
 ---
 German Upper Intermediate 2 (B2.1b)
 

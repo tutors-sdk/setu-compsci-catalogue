@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:flow
-  color: 3E2723
+  color: 9575CD
 ---
 Data Structures and Algorithms 1
 

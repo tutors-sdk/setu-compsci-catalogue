@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-base
-  color: 37474F
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Criminal Evidence
 

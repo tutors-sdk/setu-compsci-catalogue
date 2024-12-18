@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:paint-brush
-  color: FF9800
+  type: carbon:test
+  color: 66BB6A
 ---
 Systems Analysis, Design and Testing
 

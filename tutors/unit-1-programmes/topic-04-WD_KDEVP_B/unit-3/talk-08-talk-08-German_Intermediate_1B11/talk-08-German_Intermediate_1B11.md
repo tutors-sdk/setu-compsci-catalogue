@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:react
-  color: 03A9F4
+  type: carbon:notebook
+  color: 263238
 ---
 German Intermediate 1(B1.1)
 

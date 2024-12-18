@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:course
-  color: 546E7A
+  type: carbon:bare-metal-server
+  color: EC407A
 ---
 Web App Development 1
 

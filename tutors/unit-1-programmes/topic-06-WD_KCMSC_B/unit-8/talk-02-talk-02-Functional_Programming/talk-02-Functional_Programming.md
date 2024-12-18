@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: carbon:learning
+  color: 37474F
 ---
 Functional Programming
 

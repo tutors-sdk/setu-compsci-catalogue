@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application-web
-  color: 1B5E20
+  type: carbon:web-services
+  color: 42A5F5
 ---
 Website Development 1
 

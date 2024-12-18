@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Multimedia Databases
 

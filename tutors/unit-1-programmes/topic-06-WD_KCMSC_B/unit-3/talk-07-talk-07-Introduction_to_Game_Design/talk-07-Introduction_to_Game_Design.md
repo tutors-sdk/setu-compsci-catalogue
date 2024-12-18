@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:game-console
-  color: 311B92
+  type: carbon:cognitive
+  color: 37474F
 ---
 Introduction to Game Design
 

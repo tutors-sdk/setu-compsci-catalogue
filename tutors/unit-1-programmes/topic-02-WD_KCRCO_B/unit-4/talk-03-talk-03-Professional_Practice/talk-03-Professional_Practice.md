@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:user-profile
-  color: 1976D2
+  color: FF9800
 ---
 Professional Practice
 

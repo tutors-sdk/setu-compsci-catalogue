@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: carbon:certificate
+  color: 546E7A
 ---
 Introduction to C++ for Games
 

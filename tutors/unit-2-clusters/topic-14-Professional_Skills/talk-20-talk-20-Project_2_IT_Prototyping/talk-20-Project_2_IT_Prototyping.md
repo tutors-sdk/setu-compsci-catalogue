@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:lecture
-  color: 263238
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Project 2 IT (Prototyping)
 

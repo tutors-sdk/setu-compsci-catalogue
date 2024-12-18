@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cloud-foundry
-  color: 0277BD
+  type: carbon:study-next
+  color: 455A64
 ---
 Networks Infrastructure
 

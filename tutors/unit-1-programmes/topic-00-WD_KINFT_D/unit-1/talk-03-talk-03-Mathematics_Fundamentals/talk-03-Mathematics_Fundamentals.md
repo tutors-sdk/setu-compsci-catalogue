@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:function-bold
-  color: 795548
+  type: carbon:data-vis-1
+  color: 4DD0E1
 ---
 Mathematics Fundamentals
 

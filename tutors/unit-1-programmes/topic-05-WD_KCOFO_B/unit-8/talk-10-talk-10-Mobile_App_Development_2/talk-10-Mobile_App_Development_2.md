@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:sensor
-  color: 311B92
+  color: 4DB6AC
 ---
 Mobile App Development 2
 

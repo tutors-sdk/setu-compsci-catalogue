@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:document
-  color: 78909C
+  type: carbon:cognitive
+  color: 37474F
 ---
 German Intermediate 2 (B1.2)
 

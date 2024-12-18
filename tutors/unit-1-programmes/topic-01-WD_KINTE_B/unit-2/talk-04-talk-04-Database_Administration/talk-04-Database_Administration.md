@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: carbon:template
+  color: 607D8B
 ---
 Database Administration
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:chart-bubble
-  color: 5D4037
+  type: carbon:assembly
+  color: 78909C
 ---
 Statistics and Probability
 

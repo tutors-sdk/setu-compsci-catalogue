@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:task
-  color: 8BC34A
+  color: FFB74D
 ---
 Voluntary Organisation Project 1
 

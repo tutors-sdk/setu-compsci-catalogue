@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: carbon:skill-level-intermediate
+  color: 607D8B
 ---
 Technology Entrepreneurship
 

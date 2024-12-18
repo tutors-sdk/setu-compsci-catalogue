@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workspace
-  color: 546E7A
+  type: carbon:data-base
+  color: 37474F
 ---
 Secure Programming and Scripting
 

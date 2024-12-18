@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:iot-platform
-  color: 673AB7
+  color: FF7043
 ---
 Internet of Things Standards and Protocols
 

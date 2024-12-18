@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:lecture
-  color: 263238
+  type: carbon:catalog
+  color: 607D8B
 ---
 Project Semester 2
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:test
-  color: 9E9E9E
+  type: carbon:software
+  color: 4FC3F7
 ---
 Network Theory Fundamentals
 

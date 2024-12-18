@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:chat
-  color: 2196F3
+  type: carbon:skill-level
+  color: E65100
 ---
 Communications Skills
 

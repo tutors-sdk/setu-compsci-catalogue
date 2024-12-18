@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: carbon:portfolio
+  color: 455A64
 ---
 Instructional Design
 

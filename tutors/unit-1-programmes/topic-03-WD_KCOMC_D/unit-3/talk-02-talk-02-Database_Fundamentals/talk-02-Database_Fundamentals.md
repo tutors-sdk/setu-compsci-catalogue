@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:mysql
-  color: 9C27B0
+  type: carbon:database
+  color: 26A69A
 ---
 Database Fundamentals
 

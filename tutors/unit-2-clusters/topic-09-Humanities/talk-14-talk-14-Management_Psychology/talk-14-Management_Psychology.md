@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: carbon:study-next
+  color: 455A64
 ---
 Management Psychology
 

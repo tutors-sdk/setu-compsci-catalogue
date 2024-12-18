@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:chart-histogram
-  color: 6D4C41
+  color: 81C784
 ---
 Further Statistics
 

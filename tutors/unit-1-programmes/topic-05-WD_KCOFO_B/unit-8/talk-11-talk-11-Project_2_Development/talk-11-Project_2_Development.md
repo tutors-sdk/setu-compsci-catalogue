@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:forum
-  color: 607D8B
+  type: carbon:education
+  color: 78909C
 ---
 Project 2 (Development)
 

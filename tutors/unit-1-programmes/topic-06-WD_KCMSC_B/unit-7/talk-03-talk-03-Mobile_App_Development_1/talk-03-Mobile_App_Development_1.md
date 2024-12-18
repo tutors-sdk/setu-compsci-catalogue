@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:android
-  color: 7B1FA2
+  type: carbon:lecture
+  color: 263238
 ---
 Mobile App Development 1
 

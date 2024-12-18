@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:cognitive
+  type: carbon:presentation-file
   color: 37474F
 ---
 Project Semester 5

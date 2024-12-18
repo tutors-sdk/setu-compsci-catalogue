@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:debug
-  color: 616161
+  color: FFA726
 ---
 Embedded Firmware
 

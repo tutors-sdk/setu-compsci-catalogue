@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: carbon:course
+  color: 546E7A
 ---
 eLearning
 

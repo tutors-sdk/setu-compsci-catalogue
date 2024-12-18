@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:game-wireless
-  color: 4527A0
+  type: carbon:document
+  color: 78909C
 ---
 2D Game Development
 

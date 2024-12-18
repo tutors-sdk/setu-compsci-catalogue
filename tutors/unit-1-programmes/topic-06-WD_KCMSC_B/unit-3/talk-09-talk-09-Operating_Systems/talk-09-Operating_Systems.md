@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: carbon:chip
+  color: FFB74D
 ---
 Operating Systems
 

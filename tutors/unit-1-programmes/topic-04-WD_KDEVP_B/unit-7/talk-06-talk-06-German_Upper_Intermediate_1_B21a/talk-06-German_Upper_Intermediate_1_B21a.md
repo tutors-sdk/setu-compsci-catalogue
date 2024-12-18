@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:report
-  color: 455A64
+  type: carbon:certificate
+  color: 546E7A
 ---
 German Upper Intermediate 1( B2.1a)
 

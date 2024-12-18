@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:document
-  color: 78909C
+  type: carbon:data-structured
+  color: 4DB6AC
 ---
 Data Structures and Algorithms 2
 

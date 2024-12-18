@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: carbon:certificate
+  color: 546E7A
 ---
 IT Operations Management
 

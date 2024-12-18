@@ -1,7 +1,7 @@
 ---
 icon:
   type: carbon:search
-  color: 006064
+  color: 80DEEA
 ---
 Project 1 (Research)
 

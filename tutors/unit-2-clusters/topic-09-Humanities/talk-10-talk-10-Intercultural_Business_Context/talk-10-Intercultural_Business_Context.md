@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: carbon:concept
+  color: 263238
 ---
 Intercultural Business Context
 

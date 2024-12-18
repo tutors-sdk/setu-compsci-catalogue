@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:python
-  color: 388E3C
+  type: carbon:ai-status
+  color: 7986CB
 ---
 Programming Concepts
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:course
-  color: 546E7A
+  type: carbon:data-base
+  color: 37474F
 ---
 Introduction to 3D Game Development
 

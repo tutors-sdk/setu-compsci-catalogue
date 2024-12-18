@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
+  type: carbon:forum
   color: 607D8B
 ---
 Advanced Driver Assistance Systems

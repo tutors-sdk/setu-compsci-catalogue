@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:chip
-  color: 5E35B1
+  type: carbon:workspace
+  color: 546E7A
 ---
 Embedded Systems
 

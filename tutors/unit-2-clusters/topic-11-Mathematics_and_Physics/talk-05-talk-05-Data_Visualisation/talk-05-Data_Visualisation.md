@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 4A148C
+  type: carbon:chart-line
+  color: FF8A65
 ---
 Data Visualisation
 

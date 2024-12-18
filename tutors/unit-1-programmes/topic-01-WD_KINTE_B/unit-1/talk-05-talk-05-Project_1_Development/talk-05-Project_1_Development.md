@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-base
-  color: 37474F
+  type: carbon:application-web
+  color: 7E57C2
 ---
 Project 1 (Development)
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Software Engineering Practice
 

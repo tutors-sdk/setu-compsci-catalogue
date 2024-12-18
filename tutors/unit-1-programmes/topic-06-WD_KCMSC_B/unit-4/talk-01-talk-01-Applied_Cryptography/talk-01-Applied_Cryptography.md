@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 Applied Cryptography
 

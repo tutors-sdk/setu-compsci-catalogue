@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level
-  color: 01579B
+  type: carbon:notebook
+  color: 263238
 ---
 Industrial Placement 1
 
