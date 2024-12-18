@@ -1,0 +1,80 @@
+aim: This module will introduce the student to fundamental distributed version control
+  systems and basic communication skills, including presentation skills. The student
+  will practice these skills through building an artifact based on multiple concurrent
+  strands/modules. This module will act as an opportunity for the student to contextualise
+  and link cross-strand concepts.
+assessment criteria:
+- '<40%: Inability to develop a model and present a working artifact. No digital portfolio
+  presented.'
+- 40%-49%:Ability to develop a model and present a working artifact. Digital portfolio
+  presented (including version control).
+- 50%-59%:All the above and in addition has applied concepts from more than two modules/strands.
+  Well-structured digital portfolio.
+- 60%-69%:All the above and in addition, be able to integrate and analyse concepts
+  from more than two and at least one past module, showing an ability to transfer
+  skills and knowledge across modules/strands.
+- '70%-100%: All previous to an excellent level. Shows the ability to evaluate different
+  models. Shows synthesis through the implementation of cross-strand innovative artifacts.
+  Innovative use of distributed version control system.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,3
+  main: false
+  name: Portfolio
+  weighting: 50
+- learning outcomes: 1,2,4
+  main: false
+  name: Presentation
+  weighting: 50
+basename: A11104_-_CaM_-_AutoAutoandIoT_-_Project_Semester_2
+co-requisites: []
+code: A11104
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Project Semester 2
+indicative content:
+- Development of a digital portfolio using a distributed version control system
+- Communication of ideas in correct, clear and modern format
+learning and teaching methods:
+- Combination of lectures and computer-based practical labs.
+- Cooperative learning/peer tutoring.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply knowledge, skills or practices from (at least two) strands in the programme
+  into a model that demonstrates an understanding of the core concepts of those strands.
+- Demonstrate the above model and present the resulting working artifact.
+- Use a modern, professional distributed version control system to display (and continually
+  update) his/her digital portfolio including all artifacts produced as part of this
+  semester.
+- Report and present outcomes of their project in a clear and accessible way.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: PROJ-0157
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Project Semester 2
+supplementary material: []

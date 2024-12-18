@@ -1,0 +1,33 @@
+author: B Lyng
+change: NEW
+co-ordinator: ''
+code: A10745
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to C++ for Games
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0669
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0669
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0669
+ref: A10745
+short name: Introduction to C++ for Games
+special regulations: null
+subgroup: Game Development
+tags:
+- all
+- autumn
+timetable: COMP-0669
+verified: true

@@ -1,0 +1,78 @@
+aim: This module will introduce the student to project management and time management
+  skills. The student will practice these skills through building an artifact based
+  on multiple strands/modules across the programme. This module will act as an opportunity
+  for the student to contextualise and link cross-strand concepts.
+assessment criteria:
+- <40%:Inability to develop a model and present a working artifact. Little evidence
+  of project management and time management throughout project.
+- 40%-49%:Ability to develop a model and present a working artifact. Reasonable evidence
+  of project management (e.g. Agile, Scrum) and time management throughout project.
+- 50%-59%:All the above and in addition has applied concepts from more than two modules/strands.
+  String evidence of the different phases through the project and how the different
+  techniques have benefited the project.
+- 60%-69%:All the above and in addition, be able to integrate and analyse concepts
+  from more than two and at least one past module, showing an ability to transfer
+  skills and knowledge across modules/strands. Shows evidence of strong project management
+  and time management and of how the project has benefitted from both.
+- 70%-100%:All previous to an excellent level. Shows the ability to evaluate different
+  models. Shows synthesis through the implementation of cross-strand innovative artifacts.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Project
+  weighting: 80
+- learning outcomes: 3,4,5
+  main: false
+  name: Project
+  weighting: 20
+basename: A11117_-_CaM_-_AutoAutoandIoT_-_Project_Semester_3
+co-requisites: []
+code: A11117
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Project Semester 3
+indicative content:
+- Project management, e.g. Agile, Scrum
+- Time Management tools
+- Communication and presentation of ideas in correct, clear and modern format
+- Agile Software Development Principles & Practices
+learning and teaching methods:
+- Combination of lectures and computer-based practical labs.
+- Cooperative learning/peer tutoring.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply knowledge, skills or practices from (at least two) strands in the programme
+  into a model that demonstrates an understanding of the core concepts of those strands.
+- Demonstrate the above model and present the resulting working artifact.
+- Use a modern project management paradigm, e.g. Agile, Scrum to plan and manage a
+  small to medium project, e.g. the development of the artefact above.
+- Use time-management strategies (including tools) integrated with the chosen project
+  management paradigm.
+- Describe the application of the chosen project management techniques in the development
+  of the artefact.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Project Semester 3
+supplementary material: []

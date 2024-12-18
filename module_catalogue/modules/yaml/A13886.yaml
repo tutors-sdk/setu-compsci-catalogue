@@ -1,0 +1,29 @@
+author: Diarmuid O'Connor
+change: ''
+co-ordinator: ''
+code: A13886
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Enterprise Web Development
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0484
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0484
+ref: A13886
+short name: Enterprise Web Development
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0484
+verified: false

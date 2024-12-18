@@ -1,0 +1,54 @@
+author: David Power
+change: ''
+co-ordinator: ''
+code: A13986
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Cloud Computing
+programmes:
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0625
+- programme: WD_KACCM_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0625
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0625
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0625
+- programme: WD_KCOMP_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0625
+- programme: WD_KDEVP_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0625
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0625
+ref: A13986
+short name: Intro to Cloud Computing
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0625
+verified: false

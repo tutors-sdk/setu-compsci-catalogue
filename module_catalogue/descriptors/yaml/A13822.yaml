@@ -1,0 +1,86 @@
+aim: This laboratory-based module provides a comprehensive study of model-based design
+  and development for dynamic, embedded control systems. Industry-standard interactive
+  model-based development tools are used to model, simulate, implement, and test a
+  variety of time-varying systems. A number of case studies related to intelligent
+  automotive control are examined.
+assessment criteria:
+- '<40%: Unable to define an abstract model for a specified system. Unable to use
+  modelling tools.'
+- '40%-49%: Define, model and simulate basic embedded solution. The work carried out
+  required a high level of supervision.'
+- '50%-59%: In addition to above, analyse specialised systems. Interpret simulation
+  test results and update model accordingly. Present results adequately.'
+- '60%-69%: In addition to above, has a high level of experimental skills and has
+  shown the ability to produce clear and logical analysis of assessment work.'
+- '70%-100%: All the previous to an excellent level. Can critically assess any experimental
+  work undertaken. Combine self-directed research of state-of-the-art model-based
+  design systems in assessment work.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 60
+basename: A13822_-_CaM_-_AutoAutoandIoT_-_Model-Based_Development
+co-requisites: []
+code: A13822
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Model-Based Development
+indicative content:
+- Model definition for dynamic control systems
+- Model in the Loop
+- Software in the Loop
+- Hardware in the Loop
+- Rapid Control Prototyping
+- Apply model-based construction and analysis of embedded software systems
+learning and teaching methods:
+- Combination of lectures and laboratory-based practical exercises.
+- 'Lectures will cover theoretical basis of key topics in model based design: Model
+  definition; feedback systems; ECU targeting and code generation.'
+- Laboratory-based practicals will combine topics covered in lectures to build, simulate
+  and deploy embedded software solutions using the model-based development approach.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Construct mathematical models for plant and controller systems.
+- Design and apply Model in the Loop(MIL), Software in the Loop(SIL) and Hardware
+  in the Loop(HIL) simulations.
+- Apply and simulate suitable feedback-based control algorithms using current tools
+  and techniques.
+- Produce code to target a specific microcontroller platform.
+- Apply the model-based development paradigm for continuous model refinement and re-verification.
+- Analyse embedded model designs and simulation results.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0433
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Model-Based Development
+supplementary material:
+- '"Model-Based Design." http://uk.mathworks.com/solutions/model-based-design/'

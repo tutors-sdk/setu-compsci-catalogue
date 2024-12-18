@@ -1,0 +1,38 @@
+author: Jimmy McGibney
+change: ''
+co-ordinator: ''
+code: A13740
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Secure Programming and Scripting
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROG-0083
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROG-0083
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: PROG-0083
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROG-0083
+ref: A13740
+short name: Secure Programming
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: PROG-0083
+verified: true

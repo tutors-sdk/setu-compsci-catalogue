@@ -1,0 +1,38 @@
+author: John Sheppard
+change: ''
+co-ordinator: ''
+code: A14022
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Security and Forensics
+programmes:
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0641
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0641
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0641
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0641
+ref: A14022
+short name: Intro to Security & Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0641
+verified: false

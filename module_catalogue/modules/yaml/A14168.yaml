@@ -1,0 +1,23 @@
+author: Eamonn de Leastar
+change: ''
+co-ordinator: ''
+code: A14168
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mobile Application Development - ICT
+programmes:
+- programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0523
+ref: A14168
+short name: Mobile App Development - ICT
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: COMP-0523
+verified: false

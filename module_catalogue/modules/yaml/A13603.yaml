@@ -1,0 +1,43 @@
+author: Brendan Jackman
+change: ''
+co-ordinator: ''
+code: A13603
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Digital Photography
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PHOT-0016
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PHOT-0016
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PHOT-0016
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PHOT-0016
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PHOT-0016
+ref: A13603
+short name: Digital Photography
+special regulations: null
+subgroup: Media Production
+tags:
+- spring
+- all
+timetable: PHOT-0016
+verified: true

@@ -1,0 +1,120 @@
+aim: This module introduces Computer Networking terminology, network protocols and
+  models. Students will use simulation and protocol analysis software to configure
+  network devices and explore various network protocol operations. A detailed examination
+  of TCP/IP, IP addressing and Ethernet is presented. A brief introduction to Routing,
+  Network management and Wireless LANs is also provided. Practical skills are an essential
+  part of this module.
+assessment criteria:
+- '<40%: Unable to describe the major functions and operation of a Computer Network.
+  Unable to describe and compare the OSI and TCP/IP models. Poor understanding of
+  the role of communications protocols in computer networks.'
+- '40%-49%: Can describe and compare the OSI and TCP/IP models. Can provide overview
+  of main computer network components and protocols.'
+- '50%-59%: All of the above. Can describe in detail the data encapsulation process.
+  Demonstrate an understanding of basic LAN implementation.'
+- '60%-69%: In addition, be able to recommend a network solution given an organisation''s
+  requirements.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 3,4,5,6
+  main: false
+  name: Practical
+  weighting: 60
+- learning outcomes: 1,2,3,4,5,6,7
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+basename: A11144_-_CaM_-_NetwandClou_-_Computer_Networks
+co-requisites: []
+code: A11144
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Cisco Network Academy." https://www.netacad.com/'
+full title: Computer Networks
+indicative content:
+- Introduction to Computer Networks and Protocols
+- OSI and TCP/IP models
+- Ethernet and VLANs
+- IPv4 Addressing and subnetting
+- IPv6
+- Routing
+- Transport Layer Protocols and Functionality
+- Application Layer Protocols and Functionality e.g. HTTP, FTP, DNS, SMTP
+- Wireless LANs
+- Network Management
+learning and teaching methods:
+- The practical lab component will be delivered in one double lab session.
+- There is a strong emphasis on practical, lab-based exercises.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Use network protocol models and tools to explain communications in data networks.
+- Describe in detail the major components, operation and functionality of a computer
+  network and commonly used protocols and services.
+- Construct an IPv4/IPv6 addressing design solution.
+- Build a simple network using routers and switches.
+- Use Cisco command line interface to perform basic router and switch configuration.
+- Implement a basic wireless network.
+- Describe basic computer network management concepts.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+  title: Bachelor of Science in Information Technology
+- null
+requested resources:
+- 'COMPUTER LAB: Networks Lab'
+short title: Computer Networks
+supplementary material:
+- 'Cisco, Networking. \emph{Network Basics, CCNA Routing & Switching Companion Guide}.
+  NY: Cisco Press, 2014.'
+- 'Tanenbaum, A. and D. Wetherall. \emph{Computer Networks}. 5th Ed. New York: Pearson
+  Education, 2013.'

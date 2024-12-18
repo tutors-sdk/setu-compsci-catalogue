@@ -1,0 +1,29 @@
+author: Brenda Mullally
+change: ''
+co-ordinator: ''
+code: A14502
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Mining
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: DATA-0015
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: DATA-0015
+ref: A14502
+short name: Data Mining
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+- autumn
+timetable: DATA-0015
+verified: true

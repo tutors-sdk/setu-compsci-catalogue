@@ -1,0 +1,43 @@
+author: School of Engineering
+change: ''
+co-ordinator: ''
+code: A29442
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Convergent Technologies
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: TECH-0048
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: TECH-0048
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: TECH-0048
+- programme: WD_KINTT_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: TECH-0048
+- programme: WD_KPHTE_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: TECH-0048
+ref: A29442
+short name: Int to Convergent Technologies
+special regulations: null
+subgroup: Engineering
+tags:
+- all
+- autumn
+timetable: TECH-0048
+verified: false

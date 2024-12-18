@@ -1,0 +1,88 @@
+aim: This module will introduce the student to the workplace from the point of view
+  of the psychology of managing both a group and oneself in a work situation.
+assessment criteria:
+- '<40%: Inability to recall the examined concepts of management and organisational
+  psychology.'
+- '40%-49%: Recognise and recall the examined concepts.'
+- '50%-59%: Show knowledge of and explain the examined management and organisational
+  psychology concepts using real life examples and referenced research.'
+- '60%-69%: In addition, be able to discuss and analyse the examined management and
+  organisational psychology concepts.'
+- '70%-100%: All previous to an excellent level, also showing the ability to evaluate,
+  generalise and reconstruct the material.'
+assessment methods:
+- learning outcomes: 1, 2, 3
+  main: true
+  name: Final Written Examination
+  weighting: 100
+basename: A07001_-_CaM_-_Huma_-_Management_Psychology
+co-requisites: []
+code: A07001
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Landy, F.J. and J.M. Conte. \emph{Work in the 21st Century. An Introduction to
+  Industrial and Organizational Psychology}. 4th ed. USA: Wiley, 2013.'
+full title: Management Psychology
+indicative content:
+- Introduction and overview to the academic discipline of management psychology
+- 'Organisational structure: systems, culture, commitment, organisational power and
+  politics, recruitment'
+- 'Group dynamics within the organisation: group formation and structure, leadership
+  and management, teams'
+- 'The individual within the organisation: individual differences, unemployment and
+  mental health, motivation, job satisfaction'
+- Learning and Training
+- New technology and job design
+learning and teaching methods:
+- Lectures will be the main delivery mode, supplemented by participative case studies
+  and independent reading on the issues covered in the lecture material.
+- Overall the course will be characterised by student participation in both classroom
+  activities and self-directed learning outside the classroom.
+learning modes:
+- full time: 48
+  name: Lecture
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Establish management complexities that can arise in a workplace.
+- Integrate a practical knowledge about oneself and about organisations and their
+  dynamics.
+- Evaluate human behaviour in the workplace.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+  title: Bachelor of Science (Honours) in Applied Computing
+- programme: WD_KCSDV_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+requested resources:
+- 'Lecture Room: Loose Seated'
+short title: Management Psychology
+supplementary material:
+- 'Anderson,, N.A., H.K. Sinangil and C. Viswesvaran. \emph{Handbook of Industrial,
+  Work and Organisational Psychology (Vols. 1 and 2)}. USA: Sage, 2001.'
+- 'Arnold, C. and R. Randall. \emph{Work Psychology}. 5th ed. England: Prentice Hall,
+  2010.'
+- 'Robbins, S.P. and T.A. Judge. \emph{Organizational Behavior}. 16th ed. USA: Pearson
+  Education, 2015.'

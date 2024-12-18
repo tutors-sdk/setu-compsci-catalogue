@@ -1,0 +1,199 @@
+basename: WD_KINTE_B_-_BSc_H_in_Information_Technology
+code: WD_KINTE_B
+dirty: false
+semesters:
+  1:
+    elective:
+    - assessments:
+        Final Project: 100
+      code: A14881
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Development)
+      part time: {}
+      status: E
+      timetable: PROJ-0166
+    - assessments:
+        Dissertation: 100
+      code: A14786
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Research)
+      part time: {}
+      status: E
+      timetable: PROJ-0167
+    mandatory:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13661
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Business Intelligence and Data Warehousing
+      part time: {}
+      status: M
+      timetable: COMP-0649
+    - assessments:
+        Continuous Assessment: 100
+      code: A32741
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Cloud Computing 1
+      part time: {}
+      status: M
+      timetable: COMP-0650
+    - assessments:
+        Continuous Assessment: 100
+      code: A11377
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Network and System Security
+      part time: {}
+      status: M
+      timetable: COMP-0651
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14844
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Project Management
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: PROJ-0168
+  2:
+    elective:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13425
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Business Intelligence Visualisation
+      part time: {}
+      status: E
+      timetable: COMP-0652
+    - assessments:
+        Continuous Assessment: 100
+      code: A13426
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Cloud Computing 2
+      part time: {}
+      status: E
+      timetable: COMP-0653
+    - assessments:
+        Continuous Assessment: 100
+      code: A14039
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 36
+        Lecture: 12
+      name: Computer Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0654
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13584
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Database Administration
+      part time: {}
+      status: E
+      timetable: COMP-0327
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14130
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: IT Operations Management
+      part time: {}
+      status: E
+      timetable: COMP-0655
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14025
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Knowledge Systems Engineering and the Semantic Web
+      part time: {}
+      status: E
+      timetable: COMP-0656
+    - assessments:
+        Final Project: 100
+      code: A14882
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 129
+        Tutorial: 6
+      name: Project 2 IT (Prototyping)
+      part time: {}
+      status: E
+      timetable: COMP-0657
+    - assessments:
+        Dissertation: 100
+      code: A14883
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 129
+        Tutorial: 6
+      name: Project 2 IT (Research)
+      part time: {}
+      status: E
+      timetable: COMP-0958
+    mandatory: []

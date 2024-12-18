@@ -1,0 +1,110 @@
+aim: Introduce the the student to the software development lifecycle via the implementation
+  of a simple but functional web application. In doing this, analyse & model a constrained
+  set of user requirements. Then design, build and deploy a simple web application.
+  Incorporate basic database, session support & server side rendering. Evolve this
+  understanding within a Services context. REST APIs (Representational State Transfer
+  Application Program Interface), with multiple service consumer forms will be considered,
+  including Single Page Apps (SPA) and other services. The principles and patterns
+  underpinning the design of both components (SPA and REST API ) will be examined
+  as well as the fine-grained aspects of the underlying communication protocol. Their
+  will be an emphasis on development, including the use of application frameworks,
+  workflow automation tools and cloud deployment platforms. The module?s scope will
+  also encompass security concerns and techniques.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of modern web app development.'
+- '40%-49%: Be able to interpret and describe key concepts of modern web app development.'
+- '50%-59%: Ability to demonstrate competency in the tool suite and the ability to
+  develop and deploy small-scale solutions.'
+- '60%-69%: Presents implemented solutions to medium-sized problems that demonstrate
+  a good understanding of the main patterns and practices of web app design.'
+- '70%-100%: All the above to an excellent level.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5,6,7
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 5,6,7,8,9,10,11
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14666_-_CaM_-_SoftandWebDeve_-_Web_App_Development
+co-requisites: []
+code: A14666
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Web App Development
+indicative content:
+- User Stories & Agile context
+- Introduction to Modelling
+- Hypertext Transfer Protocol (HTTP) Request/Response Life Cycle
+- Introductory Web Application Frameworks
+- Simple Object Relational Mapping tools
+- Test Driven Development
+- 'Fundamentals: Architecture patterns, HTTP (Hypertext Transfer Protocol) protocol,
+  Advanced Javascript'
+- API Design patterns and principles-- REST, CQRS (Command Query Responsibility Separation
+  ) Versioning, Security, Hypermedia, Realtime
+- SPA design patterns and principles -- MV* (Model View *), Flux, Caching, data synchronisation
+- Application Frameworks -- Web API, Single Page App, Isomorphic app
+- Developer tool suite -- API modeling DSL(Domain Specific Language) , Scaffolding,
+  workflow automation
+- 'Security principles related to web development: cryptography; authentication and
+  digital certificates'
+- Web application vulnerabilities; penetration testing
+- 'Web application protections: input & output validation; various authentication
+  techniques (e.g. cookies, OAuth, JWT, CSRF tokens); secure credential handling'
+learning and teaching methods:
+- Combination of lectures and computer-based practicals.
+learning modes:
+- full time: 48
+  name: Lecture
+  part time: ''
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 174
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Examine the key components of a server rendered web application and incorporate
+  them into a running application.
+- Use Model View Controller & related patterns in the implementation of a web project.
+- Relate the request/response lifecycle, routing & session management in the context
+  of a modern application framework.
+- Break down a set of requirements into a set of discrete stories and translate these
+  stories into a simple project plan with associated timeline and testing strategy.
+- Model the user requirements and realize the model in a simple database.
+- Apply best practice principles and patterns to the design and documentation of a
+  web API.
+- Apply best practice principles and patterns to the design of a medium-sized Single
+  Page Web App.
+- Develop an end-to-end web app that supports session management and persistence for
+  a constrained functional requirement set.
+- Demonstrate specific security problems that can arise with web applications and
+  how to address them.
+- Compare and contrast alternative approaches to authentication in both enterprise
+  and consumer-oriented web applications.
+- Use a selection of best security practices in a web application.
+level: Intermediate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0961
+  title: Higher Diploma in Science in Computer Science
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Web App Development
+supplementary material:
+- 'Holmes, S. \emph{Getting MEAN with Mongo, Express, Angular, and Node}. New York:
+  Manning, 2015.'
+- 'Richardson, L. \emph{RESTful Web APIs}. New York: O''Rielly, 2015.'

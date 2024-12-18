@@ -1,0 +1,110 @@
+aim: This module will equip the student with the knowledge required to comprehend
+  the architecture of a modern, distributed, service-oriented application and the
+  skills to develop same for a constrained set of requirements. The non-functional
+  requirements of a cloud-native application, namely, resilience, fault tolerance
+  and responsiveness will be considered using a mixture of patterns, libraries and
+  middleware technology. The student will gain experience in deploying to a lightweight
+  container-based cloud platform and have the skills to configure an appropriate load
+  balancing strategy.
+assessment criteria:
+- '<40%: Unable to interpret and apply key concepts of Distributed Systems architecture.'
+- '40%-49%: Be able to interpret and apply key concepts of of Distributed Systems
+  architecture.'
+- '50%-59%: Ability to demonstrate compatancy in the tool suite and the ability to
+  develop and delpy small-scale solutions.'
+- '60%-69%: Presents implemented solutions to medium-sized problems that demonstrate
+  a good understanding of the main patterns and practices of Distributed Systems design.'
+- '70%-100%: All of the above to a excellent standard.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Project
+  weighting: 70
+- learning outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 30
+basename: A13725_-_CaM_-_SoftandWebDeve_-_Distributed_Systems
+co-requisites: []
+code: A13725
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Distributed Systems
+indicative content:
+- 'Fundamentals: Interprocess communication; Promises; Non-blocking I/O, Thread pooling'
+- 'Application architecture: Layered; Microservice'
+- 'Middleware services: Messaging; Caching'
+- 'Application Resilience: Availability; Stability patterns'
+- Failure isoation and recovery
+- Containerization
+- Reactive communication first principles
+learning and teaching methods:
+- Combination of lectures and computer-based practicals.
+- The lectures will cover the theory and supporting technologies behind distributed
+  systems development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure to the frameworks, tools and practical skills required to develop and build
+  distributed systems.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the state-of-the-art for distributed
+  systems development.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Lab
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Design, develop and deploy a scalable, distributed application for a constrained
+  requirements set.
+- Choose appropriate middle-ware technology to improve responsiveness.
+- Maximize an application's resilience and fault tolerance utilizing core patterns
+  and practices.
+- Evaluate and configure an appropriate load balance strategy.
+- Choose and configure an appropriate workflow automation tool suite.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+  title: Bachelor of Science (Honours) in Applied Computing
+- programme: WD_KCSDV_B
+  semester: 2
+  stage: 4
+  status: M
+  timetable: COMP-0614
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Distributed Systems
+supplementary material:
+- 'Newman, S. \emph{Building Microservices - Designing Fine-Grained Systems}. O''Reilly
+  Media: O''Reilly Media, 2014.'

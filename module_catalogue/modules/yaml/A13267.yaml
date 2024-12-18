@@ -1,0 +1,48 @@
+author: Mary Clarke
+change: ''
+co-ordinator: ''
+code: A13267
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Communications Skills
+programmes:
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+- programme: WD_KCOMP_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+- programme: WD_KCRCO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+- programme: WD_KDEVP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+ref: A13267
+short name: Communications Skills
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: COMS-0012
+verified: true

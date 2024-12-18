@@ -1,0 +1,23 @@
+author: Jimmy McGibney
+change: ''
+co-ordinator: ''
+code: A13744
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Security and Forensics
+programmes:
+- programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0620
+ref: A13744
+short name: Security and Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0620
+verified: true

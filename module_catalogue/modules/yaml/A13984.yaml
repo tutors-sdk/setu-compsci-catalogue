@@ -1,0 +1,29 @@
+author: Kieran Murphy
+change: ''
+co-ordinator: ''
+code: A13984
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Graph Theory and Optimisation
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0302
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0302
+ref: A13984
+short name: Graph Theory and Optimisation
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0302
+verified: false

@@ -1,0 +1,80 @@
+aim: This module provides the foundation for advanced animation construction and integration
+  with external media, as well as techniques to automate and optimize development
+  processes. Students will learn advanced rigging and animation techniques such as
+  Facial Animation, Visual Effects and Motion Capture. In addition, students will
+  be introduced to productivity, management and optimization techniques using asset
+  management services, scripting and expressions.
+assessment criteria:
+- '<40%: Unable to interpret and implement fundamental concepts and practices for
+  advanced animation and customized tool development.'
+- '40%-49%: Be able to interpret and implement fundamental concepts and practices
+  for advanced animation and customized tool development.'
+- '50%-59%: Ability to interpret and implement concepts and pipeline services that
+  integrate relevant 3D Assets across a range of transmedia platforms.'
+- '60%-69%: Be able to analyse, manage and design solutions to a high standard for
+  a range of both complex and unforeseen problems through the use and modification
+  of appropriate asset management skills and tools.'
+- '70%-100%: All the above to an excellent level.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A13944_-_CaM_-_GrapDesiandAnim_-_3D_Animation_and_Transmedia
+co-requisites: []
+code: A13944
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Gould, D. \emph{Complete Maya Programming: An Extensive Guide to MEL and C++ API}.
+  1st ed.. US: Morgan Kaufmann, 2003.'
+full title: 3D Animation and Transmedia
+indicative content:
+- Structured programming to address 3D modelling, animation and customization practice
+- Animation techniques for Motion Capture, Facial Animation and Lip Synching
+- 3D animation production asset management
+- Visual effects (VFX) - incorporate physics elements into animation production
+- 'Integration of 3D Animated assets across multiple media sectors: TV, Gaming, Engineering
+  and Corporate'
+learning and teaching methods:
+- Lectures.
+- Practicals.
+- Independent learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise key facial rigging techniques.
+- Evaluate and apply motion capture techniques for CGI use.
+- Assess the practical principles of VFX integration with animated CGI scenes.
+- Evaluate the principles and practice of automated modelling, animation and customized
+  techniques using scripting and computational expressions.
+- Critique the principles of asset, environment and timeline management for 3d animation
+  transmedia projects.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0634
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: 3D Animation & Transmedia
+supplementary material: []

@@ -1,0 +1,83 @@
+aim: This module looks at the lighting and rendering components of the 3D digital
+  animation pipeline. The module will encompass materials editing, lighting and shadows,
+  and rendering using an industry-standard rendering engine. Students will have the
+  opportunity to explore advanced techniques and effects that may be used to light
+  and render complex 3D scenes and, using pre-existing scene assets, and to produce
+  a photo-realistic and production-quality rendered scene.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domain(s).'
+- '40%-49%: Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).'
+- '50%-59%: Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 3,4,5
+  main: false
+  name: Project
+  weighting: 60
+basename: A11565_-_CaM_-_GrapDesiandAnim_-_3D_Lighting_and_Rendering
+co-requisites: []
+code: A11565
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Lanier, J. \emph{Advanced Maya Texturing and Lighting}. New York: Sybex, 2015.'
+full title: 3D Lighting and Rendering
+indicative content:
+- Principles of light and colour
+- Materials and Maps
+- 3D lighting including standard, photometric, and HDRI lighting
+- Shadows
+- Rendering including indirect and global illumination
+- Effects including lens and camera shaders
+learning and teaching methods:
+- Interactive and open-forum lectures.
+- Class discussions and presentations.
+- Problem-based learning activities.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise approaches to managing and creating materials used in 3D rendering.
+- Compare standard, photometric and HDRI lighting assemblies.
+- Evaluate, in terms of optimisation, techniques used to render shadows in 3D animation.
+- Create camera and lens effects in a pre-existing 3D scene.
+- Integrate lighting and rendering techniques to manage the production of a short
+  animated scene.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: COMP-0631
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: 3D Lighting and Rendering
+supplementary material:
+- 'Palamar, T. \emph{Mastering Autodesk Maya}. New York: Sybex, 2016.'

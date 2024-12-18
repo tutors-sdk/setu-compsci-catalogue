@@ -1,0 +1,24 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14102
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Information Systems and International Development
+programmes:
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0289
+ref: A14102
+short name: IS & International Development
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0289
+verified: true

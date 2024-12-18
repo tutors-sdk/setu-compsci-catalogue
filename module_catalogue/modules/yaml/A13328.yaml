@@ -1,0 +1,38 @@
+author: Brendan Lyng
+change: ''
+co-ordinator: ''
+code: A13328
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Integrated Marketing
+programmes:
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: E
+  timetable: MARK-0193
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: MARK-0193
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: MARK-0193
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: M
+  timetable: MARK-0193
+ref: A13328
+short name: Integrated Marketing
+special regulations: null
+subgroup: Business
+tags:
+- spring
+- all
+timetable: MARK-0193
+verified: false

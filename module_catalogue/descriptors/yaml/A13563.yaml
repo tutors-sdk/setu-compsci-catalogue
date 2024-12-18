@@ -1,0 +1,104 @@
+aim: This module builds on an undergraduate-level software development knowledge base,
+  the central focus of the module is to broaden the design vocabulary of the student
+  to incorporate best practice in object oriented software development. The module
+  will revisit core design principles and frame these in the context of design patterns.
+  A set of patterns are examined in detail, both in isolation and in the context of
+  integrated applications. Particular attention is paid to relating patterns and assessing
+  design tradeoffs . Alternative Pattern classifications are examined. The role of
+  refactoring in is examined and pattern-based refactoring techniques are presented.
+  Broader software architectural issues are explored and attention is given to relating
+  the scope of architectural styles to the design pattern literature.
+assessment criteria:
+- '<40%: Inability to recognise and use any design patterns. Unable to implement applications
+  using design patterns.'
+- '40%-59%: Able to recognise and use design patterns to a moderate degree. Able to
+  implement a substantial application consulting a catalogue of design patterns.'
+- '60%-69%: Able to recognise, comprehend and apply varying design patterns to a high
+  degree. Able to implement a complex application using a range of design patterns
+  from multiple sources.'
+- '70%-100%: All of the above to an excellent level. Demonstrates advanced utilisation
+  of patterns and architectural thinking.'
+assessment methods:
+- learning outcomes: 3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 1,2,3
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13563_-_CaM_-_SoftandWebDeve_-_Design_Patterns
+co-requisites: []
+code: A13563
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Design Patterns
+indicative content:
+- Review of Design Principles (SOLID)
+- 'Refactoring: Code smells; named refactorings and the role of Test Driven Development
+  (TDD)'
+- 'Creational Patterns: Singleton; Factory; Prototype'
+- 'Behavioural Patterns: Command; Observer; Strategy; Template Method; State; Iterator;
+  Chain of Responsibility'
+- 'Structural Patterns: Facade; Proxy; Bridge; Composite; Adapter'
+- 'Pattern Based Refactoring: Refactoring towards and away from specific patterns'
+- POSA patterns
+- Architectural Styles and Architectural viewpoints
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- The lectures will be used to introduce new topics and their related concepts.
+- A cooperative learning/peer tutoring (i.e. problem solving / class discussion) approach
+  will be adopted during the sessions.
+- Self-directed learning will be encouraged throughout the duration of the module.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Critique core design principles and assess the quality of a design with respect
+  to these principles.
+- Integrate these core principles in the design of object oriented systems.
+- Evaluate a range of design patterns and comprehend a design presented using this
+  vocabulary.
+- Recommend and intergrate refactoring techniques in the context of design patterns.
+- Appraise the broader scope addressed by Architectural Styles and relate design patterns
+  to these styles.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0056
+  title: Master of Science in Computing (Information Systems Processes)
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Design Patterns
+supplementary material:
+- 'Gamma, E., R. Helm, R. Johnson and J. Vlissides. \emph{Design Patterns}. New York:
+  Addison-Wesley, 1994.'
+- 'Holub, A. \emph{Holub on Patterns}. New York: APress, 2005.'
+- 'Kerievsky, J. \emph{Refactoring to Patterns}. New York: Addison-Wesley, 2004.'
+- 'Martin, R.C. \emph{Agile Software Development, Principles, Patterns, and Practices}.
+  New York: Prentice Hall, 2002.'
+- 'Martin, R.C. \emph{The Clean Coder: A Code of Conduct for Professional Programmers}.
+  1st ed.. New York: Prentice Hall, 2011.'
+- 'Martin, R.C. and M. Martin. \emph{Agile Principles, Patterns, and Practices in
+  C#.}. NJ: Pearson Education, 2007.'
+- 'Osmani, A. \emph{Learning JavaScript Design Patterns}. New York: O''Reilly, 2015.'

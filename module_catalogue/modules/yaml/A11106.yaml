@@ -1,0 +1,43 @@
+author: Brenda Mullally
+change: ''
+co-ordinator: ''
+code: A11106
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Relational Databases
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+- programme: WD_KACCM_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+ref: A11106
+short name: Relational Databases
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- all
+- autumn
+timetable: COMP-0638
+verified: true

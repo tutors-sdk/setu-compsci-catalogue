@@ -1,0 +1,91 @@
+aim: This module is concerned with the authoring of instructionally sound, accessible
+  eLearning for different platforms. This can, for example, be a single part of a
+  course, or all of a course whether it is in an academic environment, part of mandatory
+  business training or a full distance learning course.
+assessment criteria:
+- <40%:Unable to interpret and describe key concepts of the eLearning.
+- 40%-49%:Be able to interpret and describe key concepts of the eLearning.
+- 50%-59%:Ability to discuss key concepts of eLearning and ability to discover and
+  integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve problems within eLearning by experimenting with the appropriate
+  skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13546_-_CaM_-_MediProd_-_eLearning
+co-requisites: []
+code: A13546
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Clark, R. and R. Mayer. \emph{e-Learning and the Science of Instruction: Proven
+  Guidelines for Consumers and Designers of Multimedia Learning}. 3rd ed.. United
+  Stated of America: Pfeiffer, 2011.'
+full title: eLearning
+indicative content:
+- Design and Authoring of eLearning
+- Needs and Task Analysis
+- Organising Instruction
+- Learning Environments
+- Using Standards and Guidelines
+- Creating, Testing and Validation of Accessible Web Sites
+learning and teaching methods:
+- This module will be delivered using 2 hours of computer-based Lectures, along with
+  2 hour of computer-based Practicals each week.
+- The Lectures will introduce new concepts and theory relating to eLearning. The practicals
+  will allow the students to design and develop eLearning content using industry standard
+  eLearning software.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Evaluate and critique the suitability of eLearning Authoring Tools.
+- Design organised instruction and develop learning environments using Instructional
+  Design Guidelines.
+- Prepare needs and task analysis.
+- Substantiate the creation, testing and validation of accessible user interfaces
+  using guidelines and standards.
+- Develop a computer based, accessible learning environment.
+level: Advanced
+pre-requisites:
+- Instructional Design
+programmes:
+- null
+- dirty: true
+  programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0636
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: eLearning
+supplementary material:
+- 'Horton, W. \emph{E-Learning by Design}. 2nd ed.. United States of America: Pfeiffer,
+  2011.'

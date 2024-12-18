@@ -1,0 +1,24 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A22543
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Applied Biomechanics
+programmes:
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: SPRT-0801
+- null
+ref: A22543
+short name: Applied Biomechanics
+special regulations: null
+subgroup: Sports Technology
+tags:
+- spring
+- all
+timetable: SPRT-0801
+verified: false

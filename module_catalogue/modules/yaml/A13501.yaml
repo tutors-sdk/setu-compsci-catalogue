@@ -1,0 +1,38 @@
+author: Ann Vereker
+change: ''
+co-ordinator: ''
+code: A13501
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mathematics Fundamentals
+programmes:
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+- programme: WD_KCOMP_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+- programme: WD_KDEVP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+ref: A13501
+short name: Mathematics Fundamentals
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: MTHS-0051
+verified: true

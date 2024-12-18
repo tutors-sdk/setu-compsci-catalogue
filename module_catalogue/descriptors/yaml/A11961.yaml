@@ -1,0 +1,113 @@
+aim: Embedded Systems Scripting module introduces the learner to the Linux operating
+  system, commonly used command sets, bash shell scripting and a scripting language
+  such as Python. The module will cover Python program syntax from the basic to the
+  advanced to enable the learner design and develop complex scripts.
+assessment criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Practical
+  weighting: 80
+- learning outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+basename: A11961_-_CaM_-_SoftandWebDeve_-_Embedded_Systems_Scripting
+co-requisites: []
+code: A11961
+credits: 5
+department: Engineering Technology
+dirty: false
+essential material:
+- 'Lutz, M. \emph{Learning Python}. 5th. Sebastopol, CA: O''Reilly Media, 2013.'
+- 'McGrath, M. \emph{Linux in easy steps}. 5th. England: In Easy Steps, 2010.'
+full title: Embedded Systems Scripting
+indicative content:
+- Introduction to Linux - Use of the command line, Customising the shell, File and
+  directory management, Basic text editing, Useful commands and utilities, Text processing
+- Introduction to Bash Shell Scripting - Basic bash script syntax, Variables, Conditionals,
+  Loops, Shell commands
+- Variables and Data Types
+- Lists
+- Basic Operators
+- String Formatting
+- Flow of Control
+- Loops
+- Functions
+- Classes and Objects
+- Dictionaries
+- Modules and Packages
+- Advanced Functionality - Generators, Decorators, Regular Expressions, Exception
+  Handling, Sets, Serialisation, Partial Functions, Code Introspection, Closures
+learning and teaching methods:
+- This course will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment
+- The lectures will be used to introduce new topics and their related concepts
+- The emphasis on course delivery will be hands-on, problem solving both individually
+  and in small class groups using problem based worksheets during the practical sessions
+- Self-directed learning will be encouraged throughout the duration of the module
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Use the command shell to administer a Unix-like operating system, including basic
+  shell commands, the Unix manual, and a text editor
+- Write short shell scripts to automate simple repetitive and scheduled tasks
+- Design complex scripts in a scripting language such as Python
+- Develop complex scripts in a scripting language such as Python
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_EAUTO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: ''
+  title: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+- null
+- programme: WD_EONIC_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: DASA-0001
+  title: Bachelor of Engineering (Honours) in Electronic Engineering
+- null
+- null
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Embedded Systems Scripting
+supplementary material:
+- 'McGrath, M. \emph{Python in easy steps}. England: In Easy Steps, 2013.'
+- 'Shaw, Z. \emph{Learn Python the hard way}. 3rd. Crawsville, Indiana: Addison Wesley,
+  2013.'

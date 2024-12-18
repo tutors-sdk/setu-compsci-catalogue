@@ -1,0 +1,119 @@
+aim: This module follows on from Computer Systems 1 and focuses mostly on operating
+  systems. Topics covered include core operating system functions such as process,
+  memory and file management as well as an introduction to distributed systems and
+  virtualisation. As with Computer Systems 1, there is an emphasis on practical, lab-based
+  exercises with command line tools and some scripting.
+assessment criteria:
+- <40%:Unable to describe operating system concepts. Unable to use command line utilities
+  of an OS. Unable to write a basic effective script to demonstrate automation of
+  a configuration task.
+- 40%-49%:Can describe operating system concepts. Can configure an OS and deploy an
+  application. Can use basic command line utilities and write a script to demonstrate
+  automation.
+- 50%-59%:All of the above. Can describe concepts in more depth. Additionally can
+  write a script to automate a non-trivial task.
+- 60%-69%:In addition, can carry out more advanced configuration and scripting tasks.
+- '70%-100%: All the above to an excellent level. In addition can research and execute
+  previously unseen configuration and scripting tasks independently.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+basename: A11062_-_CaM_-_NetwandClou_-_Computer_Systems_2
+co-requisites: []
+code: A11062
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Computer Systems 2
+indicative content:
+- 'Operating system structure: components, services and utilities'
+- Process Management
+- File management
+- Memory management
+- Virtualisation
+- Basic concepts of networks and distributed systems
+learning and teaching methods:
+- There is a strong emphasis on practical, lab-based exercises.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Describe the memory management, process management and file management components
+  of a modern operating system.
+- Explain basic concepts and theory of networked operating systems and virtualisation.
+- Configure a contemporary operating system (within a virtual machine environment),
+  integrating the services necessary to support basic two/three tier applications,
+  and demonstrating their operation with a small application.
+- Demonstrate competency in a limited set of utilities provided by a contemporary
+  operating system.
+- Complete basic automation tasks using scripting.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+  title: Bachelor of Science in Software Systems Development
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+  title: Bachelor of Science in Information Technology
+- null
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+- 'Room Type: Computer Lab'
+short title: Computer Systems 2
+supplementary material:
+- 'Forouzan, B. \emph{Foundations of Computer Science}. New York: Cengage Learning,
+  2013.'
+- 'Siberschataz, A., P. Galvin and G. Gagne. \emph{Operating Systems Concepts}. 9th
+  Ed. NY: Wiley, 2013.'
+- 'Stallings, W. \emph{Operating Systems: Internals and Design Principles}. 8th Ed.
+  NY: Pearson, 2014.'

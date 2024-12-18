@@ -1,0 +1,174 @@
+basename: WD_KDAAN_G_-_HDip_in_Science_in_Data_Analytics
+code: WD_KDAAN_G
+dirty: false
+semesters:
+  1:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A30241
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Data Ethics
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ''
+    - assessments:
+        Continuous Assessment: 100
+      code: A36101
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Database Design and Implementation
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: COMP-0621
+    - assessments:
+        Continuous Assessment: 100
+      code: A33601
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Introduction to Applied Statistics
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ''
+  2:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13425
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Business Intelligence Visualisation
+      part time: {}
+      status: M
+      timetable: COMP-0652
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A35482
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Data Analysis 1
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ''
+    - assessments:
+        Continuous Assessment: 100
+      code: A36201
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Data Security
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ''
+  3:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A36141
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Advanced NoSQL Databases
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: ''
+    - assessments:
+        Continuous Assessment: 100
+      code: A35483
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Data Analysis 2
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ''
+  4:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A33701
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Building Data Science Models
+      part time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      status: M
+      timetable: ''
+    - assessments:
+        Final Project: 100
+      code: A35501
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 264
+        Tutorial: 6
+      name: Data Analytics Project
+      part time:
+        Independent Learning: 264
+        Tutorial: 6
+      status: M
+      timetable: ''

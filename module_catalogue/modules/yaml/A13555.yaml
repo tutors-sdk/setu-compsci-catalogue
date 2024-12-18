@@ -1,0 +1,28 @@
+author: Frank Leonard
+change: ''
+co-ordinator: ''
+code: A13555
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Visualisation
+programmes:
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0629
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0629
+ref: A13555
+short name: Data Visualisation
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: COMP-0629
+verified: true

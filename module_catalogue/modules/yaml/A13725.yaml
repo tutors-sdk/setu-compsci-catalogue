@@ -1,0 +1,60 @@
+author: Diarmuid O'Connor
+change: ''
+co-ordinator: ''
+code: A13725
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Distributed Systems
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+- programme: WD_KACCM_BI
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0614
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+- programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0562
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0614
+- programme: WD_KDEVP_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0614
+- programme: WD_KSOFP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0614
+ref: A13725
+short name: Distributed Systems
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0562
+verified: false

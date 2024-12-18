@@ -1,0 +1,31 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A17663
+dirty: false
+external: false
+group: Computing and Mathematics
+name: French Upper Intermediate 2 (B2.1b)
+programmes:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: FREN-0072
+- null
+ref: A17663
+short name: French Up. Interm. 2 (B2.1b)
+special regulations: null
+subgroup: Humanities
+tags:
+- spring
+- all
+timetable: FREN-0072
+verified: false

@@ -1,0 +1,33 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A13822
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Model-Based Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0433
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0433
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0433
+ref: A13822
+short name: Model-Based Development
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- all
+- autumn
+timetable: COMP-0433
+verified: false

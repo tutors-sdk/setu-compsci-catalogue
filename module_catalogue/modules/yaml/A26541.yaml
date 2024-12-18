@@ -1,0 +1,24 @@
+author: Jimmy McGibney
+change: ''
+co-ordinator: ''
+code: A26541
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Information Security
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0973
+ref: A26541
+short name: Info Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0973
+verified: false

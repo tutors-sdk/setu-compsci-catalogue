@@ -1,0 +1,78 @@
+aim: The purpose of this module is to give a student the practical knowledge to prepare
+  3D Model and audio digital assets for use in rendered 3D animated scenes and to
+  be able to appreciate the theory and practice of 3D animation techniques.
+assessment criteria:
+- '<40%: Unable to interpret and apply the key concepts of Character Rigging and Lassiter''s
+  3D Animation Principles.'
+- '40%-49%: Be able to interpret and apply the key concepts of Character Rigging and
+  Lassiter''s 3D Animation Principles.'
+- '50%-59%: Ability to discuss key concepts of the rigging and animation principles
+  and ability to integrate related knowledge into the animation pipeline.'
+- '60%-69%: Be able to solve problems within the targeted animation pipeline field
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Continuous Assessment
+  weighting: 70
+- learning outcomes: 1,2,3
+  main: false
+  name: Portfolio
+  weighting: 70
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Final Project
+  weighting: 30
+basename: A13941_-_CaM_-_GrapDesiandAnim_-_3D_Animation_Practice
+co-requisites: []
+code: A13941
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Naas, P. \emph{Autodesk Maya 2014 Essentials}. UK: Wiley, 2014.'
+full title: 3D Animation Practice
+indicative content:
+- Rigging and Skinning 3D assets
+- Real-time polygon mesh textured rendering
+- Inverse Kinematics and motion analysis
+- Principles of Animation
+- 'Audio: adding soundtracks to scenes'
+learning and teaching methods:
+- Lectures.
+- Practicals.
+- Independent learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Design, manage and produce short key-framed 3D Animations.
+- Apply the key principles of animation to 3D assets and scene.
+- Prepare a computer generated character for animation.
+- Integrate audio assets within a 3D animated scene.
+- Demonstrate the rendering process needed to create a sequence of images.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0965
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: 3D Animation Practice
+supplementary material: []

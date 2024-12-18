@@ -1,0 +1,100 @@
+aim: This module introduces students to the basic concepts in matrices, linear and
+  non linear functions, sequences and series and logic. Practical labs will act as
+  a support as students will perform relevant calculations and construct relevant
+  graphs.
+assessment criteria:
+- '<40%: Unable to interpret and describe key mathematical concepts.'
+- '40%-49%: Be able to interpret and describe key mathematical concepts.'
+- '50%-59%: Ability to discuss key mathematical concepts and ability to discover and
+  integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve mathematical problems using appropriate skills and software
+  tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate mathematical skills and tools.'
+assessment methods:
+- learning outcomes: 3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: 1,2,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+- learning outcomes: 6,7
+  main: false
+  name: Practical
+  weighting: 25
+basename: A13501_-_CaM_-_MathandPhys_-_Mathematics_Fundamentals
+co-requisites: []
+code: A13501
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Mathematics Fundamentals
+indicative content:
+- 'Matrices: Matrix operations; Solving linear equations using the inverse method'
+- 'Linear Functions: Slopes; Intercepts; Plotting lines'
+- 'Exponential & Logarithmic Functions: Properties; Rules of indices & logs; Graphs'
+- 'Sequences & Series: Arithmetic; Geometric; Limits'
+- 'Logic: Logical operators & truth tables'
+learning and teaching methods:
+- The lectures will be used to present the mathematical material.
+- In tutorials students will solve problems which will be based on material covered
+  in the lectures.
+- In practicals students will perform calculations by using built in functions along
+  with creating their own formulae.
+- Students will also use graphing tools to explore the properties of functions.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 12
+  name: Tutorial
+  part time: 6
+- full time: 12
+  name: Practical
+  part time: 6
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Manipulate 2D matrix operations.
+- Solve equations using matrices and the inverse method.
+- Utilise the rules of indices and logs to simplify expressions and to solve equations.
+- Construct appropriate sequences, series and limits calculations.
+- Construct truth tables by using logical operators.
+- Use industry based software to perform mathematical calculations.
+- Construct linear and non linear graphs using suitable software.
+level: Introductory
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MTHS-0051
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Mathematics Fundamentals
+supplementary material:
+- '"https://moodle.wit.ie." https://moodle.wit.ie'
+- 'Lipschutz, S. \emph{Essential Computer Mathematics}. New York: Graw-Hill, 1982.'
+- 'Morgan, G. and S. O'' Neill. \emph{Essential Computer Applications}. 4th Edition.
+  Dublin: Gill & Macmillan, 2007.'

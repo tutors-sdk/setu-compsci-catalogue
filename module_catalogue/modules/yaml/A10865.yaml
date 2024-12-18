@@ -1,0 +1,33 @@
+author: P Felicia
+change: MINOR
+co-ordinator: ''
+code: A10865
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to 3D Game Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0647
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0647
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0647
+ref: A10865
+short name: Intro to 3D Game Development
+special regulations: null
+subgroup: Game Development
+tags:
+- spring
+- all
+timetable: COMP-0647
+verified: true

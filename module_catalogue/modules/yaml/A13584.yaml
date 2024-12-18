@@ -1,0 +1,28 @@
+author: TJ McDonald
+change: ''
+co-ordinator: ''
+code: A13584
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Database Administration
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0327
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0327
+ref: A13584
+short name: Database Administration
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: COMP-0327
+verified: true

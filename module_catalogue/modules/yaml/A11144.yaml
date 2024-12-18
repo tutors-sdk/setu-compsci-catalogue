@@ -1,0 +1,73 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A11144
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Networks
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KACCM_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0606
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KCOMP_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0606
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KDEVP_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0606
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0637
+- programme: WD_KINTT_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0606
+ref: A11144
+short name: Computer Networks
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- all
+- autumn
+timetable: COMP-0637
+verified: false

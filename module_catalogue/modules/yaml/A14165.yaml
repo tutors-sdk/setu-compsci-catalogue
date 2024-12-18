@@ -1,0 +1,28 @@
+author: Sinead O'Riordan
+change: ''
+co-ordinator: ''
+code: A14165
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Pipeline Design Concepts
+programmes:
+- programme: WD_KCRCO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0589
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0589
+ref: A14165
+short name: Pipeline Design Concepts
+special regulations: null
+subgroup: Media Production
+tags:
+- spring
+- all
+timetable: COMP-0589
+verified: false

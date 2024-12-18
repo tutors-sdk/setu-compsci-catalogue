@@ -1,0 +1,102 @@
+aim: The student will be introduced to the fundamental concepts and techniques of
+  Data Mining. The student will learn the data mining process and experience the steps
+  involved; including data pre-processing, modelling, optimisation, result interpretation
+  and validation. The student will learn and apply an appropriate methodology, tool
+  or technology to datasets that support business intelligence applications.
+assessment criteria:
+- '<40%: Unable to describe and apply key concepts of the data mining process.'
+- '40%-59%: Ability to discuss key concepts of the data mining process and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve data mining problems by applying each step in the data
+  mining process.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 2,4,5,6
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 2,4,5,6
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 1,2,3,4,5,6
+  main: false
+  name: Participation
+  weighting: 10
+basename: A14502_-_CaM_-_DataandAnal_-_Data_Mining
+co-requisites: []
+code: A14502
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Mining
+indicative content:
+- Introduction to Data Mining; Classification, Prediction, Clustering
+- Introduction to Data Mining Process
+- 'Pre-processing: data gathering, wrangling, and transformation'
+- Model building, optimization and evaluation
+- Result analysis, validation, deployment
+- Use of data mining tools
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The student will apply typical methods of Data Mining to data sets provided.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Categorise between typical fundamental Data Mining problems.
+- Appraise the concepts and fundamentals of Classification, Prediction and Clustering
+  and their solution techniques.
+- Assess the Data Mining Process and all of its steps.
+- Justify the use of appropriate tools and techniques for each stage of the Data Mining
+  Process.
+- Evaluate, interpret and utilize results obtained at each step of the Data Mining
+  Process.
+- Prepare an appropriate visual representation of the date mining findings.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: DATA-0015
+  title: Master of Science in Computing (Information Systems Processes)
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Mining
+supplementary material:
+- 'Han, Jiawei., Michelle. Kamber and Jian. Pei. \emph{Data Mining, Concepts and Techniques}.
+  NY: Morgan Kaufmann, 2011.'
+- 'James, G., D. Witten, T. Hastie and R. Tibshirani. \emph{An Introduction to Statistical
+  Learning, with Applications in R.}. NY: Springer, 2013.'
+- 'Leskovec, J., A. Rajaraman and J. Ulman. \emph{Mining of Massive Datasets}. NY:
+  Cambridge University, 2014.'
+- 'Tan, Pang-Ning, Michael Steinbach and Vipin Kumar. \emph{Introduction to Data Mining}.
+  NY: Addison-Wesley, 2006.'
+- 'Witten, I., E. Frank and M. Hall. \emph{Data Mining, Practical Machine Learning
+  Tools and Techniques}. NY: Elsevier, 2011.'

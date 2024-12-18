@@ -1,0 +1,53 @@
+author: Jimmy McGibney
+change: ''
+co-ordinator: ''
+code: A11377
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Network and System Security
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0672
+- programme: WD_KACCM_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0651
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0672
+- programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0672
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0672
+- programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0651
+- programme: WD_KITMA_B
+  semester: 7
+  stage: 1
+  status: M
+  timetable: COMP-0672
+ref: A11377
+short name: Network and System Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- all
+- autumn
+timetable: COMP-0672
+verified: true

@@ -1,0 +1,39 @@
+author: Ruth Barry
+change: ''
+co-ordinator: ''
+code: A13425
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Business Intelligence Visualisation
+programmes:
+- null
+- programme: WD_KDAAN_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0652
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0652
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0652
+- programme: WD_SAFICT_G
+  semester: 4
+  stage: 6
+  status: M
+  timetable: COMP-0652
+ref: A13425
+short name: BI Visualisation
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: COMP-0652
+verified: true

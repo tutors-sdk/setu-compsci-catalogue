@@ -1,0 +1,27 @@
+author: School of Humanities
+change: ''
+co-ordinator: ''
+code: A15028
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Cognition and Perception
+programmes:
+- null
+- null
+- null
+- null
+- programme: WD_KDEVP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PSYC-0105
+ref: A15028
+short name: Intro to Cog & Per
+special regulations: null
+subgroup: Humanities
+tags:
+- all
+- autumn
+timetable: PSYC-0105
+verified: false

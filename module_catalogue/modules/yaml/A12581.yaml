@@ -1,0 +1,33 @@
+author: K Murphy
+change: NEW
+co-ordinator: ''
+code: A12581
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mobile Game Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0671
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0671
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0671
+ref: A12581
+short name: Mobile Game Development
+special regulations: null
+subgroup: Game Development
+tags:
+- all
+- autumn
+timetable: COMP-0671
+verified: true

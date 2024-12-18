@@ -1,0 +1,99 @@
+aim: This module is designed to develop knowledge, skills and capabilities for the
+  formulation and initiation of technology enterprises.The module will emphasize lean
+  principles and analytics to enable the student to understand the process of building,
+  testing and iterating to achieve product-market fit.The identification and design
+  of business models and revenue models appropriate to technology enterprises will
+  also form part of the module.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts relating to entrepreneurship.
+  The student cannot explain basic concepts.'
+- '40%-49%: Be able to interpret and describe key concepts of entrepreneurship. The
+  student gives basic but accurate explanations of tools and models but they are not
+  supported with examples or case.'
+- '50%-59%: Ability to discuss key concepts of technology entrepreneurship and ability
+  to discover and integrate related knowledge in other knowledge domains.The student
+  gives accurate explanations of concepts with brief outlines of examples and cases.'
+- '60%-69%: Be able to solve problems within the technology entrepreneurship domain
+  by using appropriate models and tools to aid analysis and decision making. The student
+  explains concepts relating to technology entrepreneurship and links them to practice.'
+- '70%-100%: All the above to an excellent level.Be able to analyse, design and make
+  decisions to a high standard for a range of both complex and unforeseen problems.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 80
+- learning outcomes: '6'
+  main: false
+  name: Presentation
+  weighting: 20
+basename: A14321_-_CaM_-_Busi_-_Technology_Entrepreneurship
+co-requisites: []
+code: A14321
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Ries, E. \emph{The Lean Start-up.}. UK: Penguin, 2011.'
+full title: Technology Entrepreneurship
+indicative content:
+- Lean start-up principles
+- Lean analytics and metrics
+- Minimal viable product(MVP) design and testing
+- Defining and developing value propositions
+- Business model design
+- Revenue model design
+- Pitching to investors and customers
+learning and teaching methods:
+- Lectures will be used to introduce the principles and provenance of lean start-up.
+- Video presentations, group work, role play and in class discussions will be used
+  to illustrate examples of lean start-up practices.
+- Students are expected to familiarise themselves with web sites, fora and blogs associated
+  with technology entrepreneurship and lean start-up.
+- Students are expected to undertake independent reading.
+- Video presentations and pitches will be used to demonstrate examples and best practice
+  of articulating the value proposition and technology start-up concept.
+- Individual or group-based technology start-up assignment. Continuous assessment
+  will also incorporate an oral presentation, pitch or exhibition to an internal and/or
+  external audience.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe the principles and practices of lean start-up.
+- Demonstrate the technology start-up process using lean principles.
+- Design business models and revenue models appropriate to different technology enterprises
+  and their contexts.
+- Develop lean analytics and metrics to support decision making in the technology
+  enterprise.
+- Demonstrate the process and usage of minimal viable product (MVP) design.
+- Articulate their technology enterprise concept in a business context.
+level: Intermediate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: E
+  timetable: TECH-0047
+  title: Bachelor of Science in Software Systems Development
+- null
+requested resources:
+- 'EQUIPMENT: Blackboard'
+short title: Technology Entrepreneurship
+supplementary material:
+- 'Croll, A. and B. Yoskovitz. \emph{Lean Analytics: Use data to build a better start-up
+  faster}. USA: O''Reilly Media Inc., 2013.'
+- 'Osterwalder, A. and Y. Pigneur. \emph{Business Model Generation}. New Jersey. USA:
+  John Wiley and Sons Inc., 2010.'
+- 'Scarborough, N. and J. Cornwall. \emph{Essentials of Entrepreneurship and Small
+  Business Management}. 8th ed.. USA: Pearson, 2015.'

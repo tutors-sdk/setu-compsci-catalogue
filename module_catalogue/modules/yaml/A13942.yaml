@@ -1,0 +1,28 @@
+author: Michael McMahon
+change: ''
+co-ordinator: ''
+code: A13942
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Creative Media
+programmes:
+- programme: WD_KCRCO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0585
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0585
+ref: A13942
+short name: Introduction to Creative Media
+special regulations: null
+subgroup: Media Production
+tags:
+- all
+- autumn
+timetable: COMP-0585
+verified: false

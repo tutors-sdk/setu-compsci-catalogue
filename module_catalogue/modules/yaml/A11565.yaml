@@ -1,0 +1,28 @@
+author: Pat McInerney
+change: ''
+co-ordinator: ''
+code: A11565
+dirty: false
+external: false
+group: Computing and Mathematics
+name: 3D Lighting and Rendering
+programmes:
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0631
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: COMP-0631
+ref: A11565
+short name: 3D Lighting and Rendering
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- all
+- autumn
+timetable: COMP-0631
+verified: true

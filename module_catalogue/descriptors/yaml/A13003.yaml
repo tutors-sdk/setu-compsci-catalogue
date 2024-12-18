@@ -1,0 +1,101 @@
+aim: This module will build on the students basic Computer Networks knowledge. This
+  module will provide a student with an understanding of Routing and Switching and
+  other essential services in the operation and management of a networking infrastructure.
+  The practical element will cover the configuration and management of these services.
+assessment criteria:
+- '<40%: Unable to describe the basic functions and operation of dynamic routing protocols,
+  static routes and switching technologies. Unable to configure basic networking infrastructure
+  services.'
+- '40%-49%: Be able to describe the basic functions and operation of dynamic routing
+  protocols, static routes and switching technologies. Be able to configure basic
+  networking infrastructure services.'
+- '50%-59%: Be able to describe the main concepts in the management of a network infrastructure.
+  Be able to design and apply best practice in the configuration and management of
+  a network infrastructure.'
+- '60%-69%: In addition can integrate networking services and troubleshoot network
+  problems.'
+- '70%-100%: All the above to an excellent level.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 3, 4, 5, 6, 8
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 1,2,7,8
+  main: false
+  name: Practical
+  weighting: 60
+basename: A13003_-_CaM_-_NetwandClou_-_Networks_Infrastructure
+co-requisites: []
+code: A13003
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Cisco Network Academy." https://www.netacad.com/. https://www.netacad.com/'
+full title: Networks Infrastructure
+indicative content:
+- Static Routing
+- 'Dynamic Routing: Distance Vector Routing; Links State Routing; OSPF'
+- 'Switching: VLANs; Spanning Tree Protocol; Inter-VLAN Routing'
+- 'Network Design: Scalability; Redundancy; Load Balancing'
+- 'Network Management: SNMP; Monitoring; Performance'
+- 'Network Security: Securing Devices; Access Control Lists'
+- Virtual Networking
+learning and teaching methods:
+- The practical lab component will be delivered in one double lab session.
+- Combination of lectures and computer-based practical and simulation exercises.
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Configure Static Routes and Dynamic Routing Protocols.
+- Troubleshoot Static Routes and Dynamic Routing Protocols.
+- Explain how routing and switching technologies work.
+- Discuss the main concepts in Network Design.
+- Discuss the main concepts in Network Management.
+- Discuss the main concepts in Network Security.
+- Determine, configure and troubleshoot Access Control Lists.
+- Apply best practices in the configuration and management of network infrastructure.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0660
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0660
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'COMPUTER LAB: Networks Lab'
+short title: Networks Infrastructure
+supplementary material:
+- 'Cisco, P. \emph{Routing and Switching Essentials Companion Guide}. 1st. New York:
+  Cisco Press, 2014.'
+- 'Kurose, J.F. and K.W. Ross. \emph{Computer Networking: A Top-down Approach}. 6th.
+  New York: Pearson, 2012.'
+- 'Tanenbaum, A.S. and D.J. Wetherall. \emph{Computer Networks}. 5th ed.. New York:
+  Pearson, 2010.'

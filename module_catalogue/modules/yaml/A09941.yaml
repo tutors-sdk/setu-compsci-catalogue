@@ -1,0 +1,36 @@
+author: School of Humanities
+change: ''
+co-ordinator: ''
+code: A09941
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Psychology
+programmes:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: E
+  timetable: PSYC-0103
+- null
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: PSYC-0103
+ref: A09941
+short name: Intro to Psychology
+special regulations: null
+subgroup: Humanities
+tags:
+- all
+- autumn
+timetable: PSYC-0103
+verified: false

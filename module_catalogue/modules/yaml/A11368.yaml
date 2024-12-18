@@ -1,0 +1,33 @@
+author: Brendan Jackman
+change: ''
+co-ordinator: ''
+code: A11368
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Automotive Software Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0567
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0567
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0567
+ref: A11368
+short name: Automotive Software Dev.
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- all
+- autumn
+timetable: COMP-0567
+verified: false

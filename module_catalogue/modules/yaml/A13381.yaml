@@ -1,0 +1,50 @@
+author: Anne Gannon
+change: ''
+co-ordinator: ''
+code: A13381
+dirty: false
+external: false
+group: Computing and Mathematics
+name: User Experience Design
+programmes:
+- null
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0586
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0586
+- programme: WD_KCRCO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0586
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0586
+- programme: WD_KDEVP_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0586
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0586
+ref: A13381
+short name: User Experience Design
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0586
+verified: false

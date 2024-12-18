@@ -1,0 +1,38 @@
+author: John Sheppard (Cephas Power)
+change: ''
+co-ordinator: ''
+code: A14171
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Legal Principles of Computer Forensics
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: LAWS-0001
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: LAWS-0001
+- programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: LAWS-0001
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: LAWS-0001
+ref: A14171
+short name: Legal Prin of Comp Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- all
+- autumn
+timetable: LAWS-0001
+verified: false

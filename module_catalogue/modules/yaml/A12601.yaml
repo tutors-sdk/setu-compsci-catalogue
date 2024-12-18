@@ -1,0 +1,33 @@
+author: K Murphy
+change: NEW
+co-ordinator: ''
+code: A12601
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Advanced Graphics for Games
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0007
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0007
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0007
+ref: A12601
+short name: Advanced Graphics for Games
+special regulations: null
+subgroup: Game Development
+tags:
+- spring
+- all
+timetable: GAME-0007
+verified: true

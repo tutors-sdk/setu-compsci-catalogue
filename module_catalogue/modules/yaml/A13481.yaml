@@ -1,0 +1,28 @@
+author: Annetta Stack
+change: ''
+co-ordinator: ''
+code: A13481
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Instructional Design
+programmes:
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: DESG-0038
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: DESG-0038
+ref: A13481
+short name: Instructional Design
+special regulations: null
+subgroup: Media Production
+tags:
+- all
+- autumn
+timetable: DESG-0038
+verified: true

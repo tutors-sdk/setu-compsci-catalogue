@@ -1,0 +1,106 @@
+aim: The student will explore in detail modern operating systems in the areas of file
+  systems, memory management, and process management. This module will introduce the
+  student to the concepts and practical application of administering and troubleshooting
+  modern operating systems with a strong emphasis on shell scripting.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts and operations of modern operating
+  systems.'
+- '40%-49%: Be able to interpret and describe key concepts and operations of modern
+  operating systems.'
+- '50%-59%: Ability to discuss key concepts of operating systems. Be able to perform
+  configuration and administration tasks on operating systems.'
+- '60%-69%: Ability to plan, design and implement a small mixed network using appropriate
+  tools and advanced scripting techniques.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and demonstrate
+  unforeseen problems through the use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 2,3,5,6
+  main: false
+  name: Practical
+  weighting: 30
+- learning outcomes: 2,3,5,6
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+basename: A13488_-_CaM_-_NetwandClou_-_Operating_Systems
+co-requisites: []
+code: A13488
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Operating Systems
+indicative content:
+- Operating System Kernel, Services and Utilities
+- System Start-up and Recovery
+- 'Filesystems: File Management; File Permissions, etc'
+- 'Devices: Mounting/Unmounting; Smart Devices, etc'
+- File Sharing
+- System Services
+- Operating System Monitoring
+- Shell Scripting
+- Virtualisation
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a business solution.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Explain the behaviour of system services during the boot process and recovery mode.
+- Examine various file systems and demonstrate the configuration, navigation, and
+  maintenance of a Linux file system using system utilities.
+- Demonstrate the use of monitoring tools on a modern operation system.
+- Describe the process of planning, implementing and maintaining a small mixed network.
+- Automate system management functions by writing shell scripts.
+- Appraise and integrate developing technologies through the use of virtualisation
+  software.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0379
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0379
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Operating Systems
+supplementary material:
+- 'Siberschataz, A., P. Galvin and G. Gagne. \emph{Operating Systems Concepts}. 9th
+  Ed.. New York: Wiley, 2013.'
+- 'Stallings, W. \emph{Operating Systems: Internals and Design Principles}. 8th Ed..
+  New York: Pearson Education, 2014.'

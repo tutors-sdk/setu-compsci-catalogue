@@ -1,0 +1,49 @@
+author: School of Engineering
+change: ''
+co-ordinator: ''
+code: A04604
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Embedded Firmware
+programmes:
+- programme: WD_EEELC_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0970
+- null
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0970
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0970
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0970
+- programme: WD_KINTT_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0970
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0970
+ref: A04604
+short name: Embedded Firmware
+special regulations: null
+subgroup: Electronics
+tags:
+- spring
+- all
+timetable: COMP-0970
+verified: false

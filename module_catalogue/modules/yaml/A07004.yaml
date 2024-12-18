@@ -1,0 +1,29 @@
+author: Maria Cahill
+change: ''
+co-ordinator: ''
+code: A07004
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Socio-Technical Entrepreneurship
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0288
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0288
+ref: A07004
+short name: Socio-Tech Entrepreneurship
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0288
+verified: true

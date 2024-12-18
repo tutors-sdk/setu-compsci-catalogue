@@ -1,0 +1,23 @@
+author: Eamonn de Leastar
+change: ''
+co-ordinator: ''
+code: A14666
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Web App Development
+programmes:
+- programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0961
+ref: A14666
+short name: Web App Development
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: COMP-0961
+verified: false

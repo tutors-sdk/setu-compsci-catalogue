@@ -1,0 +1,38 @@
+author: Richie Lyng
+change: ''
+co-ordinator: ''
+code: A13084
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Business Information Systems and Processes
+programmes:
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0600
+- programme: WD_KDEVP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0600
+- programme: WD_KDEVP_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0600
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0600
+ref: A13084
+short name: BIS and Processes
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0600
+verified: true

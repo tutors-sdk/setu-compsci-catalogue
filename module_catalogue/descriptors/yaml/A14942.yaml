@@ -1,0 +1,86 @@
+aim: The objective of this module is to provide students with the understanding of
+  techniques and methods used to develop reliable quality software.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of software engineeing.'
+- '40%-49%: Be able to interpret and describe key concepts of software engineering.'
+- '50%-59%: Ability to discuss key concepts of software engineering and the ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the software engineering by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3,4,5,6,7
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14942_-_CaM_-_InfoSystandMode_-_Introduction_to_Software_Engineering
+co-requisites: []
+code: A14942
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Introduction to Software Engineering
+indicative content:
+- Software Engineering Discipline
+- Project Management
+- Software Processes and Methodologies
+- Requirements Engineering
+- OO Modeling and Design
+- Software Testing and Quality
+- Software Evolution
+learning and teaching methods:
+- This module will be presented using a combination of lectures and practical classes.
+- The lectures will be used to introduce new topics and their related concepts.
+- In practical classes students will apply these concepts and engage with project
+  management and various tools in order to gain experience in the software engineering
+  process.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 121
+learning outcomes:
+- Recognise the importance of software engineering in software development.
+- Illustrate the importance of project planning.
+- Distinguish between different software processes and methodologies.
+- Describe software requirements and illustrate the processes involved in discovering
+  these requirements.
+- Describe various models and activities in the object oriented design process.
+- Recognise the importance of software testing and software quality in the development
+  and maintenance of software.
+- Describe the different stages of systems evolution.
+level: Introductory
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0601
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Intro to Software Eng
+supplementary material:
+- 'Presman, R. and B.R. Maxim. \emph{Software Engineering: A Practitioner''s Approach}.
+  8th ed. New York: McGraw-Hill Higher Education, 2014.'
+- 'Sommerville, I. \emph{Software Engineering}. 10th ed. Boston: Pearson, 2015.'

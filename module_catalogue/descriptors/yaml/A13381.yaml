@@ -1,0 +1,121 @@
+aim: User Experience (UX) is a concept that has many dimensions, and it includes a
+  variety of different disciplines?such as interaction design, visual design, usability,
+  and human-computer interaction. This module will introduce the student to elements
+  and tools that are essential for enhancing user satisfaction by improving motivation,
+  usability and accessibility provided in the interaction between the user and the
+  product in both web and non-web based interfaces. The student will engage in the
+  various stages of the UX Design process, utilizing a variety of supportive tools
+  to assist in the completion of the varied tasks of the UX Designer.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domain(s).'
+- '40%-49%: Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).'
+- '50%-59%: Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+- learning outcomes: 3, 4, 5
+  main: false
+  name: Assignment
+  weighting: 65
+basename: A13381_-_CaM_-_GrapDesiandAnim_-_User_Experience_Design
+co-requisites: []
+code: A13381
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Color in Motion." http://www.mariaclaudiacortes.com/colors/Colors.html'
+- '"Interaction Design." http://www.id-book.com/index.php'
+- '"UXMatters." Fundamental Principles of UX Design. http://www.uxmatters.com/mt/archives/2014/11/fundamental-principles-of-great-ux-design-how-to-deliver-great-ux-design.php'
+- 'Preece, J. and Rogers, Y. and Sharp, H. \emph{Interaction Design: Beyond Human
+  Computer Interaction}. 4th Edition. West Sussex: John Wiley and Sons, 2015.'
+full title: User Experience Design
+indicative content:
+- Visual Design
+- Interaction Design
+- Usability and Accessibility
+- Human Computer Interaction (HCI) & User Centred Design (UCD)
+- Guidelines and Standards
+- Evaluation and Testing
+learning and teaching methods:
+- Lectures --will be used to introduce and discuss UX concepts.
+- Practicals/Workshops -- will be used to develop and apply the concepts introduced
+  and discussed during lectures.
+- Student Independent Learning -- Students will research and apply the various concepts
+  introduced and discussed during lectures.
+- Students will use MS Office and Adobe Creative Cloud.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Demonstrate an understanding of the underlying issues and principles of UX.
+- Demonstrate, at a fundamental level through written and practical work, the links
+  between UX and Human Factors.
+- Apply the principles of UCD, to the capture of user requirements providing a basis
+  for design that is fit for purpose.
+- Construct appropriate user interfaces for specific applications and specific users
+  using low and high fidelity prototyping.
+- Explain the usability and accessibility of an interface with respect to different
+  user populations.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_DVISC_B
+  semester: 6
+  stage: 3
+  status: E
+  timetable: COMP-0586
+  title: Bachelor of Arts (Honours) in Design (Visual Communications)
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0586
+  title: Bachelor of Science in Software Systems Development
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0586
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0586
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: User Experience Design
+supplementary material:
+- 'Benyon, D. and Turner, P. and Turner, S. \emph{Designing Interactive Systems: People,
+  Activities,Contexts, Technologies}. Essex, UK: Addison-Wesley, 2005.'
+- 'Garrett, J.J. \emph{The Elements of User Experience: User Centred Design for the
+  Web}. 2nd Edition. New York: New Riders, 2010.'
+- 'Johnson, J. \emph{Designing with the Mind in Mind}. 2nd Edition. Waltham, MA: Morgan
+  Kaufman, 2014.'
+- 'McManus, S. \emph{Web Design: make your website a success!}. 6th Edition. Warwickshire,
+  England: In Easy Steps, 2014.'

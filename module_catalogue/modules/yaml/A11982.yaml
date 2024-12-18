@@ -1,0 +1,39 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A11982
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Embedded Systems Architecture & Hardware
+programmes:
+- programme: WD_EEELC_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: EMBS-0003
+- null
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: EMBS-0003
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: EMBS-0003
+- programme: WD_KINTT_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: EMBS-0003
+ref: A11982
+short name: Embedded Sys Arch & Hardware
+special regulations: null
+subgroup: Electronics
+tags:
+- all
+- autumn
+timetable: EMBS-0003
+verified: false

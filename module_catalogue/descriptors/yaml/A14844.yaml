@@ -1,0 +1,99 @@
+aim: This module aims to provide the student with the ability to initiate, plan, execute,
+  control and close-out the work of a team in order to achieve specific project goals
+  and meet specific success criteria as set out by the project sponsor and organisation.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of project management.'
+- '40%-49%: Be able to interpret and describe key concepts of project management.'
+- '50%-59%: Ability to discuss key concepts of project management and ability to discover
+  and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within project management by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1, 2, 3, 4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 3, 4, 5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3, 4, 5
+  main: false
+  name: Group Project
+  weighting: 50
+basename: A14844_-_CaM_-_InfoSystandMode_-_Project_Management
+co-requisites: []
+code: A14844
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Project Management
+indicative content:
+- Project Management Life Cycle Model (PMLC)
+- Managing Project Scope
+- Managing Project Resources
+- Managing Project Quality
+- Managing Project Risk
+- Managing Project Execution
+- Managing Project Implementation and Closure
+learning and teaching methods:
+- This module will be presented using a combination of formal lectures and practical
+  classes.
+- Lectures will introduce project management concepts and an emphasis will be placed
+  on interaction, discussions and case studies.
+- In practical classes, students will engage with project management software through
+  Individual exercises and problem-based learning activities through Group Work.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Appraise principles of project management.
+- Evaluate contemporary issues that may affect the project management process.
+- Estimate project duration and costings using a variety of tools and models.
+- Produce a project plan based on a business context.
+- Plan, control and monitor project schedules using project management software.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCSDV_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0168
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: PROJ-0168
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: PROJ-0168
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'Lecture Room: Loose Seated'
+- 'COMPUTER LAB: BYOD Lab'
+short title: Project Management
+supplementary material:
+- 'Cadle, J. and D. Yeates. \emph{Project Management for Information Systems}. 5th
+  ed.. London, UK: Pearson, 2008.'
+- 'Marchewka, J.T. \emph{Information Technology Project Management: Providing Measurable
+  Organisational Value}. 5th ed.. MA, USA: Wiley, 2015.'

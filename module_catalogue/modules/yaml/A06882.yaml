@@ -1,0 +1,28 @@
+author: Colm Dunphy
+change: ''
+co-ordinator: ''
+code: A06882
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Audio Production
+programmes:
+- programme: WD_KCRCO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0592
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0592
+ref: A06882
+short name: Audio Production
+special regulations: null
+subgroup: Media Production
+tags:
+- all
+- autumn
+timetable: COMP-0592
+verified: true

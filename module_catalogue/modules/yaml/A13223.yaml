@@ -1,0 +1,38 @@
+author: Ruth Barry
+change: ''
+co-ordinator: ''
+code: A13223
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Digital Transformation of Information Systems
+programmes:
+- programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0968
+- programme: WD_KDEVP_B
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0968
+- programme: WD_KDEVP_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0968
+- programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0968
+ref: A13223
+short name: Digital Transformation of IS
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0968
+verified: true

@@ -1,0 +1,107 @@
+aim: Introduces the student to the fundamental building blocks of the visual aspect
+  of the Web, with an emphasis on the basics of HTML, CSS and Java Script. These topics
+  will be explored collectively to give the student the ability to design dynamic
+  and responsive web micro-sites. Leverage this knowledge and apply it to Contact
+  Management Systems (e.g. WordPress, Django) "mash-up" toolkits (e.g. Yahoo pipes,
+  Zembly), to enable the construction of simple web applications and widgets (Facebook)
+assessment criteria:
+- '<40%: Attention will be paid to the effective use of appropriate tools.'
+- '40%-49%: Able to combine HTLM, CSS and simple Java script fragments in a simple
+  micro-site.'
+- 50%-59%:All of the above and in addition be able to implement a more sophisticated
+  scripting capability.
+- 60%-69%:Demonstrate an understanding of an encompassing platform, based around a
+  simple CMS. Be able to introduce some simple new features into such a platform using
+  the knowledge gained in the course. Attempt some simple mash-ups.
+- 70%-100%:Be able to construct more ambitious mash-ups/widgets - incorporating HTML,
+  CSS and JavaScript - with some aspect of server side processing.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,4
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A10923_-_CaM_-_SoftandWebDeve_-_Web_Development_1
+co-requisites: []
+code: A10923
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Anderson & Anderson, A. \emph{Assemble the Social Web with Zembly}. NY: Prentice-Hall,
+  2008.'
+- 'Crockford, M. \emph{The Good Parts}. NY: Javascript, 2009.'
+- 'Robson & Freeman, M. \emph{Head First HTML with CSS & XHTML}. NY: O''Reilly, 2005.'
+full title: Web Development 1
+indicative content:
+- 'Basic Document Constructions: Paragraphs; Line breaks; Headings; Images; Hyperlinks;
+  Lists; Tables; Forms; Frames.'
+- 'Cascading Style Sheets: Syntax and Rules.'
+- 'Basic Scripting: Simple JavaScript; Variables; Functions; Conditions; Loops and
+  Repetition; Arrays'
+- 'The Document Object Model: Nodes, Manipulation'
+- The role and purpose of Content Management Systems.
+- Widget/Mash-up development. The use of Web2.0 style toolkits and integration frameworks.
+learning and teaching methods:
+- This course will be delivered via a combination of lecture and studio style practicals.
+- 'The lectures will be ensuring the student has an appreciation of the essential
+  formalisms: mark-up languages and simple scripting.'
+- Photoshop or equivalent tools will be the focus of the initial programme. However,
+  simple experiments in mash-up and widget development will involve exploration of
+  representative environments and web based tools.
+- Practicals will centre on putting these formalisms to work in the creation of micro
+  sites.
+- Attention will be paid to the effective use of appropriate tools.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe the fundamentals of the HTML markup language.
+- Describe the role of Human Computer Interaction and manipulate CSS to present HTML
+  content.
+- Read and adjust simple java script fragments and describe their impact on presentation.
+- Integrate HTML, CSS and Java script to structure simple micro sites and widgets.
+- Describe the role of a Content Management System and be able to integrate and manage
+  simple CMS extensions.
+- Construct simple toolkit based web widgets/applications.
+level: Introductory
+pre-requisites:
+- None
+programmes:
+- programme: WD_KCOFO_B
+  semester: 1
+  stage: 1
+  status: ''
+  timetable: ''
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: ''
+  timetable: ''
+  title: Bachelor of Science in Software Systems Development
+- programme: WD_KCOMP_B
+  semester: 1
+  stage: 1
+  status: ''
+  timetable: ''
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Web Development 1
+supplementary material: []

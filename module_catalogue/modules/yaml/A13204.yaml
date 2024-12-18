@@ -1,0 +1,28 @@
+author: Jacqui Woods O'Brien
+change: ''
+co-ordinator: ''
+code: A13204
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Advanced Media Productions
+programmes:
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0632
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: COMP-0632
+ref: A13204
+short name: Advanced Media Productions
+special regulations: null
+subgroup: Media Production
+tags:
+- all
+- autumn
+timetable: COMP-0632
+verified: true

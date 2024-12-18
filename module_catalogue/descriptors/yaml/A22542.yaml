@@ -1,0 +1,92 @@
+aim: The aim of this module is to develop students understanding of the key concepts
+  in sport and exercise biomechanics and also to develop their practical skills in
+  the collection and analysis of human movement data.
+assessment criteria:
+- Final Examination - written paper
+- Mid-term in-class exam (10%)
+- Project - individual scientific project assessing planning, data collection, analysis
+  and report preparation skills
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+- learning outcomes: 4,5
+  main: false
+  name: Project
+  weighting: 40
+basename: A22542_-_CaM_-_SporTech_-_Sport_and_Exercise_Biomechanics_2
+co-requisites: []
+code: A22542
+credits: 5
+department: Sport and Exercise Science
+dirty: false
+essential material:
+- 'McGinnis, P.M. \emph{Biomechanics of Sport and Exercise}. 3rd ed. Champaign, IL:
+  Human Kinetics, 2013.'
+full title: Sport & Exercise Biomechanics 2
+indicative content:
+- Three dimensional kinematics - linear and angular
+- Three dimensional kinetics - linear and angular
+- Power, force-velocity relationship
+- Quantitative analysis of human movement
+- Systematic qualitative analysis of human movement (including deterministic models
+  of performance, prioritisation, cueing etc.)
+- Biomechanics of specific skills/sports (e.g. long jump, throwing, kicking etc.)
+- Advanced analysis of human movement data (e.g filtering, interpolation, normalisation)
+- Practical aspects of biomechanics testing equipment (e.g. motion analysis, EMG,
+  force platforms, GPS etc.)
+- Muscle mechanics
+learning and teaching methods:
+- Lectures - incorporating interaction and engagement with prior reading
+- Practicals - providing skills for self-directed data collection and project completion
+- Tutorials - task-based and problem-based learning
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Tutorial
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe the principle biomechanical concepts underpinning movement in sport
+- Perform advanced calculations relating to kinematic and kinetic quantities
+- Compare the practical benefits and limitations of equipment used during biomechanical
+  testing
+- Organise the collection of biomechanical data of a sports or exercise movement
+- Complete detailed analyses of human movement
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- programme: WD_T0012_X
+  semester: 5
+  stage: 3
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Sport and Exercise Science
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Sport & Exe Biomechanics 2
+supplementary material:
+- 'Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement}. 4th
+  ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.'
+- 'Knudson, D. \emph{Fundamentals of Biomechanics}. USA: Springer, 2007.'
+- 'Knudson, D. \emph{Qualitative Diagnosis of Human Movement}. Human Kinetics: 3rd
+  ed, 2013.'
+- 'Winter, D.A. \emph{Biomechanics and Motor Control of Human Movement}. 4th ed..
+  UK: Wiley, 2009.'

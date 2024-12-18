@@ -1,0 +1,104 @@
+aim: In this module, the student will develop the core technical skills necessary
+  for a complete understanding of client side web development. This module will examine
+  the concepts involved in front-end user interface design and client side scripting.
+  The module will focus on the development of dynamic interactive client side web
+  applications. The use of client side frameworks, client side libraries and plugins
+  will also be examined.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of dynamic client side application
+  development.'
+- '40%-49%: Be able to interpret and describe key concepts of dynamic client side
+  application development.'
+- '50%-59%: Ability to discuss key concepts of dynamic client side application development
+  and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve dynamic client side application development problems
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 20
+basename: A13664_-_CaM_-_SoftandWebDeve_-_Website_Development_2
+co-requisites: []
+code: A13664
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Website Development 2
+indicative content:
+- 'Basic Scripting: Variables; Functions; Conditions; Loops and Repetition; Arrays'
+- 'The Document Object Model: Nodes; Manipulation; Scripting; Event Handling'
+- Storing and transporting data with JavaScript Object Notation (JSON)
+- Use of libraries and plugins
+- Forms Enhancements and Validation
+- Role of Client Web Frameworks & Cascading Style Sheets (CSS) meta languages
+- Client side routing
+- 'Dynamic Web: Combining Content; Presentation; and Behaviour'
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 36
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Plan and construct dynamic websites incorporating client side scripts.
+- Construct dynamic interactive websites that support user interaction, feedback,
+  and validation.
+- Use client side libraries and plugins in the design of dynamic websites.
+- Apply a client web framework in the design of interactive websites.
+- Employ the client side components in a web application.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0594
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- null
+- null
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0594
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Website Development 2
+supplementary material:
+- '"Tutorialspoint." http://www.tutorialspoint.com'
+- '"w3schools." http://www.w3schools.com'
+- 'McFarland, D. \emph{JavaScript & jQuery:The Missing Manual}. 3rd.. California:
+  O''Reilly Media, 2014.'
+- 'Pehlivanian, A. and D. Nguyen. \emph{Jump Start JavaScript}. Melbourne: Sitepoint,
+  2013.'

@@ -1,0 +1,90 @@
+aim: This module is designed to introduce students to the history, development and
+  integrated nature of the expanding digital media sector (internet/film/games/tv/multimedia),
+  exploring the processes and practices required by interactive media professionals.
+  It emphasises the cross-disciplinary focus of the course with respect to both creative
+  multimedia and computer science.
+assessment criteria:
+- '<40%: Unable to describe and appreciate the key concepts and practical tools of
+  the cross-disciplinary creative media development pipeline.'
+- '40%-49%: Be able to describe and appreciate the key concepts and practical tools
+  of the cross-disciplinary creative media development pipeline.'
+- '50%-59%: Ability to demonstrate practical design and development skills using ubiquitous
+  creative media development technologies.'
+- '60%-69%: Be able to address production and organisational problems within the creative
+  media development domain by experimenting with appropriate ubiquitous tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard both individually and within a group environment.'
+assessment methods:
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 2,3
+  main: false
+  name: Practical
+  weighting: 20
+- learning outcomes: 3,4
+  main: false
+  name: Group Project
+  weighting: 30
+basename: A13942_-_CaM_-_MediProd_-_Introduction_to_Creative_Media
+co-requisites: []
+code: A13942
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Introduction to Creative Media
+indicative content:
+- The Creative Media Industry. History and development of computing, cultural, telecommunications
+  and creative industry sectors
+- 'The Creative Media Pipeline: Workflows and practice across convergent creative
+  media sectors. Media, Application and Web Development'
+- 'Creative Media Authoring Applications and Services: Graphics/Audio/Video/Animation'
+- Digital Media Asset Management
+learning and teaching methods:
+- 'Lectures: Talks or presentations delivered by a member of academic staff providing
+  a guide to the topic and indicate important points and themes..'
+- 'Practicals: Students will be expected to participate in the practical labs, experimenting
+  with required software and completing class worksheets and exercises.'
+- 'Independent learning : Students must be proactive, manage their own time and develop
+  their own independent learning skills'
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Define the cross-disciplinary history, concepts and practices of the creative media
+  and computer science sectors.
+- Compare and contrast a range of current and emerging industry relevant creative
+  media authoring tools and services.
+- Operate effectively as an individual, using both conventional and cloud based ubiquitous
+  services to produce accessible creative media projects.
+- Use the production tracking, review and asset management tools for streamlining
+  collaborative and business processes within a production pipeline.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0585
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Introduction to Creative Media
+supplementary material:
+- 'Campbell, R. \emph{Media Essentials: A Brief Introduction}. 2nd ed.. UK: Bedford/St.
+  Martin''s, 2012.'

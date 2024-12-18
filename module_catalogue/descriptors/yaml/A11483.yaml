@@ -1,0 +1,91 @@
+aim: This module serves as an introduction to 3D modelling for game asset designers
+  and comprises an emphasis on the modelling pipeline, from concept to model creation
+  to rigging and skinning, and techniques used for the exporting of 3D models to be
+  used in a game engine.
+assessment criteria:
+- '<40%: Inability to identify and navigate the main components of a 3D production
+  software platform. Inability to critically evaluate techniques used in the creation
+  and exporting of 3D computer graphics models.'
+- '40%-49%: Ability to identify and navigate the main components of a 3D production
+  software platform. Ability to describe key concepts of the 3D modelling pipeline
+  and techniques used for exporting.'
+- '50%-59%: Ability to discuss and critically evaluate key concepts of the 3D modelling
+  pipeline and techniques used for exporting.'
+- '60%-69%: Be able to solve problems within the framework of the 3D modelling pipeline
+  by experimenting with appropriate skills and tools of the 3D production software.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of problems through the use and modification of appropriate
+  skills and tools of the 3D production software.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+- learning outcomes: '3'
+  main: false
+  name: Presentation
+  weighting: 30
+- learning outcomes: 3,4
+  main: false
+  name: Project
+  weighting: 50
+basename: A11483_-_CaM_-_GameDeve_-_3D_Game_Assets
+co-requisites: []
+code: A11483
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: 3D Game Assets
+indicative content:
+- Components of an industry-standard 3D modelling platform
+- Polygon, subdivision, and NURB modelling
+- Rigging and skinning
+- Texture unwrapping and baking
+- Techniques for exporting models, textures and collisions
+learning and teaching methods:
+- Interactive and open-forum lectures.
+- Class discussions and presentations.
+- Problem-based learning activities.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Identify and navigate the main components and features of an industry standard 3D
+  modelling production platform.
+- Compare various modelling approaches, i.e, polygon, sub-division and NURB-based
+  modelling.
+- Describe the fundamentals of the 3D modelling workflow, from concept to a rigged
+  and skinned model.
+- Construct a textured and rigged game asset in a format ready to be used by a game
+  engine.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0645
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: 3D Game Assets
+supplementary material:
+- 'Lanier, L. \emph{Advanced Maya Texturing and Lighting}. 3rd ed. New York: Sybex,
+  2015.'
+- 'Palamar, T. \emph{Mastering Autodesk Maya}. New York: Sybex, 2016.'

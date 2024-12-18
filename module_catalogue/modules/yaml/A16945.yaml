@@ -1,0 +1,37 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A16945
+dirty: false
+external: false
+group: Computing and Mathematics
+name: German Intermediate 2 (B1.2)
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: E
+  timetable: GERM-0081
+- null
+- null
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: GERM-0081
+- null
+- null
+ref: A16945
+short name: German B1.2
+special regulations: null
+subgroup: Humanities
+tags:
+- spring
+- all
+timetable: GERM-0081
+verified: false

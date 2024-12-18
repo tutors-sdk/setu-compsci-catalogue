@@ -1,0 +1,28 @@
+author: Michael McMahon
+change: ''
+co-ordinator: ''
+code: A13944
+dirty: false
+external: false
+group: Computing and Mathematics
+name: 3D Animation and Transmedia
+programmes:
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0634
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0634
+ref: A13944
+short name: 3D Animation & Transmedia
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+timetable: COMP-0634
+verified: true

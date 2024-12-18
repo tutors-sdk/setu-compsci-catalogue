@@ -1,0 +1,38 @@
+author: Donal Keating
+change: ''
+co-ordinator: ''
+code: A12201
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Criminal Evidence
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: CRIM-0008
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: CRIM-0008
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: CRIM-0008
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: CRIM-0008
+ref: A12201
+short name: Criminal Evidence
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: CRIM-0008
+verified: true

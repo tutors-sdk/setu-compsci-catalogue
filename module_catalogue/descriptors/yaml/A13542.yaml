@@ -1,0 +1,111 @@
+aim: This module provides students with a detailed introduction to cryptography, including
+  both the fundamentals and leading techniques as applied to the security of systems,
+  applications and communications.
+assessment criteria:
+- '<40%: Unable to describe and compare major cryptographic models and algorithms.
+  Poor understanding of role of cryptography in computer security. Poor understanding
+  of mathematical foundations.'
+- '40%-49%: Can describe and compare the main cryptographic models and algorithms.
+  Can provide overview of main steps of leading encryption and authentication algorithms.
+  Can carry out analysis of key strength.'
+- '50%-59%: In addition to the above, can describe in detail the leading encryption
+  and authentication algorithms, as well as their mathematical basis. Can demonstrate
+  the significance of key length and an understanding of attack scenarios.'
+- '60%-69%: In addition, provide worked examples of encryption algorithms and solve
+  encryption problems (using small numbers). Can derive and explain basis of several
+  cryptographic schemes.'
+- '70%-100%: All of the above to an excellent level. Can analyse complexity and performance
+  of relevant algorithms.'
+assessment methods:
+- learning outcomes: 1,2,3,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,5,6,7
+  main: false
+  name: Practical
+  weighting: 50
+basename: A13542_-_CaM_-_ForeandSecu_-_Applied_Cryptography
+co-requisites: []
+code: A13542
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"GNU Privacy Guard." https://www.gnupg.org/'
+- '"The OpenSSL project." https://www.openssl.org/'
+full title: Applied Cryptography
+indicative content:
+- 'Security context: threats & attacks; security standards, services & mechanisms'
+- 'Introduction to cryptography: terminology; block and stream ciphers; cryptanalysis;
+  limitations of cryptography'
+- 'Symmetric encryption: classical schemes; modern algorithms; deployment modes'
+- 'Random numbers: entropy concept; pseudo random generation'
+- 'Public-key cryptography: number theory background; requirements; techniques --
+  RSA, Diffie-Hellmann, elliptic curve cryptography; performance issues'
+- 'Authentication functions: principles; hash functions; collisions; MACs, digital
+  signatures'
+- 'Key management: symmetric key distribution protocols; public key authentication;
+  digital certificates & PKIs; trust models'
+- 'Practical applications & deployment issues: placement of encryption function; key
+  storage; application case studies'
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Recognise the role (and limitations) of cryptography in securing systems, communications,
+  and applications.
+- Describe leading cryptographic models and algorithms (symmetric ciphers, public-key
+  schemes and hash functions) and explain their mathematical basis in outline terms.
+- Recognise the significance of random numbers in the context of cryptography.
+- Compare the computational performance of leading cryptographic algorithms.
+- Discuss the storage, exchange and management of keys in both symmetric and public-key
+  systems.
+- Describe a selection of practical applications of cryptography.
+- Make effective use of a cryptographic software application or library.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Applied Cryptography
+supplementary material:
+- 'Ferguson, N., B. Schneier and T. Kohno. \emph{Cryptography Engineering}. Indianapolis:
+  Wiley, 2010.'
+- 'Gollmann, D. \emph{Computer Security}. 3rd ed. Chichester: Wiley, 2011.'
+- 'Stallings, W. \emph{Computer Security: Principles and Practice}. 3rd ed. Harlow:
+  Pearson, 2014.'
+- 'Stallings, W. \emph{Cryptography and Network Security}. 6th ed. Boston: Pearson,
+  2014.'

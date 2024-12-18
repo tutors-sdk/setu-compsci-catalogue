@@ -1,0 +1,36 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A16862
+dirty: false
+external: false
+group: Computing and Mathematics
+name: German Intermediate 1(B1.1)
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: E
+  timetable: GERM-0080
+- null
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: GERM-0080
+- null
+- null
+ref: A16862
+short name: German B1.1
+special regulations: null
+subgroup: Humanities
+tags:
+- all
+- autumn
+timetable: GERM-0080
+verified: false

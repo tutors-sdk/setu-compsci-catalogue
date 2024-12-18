@@ -1,0 +1,96 @@
+aim: The aim of this module is to provide students with an introduction to the core
+  elements of sport and exercise biomechanics. The module will use applied examples
+  and demonstrations to highlight the relevance of these elements in exercise, physical
+  activity and sport.
+assessment criteria:
+- Final exam
+- Labs
+assessment methods:
+- learning outcomes: 1, 2, 3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: '4'
+  main: false
+  name: Lab Report
+  weighting: 10
+- learning outcomes: '5'
+  main: false
+  name: Lab Report
+  weighting: 40
+basename: A22541_-_CaM_-_SporTech_-_Sport_and_Exercise_Biomechanics_I
+co-requisites: []
+code: A22541
+credits: 5
+department: Sport and Exercise Science
+dirty: false
+essential material:
+- 'Blazevich, A. \emph{Sports Biomechanics - The Basics: Optimising human performance.}.
+  London: A&C Black, 2007.'
+full title: Sport & Exercise Biomechanics I
+indicative content:
+- Introduction to linear and angular kinematics.
+- Introduction to linear and angular kinetics.
+- Qualititative biomechanics (e.g. non numerical description of a movement based on
+  direct observation by coaches and teachers).
+- Quantitative biomechanics (e.g. numerical measures from data colected during a movement).
+- Exemplars of biomechanical skill breakdown
+- Introduction to equipment used by sports biomechanists to collect data (e.g. Motion
+  analysis systems, force plates and jump mats, timing gates, and video)
+- Fluid dynamics
+learning and teaching methods:
+- Lectures
+- Practicals
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Outline the basic biomechanical concepts underpinning movement in sport.
+- Perform basic applied calculations relating to kinematic and kinetic quantities
+  (e.g. velocity, acceleration, force).
+- Identify the key aspects and applications of equipment used during biomechanical
+  testing.
+- Collect biomechanical data of a sports movement (e.g. speed, angular data, jump
+  data).
+- Report on collected/sample biomechanical data.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_T0010_X
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Nutrition and Exercise Science
+- programme: WD_T0011_X
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Health and Exercise Science
+- programme: WD_T0012_X
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Sport and Exercise Science
+requested resources: []
+short title: Sport & Exe Biomech 1
+supplementary material:
+- 'Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement} . Maidenhead:
+  McGraw-Hill, 2009.'
+- 'Zatsiorsky, V.M. \emph{Biomechanics in Sport - Performance enhancement and injury
+  prevention}. Baltimore : Lippincott Williams & Wilkins, 2008.'

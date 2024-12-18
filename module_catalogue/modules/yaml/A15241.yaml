@@ -1,0 +1,24 @@
+author: Pat Lynch
+change: ''
+co-ordinator: ''
+code: A15241
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Technology Commercialisation
+programmes:
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0615
+ref: A15241
+short name: Technology Commercialisation
+special regulations: null
+subgroup: Business
+tags:
+- spring
+- all
+timetable: COMP-0615
+verified: false

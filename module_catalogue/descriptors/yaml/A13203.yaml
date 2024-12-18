@@ -1,0 +1,113 @@
+aim: This module will provide an introduction to computer security. The emphasis is
+  on the fundamentals of security, including the nature of security threats and attack
+  methods. It will also include the services that can be put in place to address these
+  threats. Cryptographic techniques, that underpin many security mechanisms, are also
+  covered. This module will introduce the student to the foundations of modern cryptography,
+  with a focus on practical applications. The importance of security policy and procedures
+  will also be explained.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of computer security. Unable
+  to interpret and describe computer security threats, vulnerabilities and security
+  services. Unable to interpret and describe key concepts of cryptography.'
+- '40%-49%: Be able to interpret and describe key concepts of computer security. Be
+  able to interpret and describe computer security threats, vulnerabilities and security
+  services. Be able to interpret and describe key concepts of cryptography.'
+- '50%-59%: All of the above and the ability to distinguish between the various security
+  services necessary to mitigate against a range of security threats and attacks.
+  Ability to explain various cryptographic approaches and techniques required to implement
+  each security service.'
+- '60%-69%: All of the above and be able to evaluate different cryptographic approaches
+  and techniques.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of existing security problems.'
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,5
+  main: false
+  name: Lab Report
+  weighting: 20
+- learning outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 30
+basename: A13203_-_CaM_-_ForeandSecu_-_Introduction_to_Computer_Security
+co-requisites: []
+code: A13203
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"OpenSSL, Cryptography and SSL/TLS Toolkit." https://www.openssl.org/'
+full title: Introduction to Computer Security
+indicative content:
+- Vulnerabilities, types of attack, security services
+- Overview of encryption and authentication
+- Randomness & entropy
+- Symmetric block & stream ciphers, public key cryptography
+- Authentication and hash functions
+- Key management & digital certificates
+- Security policy & procedures
+- Applications
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts. The
+  student will be encouraged to participate in class discussions and ask questions
+  to support their learning process.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Describe and categorise potential computer security threats and attacks and the
+  security services that can be implemented to address them.
+- Explain the role played by both technology and security policy in supporting security
+  services.
+- Describe various cryptographic approaches and techniques for the provision of secrecy,
+  authentication, integrity and non-repudiation.
+- Use commercial encryption software for secrecy of data and authentication purposes.
+- Communicate technical information effectively.
+level: Introductory
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Intro to Computer Security
+supplementary material:
+- '"Computer Emergency Response Team, CERT." http://www.cert.org/'
+- '"Security Focus." http://www.securityfocus.com/'
+- '"The SANS Institute." http://www.sans.org'
+- 'Stallings, W. \emph{Network Security Essentials}. 5th ed. England: Pearson, 2014.'
+- 'Stalllings, W. \emph{Cryptography and Network Security, Principles and Practice}.
+  6th ed. England: Pearson, 2013.'

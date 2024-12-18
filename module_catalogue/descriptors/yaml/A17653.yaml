@@ -1,0 +1,168 @@
+aim: To facilitate students' language learning to meet an Upper Intermediate level
+  commensurate with CEFR B2.1
+assessment criteria:
+- '> 70%: The student has demonstrated the ability to understand, produce, apply and
+  manipulate the specified language areas at a proficient level. The student has evidenced
+  a high degree of consistency and accuracy across the skills areas.'
+- '60-69%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a competent level. The student has
+  evidenced consistency and accuracy across the skills areas.'
+- '50-59%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a functional level. The student has
+  evidenced some consistency and accuracy, but has also evidenced some imbalance across
+  the skills areas.'
+- '40-49%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a basic level. Only when presented
+  with tasks that are highly structured in nature or when the knowledge is isolated
+  has the student evidenced any consistency or accuracy. Significant imbalance is
+  evident across the skills areas.'
+- '< 40%: The student has not demonstrated the ability to understand, produce, apply
+  or manipulate the language at even a basic level in the skills areas.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 35
+- learning outcomes: 1,3,4
+  main: false
+  name: Oral Examination
+  weighting: 30
+basename: A17653_-_CaM_-_Huma_-_French_Upper_Intermediate_1_B21a
+co-requisites: []
+code: A17653
+credits: 5
+department: Law and Criminal Justice Studies
+dirty: false
+essential material:
+- "\"Parlons fran\xE7ais, c'est facile.\" http://parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm"
+- '"websites." www.figaro.fr'
+- '"websites." www.french.about.com'
+- '"websites." www.lemonde.fr'
+- '"websites." www.leparisien.fr'
+- "Anjelvin, G. \\emph{Savoir-faire. Le fran\xE7ais \\`a l'universit\\'e} . London:\
+  \ Routledge, 2009."
+- "Blondeau, N. and F. Allouache. \\emph{Litt\\'erature progressive du fran\xE7ais.\
+  \ Niveau interm\\'ediaire.}. Paris: Cl\\'e, 2003."
+- 'Coffman Crocker, M.E. \emph{Schaum''s Outline of French Grammar}. New York: McGraw
+  Hill, 2014.'
+- 'Jubb, M. and A. Rouxeville. \emph{French Grammar in Context}. London: Arnold, 2003.'
+full title: French Upper Intermediate 1 (B2.1a)
+indicative content:
+- "A compendium of language exercises and tasks from the prescribed textbook Savoir-faire\
+  \ Le fran\xE7ais a' l'universite'."
+- Vocabulary for special purpose
+- a. News items
+- 'b. Aspects of French society: economy, ecology, education'
+- "c. Parlons fran\xE7ais, c'est facile webdocs"
+- d. Comprehension and stylistic study of literary texts
+- e. Synonyms and antonyms
+- f. Indicative and subjunctive modes
+- g. Logical connectors
+- h. Adjectives and prepositions - verbs with prepositions
+- i. Collocations and idioms
+learning and teaching methods:
+- Interactive seminars, variety of media (traditional print, audio and video materials,
+  online language learning resources and may also include:Tandem Learning, Content
+  & Language Integrated Learning, Self-directed learning, Blended learning, European
+  Language Portfolio, Transferable skills, Online learning resources...
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- 'Speaking: Develop an argument supporting views with opinion and relevant examples
+  on a wide range of topics; Use an appropriate register of language and non-verbal
+  behaviour.'
+- 'Writing: Write short passages conveying information using a register appropriate
+  to context with more complex structures and lexis in order to successfully complete
+  a variety of tasks. Describe situations, express and respond to opinions.'
+- 'Listening: React to extended discourse with concrete topics, signposted by explicit
+  markers.'
+- 'Reading: Comprehend longer texts in a broader range of genres.'
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_BBUSI_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: FREN-0005
+  title: Bachelor of Business (Honours)
+- programme: WD_BINTB_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: FREN-0008
+  title: Bachelor of Arts (Honours) in International Business
+- programme: WD_CCONM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: ''
+  title: Bachelor of Science (Honours) in Construction Management and Engineering
+- programme: WD_CQTSU_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: ''
+  title: Bachelor of Science (Honours) in Quantity Surveying
+- programme: WD_ECIVE_D
+  semester: 5
+  stage: 3
+  status: E
+  timetable: ''
+  title: Bachelor of Engineering in Civil Engineering
+- programme: WD_HARTS_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: LANG-0075
+  title: Bachelor of Arts (Honours)
+- programme: WD_HCULA_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: ''
+  title: Bachelor of Arts (Honours) in Culinary Arts
+- programme: WD_HPSYC_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: LANG-0075
+  title: Bachelor of Arts (Honours) in Psychology
+- programme: WD_HTOMA_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: ''
+  title: Bachelor of Arts (Honours) in Tourism Management
+- programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: E
+  timetable: LANG-0075
+  title: Bachelor of Science in Software Systems Development
+- null
+- programme: WD_OHOSM_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: ''
+  title: Bachelor of Arts (Honours) in Hospitality Management
+requested resources: []
+short title: French Up. Interm. 1 (B2.1a)
+supplementary material:
+- '"L''\''etudiant.fr." www.letudiant.fr'
+- '"Le point du FLE." www.lepointdufle.net.fr'
+- '"TV5 Monde." http://www.tv5monde.com/'

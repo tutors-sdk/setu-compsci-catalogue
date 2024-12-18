@@ -1,0 +1,29 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A25443
+dirty: false
+external: false
+group: Computing and Mathematics
+name: German Upper Intermediate 1( B2.1a)
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KDEVP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: GERM-0082
+- null
+ref: A25443
+short name: German B2.1a
+special regulations: null
+subgroup: Humanities
+tags:
+- all
+- autumn
+timetable: GERM-0082
+verified: false

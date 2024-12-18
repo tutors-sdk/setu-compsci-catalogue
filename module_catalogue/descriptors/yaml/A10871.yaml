@@ -1,0 +1,80 @@
+aim: This module will introduce the student to game-related project management skills.
+  The student will build a game or game artifact based on multiple modules across
+  the programme. This module will act as an opportunity for the student to contextualise
+  and link cross-module concepts.
+assessment criteria:
+- '<40%: Inability to develop a model and present a working artifact. Little evidence
+  of project management and time management throughout project.'
+- '40%-49%: Ability to develop a model and present a working artifact. Reasonable
+  evidence of project management (e.g. Agile, Scrum) and time management throughout
+  project.'
+- '50%-59%: All the above and in addition has applied concepts from more than two
+  modules/strands. Strong evidence of the different phases through the project and
+  how the different techniques have benefited the project.'
+- '60%-69%: All the above and in addition, be able to integrate and analyse concepts
+  from more than two and at least one past module, showing an ability to transfer
+  skills and knowledge across modules/strands. Shows evidence of strong project management
+  and time management and of how the project has benefitted from both.'
+- '70%-100%: All previous to an excellent level. Shows the ability to evaluate different
+  models. Shows synthesis through the implementation of cross-strand innovative artifacts.'
+assessment methods:
+- learning outcomes: 1, 2, 3, 4
+  main: true
+  name: Final Project
+  weighting: 100
+basename: A10871_-_CaM_-_GameDeve_-_Game_Development_Practicum
+co-requisites: []
+code: A10871
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Game Development Practicum
+indicative content:
+- Manage a small to medium sized game project
+- Design a small to medium sized game or game artifact
+- Develop a small to medium sized game or game artifact
+- Communication and presentation of ideas in correct, clear and modern format
+learning and teaching methods:
+- Lectures and practicals will be used to introduce new concepts and to consider the
+  concepts' implications for module deliverables.
+- Self-directed learning activities will require students to reflect upon the module
+  materials, diagnose their learning needs and conduct research to satisfy these needs.
+- Peer learning -- students will be encouraged to work in small collaborative groups
+  to jointly consider and analyse in-class materials and to devise solutions to problems
+  posed by the lecturer.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Combine knowledge, skills or practices from (at least) two game development modules
+  to develop a multi-featured game.
+- Construct and present a working game or game artefact.
+- Construct a game design document and present this work in a clear and accessible
+  way.
+- Research and implement an agile software development methodology and present this
+  work in a clear and accessible way.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0668
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+short title: Game Development Practicum
+supplementary material: []

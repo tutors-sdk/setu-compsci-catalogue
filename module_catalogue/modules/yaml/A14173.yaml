@@ -1,0 +1,23 @@
+author: Eamonn de Leastar
+change: ''
+co-ordinator: ''
+code: A14173
+dirty: false
+external: false
+group: Computing and Mathematics
+name: ICT Skills Studio
+programmes:
+- programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0521
+ref: A14173
+short name: ICT Skills Studio
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: COMP-0521
+verified: true

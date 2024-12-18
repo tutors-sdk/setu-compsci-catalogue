@@ -1,0 +1,23 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14029
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Enterprise Data Exchange and XML
+programmes:
+- programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0969
+ref: A14029
+short name: Enterprise Data Exchange & XML
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0969
+verified: false

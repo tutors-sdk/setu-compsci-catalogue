@@ -1,0 +1,45 @@
+author: Clodagh Power
+change: ''
+co-ordinator: ''
+code: A13401
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Application Security
+programmes:
+- programme: WD_KCOMP_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0612
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0612
+- programme: WD_KDEVP_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0612
+- programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0612
+- programme: WD_KSOFP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0612
+ref: A13401
+short name: Application Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0612
+verified: true

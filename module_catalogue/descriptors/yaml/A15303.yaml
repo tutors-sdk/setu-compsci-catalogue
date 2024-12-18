@@ -1,0 +1,97 @@
+aim: The purpose of the learning portfolio module is to require the student to reflect
+  on and evaluate the experience gained from their chosen flexible semester elective
+  and to outline their personal and professional learning and growth through a portfolio
+  of assignments.
+assessment criteria:
+- 'Fail: Candidate has not successfully completed and submitted the required portfolio
+  of assignments.'
+- 'Pass: Candidate has successfully completed and submitted the required portfolio
+  of assignments.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A15303_-_CaM_-_ProfSkil_-_Learning_Portfolio-Flexible_Semester
+co-requisites: []
+code: A15303
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Learning Portfolio-Flexible Semester
+indicative content:
+- The student will be required to complete a portfolio of assignments as set by the
+  WIT coordinator, using the approved templates. Assignments content will include
+  a set of reflective journals, detailing their work and/or study experience and outlining
+  their personal and professional understanding, learning and growth
+- The portfolio will be submitted to the WIT coordinatoor
+learning and teaching methods:
+- The student will receive sample assignments and guidance on reflective learning
+  prior to the placement elective module.
+- Review with the work placement co-ordinator and/or academic mentor.
+learning modes:
+- full time: 12
+  name: Tutorial
+  part time: 12
+- full time: 269
+  name: Independent Learning
+  part time: 269
+learning outcomes:
+- Appraise the learning experience resulting from their work and/or study experience.
+- Determine and present personal skills and competencies along with strengths and
+  areas for further growth and development.
+- Demonstrate the principles and practice of reflective learning.
+- Communicate the aims, expectations and objectives of all parites to the placement
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0662
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0662
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0662
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0662
+  title: Bachelor of Science in Information Technology
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0662
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources: []
+short title: Learning Portfolio
+supplementary material:
+- '"Reflective Writing: Principles and Practice. In Teaching Portfolio Practice in
+  Ireland: A Handbook." http://www.tcd.ie/CAPSL/assets/pdf/Teaching_Portfolio_Practice_in_Ireland.pdf'

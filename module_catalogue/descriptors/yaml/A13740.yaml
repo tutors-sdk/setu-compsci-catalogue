@@ -1,0 +1,104 @@
+aim: This module aims to equip students with the knowledge and skills to apply best
+  security practices when programming in a range of languages and environments. In
+  addition, they will gain an appreciation of risks and learn how to carry out basic
+  threat modelling and avoid common vulnerabilities.
+assessment criteria:
+- '<40%: Unable to distinguish between different types of vulnerabilities or present
+  instances of them in a clear manner.'
+- '40%-49%: Able to present instances of software vulnerabilities and carry out threat
+  modelling on a basic system.'
+- '50%-59%: Able to explain in context and present instances of both low level software
+  vulnerabilities and higher level web application vulnerabilities. Able to model
+  threats in a software system with multiple usage scenarios and actors.'
+- '60%-69%: Also able to present and explain how to address both low level and web
+  application vulnerabilities.'
+- '70%-100%: All the above to an excellent level. Able to present and explain in detail
+  various ways to address both low level and web application vulnerabilities.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,4,5
+  main: false
+  name: Case Studies
+  weighting: 30
+- learning outcomes: 2,5
+  main: false
+  name: Lab Report
+  weighting: 25
+- learning outcomes: 3,5
+  main: false
+  name: Assignment
+  weighting: 45
+basename: A13740_-_CaM_-_ForeandSecu_-_Secure_Programming_and_Scripting
+co-requisites: []
+code: A13740
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Open Web Application Security Project." https://www.owasp.org'
+full title: Secure Programming and Scripting
+indicative content:
+- Software vulnerabilities
+- Threat modelling
+- Secure programming principles
+- Memory allocation, memory leaks, overflows
+- Web application security
+- Secure software engineering; requirements; design; code auditing & review; testing;
+  deployment
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practical classes.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+- The practical element involves a selection of laboratory exercises and related tasks.
+  For example, students will look for vulnerabilities in applications provided and
+  also write/adapt their own code to demonstrate common vulnerabilities and mitigation
+  techniques. They will also carry out a high-level threat modelling exercise.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe a selection of security vulnerabilities caused by software development
+  flaws.
+- Show using code examples how memory overflows can cause programs to behave unexpectedly.
+- Demonstrate specific security problems that can arise with web applications and
+  how to address them.
+- Model security threats in the specification of requirements for a software system.
+- Explain how to build security measures into the software development process.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: PROG-0083
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROG-0083
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Secure Programming
+supplementary material:
+- '"Computer Emergency Response Team." https://www.cert.org'
+- '"Security Focus." http://securityfocus.com'
+- 'McGraw, G. \emph{Software Security: Building Security In}. NY: Addison-Wesley,
+  2006.'
+- 'Sullivan, B. and V. Liu. \emph{Web Application Security, A Beginner''s Guide}.
+  NY: McGraw-Hill, 2012.'

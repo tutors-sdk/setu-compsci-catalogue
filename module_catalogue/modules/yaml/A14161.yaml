@@ -1,0 +1,25 @@
+author: Ruth Barry
+change: ''
+co-ordinator: ''
+code: A14161
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Business Intelligence
+programmes:
+- null
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: BUSS-0057
+ref: A14161
+short name: Business Intelligence
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+- autumn
+timetable: BUSS-0057
+verified: true

@@ -1,0 +1,38 @@
+author: Brenda Mullally
+change: A13705
+co-ordinator: ''
+code: A36101
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Database Design and Implementation
+programmes:
+- programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0621
+- programme: WD_KCOSC_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0621
+- programme: WD_KDAAN_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0621
+- programme: WD_SAFICT_G
+  semester: 1
+  stage: 5
+  status: M
+  timetable: COMP-0621
+ref: A36101
+short name: DB Design and Implementation
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- all
+- autumn
+timetable: COMP-0621
+verified: true

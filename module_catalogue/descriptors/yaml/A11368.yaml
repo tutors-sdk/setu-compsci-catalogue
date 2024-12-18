@@ -1,0 +1,96 @@
+aim: This module introduces the student to the process of production-scale automotive
+  software development, beginning with an overview of vehicle electronic architectures
+  and the automotive software development lifecycle. A detailed technical examination
+  of the AUTOSAR vehicle software architecture is presented and students will learn
+  how to apply this to the development of automotive applications. Model Based Development
+  and testing strategies are explored as a way of improving productivity and software
+  quality. In practical laboratory work students will experience the use of advanced
+  automotive software development and simulation tools.
+assessment criteria:
+- <40%:Inability to specify a coherent application design.
+- 40%-49%:Able to describe the basic software development technical concepts.
+- 50%-59%:All the above and in addition is able demonstrate an understanding of the
+  software development using industry tools and workflow.
+- 60%-69%:In addition, is able to develop automotive software components according
+  to the AUTOSAR specification.
+- 70%-100%:All of the above and able to demonstrate a deep understanding of how quality
+  assurance can be incorporated in to the development process.
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+- learning outcomes: 3,6
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 30
+basename: A11368_-_CaM_-_AutoAutoandIoT_-_Automotive_Software_Development
+co-requisites: []
+code: A11368
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"AUTOSAR Organisation." www.autosar.org'
+full title: Automotive Software Development
+indicative content:
+- Vehicle electronic architectures
+- Automotive software lifecycle
+- Automotive software analysis methods and design patterns
+- AUTOSAR architecture
+- AUTOSAR workflow and tools
+- Model Based Development process
+- Model specification and code generation tools
+- Automotive software testing
+learning and teaching methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and underlying technologies in automotive software
+  development.
+- The lab-based practicals, building on the theoretical knowledge from the lectures,
+  provide the practical skills to design, simulate and test automotive software applications.
+- Students will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the broader automotive industry topics
+  and current issues.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Select how software applications are structured and distributed in an automotive
+  environment.
+- Critique the AUTOSAR software architecture.
+- Integrate industry-standard workflow and tools to develop automotive software.
+- Set-up model based development techniques.
+- Produce test specifications for distributed software functions.
+- Design AUTOSAR standard software components.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0567
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Automotive Software Dev.
+supplementary material:
+- 'Schaeuffele, J and T. Zurawaka. \emph{Automotive Software Engineering}. Stuttgart,
+  Germany.: Springer, 2013.'

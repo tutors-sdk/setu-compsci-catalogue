@@ -1,0 +1,92 @@
+aim: This module aims to help the learner understand the role of creativity, innovation,
+  and problem solving in high technology industries. It will encourage the student
+  to recognise the importance of diverse ideas, and to convey that recognition to
+  others. It will cover methods for generating new ideas and ways to increase creative
+  and problem solving abilities through independent research, assessment and discussion.
+assessment criteria:
+- '<40%: Inability to identify and apply basic concepts of the knowledge domain.'
+- '40%-49%: Ability to identify and apply basic concepts of the knowledge domain.'
+- '50%-59%: Ability to distinguish and apply key concepts clearly and interpret their
+  relative importance in the knowledge domain.'
+- '60%-69%: Ability to apply solutions to problems in a range of relevant contexts.
+  An ability to employ a comprehensive range of specialised skills.'
+- '70%-100%: All of the above to an excellent level, with the ability to analyse and
+  design solutions to a high standard for a range of complex or unseen problems.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1, 2, 5
+  main: false
+  name: Portfolio
+  weighting: 50
+- learning outcomes: 1, 2, 3, 4
+  main: false
+  name: Group Project
+  weighting: 50
+basename: A11142_-_CaM_-_ProfSkil_-_Creative_Problem_Solving
+co-requisites: []
+code: A11142
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Creative Problem Solving
+indicative content:
+- Divergent and Convergent Thinking
+- Creative Models and Methods
+- Creativity and Observation
+- Decision Making Methods
+- Implementing Decisions
+- Argument Analysis
+learning and teaching methods:
+- Problem Based Learning
+- Case Study Analysis
+- Group work
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: 6
+- full time: 24
+  name: Tutorial
+  part time: 12
+- full time: 99
+  name: Independent Learning
+  part time: 117
+learning outcomes:
+- Examine the role of creativity and innovation in high tech industries.
+- Apply systematic methods and logical reasoning to problems and decisions.
+- Employ creative models and methods to design, implement and evaluate solutions.
+- Construct and analyse arguments.
+- Complete research activities on their own initiative.
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0605
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0605
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0605
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Lecture Room: Loose Seated'
+short title: Creative Problem Solving
+supplementary material:
+- '"Technology, Entertainment and Design." www.ted.com'
+- 'Brockman, J. \emph{Thinking: The New Science of Decision-Making, Problem-Solving,
+  and Prediction}. New York: Harper Perennial, 2016.'

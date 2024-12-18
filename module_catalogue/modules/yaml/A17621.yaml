@@ -1,0 +1,40 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A17621
+dirty: false
+external: false
+group: Computing and Mathematics
+name: French Intermediate 1 (B1.1)
+programmes:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: E
+  timetable: FREN-0069
+- null
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: FREN-0069
+- null
+ref: A17621
+short name: French Intermediate 1 (B1.1)
+special regulations: null
+subgroup: Humanities
+tags:
+- all
+- autumn
+timetable: FREN-0069
+verified: false

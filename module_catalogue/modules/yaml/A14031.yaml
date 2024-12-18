@@ -1,0 +1,29 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14031
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Research Methods and Dissertation Proposal
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: RESA-0175
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: RESA-0175
+ref: A14031
+short name: Res. Methods & Diss Proposal
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+- autumn
+timetable: RESA-0175
+verified: true

@@ -1,0 +1,28 @@
+author: Liam Doyle
+change: ''
+co-ordinator: ''
+code: A14130
+dirty: false
+external: false
+group: Computing and Mathematics
+name: IT Operations Management
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0655
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0655
+ref: A14130
+short name: IT Operations Management
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0655
+verified: true

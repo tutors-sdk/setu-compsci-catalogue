@@ -1,0 +1,116 @@
+aim: This module concentrates on the physical design and implementation of a database.
+  Database Management concepts are also examined such as Transaction Management, Concurrency
+  Control and Recovery. Students will be provided with the knowledge and skills to
+  administer and manage a commercial database.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of Physical Database Design
+  and Implementation; and Database Management concepts.'
+- '40%-49%: Be able to interpret and describe key concepts of Physical Database Design
+  and Implementation; and Database Management concepts.'
+- '50%-59%: Ability to discuss key concepts of Physical Database Design and Implementation;
+  and Database Management concepts. and ability to discover and integrate related
+  knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the field of Physical Database Design
+  and Implementation; and Database Management concepts. by experimenting with the
+  appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+- learning outcomes: 5,6
+  main: false
+  name: Project
+  weighting: 30
+- learning outcomes: 5,6
+  main: false
+  name: In-Class Practical
+  weighting: 30
+basename: A13504_-_CaM_-_DataandAnal_-_Database_Systems
+co-requisites: []
+code: A13504
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Database Systems
+indicative content:
+- 'Physical Database Design: Translate the logical data model; File organisation and
+  Indexes'
+- Distributed databases
+- 'Transactions management: Concurrency Control'
+- Database Backup & Recovery
+- 'SQL: Indexes; Constraints; Triggers; Advanced Querying; Privileges'
+learning and teaching methods:
+- This module will be presented by a combination of lectures, and/or tutorials, and
+  computer-based practicals.
+- The lectures will be used to introduce new topics and their related concepts. The
+  student will be encouraged to manage their own learning by asking questions as well
+  as being presented with problems similar to those presented in lectures.
+- The practical element is fundamental. The aim is to provide the student with the
+  skills and confidence to apply what has been demonstrated and learned.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Appraise the concepts of Physical Database Design and Implementation.
+- Classify and compare the concepts of Distributed Database Systems.
+- Examine the issues surrounding Transaction Management and Concurrency Control.
+- Explore the process of Database Recovery and Backup procedures.
+- Construct SQL statements, which would allow for the creation of relational database
+  tables and manipulation of the data within those tables.
+- Design and implement a database application.
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_EAUTO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: ''
+  title: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+  title: Bachelor of Science in Information Technology
+- programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Database Systems
+supplementary material:
+- '"Oracle Academy." https://academy.oracle.com/en/oa-web-overview.html'
+- 'Connolly, T. and C. Begg. \emph{Database Systems: A practical approach to design,
+  implementation and management}. 6th Ed.. Boston: Addison-Wesley, 2015.'
+- 'Date, C.J. \emph{SQL and Relational Theory: How to Write Accurate SQL Code}. 2nd
+  Ed.. California: O'' Reilly Media Inc, 2012.'

@@ -1,0 +1,24 @@
+author: Liam Doyle
+change: ''
+co-ordinator: ''
+code: A14381
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Supply Chain Integration Technologies
+programmes:
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: TECH-0012
+ref: A14381
+short name: Supply Chain Integration Tech
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+- autumn
+timetable: TECH-0012
+verified: true

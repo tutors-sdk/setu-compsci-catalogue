@@ -1,0 +1,58 @@
+author: Gabriel Gallagher
+change: ''
+co-ordinator: ''
+code: A09883
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Physics 1
+programmes:
+- programme: WD_EEELC_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_ETRIC_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KACCM_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KACCM_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KCMSC_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KCOFO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KCOMP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+- programme: WD_KINTT_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0542
+ref: A09883
+short name: Physics 1
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: COMP-0542
+verified: true

@@ -1,0 +1,28 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14067
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Dissertation
+programmes:
+- programme: WD_KCESS_R
+  semester: 3
+  stage: 1
+  status: M
+  timetable: DISS-0010
+- programme: WD_KISYP_R
+  semester: 3
+  stage: 1
+  status: M
+  timetable: DISS-0010
+ref: A14067
+short name: Dissertation
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: DISS-0010
+verified: false

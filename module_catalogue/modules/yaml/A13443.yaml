@@ -1,0 +1,43 @@
+author: Anne Dunphy
+change: ''
+co-ordinator: ''
+code: A13443
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Systems Analysis, Design and Testing
+programmes:
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: SYST-0023
+- programme: WD_KCOMP_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: SYST-0023
+- programme: WD_KDEVP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: SYST-0023
+- programme: WD_KDEVP_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: SYST-0023
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: SYST-0023
+ref: A13443
+short name: SAD & Testing
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- all
+- autumn
+timetable: SYST-0023
+verified: false

@@ -1,0 +1,97 @@
+aim: The objective of this module is to provide students with the understanding of
+  techniques and methods used to develop reliable quality software. Students will
+  also research and experiment with various tools in order to gain an insight into
+  how they can be utilised in the software engineering process.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of software engineeing.'
+- '40%-49%: Be able to interpret and describe key concepts of software engineering.'
+- '50%-59%: Ability to discuss key concepts of software engineering and the ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the software engineering by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,3,4,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 2,3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A07883_-_CaM_-_InfoSystandMode_-_Software_Engineering
+co-requisites: []
+code: A07883
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Software Engineering
+indicative content:
+- Evolution of the Software Engineering Discipline
+- Project Management
+- Software Processes and Methodologies
+- Requirements Engineering
+- Object Oriented Modelling
+- Software Testing and Software Quality
+- Configuration Management
+- Software Evolution
+learning and teaching methods:
+- This module will be presented using a combination of lectures and practical classes.
+- The lectures will be used to introduce new topics and their related concepts.
+- In practical classes students will apply these concepts and engage with project
+  management and DevOps tools in order to gain experience in the software engineering
+  process.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Analyse the role and responsibilities of the professional software engineer.
+- Justify the importance of project planning and create a project workflow using appropriate
+  tools.
+- Discriminate between different software processes and methodologies and be able
+  to select a suitable process or methodology for the design of a particular software
+  system.
+- Evaluate software requirements and illustrate the processes involved in discovering
+  these requirements.
+- Discriminate between different models and activities in the object oriented design
+  process.
+- Justify the importance of software testing, software quality and configuration management
+  in the development of software systems.
+- Manage the different stages of systems evolution.
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_KBUSY_G
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0103
+  title: Higher Diploma in Science in Business Systems Analysis
+- null
+- programme: WD_KMULA_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0103
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Software Engineering
+supplementary material:
+- 'Pressman, R. and B.R. Maxim. \emph{Software Engineering: A Practitioner''s Approach}.
+  8th ed. New York: McGraw-Hill Higher Education, 2014.'
+- 'Sommerville, I. \emph{Software Engineering}. 10th ed. Boston: Pearson, 2015.'

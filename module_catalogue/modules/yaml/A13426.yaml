@@ -1,0 +1,48 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A13426
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Cloud Computing 2
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0653
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0653
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0653
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0653
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0653
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0653
+ref: A13426
+short name: Cloud Computing 2
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+timetable: COMP-0653
+verified: false

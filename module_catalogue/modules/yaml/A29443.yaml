@@ -1,0 +1,49 @@
+author: Brenda Mullally
+change: ''
+co-ordinator: ''
+code: A29443
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Mining 2
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- programme: WD_KINTT_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+- null
+ref: A29443
+short name: Data Mining 2
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: COMP-0572
+verified: true

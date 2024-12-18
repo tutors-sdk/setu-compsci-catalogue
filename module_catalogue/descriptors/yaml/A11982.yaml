@@ -1,0 +1,90 @@
+aim: This module is concerned with the embedded architecture of high performance processor
+  systems and modern memories. The module aims to teach the skills and techniques
+  used in designing embedded systems hardware. The importance of timing parameters
+  and worst-case design will be emphasised and students will be exposed to Hardware
+  Descriptive Language (HDL) and associated development tools for hardware design.
+assessment criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+assessment methods:
+- learning outcomes: 1, 2, 3, 4
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: 5, 6
+  main: true
+  name: Final Practical
+  weighting: 40
+basename: A11982_-_CaM_-_Elec_-_Embedded_Systems_Architecture_and_Hardware
+co-requisites: []
+code: A11982
+credits: 5
+department: Engineering Technology
+dirty: false
+essential material:
+- 'Furber, S. \emph{Arm System-on-Chip Architecture}. .: Addison Wesley, 2000.'
+- 'Ganssle, J., T. Noergaard and F. Eady. \emph{Embedded Hardware: Know It All}. UK:
+  Newnes-Elsevier, 2008.'
+full title: Embedded Systems Architecture & Hardware
+indicative content:
+- Overview of Computer Architecture
+- Memory Management Unit (MMU), Cache Memories, External Memory controllers (EMC)
+- DC and AC analysis (Timing analysis), data sheet parameters interpretation
+- Input/Output design, multiprocessor design and arbitration issues
+- 'Flash, SRAM, SSRAM, DDR SDRAM memories: characteristics, timing diagrams and interfaces'
+- Development tools and hardware design using Hardware Descriptive Language (HDL),
+  basic processor architecture design
+learning and teaching methods:
+- Lectures and tutorials
+- Practicals
+- Mini-Project
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe computer architecture elements
+- Design and draw I/O subsystems, and arbitration circuits for multiprocessors
+- Interpret data sheet parameters and perform timing analysis for design evaluation
+- Perform basic calculations pertaining to design parameters
+- Use development tools and design flow methodology relating to HDL hardware design
+- Design, debug, test and verify computer architecture systems described by HDL languages
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_EONIC_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: ENGR-0019
+  title: Bachelor of Engineering (Honours) in Electronic Engineering
+- null
+- null
+- null
+requested resources: []
+short title: Embedded Sys Arch & Hardware
+supplementary material:
+- 'Andrews, J.R. \emph{Co-verification of Hardware & Software for ARM SoC Design}.
+  UK: Newnes, 2005.'

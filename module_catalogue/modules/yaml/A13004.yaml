@@ -1,0 +1,38 @@
+author: Aoife Hennessy
+change: ''
+co-ordinator: ''
+code: A13004
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Further Statistics
+programmes:
+- programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: STAT-0054
+- programme: WD_KDEVP_B
+  semester: 6
+  stage: 3
+  status: M
+  timetable: STAT-0054
+- programme: WD_KDEVP_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: STAT-0054
+- programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0659
+ref: A13004
+short name: Further Statistics
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: STAT-0054
+verified: true

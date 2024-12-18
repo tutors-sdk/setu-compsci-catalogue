@@ -1,0 +1,28 @@
+author: Sinead O'Riordan
+change: ''
+co-ordinator: ''
+code: A13564
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Graphic Design 1
+programmes:
+- programme: WD_KCRCO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0584
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0584
+ref: A13564
+short name: Graphic Design 1
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- all
+- autumn
+timetable: COMP-0584
+verified: true

@@ -1,0 +1,85 @@
+aim: This module builds on concepts introduced in Embedded Systems Architecture &
+  Hardware module. It covers the programming of high performance embedded processor
+  systems using C and assembly language. Software development tools are extensively
+  used with the main emphasis being on application development, testing, debugging
+  and verification.
+assessment criteria: []
+assessment methods:
+- learning outcomes: 4, 5, 6, 7
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 4, 5, 6, 7
+  main: false
+  name: Practical
+  weighting: 40
+- learning outcomes: 1, 2, 3
+  main: true
+  name: Final Written Examination
+  weighting: 60
+basename: A04604_-_CaM_-_Elec_-_Embedded_Firmware
+co-requisites: []
+code: A04604
+credits: 5
+department: Engineering Technology
+dirty: false
+essential material:
+- 'Furber, S. B. \emph{ARM System On Chip Architecture}. 2nd.. UK: Adison-Wesley,
+  2001 (Seminal).'
+full title: Embedded Firmware
+indicative content:
+- Architecture of Embedded Systems and programming model.
+- Instruction set and assembly language programming.
+- Subroutines, parameter passing, and good programming practice
+- Exceptions and interrupts, Vectored Interrupt controller (VIC), C and assembly language
+  constructs for Structured Programming.
+- APCS compliant modules , Mixed programming/translation in C and assembly
+- Polling and interrupt driven I/O, accessing and programming I/O devices, timer devices.
+- Software development tools, Application Programming Interface (API), libraries.
+- Program design, modular programming, testing, debugging and verification, documentation
+  and maintenance
+learning and teaching methods:
+- Lectures and tutorials
+- Practicals
+- Mini-Project (Teamwork)
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Demonstrate knowledge and understanding of processor's instructions and its peripheral
+  devices
+- Create programs in Assembly language, C language and mixed languages using APCS
+  standard
+- Analyse and translate C language software into Assembly language and vice-versa
+- Design application programs, and document it, in C/Assembly language using structured
+  and modularised approaches
+- Use software development tools to write, compile, test and debug programs
+- Create and use software libraries and API
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_EONIC_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COME-0004
+  title: Bachelor of Engineering (Honours) in Electronic Engineering
+- null
+- null
+- null
+- null
+- null
+requested resources:
+- 'ENGINEERING LAB: Electronics'
+short title: Embedded Firmware
+supplementary material:
+- 'Smith, W.A. \emph{C Programming for Embedded Microcontrollers}. 2nd.. UK: Elektor
+  International Media BV, 2008.'

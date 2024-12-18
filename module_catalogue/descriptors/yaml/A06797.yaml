@@ -1,0 +1,95 @@
+aim: This module introduces students to data analysis techniques in statistics, regression
+  and financial maths. The module will focus on the application of data analysis techniques
+  along with interpretation of data analysis results. Practical labs will be included
+  to introduce more advanced statistical features.
+assessment criteria:
+- '<40%: Unable to interpret and describe key statistical concepts.'
+- '40%-49%: Be able to interpret and describe key statistical concepts.'
+- '50%-59%: Be able to discuss key statistical concepts and to discover and integrate
+  related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve statistical problems using appropriate statistical tools.'
+- '70%-100%: Be able to analyse and design solutions to a high standard for a range
+  of both complex and unforeseen problems through the use and modification of statistical
+  skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Practical
+  weighting: 25
+basename: A06797_-_CaM_-_MathandPhys_-_Statistical_Analysis
+co-requisites: []
+code: A06797
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Statistical Analysis
+indicative content:
+- 'Descriptive Statistics: Data collection methods; Presentation of data; Measures
+  of center and spread'
+- 'Linear Regression: Least squares line; Pearson''s correlation coefficient; the
+  coefficient of determination'
+- 'Financial Mathematics: Interest and depreciation; Present value and Investment
+  appraisal; Annuities'
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practical
+  labs.
+- The practical labs will be used to support lectures by providing students with tools
+  for modelling real world problems.
+- The lectures will be used to introduce new topics and their related concepts.
+- The tutorials will provide a forum through which the student will rehearse/refine
+  new concepts introduced in lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 12
+  name: Tutorial
+  part time: 6
+- full time: 12
+  name: Practical
+  part time: 6
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Apply appropriate graphical and analytical techniques for the investigation of data.
+- Apply regression and correlation techniques in appropriate sets of data.
+- Compute sinking funds, net present value and internal rate of return problems.
+- Use relevant software to analyse data using appropriate functions and graphs.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Statistical Analysis
+supplementary material:
+- '"Statistical Analysis moodle page." https://moodle.wit.ie'
+- 'Francis, A. \emph{Business Mathematics and Statistics}. 7th ed. Boston, USA: Cengage
+  Learning, 2012.'

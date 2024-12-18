@@ -1,0 +1,1337 @@
+basename: WD_KCMSC_B_-_BSc_H_in_Computer_Science
+code: WD_KCMSC_B
+dirty: false
+semesters:
+  1:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A10922
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Computer Systems 1
+      part time:
+        Independent Learning: 111
+        Lecture: 6
+        Practical: 18
+      status: M
+      timetable: COMP-0541
+    - assessments:
+        Continuous Assessment: 25
+        Final Written Examination: 75
+      code: A10841
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 12
+        Tutorial: 12
+      name: Discrete Mathematics
+      part time: {}
+      status: M
+      timetable: MATH-0001
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A09883
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lab: 24
+        Lecture: 36
+      name: Physics 1
+      part time: {}
+      status: M
+      timetable: COMP-0542
+    - assessments:
+        Continuous Assessment: 100
+      code: A06609
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Programming Fundamentals 1
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0008
+    - assessments:
+        Continuous Assessment: 100
+      code: A04921
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 99
+        Lecture: 36
+      name: The Computer Industry
+      part time: {}
+      status: M
+      timetable: COMP-0375
+    - assessments:
+        Continuous Assessment: 100
+      code: A13422
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Website Development 1
+      part time:
+        Independent Learning: 111
+        Lecture: 6
+        Practical: 18
+      status: M
+      timetable: COMP-0590
+  2:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A10866
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: 2D Game Development
+      part time: {}
+      status: E
+      timetable: COMP-0624
+    - assessments:
+        Continuous Assessment: 100
+      code: A13602
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Automotive Software Concepts
+      part time: {}
+      status: E
+      timetable: COMP-0407
+    - assessments:
+        Continuous Assessment: 100
+      code: A13986
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Introduction to Cloud Computing
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: E
+      timetable: COMP-0625
+    - assessments:
+        Continuous Assessment: 100
+      code: A14022
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 36
+        Lecture: 12
+      name: Introduction to Security and Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0641
+    - assessments:
+        Continuous Assessment: 100
+      code: A11104
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Project Semester 2
+      part time: {}
+      status: E
+      timetable: PROJ-0157
+    mandatory:
+    - assessments:
+        Continuous Assessment: 25
+        Final Written Examination: 75
+      code: A10872
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 12
+        Tutorial: 12
+      name: Applied Calculus
+      part time: {}
+      status: M
+      timetable: COMP-0545
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A11062
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Computer Systems 2
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0546
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A11064
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 24
+      name: Physics 2
+      part time: {}
+      status: M
+      timetable: COMP-0547
+    - assessments:
+        Continuous Assessment: 100
+      code: A03902
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Programming Fundamentals 2
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0378
+    - assessments:
+        Continuous Assessment: 100
+      code: A13641
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Web App Development 1
+      part time: {}
+      status: M
+      timetable: COMP-0597
+  3:
+    elective:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A03807
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Embedded Systems
+      part time: {}
+      status: E
+      timetable: COMP-0195
+    - assessments:
+        Continuous Assessment: 100
+      code: A14027
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 36
+        Lecture: 12
+      name: File System Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0119
+    - assessments:
+        Continuous Assessment: 100
+      code: A10868
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Workshop: 24
+      name: Introduction to Game Design
+      part time: {}
+      status: E
+      timetable: COMP-0643
+    - assessments:
+        Continuous Assessment: 100
+      code: A13884
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 99
+        Lecture: 12
+        Tutorial: 24
+      name: Narrative Construction
+      part time: {}
+      status: E
+      timetable: COMP-0246
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13488
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Operating Systems
+      part time: {}
+      status: E
+      timetable: COMP-0379
+    - assessments:
+        Continuous Assessment: 100
+      code: A13325
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Professional Communications
+      part time: {}
+      status: E
+      timetable: COMP-0644
+    - assessments:
+        Continuous Assessment: 100
+      code: A11117
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Project Semester 3
+      part time: {}
+      status: E
+      timetable: PROJ-0158
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11144
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 24
+      name: Computer Networks
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0637
+    - assessments:
+        Continuous Assessment: 100
+      code: A13489
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Data Structures and Algorithms 1
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0602
+    - assessments:
+        Continuous Assessment: 25
+        Final Written Examination: 75
+      code: A10873
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Mathematical Methods
+      part time: {}
+      status: M
+      timetable: MTHS-0039
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A11106
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Relational Databases
+      part time: {}
+      status: M
+      timetable: COMP-0638
+  4:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11483
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: 3D Game Assets
+      part time: {}
+      status: E
+      timetable: COMP-0645
+    - assessments:
+        Continuous Assessment: 30
+        Final Written Examination: 70
+      code: A14175
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 48
+      name: Forensic Accounting and Fraud Audit
+      part time: {}
+      status: E
+      timetable: COMP-0420
+    - assessments:
+        Continuous Assessment: 100
+      code: A14182
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Industrial Automation Systems
+      part time: {}
+      status: E
+      timetable: COMP-0665
+    - assessments:
+        Continuous Assessment: 100
+      code: A11306
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Internet of Things Standards and Protocols
+      part time: {}
+      status: E
+      timetable: COMP-0560
+    - assessments:
+        Continuous Assessment: 100
+      code: A10865
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Introduction to 3D Game Development
+      part time: {}
+      status: E
+      timetable: COMP-0647
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13484
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Network Theory
+      part time: {}
+      status: E
+      timetable: COMP-0313
+    - assessments:
+        Continuous Assessment: 100
+      code: A13003
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Networks Infrastructure
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: E
+      timetable: COMP-0660
+    - assessments:
+        Continuous Assessment: 100
+      code: A11149
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Project Semester 4
+      part time: {}
+      status: E
+      timetable: PROJ-0159
+    - assessments:
+        Continuous Assessment: 100
+      code: A13740
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Secure Programming and Scripting
+      part time: {}
+      status: E
+      timetable: PROG-0083
+    - assessments:
+        Continuous Assessment: 100
+      code: A15081
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Software Engineering Practice
+      part time: {}
+      status: E
+      timetable: COMP-0640
+    mandatory:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13542
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Applied Cryptography
+      part time: {}
+      status: M
+      timetable: COMP-0451
+    - assessments:
+        Continuous Assessment: 100
+      code: A13490
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Data Structures and Algorithms 2
+      part time: {}
+      status: M
+      timetable: COMP-0639
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A13283
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Statistics and Probability
+      part time: {}
+      status: M
+      timetable: STAT-0017
+  5:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11961
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Embedded Systems Scripting
+      part time: {}
+      status: E
+      timetable: EMBS-0002
+    - assessments:
+        Final Project: 100
+      code: A10871
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 99
+        Lecture: 12
+        Practical: 24
+      name: Game Development Practicum
+      part time: {}
+      status: E
+      timetable: COMP-0668
+    - assessments:
+        Continuous Assessment: 100
+      code: A10745
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 12
+        Practical: 48
+      name: Introduction to C++ for Games
+      part time: {}
+      status: E
+      timetable: COMP-0669
+    - assessments:
+        Continuous Assessment: 100
+      code: A14171
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Tutorial: 24
+      name: Legal Principles of Computer Forensics
+      part time: {}
+      status: E
+      timetable: LAWS-0001
+    - assessments:
+        Continuous Assessment: 100
+      code: A13822
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Model-Based Development
+      part time: {}
+      status: E
+      timetable: COMP-0433
+    - assessments:
+        Continuous Assessment: 100
+      code: A14030
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 36
+        Lecture: 12
+      name: Network Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0129
+    - assessments:
+        Continuous Assessment: 100
+      code: A11438
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Tutorial: 24
+      name: Professional Practice
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Tutorial: 12
+      status: E
+      timetable: COMP-0599
+    - assessments:
+        Continuous Assessment: 100
+      code: A11344
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Project Semester 5
+      part time: {}
+      status: E
+      timetable: PROJ-0160
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13390
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Wireless Communications
+      part time: {}
+      status: E
+      timetable: COMM-0064
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11302
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Developer Operations
+      part time: {}
+      status: M
+      timetable: COMP-0559
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A11158
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: NoSQL Databases
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0661
+    - assessments:
+        Continuous Assessment: 100
+      code: A13727
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Web App Development 2
+      part time: {}
+      status: M
+      timetable: COMP-0611
+  6:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A14843
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      name: Industrial Placement 1
+      part time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      status: E
+      timetable: PLAC-0154
+    - assessments:
+        Continuous Assessment: 100
+      code: A19801
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      name: Industrial Placement 2
+      part time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      status: E
+      timetable: PLAC-0155
+    - assessments:
+        Continuous Assessment: 100
+      code: A14903
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Professional Certification 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: PROF-0048
+    - assessments:
+        Continuous Assessment: 100
+      code: A19802
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Professional Certification 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: PROF-0049
+    - assessments:
+        Continuous Assessment: 100
+      code: A04867
+      credits: 20
+      external: false
+      full time:
+        Independent Learning: 516
+        Lecture: 12
+        Tutorial: 12
+      name: Start-up Lab
+      part time: {}
+      status: E
+      timetable: BUSI-0304
+    - assessments:
+        Continuous Assessment: 100
+      code: A11347
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Study Abroad 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: STUD-0030
+    - assessments:
+        Continuous Assessment: 100
+      code: A19803
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Study Abroad 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: STUD-0031
+    - assessments:
+        Continuous Assessment: 100
+      code: A13730
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Voluntary Organisation Project 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: COMP-0663
+    - assessments:
+        Continuous Assessment: 100
+      code: A19804
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Voluntary Organisation Project 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: COMP-0664
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A15303
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Learning Portfolio-Flexible Semester
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: M
+      timetable: COMP-0662
+  7:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A29462
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Advanced Driver Assistance Systems
+      part time: {}
+      status: E
+      timetable: COMP-0568
+    - assessments:
+        Continuous Assessment: 100
+      code: A11368
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Automotive Software Development
+      part time: {}
+      status: E
+      timetable: COMP-0567
+    - assessments:
+        Continuous Assessment: 100
+      code: A32741
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Cloud Computing 1
+      part time: {}
+      status: E
+      timetable: COMP-0650
+    - assessments:
+        Final Practical: 40
+        Final Written Examination: 60
+      code: A11982
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Embedded Systems Architecture & Hardware
+      part time: {}
+      status: E
+      timetable: EMBS-0003
+    - assessments:
+        Continuous Assessment: 100
+      code: A12561
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Game Development in C++
+      part time: {}
+      status: E
+      timetable: GAME-0008
+    - assessments:
+        Continuous Assessment: 100
+      code: A29442
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 99
+        Lecture: 24
+        Practical: 12
+      name: Introduction to Convergent Technologies
+      part time: {}
+      status: E
+      timetable: TECH-0048
+    - assessments:
+        Continuous Assessment: 100
+      code: A12581
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Mobile Game Development
+      part time: {}
+      status: E
+      timetable: COMP-0671
+    - assessments:
+        Continuous Assessment: 100
+      code: A11377
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Network and System Security
+      part time: {}
+      status: E
+      timetable: COMP-0672
+    - assessments:
+        Continuous Assessment: 100
+      code: A14037
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Online Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0673
+    - assessments:
+        Final Project: 100
+      code: A14881
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Development)
+      part time: {}
+      status: E
+      timetable: PROJ-0166
+    - assessments:
+        Dissertation: 100
+      code: A14786
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Research)
+      part time: {}
+      status: E
+      timetable: PROJ-0167
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A29441
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Data Mining 1
+      part time: {}
+      status: M
+      timetable: COMP-0563
+    - assessments:
+        Continuous Assessment: 100
+      code: A13725
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Distributed Systems
+      part time: {}
+      status: M
+      timetable: COMP-0562
+    - assessments:
+        Continuous Assessment: 100
+      code: A13663
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Mobile App Development 1
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0630
+  8:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A10867
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Advanced 3D Game Development
+      part time: {}
+      status: E
+      timetable: GAME-0009
+    - assessments:
+        Continuous Assessment: 100
+      code: A12601
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Advanced Graphics for Games
+      part time: {}
+      status: E
+      timetable: GAME-0007
+    - assessments:
+        Final Written Examination: 100
+      code: A14322
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Artificial Intelligence
+      part time: {}
+      status: E
+      timetable: COMP-0215
+    - assessments:
+        Continuous Assessment: 100
+      code: A14782
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Artificial Intelligence for Games
+      part time: {}
+      status: E
+      timetable: GAME-0006
+    - assessments:
+        Continuous Assessment: 100
+      code: A13585
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Automotive Diagnostic Protocols
+      part time: {}
+      status: E
+      timetable: COMP-0223
+    - assessments:
+        Continuous Assessment: 100
+      code: A13426
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Cloud Computing 2
+      part time: {}
+      status: E
+      timetable: COMP-0653
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14048
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Workshop: 24
+      name: Computing Ethics
+      part time: {}
+      status: E
+      timetable: COMP-0674
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A12201
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 48
+      name: Criminal Evidence
+      part time: {}
+      status: E
+      timetable: CRIM-0008
+    - assessments:
+        Continuous Assessment: 100
+      code: A14032
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 36
+        Lecture: 12
+      name: Device Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0675
+    - assessments:
+        Continuous Assessment: 100
+      code: A13603
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Digital Photography
+      part time: {}
+      status: E
+      timetable: PHOT-0016
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A04604
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Embedded Firmware
+      part time: {}
+      status: E
+      timetable: COMP-0970
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14142
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Tutorial: 24
+      name: Formal Specification
+      part time: {}
+      status: E
+      timetable: COMP-0216
+    - assessments:
+        Continuous Assessment: 100
+      code: A11563
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Internet of Things Applications
+      part time: {}
+      status: E
+      timetable: COMP-0676
+    - assessments:
+        Final Written Examination: 100
+      code: A07001
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 48
+      name: Management Psychology
+      part time: {}
+      status: E
+      timetable: PSYC-0099
+    - assessments:
+        Continuous Assessment: 100
+      code: A13547
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Mobile App Development 2
+      part time: {}
+      status: E
+      timetable: COMP-0978
+    - assessments:
+        Final Project: 100
+      code: A14821
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 264
+        Tutorial: 6
+      name: Project 2 (Development)
+      part time: {}
+      status: E
+      timetable: PROJ-0169
+    - assessments:
+        Final Project: 100
+      code: A14866
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 264
+        Tutorial: 6
+      name: Project 2 (Research)
+      part time: {}
+      status: E
+      timetable: PROJ-0170
+    - assessments:
+        Continuous Assessment: 100
+      code: A11583
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: The Connected Car
+      part time: {}
+      status: E
+      timetable: COMP-0575
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A29443
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Data Mining 2
+      part time: {}
+      status: M
+      timetable: COMP-0572
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13433
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Functional Programming
+      part time: {}
+      status: M
+      timetable: PROG-0094

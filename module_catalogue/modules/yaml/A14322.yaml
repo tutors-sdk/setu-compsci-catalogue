@@ -1,0 +1,48 @@
+author: Peter Carew
+change: ''
+co-ordinator: ''
+code: A14322
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Artificial Intelligence
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+ref: A14322
+short name: Artificial Intelligence
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: COMP-0215
+verified: true

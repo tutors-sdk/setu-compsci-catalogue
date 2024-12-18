@@ -1,0 +1,29 @@
+author: Siobhan Drohan
+change: ''
+co-ordinator: ''
+code: A13557
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Agile Software Development
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0055
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0055
+ref: A13557
+short name: Agile Software Development
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0055
+verified: true

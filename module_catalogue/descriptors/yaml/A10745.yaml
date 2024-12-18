@@ -1,0 +1,98 @@
+aim: This module will introduce the student to the fundamentals of programming for
+  games using C++ and the Standard Template Library. Using procedural and object-oriented
+  techniques the student will gain confidence in designing and developing small video
+  games.
+assessment criteria:
+- '<40%: Inability to understand, describe and discuss key concepts of game development
+  using C++. Inability to apply appropriate techniques and/or tools to solve problems
+  in a C++ for games knowledge domain.'
+- '40%-49%: Ability to understand, describe and discuss key concepts of game development
+  using C++. Ability to apply appropriate techniques and/or tools to solve problems
+  in a C++ for games knowledge domain.'
+- '50%-59%: Ability to analyse and classify key concepts game development using C++.
+  Be able to employ a variety of specialised skills and pre selected tools or techniques
+  within a C++ for games knowledge domain.'
+- '60%-69%: Ability to exercise appropriate judgement in applying the key concepts
+  within game development using C++ and demonstrating an ability to be creative in
+  designing and developing solutions to problems for a C++ for games knowledge domain
+  using the appropriate skills, tools and/or techniques.'
+- '70%-100%: All the above to an excellent level. Ability to demonstrate mastery of
+  specialised skills when developing C++ games, generalise key concepts and deploy
+  solutions to a high standard for a range of complex, specialised and unforeseen
+  problems through the use and modification of advanced skills, tools and/or techniques.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1, 2, 3, 4
+  main: false
+  name: Project
+  weighting: 50
+- learning outcomes: 1,2,3
+  main: false
+  name: Practical
+  weighting: 50
+basename: A10745_-_CaM_-_GameDeve_-_Introduction_to_C++_for_Games
+co-requisites: []
+code: A10745
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Introduction to C++ for Games
+indicative content:
+- Types, variables and standard I/O
+- Control statements
+- The Standard Template Library (STL)
+- Functions
+- Pointers and references
+- Objected oriented programming in C++
+- Memory allocation
+- Introduction to Cocos2d-x
+learning and teaching methods:
+- Lectures and practical classes are used to deconstruct and analyse existing C++
+  games programmes and to plan, code and test solutions using a contemporary development
+  environment.
+- Self-directed learning activities will require students to will reflect upon the
+  module materials, diagnose their learning needs and conduct research to satisfy
+  these needs.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 75
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Develop small games using standard C++ sequence, conditional and iterative control
+  structures.
+- Create game objects and define the ways that they interact with each other through
+  object-oriented programming.
+- Employ the STL to utilise frequently used classes and functions in the development
+  of game programs.
+- Use pointers and memory allocation techniques to address, acquire and free memory
+  as game programs require.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0669
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Introduction to C++ for Games
+supplementary material:
+- 'Dawson, M. \emph{Beginning C++ Through Game Programming}. New York: Cengage Learning
+  PTR, 2014.'
+- 'Engelbert, R. \emph{Cocos2d-x by Example: Beginner''s Guide}. Birmingham, England:
+  Packt Publishing, 2015.'

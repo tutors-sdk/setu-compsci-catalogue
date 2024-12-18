@@ -1,0 +1,33 @@
+author: Rob O'Connor
+change: ''
+co-ordinator: ''
+code: A13884
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Narrative Construction
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0246
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0246
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0246
+ref: A13884
+short name: Narrative Construction
+special regulations: null
+subgroup: Media Production
+tags:
+- all
+- autumn
+timetable: COMP-0246
+verified: false

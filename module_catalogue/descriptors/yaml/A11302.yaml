@@ -1,0 +1,116 @@
+aim: This is a practical module that requires the student to build, configure and
+  manage the operating systems and network infrastructure required for a typical cloud
+  application environment.
+assessment criteria:
+- '<40%: Unable to build and configure basic infrastructure services to meet assignment
+  requirements. Unable to interpret and describe key concepts of the specific knowledge
+  domains of Python, Cloud Application Infrastructure services and automation.'
+- '40%-49%: Can build and configure basic infrastructure services to meet assignment
+  requirements. Be able to interpret and describe key concepts of the specific knowledge
+  domains of Python, Cloud Application Infrastructure services and automation.'
+- '50%-59%: Can discuss key concepts of the specific knowledge domains covered above
+  and ability to discover and integrate related knowledge into cloud based application
+  architectures.'
+- '60%-69%: In addition, be able to solve problems within the specific knowledge domain(s)
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. In addition, demonstrate a deep
+  understanding of the building, deployment and management of a Multi-tier web application
+  infrastructure.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+basename: A11302_-_CaM_-_NetwandClou_-_Developer_Operations
+co-requisites: []
+code: A11302
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Developer Operations
+indicative content:
+- Cloud Computing Architectures and Services
+- 'Public Cloud Services: Storage; Compute; Networking'
+- Configuration of Multi-tier Application Infrastructure Services
+- Cloud APIs -- Python or similar
+- Virtual Private Clouds
+- Web Application Architecture -- Performance, Scaling, Load Balancing and Security
+- Automation and scripting -- using for example bash (advanced), Python, PowerShell,
+  Chef, Ansible
+- Developer Operations (DevOps) tools and configuration
+- Network and Application Management and Monitoring
+learning and teaching methods:
+- The practical lab component will be delivery in a double lab session.
+- Strong emphasis on practical laboratory exercises with extensive use made of virtualised
+  environments.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Build, configure and manage essential network infrastructure and application services.
+- Deploy a network monitoring solution.
+- Develop scripts to assist in the management and automation of modern network services.
+- Analyse application performance, scalability, load balancing and security.
+- Compare and contrast the main technologies required to develop and manage Cloud
+  based Application Infrastructure.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+  title: Bachelor of Science (Honours) in Applied Computing
+- dirty: true
+  programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0522
+  title: Higher Diploma in Science in Computer Science
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Developer Operations
+supplementary material:
+- '"The Python Wiki." https://wiki.python.org/'
+- '"boto: Python interface to Amazon Web Services." http://boto.readthedocs.org/en/latest/'
+- 'Amazon, Amazon. \emph{Getting started with AWS (eBook)}. NY: Amazon Web Services,
+  2014.'
+- 'Garnaat, M. \emph{Python and AWS Cookbook}. 1st Ed. NY: O''Reilly, 2012.'
+- 'Kim, G., K. Behr and G. Spafford. \emph{The Phoenix Project: A Novel about IT,
+  DevOps, and Helping Your Business Win}. New York: IT Revolution Press, 2013.'
+- 'Loukides, M. \emph{What is DevOps? (ebook)}. NY: O''Reilly, 2012.'
+- 'Morris, K. \emph{Infrastructure as Code: Managing Servers in the Cloud}. 1st. New
+  York: O''Reilly Media, 2016.'

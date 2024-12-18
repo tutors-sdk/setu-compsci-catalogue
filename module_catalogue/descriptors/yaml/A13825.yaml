@@ -1,0 +1,135 @@
+aim: 'This module aims to: Introduce students to the main concepts and ideas in social
+  psychology and develop their ability to apply these ideas to modern social issues.'
+assessment criteria:
+- Fail (0-39) Fails to address the question, key issues, and concepts. Poor writing
+  and organisation; Evidence that basic material is misunderstood.
+- Pass (40-49) Limited consideration of main points and concepts addressed; Direct
+  attempt at the question but some context lacking. Some understanding of how to structure
+  and presentation of ideas; Limited evidence of the relevant texts and literature.
+- 50--59 (2.2) A satisfactory answer but without the range of reading and interpretation
+  deserving of a higher honours mark; Sparse or highly selective coverage of the relevant
+  material. Assertions not suitably supported by argument or evidence; Limited discussion
+  and reflection, but showing knowledge of the underpinning principles.
+- 60-69 (2.1) A well-organised, well-written answer, demonstrating that the material
+  is critically analysed; Evidence of reading beyond essential course material. Addressing
+  and analysing the main points and showing evidence of a good grasp of the underpinning
+  knowledge; some evidence of evaluation and synthesis of the relevant issues.
+- 70% and over (1.1) Excellent answer that combines an exceptional degree of independent
+  reading and thinking with a high degree of integration; A depth of insight into
+  theoretical issues, demonstrating a concise and clear analytical style. Excellent
+  level of critical analysis and originality of thought; excellent critical evaluation
+  and synthesis of relevant issues, showing an ability to integrate and apply theory
+  in a precise manner.
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning outcomes: 1,2
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+basename: A13825_-_CaM_-_Huma_-_Introduction_to_Social_Psychology
+co-requisites: []
+code: A13825
+credits: 5
+department: Applied Arts
+dirty: false
+essential material:
+- 'Aronson, E., T.D. Wilson and R.M. Akert. \emph{Social Psychology} . 9. London:
+  Pearson, 2017.'
+- 'Hogg, M.A. and G.M. Vaughan. \emph{Social Psychology} . 8. London: Pearson, 2017.'
+full title: Introduction to Social Psychology
+indicative content:
+- Introduction and Overview
+- Social Perception - self identity, attribution theory
+- Social Cognition - schema, stereotypes and heuristics
+- Group Influences
+- 'Social Influence 1: Conformity, authority and Obedience (Asch, Milgram etc)'
+- 'Social Influence 2: Conformity, authority and Obedience (Zimbardo etc)'
+- Theories of Aggression
+- Prosocial Behaviour
+- Applications of Social Psychology
+- Overview and Revision
+learning and teaching methods:
+- A two-hour lecture and a one-hour interactive tutorial per week.
+- Lectures will take a formal theoretical format; emphasis is placed on making explicit
+  relevant theory and research.
+- The tutorial hour constitutes small group exercises based on the weekly lecture
+  topic.
+- Students are expected to attend lectures, prepare for and contribute to class discussions
+  and activities.
+- Video and audio resources will support tutorial work and aim to consolidate lecture
+  material in parallel.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Tutorial
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Define key concepts and ideas in social psychology.
+- Examine core theories in social psychology.
+- Summarise research relating to the influence of the social environment on human
+  behaviour.
+- Discuss theories of social and cultural influence.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_HARTS_B
+  semester: 2
+  stage: 1
+  status: ''
+  timetable: PSYC-0109
+  title: Bachelor of Arts (Honours)
+- programme: WD_HECHS_B
+  semester: 5
+  stage: 3
+  status: ''
+  timetable: PSYC-0119
+  title: Bachelor of Arts (Honours) in Early Childhood Studies
+- programme: WD_HPSYC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: PSYC-0109
+  title: Bachelor of Arts (Honours) in Psychology
+- programme: WD_HPSYI_B
+  semester: 2
+  stage: 1
+  status: ''
+  timetable: PSYC-0109
+  title: Bachelor of Arts (Honours) in Psychology with Arts (International)
+- programme: WD_HSOCR_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: PSYC-0130
+  title: Bachelor of Arts (Honours) in Social Care Practice
+- programme: WD_HSOSC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Arts (Honours) in Social Science
+- programme: WD_HSOST_B
+  semester: 5
+  stage: 3
+  status: ''
+  timetable: SOCI-0157
+  title: Bachelor of Arts (Honours) in Applied Social Studies in Social Care
+- null
+- null
+requested resources: []
+short title: Intro to Social Psychology
+supplementary material:
+- 'Smith, P.B., R. Fischer, V.L. Vignoles and M. Harris Bond. \emph{Understanding
+  Social Psychology Across Cultures}. 2. London: Sage Publications, 2013.'

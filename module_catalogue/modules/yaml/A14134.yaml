@@ -1,0 +1,29 @@
+author: Liam Doyle
+change: ''
+co-ordinator: ''
+code: A14134
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Enterprise Systems Architecture
+programmes:
+- null
+- programme: WD_KDEVP_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0610
+- programme: WD_KSOFP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0610
+ref: A14134
+short name: Enterprise Systems Arch.
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- all
+- autumn
+timetable: COMP-0610
+verified: true

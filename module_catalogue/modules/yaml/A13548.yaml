@@ -1,0 +1,38 @@
+author: Catherine Fitzpatrick
+change: ''
+co-ordinator: ''
+code: A13548
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Web Design and Development
+programmes:
+- programme: WD_KCOMP_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0598
+- programme: WD_KCRCO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0598
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0598
+- programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0598
+ref: A13548
+short name: Web Design and Development
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+timetable: COMP-0598
+verified: false

@@ -1,0 +1,146 @@
+basename: WD_KCOSC_G_-_HDip_in_Science_in_Computer_Science
+code: WD_KCOSC_G
+dirty: false
+semesters:
+  1:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A24601
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 48
+        Practical: 48
+      name: Computer Systems and Networks
+      part time: {}
+      status: M
+      timetable: COMP-0975
+    - assessments:
+        Continuous Assessment: 100
+      code: A36101
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Database Design and Implementation
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: COMP-0621
+    - assessments:
+        Continuous Assessment: 100
+      code: A14167
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Programming Fundamentals - ICT
+      part time: {}
+      status: M
+      timetable: COMP-0516
+    - assessments:
+        Continuous Assessment: 100
+      code: A10923
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Web Development 1
+      part time: {}
+      status: M
+      timetable: COMP-0517
+  2:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13744
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Computer Security and Forensics
+      part time: {}
+      status: E
+      timetable: COMP-0620
+    - assessments:
+        Continuous Assessment: 100
+      code: A14168
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Mobile Application Development - ICT
+      part time: {}
+      status: E
+      timetable: COMP-0523
+    - assessments:
+        Continuous Assessment: 100
+      code: A14666
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 174
+        Lecture: 48
+        Practical: 48
+      name: Web App Development
+      part time: {}
+      status: E
+      timetable: COMP-0961
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11302
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Developer Operations
+      part time: {}
+      status: M
+      timetable: COMP-0522
+    - assessments:
+        Continuous Assessment: 100
+      code: A14173
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: ICT Skills Studio
+      part time: {}
+      status: M
+      timetable: COMP-0521
+  3:
+    elective: []
+    mandatory:
+    - assessments:
+        Final Project: 100
+      code: A14887
+      credits: 30
+      external: false
+      full time:
+        Independent Learning: 264
+        Placement: 540
+        Tutorial: 6
+      name: ICT Skills Placement
+      part time: {}
+      status: M
+      timetable: PLAC-0128

@@ -1,0 +1,123 @@
+aim: This module introduces the student to the creation and development of web based
+  applications. The student will become skilled in HyperText Markup Language(HTML)
+  and Cascading Style Sheets(CSS), to enable the creation of a well structured aesthetically
+  pleasing static website, while meeting accessibility compliance standards. The student
+  will be able to enhance the layout of websites, using a CSS Framework.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of website development.'
+- '40%-49%: Be able to interpret and describe key concepts of website development.'
+- '50%-59%: Ability to discuss key concepts of website development and ability to
+  discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within website development by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 70
+basename: A13422_-_CaM_-_SoftandWebDeve_-_Website_Development_1
+co-requisites: []
+code: A13422
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"W3Schools." http://www.w3schools.com/'
+full title: Website Development 1
+indicative content:
+- Basic Document Construction(HTML features)
+- Styling with CSS
+- Use of a CSS Framework
+- User Experience(UX) and website design
+- Templating
+- Deployment of a static website
+learning and teaching methods:
+- The module will be delivered in one lecture and in three hours of computer-based
+  practicals each week.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: 6
+- full time: 36
+  name: Practical
+  part time: 18
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Demonstrate the ability to create a well-structured static website using HTML.
+- Demonstrate the ability to present and control the format of web pages using CSS.
+- Develop a standards compliant accessible website.
+- Demonstrate the ability to enhance the layout of a website using a CSS Framework.
+- Deploy an aesthetically pleasing website.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_BCSEC_SP
+  semester: 1
+  stage: 3
+  status: M
+  timetable: COMP-0590
+  title: Diploma in Computing with Security and Forensics
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0590
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0590
+  title: Bachelor of Science in Software Systems Development
+- programme: WD_KCOMP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0590
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KCOSC_G
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0590
+  title: Higher Diploma in Science in Computer Science
+- null
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0590
+  title: Bachelor of Science in Information Technology
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0590
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Website Development 1
+supplementary material:
+- 'Castro, E. and B. Hyslop. \emph{HTML and CSS: Visual Quickstart}. 8th ed. Berkeley:
+  Peachpit Press, 2014.'
+- 'Felke-Morris, T. \emph{Web Development and Design Foundations with HTML5}. 7th
+  ed. London: Pearson, 2015.'

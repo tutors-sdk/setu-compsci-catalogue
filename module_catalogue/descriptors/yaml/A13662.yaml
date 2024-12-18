@@ -1,0 +1,89 @@
+aim: This module aims to provide students with a solid grounding in applied ethics
+  and critical thinking skills for dealing with the plethora of intractable ethical
+  issues that surround and pervade modern information systems and the information
+  society.
+assessment criteria:
+- '<40%: Unable to demonstrate an understanding of basic ethical theory or the ability
+  to cogently analyse typical ethical issues.'
+- '40%-59%: Demonstrate an understanding of ethical theory, and the ability to cogently
+  analyse typical ethical issues.'
+- '60%-69%: Demonstrate an understanding of ethical theory, and the ability to cogently
+  analyse and debate complex ethical issues.'
+- '70%-100%: Demonstrate an excellent understanding of ethical theory, and the ability
+  to critically analyse, research, debate and choose appropriate professional action
+  for complex ethical issues.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 2,3
+  main: false
+  name: Presentation
+  weighting: 15
+- learning outcomes: 1,3
+  main: false
+  name: Case Studies
+  weighting: 35
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+basename: A13662_-_CaM_-_ProfSkil_-_Ethics_and_e-Privacy
+co-requisites: []
+code: A13662
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Baase, S. \emph{A Gift of Fire: Social, Legal, and Ethical Issues for Computing
+  and the Internet}. 4th ed. NJ: Prentice Hall, 2012.'
+full title: Ethics and e-Privacy
+indicative content:
+- 'Introduction to Ethics: Theoretical Ethics; Professional Ethics; Cyber-ethics'
+- 'Privacy: The Concept of Privacy; e-Privacy'
+- Computers in the Workplace
+- Computer Crime, Cybercrime and Cybersecurity
+- Censorship and Freedom of Speech
+- Intellectual Property
+- Computer Safety and Dependence
+- Ethical Information Systems Development
+learning and teaching methods:
+- Interactive lectures for delivery of theoretical content.
+- 'Peer learning: Weekly online debate sessions on different ethical topics (case
+  studies).'
+- 'Independent learning: Research for the weekly debate sessions and assigned research
+  paper/presentation.'
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Critique ethical issues that pervade computing technologies, information systems
+  and the information society.
+- Contrast ethical theory and guidelines, and how they could be applied to help solve
+  ethical dilemmas.
+- Evaluate, research and debate a range of contemporary ethical issues.
+- Decide on ethical action in professional praxis when faced with ethical dilemmas.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: ETHS-0001
+  title: Master of Science in Computing (Information Systems Processes)
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Ethics and e-Privacy
+supplementary material:
+- 'Tavani, H.T. \emph{Ethics and Technology: Controversies, Questions, and Strategies
+  for Ethical Computing}. NJ: Wiley, 2013.'

@@ -1,0 +1,34 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A37367
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Science in Practice
+programmes:
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: DATA-0017
+- programme: WD_KDEVP_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: DATA-0017
+- programme: WD_KSOFP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: DATA-0017
+ref: A37367
+short name: Data Science in Practice
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: DATA-0017
+verified: false

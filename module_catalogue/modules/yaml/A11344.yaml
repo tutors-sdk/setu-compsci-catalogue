@@ -1,0 +1,33 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A11344
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Project Semester 5
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: PROJ-0160
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: PROJ-0160
+- programme: WD_KINTT_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: PROJ-0160
+ref: A11344
+short name: Project Semester 5
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- all
+- autumn
+timetable: PROJ-0160
+verified: false

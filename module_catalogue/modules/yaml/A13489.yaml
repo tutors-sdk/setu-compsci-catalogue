@@ -1,0 +1,69 @@
+author: Peter Carew
+change: ''
+co-ordinator: ''
+code: A13489
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Structures and Algorithms 1
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KACCM_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KCOMP_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KDEVP_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0602
+- programme: WD_KINTT_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+ref: A13489
+short name: Data Structures & Algorithms 1
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0602
+verified: true

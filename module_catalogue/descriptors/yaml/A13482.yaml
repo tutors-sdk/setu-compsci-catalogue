@@ -1,0 +1,117 @@
+aim: This is a practical module that requires the student to build, configure and
+  manage the operating system and network infrastructure required for a typical cloud
+  application environment.
+assessment criteria:
+- <40%:Unable to build and configure basic infrastructure services to meet assignment
+  requirements. Unable to interpret and describe key concepts of the specific knowledge
+  domains of Python, Cloud Application Infrastructure services and automation.
+- 40%-49%:Can build and configure basic infrastructure services to meet assignment
+  requirements. Be able to interpret and describe key concepts of the specific knowledge
+  domains of Python, Cloud Application Infrastructure services and automation.
+- '50%-59%: Can discuss key concepts of the specific knowledge domains covered above
+  and ability to discover and integrate related knowledge into cloud based application
+  architectures.'
+- 60%-69%:In addition, be able to solve problems within the specific knowledge domain(s)
+  by experimenting with the appropriate skills and tools.
+- 70%-100%:All the above to an excellent level. In addition, demonstrate a deep understanding
+  of the building, deployment and management of a Multi-tier web application infrastructure.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+basename: A13482_-_CaM_-_NetwandClou_-_Automated_Cloud_Services
+co-requisites: []
+code: A13482
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Automated Cloud Services
+indicative content:
+- Cloud Computing Architectures and Services
+- 'Public Cloud Services: Storage; Compute; Networking'
+- Introduction to Python Programming
+- Cloud APIs -- Python or similar
+- Configuration of Multi-tier Application Infrastructure Services
+- Virtual Private Clouds
+- Web Application Architecture -- Performance, Scaling, Load Balancing and Security
+- Devops, Automation and scripting -- using for example bash (advanced), Python, PowerShell,
+  Chef, Ansible
+- Network and Application Management and Monitoring
+learning and teaching methods:
+- The practical lab component will be delivered in one double lab session.
+- Strong emphasis on practical laboratory exercises with extensive use made of virtualised
+  environments.
+- Self-directed learning.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: 6
+- full time: 36
+  name: Practical
+  part time: 18
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Develop, configure and manage essential network infrastructure and application services.
+- Deploy a network monitoring solution.
+- Develop scripts to assist in the management and automation of modern network services.
+- Appraise and apply principles of application performance, scalability, load balancing
+  and security.
+- Compare and contrast the main technologies required to develop and manage Cloud
+  based Application Infrastructure.
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_EAUTO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: ''
+  title: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+  title: Bachelor of Science in Information Technology
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: ''
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Automated Cloud Services
+supplementary material:
+- '"The Python Wiki." https://wiki.python.org/'
+- '"boto: Python interface to Amazon Web Services." http://boto.readthedocs.org/en/latest/'
+- 'Amazon, A. \emph{Getting started with AWS (eBook)}. New York: Amazon, 2014.'
+- 'Morris, K. \emph{Infrastructure as Code: Managing Servers in the Cloud}. 1st. New
+  York: O''Reilly Media, 2016.'

@@ -1,0 +1,28 @@
+author: Sinead Walsh
+change: ''
+co-ordinator: ''
+code: A13552
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Programming Concepts
+programmes:
+- programme: WD_KCOMP_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: PROG-0093
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: PROG-0093
+ref: A13552
+short name: Programming Concepts
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: PROG-0093
+verified: true

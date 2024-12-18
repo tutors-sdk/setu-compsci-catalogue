@@ -1,0 +1,24 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A13801
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Cloud Application Services
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0616
+ref: A13801
+short name: Cloud Application Services
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0616
+verified: false

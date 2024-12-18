@@ -1,0 +1,75 @@
+aim: Continue to develop the students' programming skills with a particular focus
+  on modern web development tools, frameworks and applications. A strong emphasis
+  industry best practice - with close attention software configuration management
+  tools. The Studio will also support a forum for talks and seminars from industry
+  on technology trends and work practices.
+assessment criteria:
+- '<40%: Unable to interpret, describe or implement key components of a simple web
+  application.'
+- '40%-49%: Be able to construct a minimal web application, incorporating server side
+  rendering.'
+- '50%-59%: Design and implement a web application including basic database and session
+  support.'
+- '60%-69%: All of the above including a simple model of the application structure.'
+- '70%-100%: All the above to an excellent level. Incorporate Unit Tests for a specific
+  subset of an application.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 100
+basename: A14173_-_CaM_-_SoftandWebDeve_-_ICT_Skills_Studio
+co-requisites: []
+code: A14173
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: ICT Skills Studio
+indicative content:
+- Consolidating programming principles & practices
+- Elementary algorithms & data structures
+- Web development applications design & implementation
+- Server side and client side aspects of web wevelopment
+- Current trends in software development technology
+learning and teaching methods:
+- Supervised, guided and scripted practicals will lead the student through the construction
+  of selection of small applications, designed to illustrate key concepts covered
+  in the lectures.
+- Worked Laboratory Exercises.
+- Short Lectures to outline specific concepts.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Construct a simple but robust server-rendered web application.
+- Differentiate the role of the client and server in this context.
+- Break a problem domain into a series of discrete features.
+- Manage the assets of a project in a configuration management environment.
+level: Intermediate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0521
+  title: Higher Diploma in Science in Computer Science
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: ICT Skills Studio
+supplementary material:
+- 'Richard-Foy, J. \emph{Play Framework Essentials}. New York: Packt Publishing, 2014.'
+- 'Syed, B. \emph{Beginning Node.js}. New York: Apress, 2014.'

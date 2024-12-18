@@ -1,0 +1,101 @@
+aim: This module is designed to introduce the student to additional fundamental physics
+  principles and will augment the content covered in the semester one physics module
+  (Physics I). Problem-solving skills will be developed and used to analyse physical
+  situations. The integrated practical programme will enhance the student's experimental,
+  logical thinking and report-writing skills.
+assessment criteria:
+- <40%:Unable to interpret and describe key concepts of the specific knowledge domain(s).
+- 40%-49%:Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).
+- 50%-59%:Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: 5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 5,6
+  main: false
+  name: Assignment
+  weighting: 40
+basename: A11064_-_CaM_-_MathandPhys_-_Physics_2
+co-requisites: []
+code: A11064
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Materials provided on Moodle." http://moodle.wit.ie'
+full title: Physics 2
+indicative content:
+- 'Thermal Physics: Temperature and temperature scales; Expansion of solids; Heat
+  capacity and latent heats; Heat transfer'
+- 'Electromagnetism: Electric forces and fields; Electric Potential and electric potential
+  energy; Capacitance and dielectrics; Magnetism and electromagnetic induction'
+- 'DC circuits: Kirchoff''s Laws; Series and parallel circuits'
+- 'AC circuits: AC current and voltage: Impedance and phase angle; Analysis of series
+  and parallel RC circuits'
+- 'Semiconductor Theory: Band Theory of solids; Intrinsic and extrinsic semiconductors;
+  p-n junction diode and thermistor'
+- Application of measurement principles to a range of sensors
+learning and teaching methods:
+- Lectures
+- Laboratory work
+- Live and video-based demonstrations
+- Tutorial/revision sheets provided on moodle
+- Self-directed learning
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 75
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Describe and explain the fundamental physics principles underlying the concepts
+  outlined in the indicative content.
+- Compute routine expressions related to simple AC and DC electrical circuits.
+- Apply problem-solving skills to find solutions to a range of practical and theoretical
+  problems.
+- Describe and discuss the practical application of the physics concepts introduced
+  related to a number of physical devices.
+- Record and analyse experimental data in an accurate manner.
+- Report on and critically assess a range of experiments relating to the course content.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'SCIENCE LAB: Physics'
+short title: Physics 2
+supplementary material:
+- '"Podcasts such as." Tech Weekly, Science Friday, Science Weekly, More or less'
+- 'Giancoli, G.C. \emph{Physics, Principles with Applications}. 6th Ed. NY: Prentice-Hill,
+  2013.'
+- 'Johnson, K. \emph{Physics for You}. NY: Stanley Thornes, 2011.'
+- 'O''Regan, D. \emph{Real-World Physics}. NY: Folens, 2000.'
+- 'Walker, J.S. \emph{Physics Technology Update}. 4th Ed. NY: Pearson International,
+  2014.'

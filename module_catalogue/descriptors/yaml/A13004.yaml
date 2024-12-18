@@ -1,0 +1,98 @@
+aim: The module is designed to consolidate understanding of fundamental statistical
+  concepts and extend knowledge and skills to probability, advanced regression techniques
+  and inferential statistics. The student will see how these tools can be applied
+  in an industry setting. Statistical software will be used as a modelling tool.
+assessment criteria:
+- '<40%: Unable to interpret and describe key statistical concepts.'
+- '40%-49%: Be able to interpret and describe key statistical concepts.'
+- '50%-59%: Be able to discuss key statistical concepts and to discover and integrate
+  related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve statistical problems using appropriate statistical tools.'
+- '70%-100%: Be able to analyse and design solutions to a high standard for a range
+  of both complex and unforeseen problems through the use and modification of statistical
+  skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+- learning outcomes: 1,2,3,4,5,6
+  main: false
+  name: Practical
+  weighting: 25
+basename: A13004_-_CaM_-_MathandPhys_-_Further_Statistics
+co-requisites: []
+code: A13004
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Further Statistics
+indicative content:
+- 'Probability: Basic probability and nature of statistical investigations; Discrete
+  and continuous distributions; Quality control charts'
+- 'Inferential statistics: Sampling distributions; Hypothesis testing using p values
+  and confidence intervals on one or more samples'
+- 'Advanced regression: Non-linear regression; Multiple regression; Goodness of fit
+  testing'
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practical
+  labs.
+- The practical labs will be used to support lectures by providing students with tools
+  for modelling real world problems.
+- The lectures will be used to introduce new topics and their related concepts.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply probability principles and data distributions to evaluate quality control
+  procedures.
+- Distinguish between descriptive and inferential statistical quantities in data analytics.
+- Apply a broad range of analytical statistical techniques and interpret these appropriately.
+- Analyse patterns from intricate data sets.
+- Assemble data sets for subsequent analysis and conclude suitable inferences from
+  them.
+- Use appropriate statistical software tools to analyse and interpret data.
+level: Intermediate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: STAT-0054
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0659
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Further Statistics
+supplementary material:
+- '"Further Statistics moodle page." https://moodle.wit.ie'
+- 'Crawley, M.J. \emph{Statistics: An Introduction using R}. 2nd ed. New Jersey: Wiley,
+  2014.'
+- 'Rice, J.A. \emph{Mathematical Statistics and Data Analysis}. 3rd ed. New York:
+  Duxbury Press, 2010.'

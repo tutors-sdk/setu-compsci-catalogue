@@ -1,0 +1,44 @@
+author: Maria Cahill
+change: ''
+co-ordinator: ''
+code: A07001
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Management Psychology
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PSYC-0099
+ref: A07001
+short name: Management Psychology
+special regulations: null
+subgroup: Humanities
+tags:
+- spring
+- all
+timetable: PSYC-0099
+verified: true

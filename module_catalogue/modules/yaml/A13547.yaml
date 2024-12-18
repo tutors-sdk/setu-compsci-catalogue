@@ -1,0 +1,65 @@
+author: David Drohan
+change: ''
+co-ordinator: ''
+code: A13547
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mobile App Development 2
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- null
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0978
+- programme: WD_KDEVP_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0978
+- programme: WD_KINTT_BI
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0978
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: M
+  timetable: COMP-0978
+ref: A13547
+short name: Mobile App Development 2
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0978
+verified: false

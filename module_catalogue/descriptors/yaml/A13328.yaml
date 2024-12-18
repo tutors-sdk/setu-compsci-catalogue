@@ -1,0 +1,93 @@
+aim: The aim of this module is to demonstrate how companies apply marketing concepts
+  and strategy in high technology industries.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domain(s).'
+- '40%-49%: Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).'
+- '50%-59%: Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,4,5
+  main: false
+  name: Project
+  weighting: 60
+- learning outcomes: 2,3
+  main: false
+  name: Project
+  weighting: 40
+basename: A13328_-_CaM_-_Busi_-_Integrated_Marketing
+co-requisites: []
+code: A13328
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Integrated Marketing
+indicative content:
+- The Marketing Process
+- The High Technology Marketing Environment
+- The High Technology Marketing Mix
+- Developing Market Information in High Technology Industries
+- Digital Promotional Campaigns
+learning and teaching methods:
+- This module will be presented using a combination of formal lectures and practical
+  classes. Lectures will introduce concepts and an emphasis will be placed on interaction,
+  discussions and in-class exercises. In practical classes, students will engage with
+  practical marketing techniques and case studies.
+- Self-directed learning activities will require students to reflect upon the module
+  materials, diagnose their learning needs and conduct research to satisfy these needs.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Examine the role of marketing in software and hardware development.
+- Apply marketing research methods used by high tech companies.
+- Apply digital marketing tools to develop an online promotional campaign.
+- Examine market dynamics in high technology marketing industries.
+- Analyse the marketing strategy of high technology companies.
+level: Intermediate
+pre-requisites: []
+programmes:
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: E
+  timetable: MARK-0193
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: M
+  timetable: MARK-0193
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+short title: Integrated Marketing
+supplementary material:
+- 'Arthur, C. \emph{Digital Wars: Apple, Google, Microsoft and the Battle for the
+  Internet}. London: Kogan Page, 2012.'
+- 'Brynjolfsson, E. and A. McAffee. \emph{The Second Machine Age - Work, Progress,
+  and Prosperity in a Time of Brilliant Technologies}. New York: W. W. Norton & Company,
+  2016.'
+- 'Chaffey, D and F Ellis-Chadwick. \emph{Digital Marketing}. London: Pearson, 2015.'
+- 'Yoffie, D. and M. Cusumano. \emph{Strategy Rules: Five Timeless Lessons from Bill
+  Gates, Andy Grove, and Steve Jobs}. New York: HarperBusiness, 2015.'

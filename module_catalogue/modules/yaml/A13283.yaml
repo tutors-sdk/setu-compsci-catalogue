@@ -1,0 +1,48 @@
+author: Kieran Murphy
+change: ''
+co-ordinator: ''
+code: A13283
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Statistics and Probability
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+- programme: WD_KACCM_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+- programme: WD_KINTT_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+ref: A13283
+short name: Statistics and Probability
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: STAT-0017
+verified: false

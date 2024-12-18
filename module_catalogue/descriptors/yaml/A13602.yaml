@@ -1,0 +1,93 @@
+aim: This module introduces the student to automotive software development concepts,
+  beginning with an overview of vehicle electronic architectures and the automotive
+  software development lifecycle. Students will learn how microcontroller-based software
+  is designed, developed and tested to control in-vehicle systems such as climate
+  control, engine management and ABS brakes. Students will use automotive industry-standard
+  development tools to construct basic vehicle control systems in the laboratory.
+assessment criteria:
+- '<40%: Unable to describe the key methodologies of the automotive software development
+  process.'
+- '40%-49%: Able to describe the key methodologies of automotive software development.'
+- '50%-59%: Able to demonstrate the use of key methodologies to design basic automotive
+  software components.'
+- '60%-69%: Able to incorporate non-functional requirements such as testability and
+  performance into automotive software designs.'
+- '70%-100%: All of the above to an excellent level. Be able to analyse and design
+  solutions to a high standard, using appropriate skills and tools to analyse the
+  quality and performance of specific solutions.'
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: '3'
+  main: false
+  name: Lab Report
+  weighting: 50
+basename: A13602_-_CaM_-_AutoAutoandIoT_-_Automotive_Software_Concepts
+co-requisites: []
+code: A13602
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"AUTOSAR Organisation." www.autosar.org'
+- '"Automotive News Europe." www.automotivenewseurope.com'
+full title: Automotive Software Concepts
+indicative content:
+- Automotive industry overview
+- Vehicle electronic architecture
+- 'Automotive software lifecycle: V-cycle'
+- 'Microcontroller software design: Event detection; Polling; Interrupts; Statecharts'
+- 'Model-Based Development and Testing: Development phases; HiL testing'
+- 'Vehicle networks: Introduction to Controller Area Network (CAN)'
+- 'AUTOSAR software architecture: Software Components; Runtime Environment; Basic
+  Software; Workflow'
+learning and teaching methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and underlying technologies in automotive software
+  development.
+- The lab-based practicals, building on the theoretical knowledge from the lectures,
+  provide the practical skills to design, simulate and test automotive software applications.
+- Students will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the broader automotive industry topics
+  and current issues.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Explain how software applications are structured and distributed in an automotive
+  environment.
+- Discuss the AUTOSAR software architecture.
+- Use industry-standard tools to simulate and test a basic in-vehicle event-driven,
+  distributed application.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0407
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Automotive Software Concepts
+supplementary material:
+- 'Oshana, R. and M. Kraeling. \emph{Software Engineering for Embedded Systems}. Waltham,
+  MA., USA.: Newnes, 2013.'
+- 'Schaeuffele, J. and T. Zurawaka. \emph{Automotive Software Engineer}\emph{ing}.
+  Stuttgart, Germany.: Springer, 2013.'

@@ -1,0 +1,91 @@
+aim: The purpose is to advance the students skills in conducting business analytics
+  on structured data and to introduce the student to the analysis conducted on unstructured
+  data. Students will investigate data mining techniques such as predicting customer
+  behaviour, performance management, simulation and optimisation of business processes.
+  The student will conduct analysis to discover patterns and to predict future events
+  or outcomes. The student will be introduced to the analysis of unstructured data
+  such as text and web mining.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the Business Analytics domain.'
+- '40%-49%: Be able to interpret and describe key concepts of the Business Analytics
+  domain, particularly advanced data mining techniques.'
+- '50%-59%: Ability to discuss key concepts of the advanced data mining techniques
+  and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve advanced business analytics problems by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 70
+basename: A37367_-_CaM_-_DataandAnal_-_Data_Science_in_Practice
+co-requisites: []
+code: A37367
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Science in Practice
+indicative content:
+- Theory of advanced data mining methods
+- Use of advanced data mining methods in the context of business analytics
+- 'Data mining algorithms: Association Rules; Classification; Clustering;'
+- Implementation, evaluation and interpretation of results using advanced data mining
+  techniques
+- Fundamental of the analysis of unstructured data
+- Introduction to Text and Web mining techniques
+learning and teaching methods:
+- Lectures will introduce the fundamentals and concepts in the area. Labs will implement
+  those concepts using data sets.
+- In the labs, the student will prepare the data, perform analysis, evaluate the results
+  and report on the findings.
+- In the continuous assessment the student will apply what they have learned in the
+  labs and lectures to a new data set within a business context.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Prepare results from an advanced analytics project using an appropriate Data Mining
+  process.
+- Choose and apply appropriate data mining methods to a data set.
+- Evaluate results from data mining conducted on a data set.
+- Evaluate and determine appropriate advanced data mining techniques.
+- Appraise the use of analytics on unstructured data in relation to text and web mining.
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_KCSDV_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0613
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Science in Practice
+supplementary material:
+- 'Delen, D. \emph{Real-World Data Mining: Applied Business Analytics and Decision
+  Making - See more at: http://www.pearsonhighered.com/educator/product/RealWorld
+  Data Mining Applied Business Analytics and Decision Making}. NY: Pearson, 2015.'
+- 'Jank, Wolfgang. \emph{Use R! Business Analytics for Managers}. NY: Springer, 2011.'

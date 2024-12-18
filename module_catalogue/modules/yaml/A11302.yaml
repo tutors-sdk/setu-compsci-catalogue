@@ -1,0 +1,54 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A11302
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Developer Operations
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+- programme: WD_KACCM_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+- programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+- programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0522
+- programme: WD_KINTT_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0559
+ref: A11302
+short name: Developer Operations
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0559
+verified: false

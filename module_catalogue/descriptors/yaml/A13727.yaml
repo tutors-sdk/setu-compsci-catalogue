@@ -1,0 +1,122 @@
+aim: This module approaches web application development from an apps and services
+  perspective, as opposed to the monolithic, server-side rendering model. Services
+  will be formulated as REST APIs (Representational State Transfer Application Program
+  Interface), while multiple service consumer forms will be considered, including
+  Single Page Apps (SPA) and other services. The principles and patterns underpinning
+  the design of both components (SPA and REST API ) will be examined as well as the
+  fine-grained aspects of the underlying communication protocol. Their will be an
+  emphasis on development, including the use of application frameworks, workflow automation
+  tools and cloud deployment platforms. The module's scope will also encompass the
+  techical aspects of both realtime API communication and isomorphic web apps.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of modern web app development.'
+- '40%-49%: Be able to interpret and describe key concepts of modern web app development.'
+- '50%-59%: Ability to demonstrate competancy in the tool suite and the ability to
+  develop and delopy small-scale solutions.'
+- '60%-69%: Presents implemented solutions to medium-sized problems that demonstrate
+  a good understanding of the main patterns and practices of web app design.'
+- '70%-100%: All the above to an excellent level.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Project
+  weighting: 70
+- learning outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 30
+basename: A13727_-_CaM_-_SoftandWebDeve_-_Web_App_Development_2
+co-requisites: []
+code: A13727
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Web App Development 2
+indicative content:
+- 'Fundamentals: Architecture patterns; HTTP (Hypertext Transfer Protocol) protocol;
+  advanced Javascript'
+- 'API Design patterns and principles: REST; CQRS (Command Query Responsibility Separation);
+  versioning; vecurity; hypermedia; realtime'
+- 'SPA design patterns and principles: MV* (Model View *); Flux; caching; data synchronisation'
+- 'Application Frameworks: Web API; Single Page App; Isomorphic app'
+- 'Developer tool suite: API modelling; DSL(Domain Specific Language); scaffolding;
+  workflow automation'
+- 'Deployment environments: API gatways; containers'
+learning and teaching methods:
+- Combination of lectures and computer-based practicals.
+- The lectures will cover the theory and supporting technologies behind web app development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure to the frameworks, tools and practical skills required to develop and build
+  web apps.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the state-of-the-art for web app
+  development.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Lab
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply best practice principles and patterns to the design and documentation of a
+  web API.
+- Apply best practice principles and patterns to the design of a medium-sized Single
+  Page Web App.
+- Design an end-to-end web app that supports session management and persistence for
+  a constrained functional requirement set.
+- Utilise and configure related workflow automation tools.
+- Manage a cloud deployed web API using a Gateway intermediary service.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0611
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0611
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KCSDV_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0611
+  title: Bachelor of Science in Multimedia Applications Development
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Web App Development 2
+supplementary material:
+- '"ReactJS." https://facebook.github.io/react/. https://facebook.github.io/react/'
+- 'Richardson, L. and M. Amundsen. \emph{RESTful Web APIs}. O''Reilly Media: O''Reilly
+  Media, 2009.'

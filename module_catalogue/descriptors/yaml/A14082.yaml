@@ -1,0 +1,87 @@
+aim: The aim of this module is to enable the understanding and critical evaluation
+  of mobile app (application) development using native platform technologies, their
+  software frameworks, design patterns and programming tools. The module will draw
+  parallels between competing platforms while also highlighting where they differ.
+assessment criteria:
+- '<40%: Unable to implement a relatively basic application. Cannot grasp fundamentals
+  of the application lifecycle or operate an appropriate IDE (Integrated Development
+  Environment).'
+- '40%-59%: Understand the basics of the application lifecycle. Ability to model and
+  implement an application of moderate complexity on two separate platforms -- including
+  > 5 views + a simple persistence mechanism. Be able to use multiple IDEs competently
+  and debug applications.'
+- '60%-69%: Be able to implement a sophisticated application with multiple view /
+  navigation mechanisms on two separate platforms. The applications will have local
+  persistent storage and be able to interact with a remote service at a basic level.'
+- '70%-100%: All of the above to an excellent level. In addition the applications
+  should demonstrate a more sophisticated interaction with external services, and
+  may leverage on device sensors and subsystems.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Project
+  weighting: 100
+basename: A14082_-_CaM_-_SoftandWebDeve_-_Mobile_App_Development
+co-requisites: []
+code: A14082
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Android Developer site." http://developer.android.com'
+- '"Apache Cordova site." https://cordova.apache.org'
+- '"iOS Developer site." http://developer.apple.com/ios'
+full title: Mobile App Development
+indicative content:
+- 'Platforms: Operating systems, capabilities, screen size, non-traditional elements
+  (e.g. GPS (Global Positioning Systems)), battery issues'
+- 'Programming: Software frameworks, APIs (Application Programming Interfaces), design
+  patterns'
+- 'Human Interface: Designing User Interfaces in accordance with guidelines for touch-screen
+  mobile devices. Also, pulling information from implied sources (e.g. GPS, accelerometers)'
+- 'Deployment: Running software on a device in developer mode and pushing a completed
+  app to the relevant app stores'
+learning and teaching methods:
+- Lectures will introduce the general context of the curriculum, and explore specific
+  topics in depth. Guided and scripted practicals will lead the student through the
+  construction of an application designed to illustrate key concepts covered in the
+  lectures. The focus is on learning by doing in a studio environment. Each practical
+  will propose a set of exercises -- to be solved in a subsequent practical.
+- The Project will invite the student to analyse, design and implement a new application
+  on two competing platforms and subsequently critically analyse both applications
+  in a report.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Generalise competency in mobile application development across a number of different
+  platforms.
+- Assess the benefits and drawbacks of native app development from both a technical
+  and organisatonal viewpoint.
+- Design effective front-end development in accordance with human interface guidelines.
+- Create mobile apps from conception throught to completion.
+- Deploy a native app to its targeted platform.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Mobile App Development
+supplementary material:
+- 'Camden, R. \emph{Apache Cordova in Action}. New York: Manning, 2015.'
+- 'Neuburg, M. \emph{iOS 9 Programming Fundamentals with Swift: Swift, Xcode, and
+  Cocoa Basics}. New York: O''Rielly, 2015.'
+- 'Phillips et al, B. \emph{Android Programming: The Big Nerd Ranch Guide}. New York:
+  Pearson, 2015.'

@@ -1,0 +1,33 @@
+author: P Felicia
+change: MINOR
+co-ordinator: ''
+code: A10866
+dirty: false
+external: false
+group: Computing and Mathematics
+name: 2D Game Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0624
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0624
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0624
+ref: A10866
+short name: 2D Game Development
+special regulations: null
+subgroup: Game Development
+tags:
+- spring
+- all
+timetable: COMP-0624
+verified: true

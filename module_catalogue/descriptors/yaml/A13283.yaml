@@ -1,0 +1,125 @@
+aim: This module covers topics in introductory statistics including descriptive statistics,
+  probability distributions, point and interval estimation, and statistical inference
+  with applications in computing.
+assessment criteria:
+- '<40%: Has no or only rudimentary knowledge of statistics and probability; student
+  interprets graphical summaries or statistical results with difficulty or often incorrectly.
+  Inability to, use statistical tables and formula to determine probabilities, implement
+  least squares regression, or apply statistical tests.'
+- '40%-49%: Has general knowledge of statistics (central tendencies, etc.) and is
+  able to interpret basic results correctly. Can construct appropriate answers to
+  problems without necessarily obtaining the correct result.'
+- '50%-59%: All of the above but with appropriate use of standard notation and rigour.'
+- '60%-69%: All the above and in addition able to apply theory correctly to applied
+  problems.'
+- '70%-100%: All the previous to an excellent level. Demonstrates an ability to put
+  a solution into a context and assess whether such solutions are meaningful.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+- learning outcomes: 3,6,7
+  main: false
+  name: Practical
+  weighting: 25
+basename: A13283_-_CaM_-_MathandPhys_-_Statistics_and_Probability
+co-requisites: []
+code: A13283
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Statistics and Probability
+indicative content:
+- 'Descriptive Statistics: data types (nominal, ordinal, and cardinal); measures of
+  centre and spread (mean, median, standard deviation, and percentiles); graphs (histograms,
+  bar charts, box plots, pie charts, and scatter diagrams)'
+- 'Probability theory and applications: probability types (classical, empirical, and
+  subjective); simple and compound events; conditional probability; Bayes theorem'
+- 'Probability models: binomial; Poisson; exponential and normal distribution'
+- 'Correlation and regression: simple linear regression; introduction to multiple
+  regression; correlation and coefficient of determination; point estimation of predictions;
+  interpolation and extrapolation; variable recoding'
+- 'Inferential statistics: sampling; confidence intervals about a mean or difference
+  of two means; hypothesis tests on the means of one or two populations; paired tests;
+  chi-squared tests'
+- 'Statistical software: usage of a statistical software package such as R; formulating
+  input commands to generate graphs, tables, and summary statistics; performing probability
+  model calculations; calculating confidence intervals and performing hypothesis tests
+  for a range of problems in inferential statistics; ANOVA; multiple regression modelling;
+  indicator variables; interpreting output from a statistical package; programming
+  constructs and scripting'
+- 'Applications in computing: elementary modelling of time to failure of devices;
+  reliability and application to data backups; password security analysis; queuing
+  theory and application to process scheduling'
+learning and teaching methods:
+- Delivery of the module will be through a mixture of lectures and computer laboratory
+  sessions.
+- The lectures will develop theory, lead students through worked examples and introduce
+  the context for the module material.
+- The laboratory sessions will be used to discuss applications of the theory and to
+  use statistical software.
+- Extensive use of computers will be employed to perform statistical calculations
+  and create graphics necessary for analysing data, conduct simulations to approximate
+  long-run behaviour of random phenomena, and use scripts to facilitate batch processing
+  of a data set.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply standard descriptive statistics procedures to summarise univariate data.
+- Compute probabilities using counting principles and probability models such as the
+  binomial, Poisson, exponential, and normal.
+- Apply probability concepts to applications in computer science.
+- Construct a simple linear regression model and use it to make predictions.
+- Construct confidence intervals for a population mean or difference of two means.
+- Use a statistical software computer package to script input for data analyses and
+  interpret output.
+- Communicate the results of statistical analyses correctly and effectively.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: STAT-0017
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Statistics and Probability
+supplementary material:
+- '"The R Project for Statistical Computing." http://www.r-project.org/'
+- 'Anderson, D. \emph{Introduction to Statistics: Concepts and Applications}. 3rd.
+  NY: West Pub. Comp., 1994.'
+- 'Crawley, M. \emph{Statistics an introduction using R}. USA: Wiley, 2005.'
+- 'Lipschutz, S. and J. Schiller. \emph{Schaum''s Outline of Introduction to Probability
+  and Statistics}. NY: McGraw-Hill, 1998.'
+- 'Reilly, J. \emph{Understanding Statistics: And Its Applications on Business, Science
+  and Engineering}. Dublin: Folens, 1997.'

@@ -1,0 +1,43 @@
+author: Mairead Meagher
+change: ''
+co-ordinator: ''
+code: A13433
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Functional Programming
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: PROG-0094
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: PROG-0094
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: PROG-0094
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROG-0094
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: PROG-0094
+ref: A13433
+short name: Functional Programming
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: PROG-0094
+verified: true

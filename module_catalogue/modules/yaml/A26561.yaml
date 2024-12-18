@@ -1,0 +1,25 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A26561
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Cloud Architecture
+programmes:
+- null
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0974
+ref: A26561
+short name: Cloud Architecture
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0974
+verified: false

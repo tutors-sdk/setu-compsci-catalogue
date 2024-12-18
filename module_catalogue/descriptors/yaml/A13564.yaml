@@ -1,0 +1,77 @@
+aim: This module introduces the student to the core elements of Graphic Design, focusing
+  extensively on developing creativity skills through practical work. Drawing skills
+  are developed for the purpose of communicating ideas on paper. An understanding
+  of composition and space is explored for effective visual communication skills.
+  A knowledge of typography and layout structure is developed and applied. The student
+  will gain an understanding of logo design.
+assessment criteria:
+- '<40%: Unable to interpret and demonstrate key concepts of graphic design.'
+- '40%-49%: Be able to interpret and demonstrate key concepts in graphic design.'
+- '50%-59%: Ability to interpret key concepts of graphic design and ability to discover
+  and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems using graphic design skills by experimenting
+  with the appropriate skills.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A13564_-_CaM_-_GrapDesiandAnim_-_Graphic_Design_1
+co-requisites: []
+code: A13564
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Graphic Design 1
+indicative content:
+- Drawing and Illustration Skills for Communication
+- 'Composition: Shape, Space, Communication'
+- 'Typography: Classifications, Anatomy, Kerning, Communication'
+- 'Layout: Grids, Collage, Communication'
+- 'Logo design: Principles, Positive and Negative Space, Logo Generation - Personality
+  Profiling, Paper Design'
+learning and teaching methods:
+- Classes should be delivered in two two-hour blocks.
+- This module will be delivered using two hours of computer-based lectures, along
+  with two hours of computer-based practicals each week.
+learning modes:
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Demonstrate drawing and illustration skills.
+- Demonstrate the anatomy of type and its structure.
+- Apply 2D shapes to illustrate composition.
+- Demonstrate layout structure and design.
+- Demonstrate the evolution of logo design to create a logo on paper.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0584
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Lecture Room: Loose Seated'
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Graphic Design 1
+supplementary material:
+- 'Bergstrom, B. \emph{Essentials of Visual Communication}. 1st ed. London: Laurence
+  King, 2008.'
+- 'Felici, J. \emph{The Complete Manual of Typography}. 2nd ed. Berkeley: Adobe, 2011.'
+- 'Marshall, L. and L. Meachem. \emph{How to Use Type}. 1st ed. London: Laurence King,
+  2013.'

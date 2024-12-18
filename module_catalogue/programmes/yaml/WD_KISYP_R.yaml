@@ -1,0 +1,26 @@
+acs: 'YES'
+code: WD_KISYP_R
+comment: 2020-21 Semi-Checked against ACS
+department: Computing and Mathematics
+dirty: false
+full title: MSc in Computing (Information Systems Processes)
+group: Computing and Mathematics
+handbook: 'YES'
+leader: Liam Doyle and Dr Peter Carew
+level: 9
+level 7 special exit full title: No level 7 special award for MSc in Computing (Information
+  Systems Processes)
+modes: P
+name: MSc in Computing (Information Systems Processes)
+num stages: 1
+semesters:
+  0: 1
+  3: 1
+short title: MSc in Computing (Information Systems Processes)
+specialisation: Computing (Information Systems Processes)
+stages:
+  1:
+  - 0
+  - 3
+type: MSc
+volume3: ''

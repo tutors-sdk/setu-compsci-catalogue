@@ -1,0 +1,89 @@
+aim: 'The aim of this module is to develop students'' knowledge and understanding
+  of determinants of sports and exercise performance from the perspectives of the
+  core human movement sciences: physiology, biomechanics and psychology.'
+assessment criteria: []
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,2
+  main: false
+  name: Presentation
+  weighting: 50
+basename: A10744_-_CaM_-_SporTech_-_Introduction_to_Sport_and_Exercise_Science
+co-requisites: []
+code: A10744
+credits: 5
+department: Sport and Exercise Science
+dirty: false
+essential material:
+- 'Abernethy, B. \emph{The Biophysical Foundations of Human Movement}. 2nd ed.. Champaign,
+  IL: Human Kinetics, 2005.'
+full title: Introduction to Sport and Exercise Science
+indicative content:
+- 'Anthropometry: stature, body weight, body composition, somatotypes'
+- 'Biomechanics: describing motion, force, acceleration, velocity, momentum, torque,
+  levers, work, power.'
+- 'Motor behaviour: closed skills, open skills, skill acquisition'
+- 'Physiology: components of fitness, aerobic capacity, movement efficiency, aerobic
+  and anaerobic thresholds, strength, muscular endurance, flexibility, anaerobic capacity'
+- 'Psychology: personality, anxiety, stress, arousal, motivation, self efficacy'
+learning and teaching methods:
+- Lectures
+- Tutorials (with problem/enquiry-based learning and group presentations)
+- Computer-based tutorials
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Tutorial
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Identify the anthropometrical, biomechanical, physiological and psychological attributes
+  necessary for success in a range of sports
+- Define the key anthropometrical, biomechanical, physiological and psychological
+  terms associated with performance ability in sport and exercise
+- Search for and retrieve appropriate information from trustworthy sports and exercise
+  science sources
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_HEXHS_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Arts (Honours) in Exercise and Health Studies
+- programme: WD_HRECL_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Business in Recreation and Sport Management
+- programme: WD_HSPOR_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Sports Coaching and Performance
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: ISES
+supplementary material:
+- 'Boone, T. \emph{Introduction to Exercise Physiology}. Burlington, MA: Jones and
+  Bartlett Learning, 2014.'
+- 'Gore, C.J. \emph{Physiological Tests for Elite Athletes}. 2nd. Champaign, IL: Human
+  Kinetics, 2013.'
+- 'Winter, E.M., A.M. Jones, R.R.C. Davison, P.D. Bromley and T.H. Mercer. \emph{Sport
+  and Exercise Physiology Testing}. UK: Routledge, 2007.'

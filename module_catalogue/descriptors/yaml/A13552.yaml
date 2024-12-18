@@ -1,0 +1,82 @@
+aim: This module will provide the student with an introduction to programming concepts.
+  The student is introduced to fundamental programming techniques and should gain
+  confidence in producing simple logical structures.
+assessment criteria:
+- '<40%: The inability to write, run, test and debug small applications. Inability
+  to understand and explain the workings of small applications.'
+- '40%-49%: The ability to write, run, test and debug small applications. Ability
+  to understand and explain the workings of small applications.'
+- '50%-59%: All of the above and in addition can correctly choose appropriate constructs
+  and approaches.'
+- '60%-69%: All the above and in addition be able to apply common solutions to new
+  problems.'
+- '70%-100%: All the above to an excellent level and begin to demonstrate an understanding
+  of the concept of effective solutions.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Practical
+  weighting: 30
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Practical
+  weighting: 70
+basename: A13552_-_CaM_-_SoftandWebDeve_-_Programming_Concepts
+co-requisites: []
+code: A13552
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Code Academy." http://www.codecademy.com/'
+full title: Programming Concepts
+indicative content:
+- Program design
+- 'Introduction to programming concepts: data types; variables; data input and output;
+  arithmetic operators'
+- Introduction to selection
+- Introduction to iteration
+- Introduction to methods
+- Introduction to arrays
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element is intended to provide the student with the skills and confidence
+  to program simple applications.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 36
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Apply problem solving approaches suitable to the programming discipline.
+- Apply the principles of selection, conditions and iterations to small programming
+  applications.
+- Construct small applications controlled by methods.
+- Use arrays appropriately in small applications.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: PROG-0093
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Programming Concepts
+supplementary material:
+- 'Vickers, P. \emph{How to Think Like a Programmer: Problem Solving for the Bewildered}.
+  New York: CENGAGE, 2008.'

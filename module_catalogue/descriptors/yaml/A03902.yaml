@@ -1,0 +1,132 @@
+aim: The purpose of this module is to further develop the thought processes, problem
+  solving techniques and programming structures essential for developing larger systems
+  responsible for more complex tasks. The module will focus on developing maintainable,
+  robust, persistent applications that are consistent with user interaction (UI) best
+  practice.
+assessment criteria:
+- '<40%: Inability to design, develop and test maintainable, persistent, robust UI
+  applications to solve a particular problem.'
+- '40%-49%: Ability to design, develop and test maintainable, persistent, robust UI
+  applications to solve a straight-forward problem.'
+- '50%-59%: Comfortable with designing, developing and testing maintainable, persistent,
+  robust UI applications to solve problems similar to those presented in the module.'
+- '60%-69%: Proficient with designing, developing and testing maintainable, persistent,
+  robust, high-quality UI applications to solve complex problems.'
+- '70%-100%: Proficient with designing, developing and testing maintainable, persistent,
+  robust, high-quality, elegant UI applications to solve complex problems that are
+  substantially different to those studied in the module.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,2,3,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A03902_-_CaM_-_SoftandWebDeve_-_Programming_Fundamentals_2
+co-requisites: []
+code: A03902
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Code Academy." http://www.codecademy.com/'
+- '"Khan Academy." https://www.khanacademy.org/'
+- '"W3 Schools on-line Web Tutorials." www.w3schools.com/'
+full title: Programming Fundamentals 2
+indicative content:
+- Use of complex constructs and data structures associated with the chosen language
+- Introduction to UI
+- Programming for persistence
+- Programming techniques for well-behaved, robust applications
+- Use of Test Driven Development (TDD) approaches
+- Read, understand and consume the Application Programming Interface (API) specific
+  to the chosen language
+- Use of innovative visualisation tools, Integrated Development Environments (IDEs)
+  and frameworks
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- The lectures will be used to introduce new topics and their related concepts.
+- A cooperative learning/peer tutoring (i.e. pair-programming, problem-based learning
+  for one assignment) approach will be adopted during the practical sessions.
+- Self-directed learning will be encouraged throughout the duration of the module.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 36
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Apply problem-solving strategies to various computing problems of increasing complexity.
+- Plan, code, test and document applications using advanced programming constructs
+  and data structures.
+- Construct applications consistent with UI best practice.
+- Construct persistent applications.
+- Apply maintainability and robustness when designing applications.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+  title: Bachelor of Science in Software Systems Development
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0378
+  title: Bachelor of Science in Information Technology
+- null
+- programme: WD_KPHTE_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0378
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Programming Fundamentals 2
+supplementary material:
+- '"BlueJ." http://www.bluej.org'
+- '"Project Euler." https://projecteuler.net/'
+- '"Python Tutorials." http://www.introtopython.org/'
+- 'Kolling, M. and D. Barnes. \emph{Objects first with Java-A Practical Introduction
+  using BlueJ}. 5th ed.. NY: Prentice Hall/Pearson Education, 2012.'
+- 'Sprankle, M. \emph{Problem Solving and Programming Concepts}. NY: Prentice Hall,
+  2011.'
+- 'Venit, S. and E. Drake. \emph{Prelude to Programming: Concepts & Design}. NY: Pearson
+  Higher Education, 2015.'
+- 'Vickers, P. \emph{How to think like a programer: Problem Solving for the Bewildered}.
+  NY: Cengage, 2008.'

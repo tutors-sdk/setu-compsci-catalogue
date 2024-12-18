@@ -1,0 +1,28 @@
+author: Brenda O'Neill
+change: ''
+co-ordinator: ''
+code: A13228
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Graphic Design 2
+programmes:
+- programme: WD_KCRCO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0593
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0593
+ref: A13228
+short name: Graphic Design 2
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- all
+- autumn
+timetable: COMP-0593
+verified: true

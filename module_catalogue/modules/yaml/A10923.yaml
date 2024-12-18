@@ -1,0 +1,26 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A10923
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Web Development 1
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOSC_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0517
+ref: A10923
+short name: Web Development 1
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: COMP-0517
+verified: false

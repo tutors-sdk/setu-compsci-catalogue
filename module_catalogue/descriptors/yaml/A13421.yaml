@@ -1,0 +1,98 @@
+aim: This module introduces Computer Networking terminology and concepts, and examines
+  various network protocols and models. Students will use protocol analysis software
+  to explore various network protocol operations. TCP/IP and IP addressing are presented
+  as well as an exploration of real-time Multimedia applications and protocols. Quality
+  of Service (QoS) is also discussed and a brief examination of resource management
+  is also provided. Practical skills are an essential part of this module.
+assessment criteria:
+- '<40%: Unable to describe the major functions and operation of a Computer Network.
+  Unable to describe and compare the OSI and TCP/IP models. Poor understanding of
+  role of communications protocols in computer networks.'
+- '40%-49%: Can describe and compare the OSI and TCP/IP models. Can provide overview
+  of main computer network components and protocols.'
+- '50%-59%: All of the above. Can describe in detail the data encapsulation process.
+  Demonstrate an understanding of basic LAN implementation.'
+- '60%-69%: In addition, be able to recommend a network solution given an organisations''
+  requirements.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 60
+- learning outcomes: 1,2,3,6
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+basename: A13421_-_CaM_-_NetwandClou_-_Multimedia_Networks
+co-requisites: []
+code: A13421
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Multimedia Networks
+indicative content:
+- Introduction to Computer Networks and Protocols
+- OSI and TCP/IP models
+- IPv4 Addressing and subnetting
+- IPv6
+- Transport Layer Protocols and Functionality
+- Application Layer Protocols and Functionality
+- Multimedia Protocols
+- Quality of Service (QoS)
+- Resource Management
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a business solution.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Lab
+  part time: ''
+- full time: 75
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Use network protocol models and tools to explain communications in data networks.
+- Examine in detail the major components, operation and functionality of a computer
+  network and commonly used protocols and services.
+- Examine the technologies used for streaming multimedia over the Internet.
+- Design, calculate and apply subnet masks and addresses.
+- Build a simple network using routers and switches.
+- Examine issues related to the configuration and management of resources required
+  in multimedia environments.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0966
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Networks Lab'
+short title: Multimedia Networks
+supplementary material:
+- 'Cisco, Networking. \emph{Network Basics, CCNA Routing & Switching Companion Guide}.
+  New York: Cisco Press, 2014.'
+- 'Kurose, J. and K Ross. \emph{Computer Networking: A Top Down Approach}. 6th Ed..
+  New York: Pearson Education, 2012.'
+- 'Tanenbaum, A. and D. Wetherall. \emph{Computer Networks}. 5th Ed.. New York: Pearson
+  Education, 2013.'

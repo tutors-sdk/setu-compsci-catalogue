@@ -1,0 +1,96 @@
+aim: The aim of the module is to provide students with an understanding of the main
+  concepts and issues in the design and development of mobile games. Students are
+  given the opportunity to acquire practical experience of the tools, technologies
+  and platforms employed in the development of mobile games.
+assessment criteria:
+- '<40%: Inability to demonstrate an understanding of the issues attendant to mobile
+  game development, as per Learning Outcome 1. Inability to implement simple games
+  on a mobile device using the development tools and methodology covered during the
+  module as per Learning Outcomes 2,3 & 4.'
+- '40%-49%: Able to demonstrate a basic understanding of mobile game development features
+  and issues, as per Learning Outcome 1. Able to implement simple games on a mobile
+  device as per Learning Outcomes 2 & 3.'
+- '50%-59%: All the above and in addition able to evaluate own code for significant
+  performance and resource bottlenecks, as per Learning Outcome 4.'
+- '60%-69%: All of the above, in addition implement all required features consistently
+  well.'
+- '70%-100%: All previous to an excellent level. Implement additional features or
+  uses technology/tools-chains not directly presented in class.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 1,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 30
+basename: A12581_-_CaM_-_GameDeve_-_Mobile_Game_Development
+co-requisites: []
+code: A12581
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Mobile Game Development
+indicative content:
+- 'Overview of mobile gaming devices: mobile gaming platforms and development environments,
+  cross platforms game engines and native game development'
+- 'Developing mobiles games: UI considerations, asset management and rendering for
+  mobile devices, implementing gameplay mechanics, deploying games on mobile devices'
+- 'Mobile gaming markets: mobile game market analysis, revenue generation and publishing
+  games'
+learning and teaching methods:
+- Since this module is focused on developing practical programming skills (i.e., game
+  programming for mobile devices), the four contact hours will be delivered in the
+  computer labs in the form of two 2-hour practicals.
+- Due to the very practical nature of the skills to be acquired in this module, these
+  practical sessions will be centred around the idea of learning by doing, whereby
+  students develop proficiency in the specified skill set through guided activities,
+  and whereby lecturers provide short formal presentations of relevant concepts and
+  technologies, as well as practical tips, feedback, and best practices.
+- Practical exercises will provide students with an opportunity to develop a range
+  of technical competencies relating to mobile game development using industry standard
+  development tools, technologies and techniques. Emphasis is placed on further developing
+  the students' software engineering and development skills.
+learning modes:
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Select and apply appropriate methodologies and techniques for the development of
+  games for mobile devices, taking in consideration the limitations of mobile devices.
+- Manage the publication of a mobile game application.
+- Develop non-trivial game prototypes for selected mobile platform using industry
+  standard tools and technologies.
+- Evaluate the effectiveness and the quality of the games developed.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0671
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Mobile Game Development
+supplementary material:
+- 'Brothaler, K. \emph{OpenGL ES 2 for Android: A Quick-Start Guide (Pragmatic Programmers)}.
+  1. NY: Pragmatic Bookshelf, 2013.'
+- 'Oehlke, A. \emph{Learning Libgdx Game Development}. 2. NY: Packt Publishing, 2015.'

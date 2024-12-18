@@ -1,0 +1,38 @@
+author: John Sheppard
+change: ''
+co-ordinator: ''
+code: A14037
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Online Forensics
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0673
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0673
+- programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0673
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0673
+ref: A14037
+short name: Online Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- all
+- autumn
+timetable: COMP-0673
+verified: false

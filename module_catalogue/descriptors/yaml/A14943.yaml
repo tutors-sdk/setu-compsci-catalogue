@@ -1,0 +1,85 @@
+aim: Introduce the notations, programming languages, tools and techniques for the
+  design, implementation and deployment of mobile, progressive web apps. Assuming
+  a foundation-level understanding of HTML, CSS and web development, the module will
+  explore the challenges associated with creating applications for mobile devices.
+  In particular, the module will focus on HTML5 based approaches, with an emphasis
+  on JavaScript/HTML/CSS avenues, coupled with JavaScript based approaches to server
+  side/cloud based infrastructure.
+assessment criteria:
+- <40%:Inability to apply a suitable framework to develop a mobile web application.
+- '40%-59%: Be able to demonstrate compatancy in the tool suite and the ability to
+  develop and deploy small-scale solutions.'
+- '60%-69%: In addition to above, implements solutions to medium-sized problems that
+  demonstrate a good understanding of the main patterns and practices of mobile web
+  app design.'
+- '70%-100%: All of the above to an excellent standard, and incorporates self-directed
+  investigation into state-of-the-art mobile web technology.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14943_-_CaM_-_SoftandWebDeve_-_Mobile_Web_Development
+co-requisites: []
+code: A14943
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Mobile Web Development
+indicative content:
+- 'Internet and Mobile Web: HTTP; TLS; Client-server architecture; Device Capabilities'
+- 'Web User Interface/Experience: HTML5; CSS3; Responsiveness; Push notification;
+  Connectivity independence'
+- 'Development: ES6+'
+- 'Cloud Infrastructure: Node.js based infrastructure; Cloud Deployment'
+- 'Mobile Web Frameworks and architecture: React; Ionic; Service workers; App shell
+  architecture'
+learning and teaching methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and supporting technologies behind modern mobile
+  web application development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure and to the tools and practical skills required to support mobile web application
+  development.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the state-of-the-art mobile web application
+  development.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Design and develop a mobile web app that conforms to mobile app design guidelines.
+- Maximise an app's performance and engagement qualities using progressive web app
+  techniques.
+- Integrate suitable build automation tools into the mobile app developments process.
+- Evaluate modern mobile web frameworks, and select best-of-breed components.
+- Assess, select and deploy caching strategies appropriate to the target application
+  infrastructure.
+- Assemble a cloud based infrastructure and push simple services to selected cloud
+  services.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Mobile Web Development
+supplementary material:
+- 'Rodgers, R. \emph{The Tao of Microservices}. New York: Manning, 2016.'

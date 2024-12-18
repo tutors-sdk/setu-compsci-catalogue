@@ -1,0 +1,43 @@
+author: Clodagh Power
+change: ''
+co-ordinator: ''
+code: A13203
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Computer Security
+programmes:
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+- programme: WD_KCOMP_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+- programme: WD_KDEVP_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+- programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0607
+ref: A13203
+short name: Intro to Computer Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0607
+verified: true

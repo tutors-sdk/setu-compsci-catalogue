@@ -1,0 +1,34 @@
+author: Brendan Jackman
+change: ''
+co-ordinator: ''
+code: A13585
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Automotive Diagnostic Protocols
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0223
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0223
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0223
+- null
+ref: A13585
+short name: Auto Diagnostic Protocols
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- spring
+- all
+timetable: COMP-0223
+verified: false

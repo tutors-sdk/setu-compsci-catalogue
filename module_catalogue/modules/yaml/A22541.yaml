@@ -1,0 +1,31 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A22541
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Sport & Exercise Biomechanics I
+programmes:
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: E
+  timetable: SPRT-0401
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: SPRT-0401
+- null
+- null
+- null
+ref: A22541
+short name: Sport & Exe Biomech 1
+special regulations: null
+subgroup: Sports Technology
+tags:
+- spring
+- all
+timetable: SPRT-0401
+verified: false

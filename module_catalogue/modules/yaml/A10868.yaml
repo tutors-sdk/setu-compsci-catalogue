@@ -1,0 +1,33 @@
+author: B Lyng
+change: MINOR
+co-ordinator: ''
+code: A10868
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Game Design
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0643
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0643
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0643
+ref: A10868
+short name: Introduction to Game Design
+special regulations: null
+subgroup: Game Development
+tags:
+- all
+- autumn
+timetable: COMP-0643
+verified: true

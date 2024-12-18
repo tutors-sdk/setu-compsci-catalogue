@@ -1,0 +1,110 @@
+aim: The objective of this module is to equip students with the necessary skills to
+  evaluate the security of systems and networks and implement appropriate solutions.
+  Network security is covered at all layers of the TCP/IP protocol suite and system
+  security is considered with respect to operating system, applications, virtualisation
+  and cloud technologies.
+assessment criteria:
+- '<40%: Unable to describe key network and system security technologies. Unable to
+  effectively use relevant tools.'
+- '40%-49%: Can describe in detail key security threats and technologies. Can carry
+  out basic configuration of technologies to implement security policies for access
+  control, encryption and authentication.'
+- '50%-59%: All of the above and in addition can reason about the various approaches
+  to security and their benefits and limitations.'
+- '60%-69%: In addition, be capable of discussing the relative merits of securing
+  at all layers or just at one layer. Also, can competently make use of security tools
+  and technologies and carry out effective penetration tests.'
+- '70%-100%: All of the above to an excellent level. Be able to describe a variety
+  of new developments in security. Demonstrate an understanding of some the trade-offs
+  involved in providing security.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 4,5,6
+  main: false
+  name: Practical
+  weighting: 50
+- learning outcomes: 1,2,3,4,7
+  main: false
+  name: Assessment
+  weighting: 50
+basename: A11377_-_CaM_-_ForeandSecu_-_Network_and_System_Security
+co-requisites: []
+code: A11377
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"The SANS Institute." http://www.sans.org/'
+full title: Network and System Security
+indicative content:
+- Auditing and assessment
+- Communications & network security - link layer, network layer, transport layer
+- Mobile & wireless security
+- Cloud security
+- Identity and access management
+- Access control models; firewalls
+- Malware and intrusion detection
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Evaluate Internet and cloud security technologies.
+- Evaluate a selection of leading Internet security protocols.
+- Compare and describe the roles of firewalls, intrusion detection and malware protection.
+- Develop security policies (for example firewall rules) for a given scenario.
+- Deploy popular network security technologies (e.g. TLS in various configurations).
+- Set up test systems and evaluate their security.
+- Assess the challenges with securing wireless communications and the main solution
+  approaches.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0672
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0672
+  title: Bachelor of Science (Honours) in Applied Computing
+- dirty: true
+  programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0651
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Network and System Security
+supplementary material:
+- '"Computer Emergency Response Team." http://www.cert.org/'
+- '"Security Focus." http://www.securityfocus.com/'
+- 'Gollmann, D. \emph{Computer Security}. 3rd ed. Chichester: Wiley, 2011.'
+- 'Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practice}.
+  3rd ed. Harlow: Pearson, 2014.'

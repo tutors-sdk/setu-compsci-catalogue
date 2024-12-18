@@ -1,0 +1,28 @@
+author: Annetta Stack
+change: ''
+co-ordinator: ''
+code: A06793
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Digital Imaging
+programmes:
+- programme: WD_KCRCO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0588
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0588
+ref: A06793
+short name: Digital Imaging
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+timetable: COMP-0588
+verified: true

@@ -1,0 +1,89 @@
+author: Siobhan Drohan
+change: ''
+co-ordinator: ''
+code: A03902
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Programming Fundamentals 2
+programmes:
+- programme: WD_EEELC_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_ETRIC_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KACCM_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KCOMP_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0378
+- programme: WD_KDEVP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KDEVP_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0378
+- programme: WD_KINTT_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0378
+- programme: WD_KPHTE_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0378
+ref: A03902
+short name: Programming Fundamentals 2
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0378
+verified: true

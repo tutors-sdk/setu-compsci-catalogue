@@ -1,0 +1,96 @@
+aim: This module will introduce the student to the principles and practice of designing
+  and implementing relational database systems. The student will gain competence in
+  Entity Relationship modelling and normalisation techniques. The student will be
+  introduced to the concepts of data persistence, consistency and distribution in
+  the relational database context. They will gain experience in the design and implementation
+  of a practical relational database system.
+assessment criteria:
+- <40%:Unable to interpret and describe key concepts of relational database systems.
+- 40%-49%:Be able to interpret and describe key concepts of relational database systems.
+- 50%-59%:Ability to discuss key concepts of the analysis, design and implementation
+  of relational database systems and ability to discover and integrate related knowledge
+  in other knowledge domains.
+- 60%-69%:Be able to solve problems within the design and implementation of relational
+  database systems by experimenting with the appropriate skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: 1,2,3,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A11106_-_CaM_-_DataandAnal_-_Relational_Databases
+co-requisites: []
+code: A11106
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Relational Databases
+indicative content:
+- The Relational Model and Relational Database Management System (RDBMS)
+- Database Analysis & Design
+- Entity Relationship Modelling & Normalisation
+- SQL Data definition & manipulation
+- Data persistence, ACID transaction management and distributed databases
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The practical classes will encourage group work particularly for the relational
+  modelling module content.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Examine a business scenario to design a suitable relational database solution.
+- Construct entity relationship (ER) diagrams from business scenarios and reproduce
+  those diagrams as normalised relations ready for database implementation.
+- Construct a physical database design.
+- Create a relational database in business using SQL Data Definition Language (DDL)
+- Construct queries on a relational database using SQL Data Manipulation Language
+  (DML)
+- Discuss the concepts of data persistence, ACID transaction management and database
+  distribution.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0638
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Relational Databases
+supplementary material:
+- 'Connolly, Thomas M. and E. Carolyn. \emph{Database Systems: A practical approach
+  to design, implementation and management}. 6th ed.. NY: Addison-Wesley, 2015.'

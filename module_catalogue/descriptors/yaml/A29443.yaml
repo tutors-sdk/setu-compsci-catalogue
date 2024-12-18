@@ -1,0 +1,108 @@
+aim: It is assumed the student is familiar with the fundamental concepts and techniques
+  of Data Mining. The purpose of this module is to apply the theory of Data Mining.
+  The student will learn about the data mining process and experience the steps involved;
+  including data pre-processing, modelling and optimisation and result interpretation
+  and validation. For each step in the data mining process the student will learn
+  and apply an appropriate methodology, tool or technology.
+assessment criteria:
+- <40%:Unable to describe and apply key concepts of the data mining process.
+- 40%-49%:Be able to describe and apply key concepts of the data mining process.
+- 50%-59%:Ability to discuss key concepts of the data mining process and ability to
+  discover and integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve data mining problems by applying each step in the data
+  mining process.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 60
+- learning outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+basename: A29443_-_CaM_-_DataandAnal_-_Data_Mining_2
+co-requisites: []
+code: A29443
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Mining 2
+indicative content:
+- Introduction to the Data Mining Process
+- 'Pre-processing: data gathering, wrangling, and transformation'
+- Model building, optimization and evaluation
+- Result analysis, validation, deployment
+- Use of data mining tools
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- Students will apply appropriate tools and methods to Data Mining excercises provided
+  in the practical classes.
+- Students will implement appropriate tools and methods to a Data Mining continuous
+  assessment.
+- Students will interpret and present the findings produced in the practical classes
+  and continuous assessment.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Summarise the Data Mining process and have a clear understanding of its stages.
+- Evaluate the fundamental concepts behind each stage of the Data Mining process.
+- Justify the use of appropriate tools and techniques for each stage of the Data Mining
+  process.
+- Evaluate, interpret and utilize results obtained at each step of the Data Mining
+  process.
+- Create a solution for a set of Data Mining problems.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0572
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0572
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Mining 2
+supplementary material:
+- 'Han, J., M. Kamber and Jian Pei. \emph{Data Mining Concepts and Techniques}. NY:
+  Jian Pe, 2015.'
+- 'Leskovec, J., A. Rajaraman and J. Ulman. \emph{Mining of Massive Datasets}. NY:
+  Cambridge University Press, 2014.'
+- 'Witten, I., E. Frank and M. Hall. \emph{Data Mining, Practical Machine Learning
+  Tools and Techniques}. NY: Elsevier, 2011.'

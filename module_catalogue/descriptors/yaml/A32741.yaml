@@ -1,0 +1,112 @@
+aim: This module explores key technologies in the provision of Cloud computing services.
+  The concepts of IaaS, PaaS, SaaS and `X aaS are covered to examine how Cloud services
+  and applications are deployed and managed. The practical component of this module
+  explores the operation and management of virtualised resources in Public and Private
+  Cloud environments.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of a Cloud Computing Infrastructure
+  environment.'
+- '40%-49%: Be able to interpret and describe key concepts of a Cloud Computing Infrastructure
+  environment.'
+- '50%-59%: Ability to compare and contrast key concepts and technologies used in
+  Cloud Computing environments. Ability to discover and integrate related knowledge
+  in other knowledge domains.'
+- '60%-69%: Ability to analyse and evaluate Cloud Computing technical challenges and
+  solutions. Be able to solve problems within the specific knowledge domain(s) by
+  experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3,4,5
+  main: false
+  name: Lab Report
+  weighting: 30
+- learning outcomes: 2,3,4,5
+  main: false
+  name: Project
+  weighting: 30
+- learning outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+basename: A32741_-_CaM_-_NetwandClou_-_Cloud_Computing_1
+co-requisites: []
+code: A32741
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Cloud Computing Environment e.g. OpenStack, AWS, Azure." https://aws.amazon.com/
+  https://www.openstack.org/'
+full title: Cloud Computing 1
+indicative content:
+- 'Cloud Computing Concepts: IaaS; PaaS; SaaS; `X''aaS'
+- 'Data Center Management: Hypervisors; Compute; Storage; Network'
+- 'Reliability and Elasticity: Infrastructure & Applications'
+- 'Monitoring: Infrastructure & Applications'
+- Business Continuity & Recovery
+- 'Cloud Security: Identity and Access Management'
+learning and teaching methods:
+- The practical lab component will be delivered in one double lab session.
+- Combination of lectures and computer-based practical and simulation exercises.
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Lab
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Compare and contrast Cloud Computing Architectures.
+- Develop appropriate Data Center Technologies in the provision of Virtualised environments.
+- Evaluate Cloud technologies for the provision of Infrastructure and Application
+  Services.
+- Determine the technical challenges and solutions in providing a secure cloud services
+  environment.
+- Compare solutions for the provision of highly available, reliable, scalable Cloud
+  environments.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0650
+  title: Bachelor of Science (Honours) in Applied Computing
+- dirty: true
+  programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0650
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+- programme: WD_KPHTE_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0509
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Cloud Computing 1
+supplementary material:
+- 'Limoncelli, T. \emph{Practice of Cloud System Administration, The: Designing and
+  Operating Large Distributed Systems}. 1st. New York: Addison-Wesley Professional,
+  2014.'
+- 'Saboowala, H. \emph{Designing Networks and Services for the Cloud: Delivering business-grade
+  cloud applications and services}. 1st. New York: Cisco Press, 2013.'

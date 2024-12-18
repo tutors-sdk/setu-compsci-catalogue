@@ -1,0 +1,38 @@
+author: John Sheppard (Rosemarie Kelly)
+change: ''
+co-ordinator: ''
+code: A14175
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Forensic Accounting and Fraud Audit
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0420
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0420
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0420
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0420
+ref: A14175
+short name: Forensic Acc & Fraud Audit
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0420
+verified: true

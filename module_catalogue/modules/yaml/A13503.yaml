@@ -1,0 +1,60 @@
+author: Mary Lyng
+change: ''
+co-ordinator: ''
+code: A13503
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Database Fundamentals
+programmes:
+- programme: WD_BCSEC_SP
+  semester: 2
+  stage: 3
+  status: M
+  timetable: COMP-0185
+- null
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KCOMP_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KCRCO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KDEVP_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0185
+ref: A13503
+short name: Database Fundamentals
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0185
+verified: true

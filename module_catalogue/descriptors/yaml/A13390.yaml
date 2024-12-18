@@ -1,0 +1,101 @@
+aim: The aim of this module is to examine the fundamental concepts underlying current
+  developments in mobile communication systems and wireless computer networks. The
+  module will cover current wireless systems and standards examining the technologies
+  facilitating such networks. It provides students with the appreciation of the application,
+  design and implementation of such networks.
+assessment criteria:
+- '<40%: Inability to describe and compare the basic wireless technologies. Inability
+  to describe wireless network components, issues involved in WLAN implementation
+  and WLAN RF principles. Inability to configure basic WLAN settings and security.'
+- '40%-49%: Able to describe and compare the main wireless technologies. Can provide
+  description of main wireless network components and functions. Demonstrates the
+  ability to implement basic security solutions in wireless networks.'
+- '50%-59%: All of the above. Able to recommend basic WLAN solution based on organisations
+  requirements and site survey. Demonstrate the ability to implement and configure
+  a basic WLAN with suitable security features.'
+- '60%-69%: All of the above. Demonstrate the ability to troubleshoot WLANs and design
+  complex WLAN solutions.'
+- '70%-100%: All above to an excellent level.'
+assessment methods:
+- learning outcomes: 1,3,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,6
+  main: false
+  name: Project
+  weighting: 30
+- learning outcomes: 2,4,5
+  main: false
+  name: Practical
+  weighting: 20
+basename: A13390_-_CaM_-_NetwandClou_-_Wireless_Communications
+co-requisites: []
+code: A13390
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Wireless Communications
+indicative content:
+- Wireless Technologies and Equipment
+- IEEE 802.11 Standards
+- Wireless Channel Models, Noise and Interference
+- Wireless Topologies
+- Site Survey and Installation
+- Wireless Security
+- Mobile and Cellular Communications
+- Emerging Wireless Technologies
+learning and teaching methods:
+- This module will be delivered using a combination of lectures and practicals.
+- Lectures will be used to introduce module theory to the student.
+- Practical laboratories will focus on the students implementation skills based on
+  the theory presented in lectures.
+- The practical hours will be timetabled together as a double class.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Compare and contrast common wireless technologies and associated standards.
+- Configure and install wireless access points, bridges, and WLAN controllers.
+- Analyse WLAN RF principles, wireless communication channels and associated system
+  models.
+- Classify wireless security threats and vulnerabilities and demonstrate the ability
+  to implement appropriate security measures.
+- Troubleshoot wireless installations and configurations.
+- Demonstrate their ability to enhance their knowledge of emerging wireless, mobile
+  and cellular communications technology.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMM-0064
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'COMPUTER LAB: Networks Lab'
+short title: Wireless Communications
+supplementary material:
+- 'Ciampa, M. \emph{CWNA Guide to Wireless LANs}. 3rd ed. US: Cengage Learning, 2013.'
+- 'Kurose, J. and K. Ross. \emph{Computer Networking: A Top-Down Approach}. 6th ed.
+  Boston, US: Addison-Wesley/Pearson, 2013.'
+- 'Olenewa, J. \emph{Guide to Wireless Communications}. 3rd ed. Boston, US: Cengage
+  Learning, 2014.'
+- 'Stallings, W. \emph{Wireless Communications & Networks}. 2nd ed. England: Pearson,
+  2014.'

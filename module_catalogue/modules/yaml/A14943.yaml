@@ -1,0 +1,24 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A14943
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mobile Web Development
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0492
+ref: A14943
+short name: Mobile Web Development
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0492
+verified: false

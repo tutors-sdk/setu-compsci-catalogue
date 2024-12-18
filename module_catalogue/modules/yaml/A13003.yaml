@@ -1,0 +1,49 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A13003
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Networks Infrastructure
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0660
+- programme: WD_KACCM_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0660
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0660
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0660
+- programme: WD_KCOMP_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0660
+- programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0660
+ref: A13003
+short name: Networks Infrastructure
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0660
+verified: false

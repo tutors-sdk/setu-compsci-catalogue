@@ -1,0 +1,38 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A11583
+dirty: false
+external: false
+group: Computing and Mathematics
+name: The Connected Car
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0575
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0575
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0575
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0575
+ref: A11583
+short name: The Connected Car
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- spring
+- all
+timetable: COMP-0575
+verified: false

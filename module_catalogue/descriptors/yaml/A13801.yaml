@@ -1,0 +1,82 @@
+aim: The focus of this module is on the principles and practices in the design and
+  implementation of Cloud based applications and supporting services. This module
+  will introduce modern application architectures and frameworks, RESTful services
+  and Cloud Computing Infrastructure technologies. Emerging concepts and techniques
+  in the areas of IaaS, PaaS and SaaS will be covered using the latest tools such
+  as Amazon's Web Services.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domains
+  of SDN, Infrastructure services and automation.'
+- '40%-59%: Be able to interpret and describe key concepts of the specific knowledge
+  domains of Cloud Architectures, Infrastructures and Services. Ability to discover
+  and integrate related knowledge into cloud based application architectures.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 3,5
+  main: false
+  name: Lab Report
+  weighting: 20
+basename: A13801_-_CaM_-_NetwandClou_-_Cloud_Application_Services
+co-requisites: []
+code: A13801
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Cloud Application Services
+indicative content:
+- Cloud Computing Architectures and Services
+- 'Networking services: IP Addressing, DNS, DHCP, NAT'
+- Security services for Cloud Applications
+- Highly Available Applications
+- Web Services
+- Software Defined Services
+learning and teaching methods:
+- The practical lab component will be delivered in one double lab session.
+- Combination of lectures and computer-based practical and simulation exercises.
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Lab
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Assess the properties of Cloud-based Application environments (e.g. scalability,
+  loose coupling etc.) and recognise the advantages and challenges in creating such
+  Systems.
+- Model cloud-based services that are secure, cohesive, and loosely coupled.
+- Compare and contrast common Application Architectures.
+- Develop and configure solutions for modern Cloud Application systems.
+- Critique key features and design decisions that affect a design solution.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Cloud Application Services
+supplementary material:
+- '"Amazon Web Services." http://aws.amazon.com/'
+- 'Erl, T. \emph{Cloud Computing Design Patterns}. 1st. New York: Prentice Hall, 2015.'
+- 'Newman, S. \emph{Building Microservices}. 1st. New York: O''Reilly Media, 2015.'

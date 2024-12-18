@@ -1,0 +1,91 @@
+aim: This module puts a strong emphasis on the fundamental concepts of programming
+  whilst expressing them through a highly visual medium. It assumes no prior knowledge
+  of technology,programming languages or programming environments.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of creative programming.'
+- '40%-49%: Be able to interpret and describe key concepts of creative programming.'
+- '50%-59%: Ability to discuss key concepts of creative programming and interactive
+  art and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within creative programming by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '2'
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 1,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+basename: A13726_-_CaM_-_SoftandWebDeve_-_Creative_Programming_Fundamentals_1
+co-requisites: []
+code: A13726
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"P5 Home Page." http://p5js.org'
+- '"Scratch by MIT." https://scratch.mit.edu/'
+- 'Mc Carthy, L., C. Reas and B. Fry. \emph{Getting started with P5.js}. 4th ed..
+  NY: In Easy Steps Limited, 2013.'
+- 'Vlieg, E. \emph{Basic Scratch: An introduction to the Scratch programming language}.
+  1st ed.. NY: Amazon Digital Services LLC, 2014.'
+full title: Creative Programming Fundamentals 1
+indicative content:
+- Creative Programming design and interactive art
+- Problem solving
+- 'Using Variables in creative programs: Working with numbers and strings'
+- 'Performing operations: Logical Operators; Mathematical Operators; Precedence and
+  Associativity'
+- 'Controlling Flow: Sequence;Selection; Iteration'
+- 'Event Management: user interaction; mouse and keyboard input'
+- Use of functions for creativity
+- Introduction to arrays
+learning and teaching methods:
+- Lectures to introduce the theory and concepts of Creative Programming.
+- Practical labs so that the students can put the theory into practice.
+- Self-directed learning.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 75
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Apply core problem solving approaches suitable to the multimedia environment.
+- Use visually creative applications that employ sequence, conditional and iterative
+  control structures.
+- Construct visually creative applications that use simple UI to respond to user actions,
+  perform computations and use relevant data structures.
+- Employ the creative reference functions in the API's.
+- Demonstrate and explain how the above visually creative applications work.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0583
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Creative Programming 1
+supplementary material:
+- '"Lauren Mc Carthy." http://lauren-mccarthy.com'

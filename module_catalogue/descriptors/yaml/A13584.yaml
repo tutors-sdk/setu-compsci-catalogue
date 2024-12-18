@@ -1,0 +1,89 @@
+aim: This module will provide students with the skills to be a Database Administrator
+  (DBA) in an organisation. The module will provide students with the knowledge to
+  be able to successfully design, create and manage a database architecture with a
+  diverse set of tools and technologies, which will enable them to provide database
+  services to support the database needs of different types of end users who are using
+  heterogeneous databases.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the design and development
+  of a database architecture and implement a usable DBMS configuration.'
+- '40%-49%: Be able to interpret and describe key concepts of the design and implementation
+  of a database architecture and implement a usable configuration.'
+- '50%-59%: Ability to discuss key concepts of a database architecture and ability
+  to discover and integrate related knowledge in other disciplines like security and
+  networks.'
+- '60%-69%: Be able to solve problems in regards to Database architecture by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate complex skills and tools.'
+assessment methods:
+- learning outcomes: 4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,2,3,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+basename: A13584_-_CaM_-_DataandAnal_-_Database_Administration
+co-requisites: []
+code: A13584
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Kyte, T. and T. Kuhn. \emph{Expert Oracle Database Architecture}. 2nd. New York:
+  Appress, 2014.'
+full title: Database Administration
+indicative content:
+- The role of the DBA
+- The database architecture
+- Managing Files
+- Managing Memory
+- Managing Processes
+- Locking & Latching
+- Concurrency Control & Multi-versioning
+learning and teaching methods:
+- The students will be introduced to the theory of the module in lectures.
+- The lectures will be interactive and discursive in nature.
+- Some topics will be supported with appropriate case studies and examples.
+- The theory will be applied in a series of practicals that will be problem solving
+  focused and work towards a predefined assignment, all of which is to be completed
+  by the end of the semester.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Install a database architecture.
+- Manage and modify the file system.
+- Manage and modify the processes.
+- Manage and optimise the memory structures.
+- Manage the locking mechanisms.
+- Appraise appropriate concurrency control mechanisms.
+- Administer the database architecture.
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0327
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Database Administration
+supplementary material: []

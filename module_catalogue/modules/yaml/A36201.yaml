@@ -1,0 +1,23 @@
+author: ''
+change: A35484
+co-ordinator: ''
+code: A36201
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Security
+programmes:
+- programme: WD_KDAAN_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ''
+ref: A36201
+short name: Data Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: ''
+verified: false

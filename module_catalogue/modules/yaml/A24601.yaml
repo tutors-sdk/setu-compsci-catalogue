@@ -1,0 +1,23 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A24601
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Systems and Networks
+programmes:
+- programme: WD_KCOSC_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0975
+ref: A24601
+short name: Computer Systems and Networks
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- all
+- autumn
+timetable: COMP-0975
+verified: false

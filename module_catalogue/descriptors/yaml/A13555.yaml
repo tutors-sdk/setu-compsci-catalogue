@@ -1,0 +1,93 @@
+aim: This module will expose the learner to statistical and other methods that will
+  enable them to create a variety of visualisations from different types of data,
+  using both traditional and contemporary methods. Issues pertaining to the collection
+  of data will be presented as will cautions on the potential for statistics to mislead.
+  A basic introduction to the statistical tools used in data analytics is also given.
+assessment criteria:
+- '<40%: Unable to apply data visualisation methods at a basic level.'
+- '40%-49%: Able to apply basic data visualisation methods.'
+- '50%-59%: Able to apply a range of data visualisation methods.'
+- '60%-69%: As above. And demonstrate a reasonable comprehension of the potential
+  and limitations of data visualisation.'
+- '70%-100%: As above. And demonstrate am excellent comprehension of the potential
+  and limitations of data visualisation.'
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13555_-_CaM_-_MathandPhys_-_Data_Visualisation
+co-requisites: []
+code: A13555
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Visualisation
+indicative content:
+- 'Data: Sourcing; Primary and secondary data; Sampling mechanisms; Validity checks
+  -- outlier detection, data cleaning etc; Big data'
+- 'Traditional approaches: Review of conventional statistical charts -- elementary
+  (histograms, boxplots, pareto, pie charts etc.); Advanced (multiple, clustered,
+  stacked, contour etc.); Selecting suitable charts for a given purpose'
+- 'Lies and statistics: Misrepresentation and deception in statistics in general and
+  in statistical charts in particular; Historical case studies'
+- 'Contemporary visualisation charts: Static (linear, planar, multidimensional, temporal,
+  tree/hierarchical etc.) and dynamic'
+- 'Software: Statistical visualisation and graphics tools -- using both industry standard
+  software (e.g SAS visual analytics etc.) and non-commercial software (e.g. GGobi,
+  R etc.)'
+- 'Statistical methods: Overview of methods used in data analytics using appropriate
+  software. (E.g. significance testing, multiple regression, cluster analysis etc.)'
+learning and teaching methods:
+- Lectures will be used to present the principles and the constructs of data visualisation
+  as well as to demonstrate industry standard application. The importance of practice
+  will be emphasised with a philosophy of learning by doing being fostered in the
+  laboratory sessions.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Discuss the issues pertaining to the collection and preparation of data.
+- Choose an appropriate, traditional, statistical chart that will successfully convey
+  information contained in a data set.
+- Determine in statistical metrics or charts, potential to accidentally or deliberate
+  misrepresent information in a data set.
+- Select and utilize suitable software that creates data visualisations -- both traditional
+  (elementary and advanced) and contemporary (static and dynamic).
+- Select and utilize suitable software that implements statistical methods used in
+  data analytics.
+level: Advanced
+pre-requisites:
+- None
+- None
+programmes:
+- null
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0629
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Visualisation
+supplementary material:
+- '"Statsoft Electronic Statistics Textbook." www.statsoft.com'
+- 'Tufte, E.R. \emph{The visual display of quantitative information}. Connecticut:
+  Graphics Press, 2001.'

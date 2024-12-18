@@ -1,0 +1,45 @@
+author: Richard Frisby
+change: ''
+co-ordinator: ''
+code: A13482
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Automated Cloud Services
+programmes:
+- null
+- programme: WD_KCOMC_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+- programme: WD_KCOMP_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+- programme: WD_KDEVP_B
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+- programme: WD_KDEVP_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+- programme: WD_KINFT_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0967
+- null
+ref: A13482
+short name: Automated Cloud Services
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+timetable: COMP-0967
+verified: false

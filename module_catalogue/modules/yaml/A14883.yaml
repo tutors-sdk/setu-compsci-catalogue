@@ -1,0 +1,28 @@
+author: TJ McDonald
+change: ''
+co-ordinator: ''
+code: A14883
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Project 2 IT (Research)
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0958
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0958
+ref: A14883
+short name: Project 2 IT (Research)
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+timetable: COMP-0958
+verified: true

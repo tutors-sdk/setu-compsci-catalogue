@@ -1,0 +1,30 @@
+acs: 'YES'
+code: WD_KDAAN_G
+comment: ''
+department: Computing and Mathematics
+dirty: false
+full title: HDip in Science in Data Analytics
+group: Computing and Mathematics
+handbook: 'YES'
+leader: Dr Padraig Kirwan
+level: 8
+level 7 special exit full title: HDip in Science in Data Analytics
+modes: F
+name: HDip in Science in Data Analytics
+num stages: 2
+semesters:
+  1: 1
+  2: 1
+  3: 2
+  4: 2
+short title: HDip in Science in Data Analytics
+specialisation: Data Analytics
+stages:
+  1:
+  - 1
+  - 2
+  2:
+  - 3
+  - 4
+type: HDip in Science
+volume3: 'YES'

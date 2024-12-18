@@ -1,0 +1,33 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A11149
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Project Semester 4
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROJ-0159
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PROJ-0159
+- programme: WD_KINTT_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: PROJ-0159
+ref: A11149
+short name: Project Semester 4
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- spring
+- all
+timetable: PROJ-0159
+verified: false

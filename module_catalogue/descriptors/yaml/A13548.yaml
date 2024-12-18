@@ -1,0 +1,102 @@
+aim: This module focuses on the Web Design and Development Process, from User Experience
+  (UX), Planning, Responsive Design, to Development and Maintenance. The module will
+  use industry standard website planning, design and web authoring tools. It will
+  include web publishing and cross platform application development.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the web development process.'
+- '40%-49%: Be able to interpret and describe key concepts of the web development
+  process.'
+- '50%-59%: Ability to discuss key concepts of the web development process and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within web development by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 10
+- learning outcomes: '2'
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 70
+basename: A13548_-_CaM_-_GrapDesiandAnim_-_Web_Design_and_Development
+co-requisites: []
+code: A13548
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Web Design and Development
+indicative content:
+- Planning & User Experience
+- Design & User Experience
+- 'Development: Content Management Systems, What You See Is What You Get (WYSIWYG)
+  Authoring'
+- Web Publishing
+- Responsive Development / Frameworks (Cross Platform App Development)
+- 'Website Maintenance: Search Engine Optimisation , Testing & Approval, Launch &
+  Transition'
+learning and teaching methods:
+- This is a lab based module. This module will be delivered using 2 hours of computer-based
+  Lectures, along with 2 hour of computer-based Practicals each week.
+- The Lectures will introduce new concepts and theory relating to the web development
+  process. The practicals will allow the students to design and develop websites using
+  industry standard web authoring software.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Demonstrate an ability to document and complete the planning stage of a Web Development
+  project.
+- Apply Web UX guidelines to the design of an interactive website.
+- Demonstrate an ability to construct a responsive website using a Content Management
+  System.
+- Demonstrate an ability to develop an interactive website using industry standard
+  web authoring tools.
+- Publish and test an interactive website.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0598
+  title: Bachelor of Science in Information Technology
+- programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0598
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Web Design and Development
+supplementary material:
+- '"Adobe Dreamweaver CC Tutorials." https://helpx.adobe.com/dreamweaver/tutorials.html'
+- '"Learn WordPress." https://learn.wordpress.com'
+- '"Stages of Web Design." https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html'
+- 'Fielding, J. \emph{Beginning Responsive Web Design with HTML5 and CSS3}. 1st ed..
+  New York: Apress, 2014.'
+- 'Maivald, J. \emph{Adobe Dreamweaver CC Classroom in a Book (2015 rel}\emph{ease)}.
+  1st ed.. United States of America: Peachpit, 2015.'

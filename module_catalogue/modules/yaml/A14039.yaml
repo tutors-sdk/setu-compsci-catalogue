@@ -1,0 +1,28 @@
+author: John Sheppard
+change: ''
+co-ordinator: ''
+code: A14039
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Forensics
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0654
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0654
+ref: A14039
+short name: Computer Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0654
+verified: false

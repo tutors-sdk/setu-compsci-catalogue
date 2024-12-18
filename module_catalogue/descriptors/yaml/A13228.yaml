@@ -1,0 +1,89 @@
+aim: This module aims to introduce the student to the theories and design elements
+  involved in the creation of content. The student develops an understanding of the
+  colour and its' meaning, art movements, art mediums and concept generation for advertisements.
+  The student will have a number of practical labs to gain understanding and experience
+  in an art medium.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts and theories of graphic design
+  in relation to concept creation for advertisement, art movements and mediums and
+  colour.'
+- '40%-49%: Be able to interpret and describe key concepts involved in graphic design
+  in relation to concept creation for advertisement, art movements and mediums and
+  colour.'
+- '50%-59%: Ability to discuss key concepts of graphic design and ability to discover
+  and integrate related knowledge from other knowledge domains.'
+- '60%-69%: Be able to create quality assets within the graphic design sphere by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse, interpret and
+  use creative tools to come up with a high quality asset.'
+assessment methods:
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 2,3,4
+  main: false
+  name: Portfolio
+  weighting: 30
+basename: A13228_-_CaM_-_GrapDesiandAnim_-_Graphic_Design_2
+co-requisites: []
+code: A13228
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Graphic Design 2
+indicative content:
+- Concept design:idea generation through the use of creative filters e.g. Expected
+  Unexpected Bizarre (E.U.B);Visual Dynamic; Advertising and other media outlets
+- 'Colour: colour theory; colour wheel; colour models; light; meaning of colour; colour
+  psychology; mood boards'
+- Art movements:Impressionism;cubism;modernism etc
+- 'Art mediums: watercolour;oil; acrylic'
+- 'Composition: Visual harmony and disharmony'
+learning and teaching methods:
+- This module will be delivered using one hour of a computer-based lecture, along
+  with three hours of computer-based practicals each week.
+- The practical block of three hours is required so that students can be re-introduced
+  to the theory and then implement it the practical side of it.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Complete a concept design for advertising.
+- Discuss art movements and use an art medium.
+- Apply the techniques used in an art medium.
+- Recognise and apply the fundamental concepts of colour.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0593
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Lecture Room: Loose Seated'
+- 'EQUIPMENT: Blackboard'
+short title: Graphic Design 2
+supplementary material:
+- 'Gombrich, E.H. \emph{The Story of Art}. 16th ed. NY: Phaidon Press, 2007.'
+- 'Hockney, D. \emph{Secret Knowledge (New and Expanded Edition): Rediscovering the
+  Lost Techniques of the Old Masters}. Expanded ed. NY: Avery, 2006.'

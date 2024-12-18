@@ -1,0 +1,28 @@
+author: Ann Vereker
+change: ''
+co-ordinator: ''
+code: A13783
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mathematics for Problem Solving
+programmes:
+- programme: WD_KCRCO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: MATH-0028
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: MATH-0028
+ref: A13783
+short name: Maths for Problem Solving
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: MATH-0028
+verified: true

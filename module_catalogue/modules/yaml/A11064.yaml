@@ -1,0 +1,53 @@
+author: Mohammed Alhourani
+change: ''
+co-ordinator: ''
+code: A11064
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Physics 2
+programmes:
+- programme: WD_EEELC_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_ETRIC_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_KACCM_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+- programme: WD_KINTT_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0547
+ref: A11064
+short name: Physics 2
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: COMP-0547
+verified: false

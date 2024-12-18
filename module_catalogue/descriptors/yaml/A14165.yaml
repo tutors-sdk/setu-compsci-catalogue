@@ -1,0 +1,91 @@
+aim: This module provides the students with an introduction to the practical processes
+  for realizing and integrating pre-production assets within the production pipeline.
+  It exposes the student to the concepts and themes of the creative process and the
+  interdisciplinary nature of the workflow phases. The theories and processes underlying
+  the creative process are examined, while emphasis is placed on the practical realization
+  of concept assets through the production of a digital animatic.
+assessment criteria:
+- '<40%: Unable to interpret and demonstrate key concepts of the production pipeline.'
+- '40%-49%: Be able to interpret and demonstrate key concepts in the production pipeline.'
+- '50%-59%: Ability to interpret key concepts of the production pipeline and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems using the production pipeline process skills
+  by experimenting with the appropriate skills.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills.'
+assessment methods:
+- learning outcomes: '1'
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 2,3,4
+  main: false
+  name: Portfolio
+  weighting: 50
+basename: A14165_-_CaM_-_MediProd_-_Pipeline_Design_Concepts
+co-requisites: []
+code: A14165
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Pipeline Design Concepts
+indicative content:
+- 'Story Telling: Writing; The Process of Scipt-writing; Elements of story telling;
+  Narrative construction; Dialogue'
+- Character Design and Development
+- The Language of Film, Cinematography
+- 'Storyboarding: Fundamentals; Technical Structure; Components and Functions; Case
+  Studies; Script to Storyboard Realisation'
+- 'Call Sheets: Purpose and Overview'
+- 'Animatic: Timing, Creation of a basic digital Animatic from existing assets'
+- 'Production: Scene Selection and Setup'
+- Digitisation Process
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Identify and recognise the conceptual themes relating to Story telling, Script-writing,
+  Story-boarding and Character Development.
+- Identify and recognise the key elements of Cinematography for story telling.
+- Interpret and identify the Production Pipeline phases.
+- Complete an animatic using industry standard software.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0589
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Lecture Room: Loose Seated'
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Pipeline Design Concepts
+supplementary material:
+- 'Dunlop, R. \emph{Production Pipeline Fundamentals for Film and Games}. 1st ed.
+  London: Focal Press, 2014.'
+- 'Glebas, F. \emph{Directing the Story: Professional Storytelling and Storyboarding
+  Techniques for Live Action and Animation}. 1st ed. London: Taylor and Francis, 2009.'
+- 'Moritz, C. \emph{Scriptwriting for the Screen (Media Skills)}. 2nd ed. New York:
+  Routledge, 2008.'

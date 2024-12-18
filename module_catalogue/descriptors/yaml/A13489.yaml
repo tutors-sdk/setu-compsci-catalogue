@@ -1,0 +1,103 @@
+aim: Implement, from first principles, custom and general purpose data structures
+  and algorithms that are efficient, thread safe, and robustly tested and validated.
+assessment criteria:
+- '<40%: Unable to describe or implement basic data structures and algorithms.'
+- '40%-49%: Able to describe and implement basic data structures and algorithms.'
+- '50%-59%: Able to choose and apply appropriate data structures and algorithms to
+  solve problems.'
+- '60%-69%: Able to choose and apply appropriate data structures and algorithms to
+  solve complex problems.'
+- '70%-100%: Able to critically choose, analyse and design custom data structures
+  and algorithmic solutions to a high standard for a range of both complex and unforeseen
+  problems.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+- learning outcomes: 1,2,3,6
+  main: false
+  name: Portfolio
+  weighting: 70
+basename: A13489_-_CaM_-_SoftandWebDeve_-_Data_Structures_and_Algorithms_1
+co-requisites: []
+code: A13489
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Structures and Algorithms 1
+indicative content:
+- 'Implementing Data Structures: Abstract Data Types (ADTs); Lists; Sets; Stacks;
+  Queues; Maps'
+- 'Implementing Search Algorithms: Linear; Binary; Hashing; Other'
+- 'Implementing Sorting Algorithms: Selection; Bubble; Insertion; Other'
+- Recursive Algorithms
+- Multithreading and Concurrency Issues
+- Test-Driven Development for Data Structures and Algorithms
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- Students will work on building a portfolio of practical project work.
+- Cooperative and peer learning (e.g. pair-programming, teamwork).
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 36
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Construct, from first principles, custom and general purpose data structures.
+- Construct suitable and efficient search algorithms for different data structures.
+- Construct efficient sorting algorithms for different data structures.
+- Use recursion in algorithmic implementations.
+- Explain the issues surrounding, and be able to implement solutions for, concurrently
+  accessed data structures.
+- Construct robust data structures and efficient algorithms in a systematic, test-driven
+  fashion.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0602
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0602
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Structures & Algorithms 1
+supplementary material:
+- '"Khan Academy Computer science alogrithms." https://www.khanacademy.org/computing/computer-science/algorithms'
+- 'Sedgewick, R. and K. Wayne. \emph{Algorithms}. NY: Addison-Wesley, 2011.'

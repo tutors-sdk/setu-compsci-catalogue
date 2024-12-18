@@ -1,0 +1,79 @@
+author: TJ McDonald
+change: ''
+co-ordinator: ''
+code: A14786
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Project 1 (Research)
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KACCM_BI
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- null
+- programme: WD_KDEVP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KDEVP_BI
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KINTT_BI
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KITMA_B
+  semester: 7
+  stage: 1
+  status: E
+  timetable: PROJ-0167
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+ref: A14786
+short name: Project 1 (Research)
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: PROJ-0167
+verified: true

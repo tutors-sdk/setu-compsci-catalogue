@@ -1,0 +1,59 @@
+author: Lucy White
+change: ''
+co-ordinator: ''
+code: A13488
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Operating Systems
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0379
+- programme: WD_KACCM_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0379
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0379
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0379
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0379
+- programme: WD_KDEVP_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0379
+- programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0379
+- programme: WD_KINTT_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0379
+ref: A13488
+short name: Operating Systems
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0379
+verified: false

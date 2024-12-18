@@ -1,0 +1,28 @@
+author: Jacqui Woods O'Brien
+change: ''
+co-ordinator: ''
+code: A14034
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Advanced Graphic Design
+programmes:
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0635
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0635
+ref: A14034
+short name: Advanced Graphic Design
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+timetable: COMP-0635
+verified: true

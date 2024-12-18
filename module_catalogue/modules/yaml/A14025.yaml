@@ -1,0 +1,28 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14025
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Knowledge Systems Engineering and the Semantic Web
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0656
+- programme: WD_KITMA_B
+  semester: 8
+  stage: 1
+  status: E
+  timetable: COMP-0656
+ref: A14025
+short name: Knowledge Systems Engineering
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0656
+verified: true

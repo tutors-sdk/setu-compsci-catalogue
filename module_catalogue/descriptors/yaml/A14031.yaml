@@ -1,0 +1,139 @@
+aim: This subject is a formal induction into the research process. It provides a general
+  overview of important concepts, methodologies and an introduction to practical methods
+  associated with carrying out independent research in computing and information systems
+  related topics. This course is designed to provide an understanding of the scientific
+  research process. It also provides a practical support for students who are beginning
+  their postgraduate research activities. Research in computing-related fields is
+  one of the most inter-disciplinary and complex areas of academic activity ranging
+  from highly technical studies to research on systems development methodologies to
+  analysis of user experiences to large-scale systems integration and many other areas.
+  This module therefore reflects the rich tradition of interdisciplinary and single
+  disciplinary published research in the Department of Computing and Mathematics.
+assessment criteria:
+- <40%:Unable to interpret and describe key concepts associated with academic research.
+  Unclear or entirely inadequate presentation of proposed research. Proposal not workable.
+- 40%-59%:Be able to interpret and describe key concepts of scientific research. Some
+  clarity in the research proposal but may need work to successfully progress their
+  study. Research proposal deemed suitable for further work, with revisions and refocussing.
+  Elementary plans in place which provide a solid basis for further work.
+- 60%-69%:Solid grasp of conceptual material. Demonstrable understanding of and ability
+  to articulate key concepts associated with research. Good quality research proposal
+  and presentation, demonstrating a clear understanding of the domain and how to research
+  it as an independent researcher.
+- 70%-100%:All the above to an excellent level. Demonstrates an ability to analyse
+  and design solutions to a high standard for a research project which clearly demonstrates
+  publishable potential in a computing-related field. Clearly stated and well-worked
+  theory with some appreciation of how to test this theory to a relatively advanced
+  level.
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3,4,5,6,7
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14031_-_CaM_-_ProfSkil_-_Research_Methods_and_Dissertation_Proposal
+co-requisites: []
+code: A14031
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Research Methods and Dissertation Proposal
+indicative content:
+- Overview of the classical scientific research process, introduction to important
+  ideas in the philosophy of science
+- Topic selection, problem formulation, setting out research study objectives, formulating
+  different types of research questions, qualities of well-focused RQs
+- 'Critiquing the academic literature: features and sources of academic publications,
+  preparing the literature survey & review, referencing styles and conventions, the
+  relationship between the literature review and research questions, the relationship
+  between the literature review and theory development, important sources and types
+  of academic publication, reviewing criteria for academic publications'
+- 'Theory formulation: concepts & variables, propositions and hypotheses, building
+  theoretical frameworks for validation and testing including deductive and inductive
+  reasoning techniques'
+- 'Research Design: fixed vs. flexible designs, Overview of Quantitative, Qualitative
+  and Multi-method approaches in computing and experimental design'
+- Quantitative methods in computing and IS including the principles of quantitative
+  research, statistical inference, procuring data and designing experiments
+- Qualitative methods in computing and IS including case study research, principles
+  of data gathering, analysis and interpretation and other methods and their applications
+  in computing and IS
+- Ethical issues in computing-related research
+- 'Qualities of a research proposal: Criteria of coherence, comprehensiveness and
+  currency, originality, impact, validity, reliability, generalisability, significance,
+  rigour and related epistemological considerations'
+learning and teaching methods:
+- Lectures, group work, practical sessions and workshops. Engagement with a dedicated,
+  assigned research supervisor.
+- Module delivery will combine workshop oriented approach with the presentation of
+  theoretical material. It is designed to engage students in the work of preparing
+  their research dissertation proposal and supporting engagement with supervisors
+  and research planning.
+- Continuous assessment of this module is by way of a dissertation proposal which
+  comprises a report and presentation.
+- This module will enable students to initiate and progress work on their dissertation
+  proposal and presentation during the workshops.
+- Indicative Dissertation Proposal Report Structure will be provided to students during
+  the delivery of this module.The student will also make an oral presentation of the
+  proposal to a research panel organised by the relevant course board.
+- This proposal will be assessed using a dissertation proposal assessment form which
+  will be reviewed during the module delivery. The assessment process will involve
+  a first reader (the assigned supervisor) and a second reader.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: 36
+- full time: 12
+  name: Practical
+  part time: 12
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Appraise key research concepts associated with scientific research.
+- Formulate their research problem, research objectives and research questions.
+- Organise a preliminary literature review of the concepts comprising the research
+  questions associated with a topic of research.
+- Formulate original theory for testing and demonstrate clearly how they arise from
+  the literature review and gather data to evaluate their theory through appropriate
+  research method instrumentation alternatives.
+- Prepare and successfully present a mini-dissertation research proposal to a research
+  panel.
+- Prepare and engage in a planned research activity under academic supervision.
+- Collect and analyse quantitative and qualitative data to assist in addressing a
+  research question.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: RESA-0175
+  title: Master of Science in Computing (Information Systems Processes)
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Res. Methods & Diss Proposal
+supplementary material:
+- 'Creswell, J. \emph{Research Design: Quantitative, Qualitative and Mixed Methods
+  Approaches}. 3rd ed.. Thousand Oaks: Sage, 2009.'
+- 'Denzin, N. and Y. Lincoln. \emph{The Handbook of Qualitative Research}. Thousand
+  Oaks: Sage, 2000.'
+- 'Field, A. \emph{Discovering Statistics using SPSS}. 3rd ed.. Thousand Oaks: Sage,
+  2009.'
+- 'Gardiner, W.P. and G. Gettinby, G. \emph{Experimental Design Techniques in Statistical
+  Practice}. New Delhi: Woodhead Publishing, 2013.'
+- 'Grey, D. \emph{Doing Research in the Real World}. Thousand Oaks: Sage, 2009.'
+- 'Murray, R. \emph{How to Write a Thesis}. Bucks, UK.: Open University, 2002.'
+- 'Pallant, J. \emph{The SPSS Survival Manual}. Bucks, UK.: Open University, 2002.'
+- 'Robson, C. \emph{Real World Research}. 3rd ed.. MA, USA: Blackwell, 2003.'

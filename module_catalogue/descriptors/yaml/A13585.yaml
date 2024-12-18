@@ -1,0 +1,91 @@
+aim: This module introduces the students to the most commonly used protocols and tools
+  for implementing calibration and diagnostic functions on vehicle and motorsport
+  control systems.
+assessment criteria:
+- '<40%: Inability to describe the main characteristics of diagnostic protocols.'
+- '40%-49%: Able to describe the basic features of diagnostic protocols and tools.'
+- '50%-59%: All the above and in addition is able to describe the detailed protocols
+  used for calibration and diagnostic services in automotive applications.'
+- '60%-69%: In addition, is able to interpret diagnostic data to identify vehicle
+  application problems.'
+- '70%-100%: All of the above and in addition is able to design new diagnostic services.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '3'
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+- learning outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: '2'
+  main: false
+  name: Lab Report
+  weighting: 25
+basename: A13585_-_CaM_-_AutoAutoandIoT_-_Automotive_Diagnostic_Protocols
+co-requisites: []
+code: A13585
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"ASAM organisation." www.asam.net'
+full title: Automotive Diagnostic Protocols
+indicative content:
+- Role of diagnostics in the vehicle and application lifecycle
+- Vehicle diagnostics interface
+- Diagnostic Trouble Codes and ECU Diagnostic memory (Black Box recording)
+- Calibration protocol (XCP)
+- ASAM diagnostic tool architecture
+- Diagnostic protocol (ISO 15765)
+- Diagnostic software tools
+- Diagnostic data exchange standards
+learning and teaching methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and underlying technologies in diagnostic application
+  development.
+- The lab-based practicals, building on the theoretical knowledge from the lectures,
+  provide the practical skills to develop diagnostic services for automotive applications.
+- Students will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into broader automotive diagnostics topics.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Design diagnostic services for a vehicle.
+- Evaluate vehicle diagnostic data accessed and processed from suitable software tools.
+- Assess the technical operating principles of common calibration and diagnostic protocols.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0223
+  title: Bachelor of Science (Honours) in Applied Computing
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0223
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Auto Diagnostic Protocols
+supplementary material:
+- 'Schaeuffele, J. and T. Zurawaka. \emph{Automotive Software Engineering}. Stuttgart,
+  Germany: Springer, 2013.'

@@ -1,0 +1,123 @@
+aim: The rate of ICT development has outpaced society?s ability to regulate responsible
+  usage of such technologies. Technology has a profound effect on many aspects of
+  work, living systems, the environment and society in general. The computing professional
+  has unique responsibilities as the creator, developer, implementer and manager of
+  these systems. This module will provide students with a critical awareness of ethical
+  issues in modern society in relation to computing technologies and the systems they
+  impact. It offers an introduction to the controversies, questions and strategies
+  for ethical computing. It also inculcates an awareness of the key ways in which
+  computing professionals can act ethically, including the role of important standards
+  and professional communities.
+assessment criteria:
+- <40%:Unable to demonstrate rudimentary understanding of the concepts and issues
+  described in the indicative content. Failing to demonstrate satisfactory ability
+  to formulate solutions for ethical dilemmas in computing.
+- 40%-49%:Able to demonstrate a rudimentary understanding of the basic concepts and
+  issues outlined in the module indicative content. Being able to formulate basic
+  solutions for typical ethical dilemmas taking into account a narrow range of factors.
+  Little demonstrable reflective learning present.
+- 50%-59%:Able to demonstrate a solid understanding of the concepts and issues outlined
+  in the indicative content taking into account a range of factors, and demonstrate
+  some critical, reflective awareness of ethical issues in computing.
+- 60%-69%:Able to demonstrate a very good understanding of the major concepts and
+  issues outlined in the indicative content taking into account a wide range of factors,
+  and demonstrate some critical awareness of the complexity of ethical issues in computing.
+  Able to reflect upon the role of of ethical issues in the working life of a computing
+  professional and how these might impact others. Appreciate the ways computing professionals
+  can obtain peer support.
+- 70%-100%:All the previous to an excellent level including capacity to solve ethical
+  problems and creatively engage in ethical discourse and the identification of appropriate
+  potential solutions.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 50
+- learning outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+basename: A14048_-_CaM_-_ProfSkil_-_Computing_Ethics
+co-requisites: []
+code: A14048
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Computing Ethics
+indicative content:
+- 'Introduction to Ethics: Ethical Concepts, Ethical Theories and Moral Systems, Ethical
+  Frameworks for discussing Computer-related issues'
+- 'Introduction to Cyberethics: Tools for Evaluating Cyberethics issues'
+- Ethics in the Information Society/Ethical and Regulatory Issues in the Online World
+  - Social Web (Web 2.0), Web of Things (Web 3.0), Intelligent Web (Web 4.0), emerging
+  technologies, Cybercrime, Cyberterrorism, Social Engineering, The Digital Divide,
+  technology and disability, developing world and IT policy, gender issues, transformation
+  of work and quality of life
+- Ethics, Privacy and e-Privacy
+- Ethical aspects of Cybersecurity
+- 'IS Development and Governance: Risk, Intellectual Property, systems failure, victims/beneficiaries,
+  user/analyst relations, stakeholders, IS deployment, other issues'
+- 'Professional Practice and Moral Responsibility: Whistle-blowing, Peer-Support,
+  Codes of Practice, Frameworks, support communities for computing and systems engineering
+  practitioners (ACM, IEEE, IFAC, AIS)'
+- Computing Standards in relation to Ethical issues (HCS development, e-privacy, energy-efficiency,
+  other standards)
+learning and teaching methods:
+- The course will comprise a combination of lectures which present cases and theoretical
+  materials and a combination of workshops and debates unpacking of ethical issues
+  and to develop the critical thinking skills necessary for competent ethical reasoning
+  in the field of computing. Additional readings may be provided from the academic
+  comuting ethics literature.
+- The student will prepare a portfolio which will include reports on how ethical issues
+  arising in computing might be addressed.
+- The portfolio will include a reflective learning component to test reflective capacity
+  and critical thinking skills. Templates will be provided to guide students in completing
+  these.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Workshop
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Critique ethical issues posed by computing technologies.
+- Appraise the practical implications of ethical dilemmas in computing.
+- Demonstrate the ability to take and exercise personal responsibility in professional
+  practice as a computing professional.
+- Critique what is meant by ethical computing and cyberethics and their practical
+  implications.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources: []
+short title: Computing Ethics
+supplementary material:
+- 'Baase, S. \emph{A Gift of Fire: Social, Legal and Ethical Issues for Computers
+  and the Internet}. 2nd ed.. NJ: Prentice Hall, 2013.'
+- 'Hersh, M.A. \emph{Ethical Engineering for International Development and Environmental
+  Stability}. 1st ed.. London: Springer-Verlag, 2015.'

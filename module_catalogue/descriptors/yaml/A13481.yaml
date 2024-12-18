@@ -1,0 +1,84 @@
+aim: Instructional Design is the analysis of how people learn and the systematic development
+  of instruction. This module introduces students to the core fundamentals of learning
+  theories as a pre-requisite to designing effective e-learning solutions. This module
+  focuses upon theories of learning and their practical implications in the design
+  of effective blended and technical solutions in training and instruction.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the paradigms of learning.'
+- '40%-49%: Be able to interpret and describe key concepts of learning theories and
+  their implications.'
+- '50%-59%: Ability to discuss key concepts of theories of learning and ability to
+  discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the learning theoires by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 3, 4
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13481_-_CaM_-_MediProd_-_Instructional_Design
+co-requisites: []
+code: A13481
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Instructional Design
+indicative content:
+- Theories of learning
+- Implications of pedagogical approaches to the effective design of training and learning
+  solutions
+- The instructional design process
+- Evaluation of current instructional design technologies and delivery systems
+learning and teaching methods:
+- This module will be delivered using 2 hours of computer-based Lectures, along with
+  2 hours of computer-based Practicals each week.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Evaluate key assumptions within the main learning paradigms.
+- Assess the practical implications of pedagogical approaches to the effective design
+  of training and learning solutions.
+- Evaluate current instructional technologies and assess the practical implications
+  in designing effective training and learning solutions.
+- Design and develop an effective training solution based upon theoretical assumptions
+  explored in the module.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: DESG-0038
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Instructional Design
+supplementary material:
+- 'Cennamo, K. and P. Kalk. \emph{Real World Instructional Design}. 3rd. UK: Wadsworth
+  Publishing, 2014.'
+- 'Jordan, A., O. Carlile and A. Stack. \emph{Approaches to Learning: A Guide for
+  Teachers}. 1st ed. UK: McGraw-Hill: Open University Press, 2008.'
+- 'Morrison, R., M. Kemp and P. Ross. \emph{Designing Effective Instruction}. UK:
+  Wiley, 2006.'

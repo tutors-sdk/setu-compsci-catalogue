@@ -1,0 +1,92 @@
+aim: The student is introduced to the use of analytics to support the decision making
+  process in the business context. The student will experience the identification,
+  description, cleaning, transforming and storage of structured data in an appropriate
+  environment. Data mining techniques appropriate for the business analytics' context
+  such as up-selling, cross-selling, customer classification and pattern discovery
+  will be investigated. The student will conduct appropriate statistical analysis,
+  rule generation and modelling in order to discover patterns and create new insights.
+  The student will present and evaluate that analysis using visualisation tools.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the Business Analytics domain.'
+- '40%-49%: Be able to interpret and describe key concepts of the Business Analytics
+  knowledge domain, particularly the data mining process.'
+- '50%-59%: Ability to discuss key concepts of the Business Analytics knowledge domain
+  and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve basic business analytics problems by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 100
+basename: A37366_-_CaM_-_DataandAnal_-_Data_Analytics_Essentials
+co-requisites: []
+code: A37366
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Analytics Essentials
+indicative content:
+- Introduction to Business Analytics
+- The Data Mining process; Data Identification, Data description, Data cleaning, Data
+  transformation
+- 'Data modelling: Statistical modelling; decision trees; rudimentary rules'
+- Deployment, evaluation and maintenance
+- 'The application of business analytics: CRM; Sales; Marketing etc'
+- Business Analyst job role
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures. Each lab incrementally builds on the previous, developing the students
+  practical skills in business analytics.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a new business scenario.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise the use of analytics in the business context to support decision making.
+- Prepare results from an introductory analytics project using an appropriate Data
+  Mining process.
+- Organise a set of data in preparation for business analytics.
+- Develop, implement and evaulate the results of data models on a data set.
+- Assess the use of a data mining process in the context of business analytics.
+- Evaluate and determine appropriate introductory data mining techniques.
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_KCSDV_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0609
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Analytics Essentials
+supplementary material:
+- 'Evans, J. \emph{Statistics, Data Analysis, and Decision Modelling}. NY: Pearson,
+  2013.'
+- 'Jank, Wolfgang. \emph{Use R! Business Analytics for Managers}. NY: Springer, 2011.'
+- 'Stubbs, E. \emph{Delivering Business Analytics practical guidelines for best practice}.
+  NY: Wiley, 2013.'

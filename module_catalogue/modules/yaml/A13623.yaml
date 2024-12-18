@@ -1,0 +1,28 @@
+author: Clodagh Power
+change: ''
+co-ordinator: ''
+code: A13623
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Security
+programmes:
+- programme: WD_KCRCO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0628
+- programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0628
+ref: A13623
+short name: Computer Security
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- all
+- autumn
+timetable: COMP-0628
+verified: true

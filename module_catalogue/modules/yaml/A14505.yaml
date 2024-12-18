@@ -1,0 +1,29 @@
+author: Liam Doyle
+change: ''
+co-ordinator: ''
+code: A14505
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Information Systems Project Management
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0291
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0291
+ref: A14505
+short name: IS Project Management
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0291
+verified: false

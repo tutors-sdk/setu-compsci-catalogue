@@ -1,0 +1,25 @@
+acs: 'YES'
+code: WD_KINTE_B
+comment: OLD_PROGRAMME
+department: Computing and Mathematics
+dirty: false
+full title: BSc (Hons) in Information Technology
+group: Computing and Mathematics
+handbook: 'NO'
+leader: Dr TJ McDonald
+level: 8
+level 7 special exit full title: BSc in Information Technology
+modes: F
+name: BSc (Hons) in Information Technology
+num stages: 1
+semesters:
+  1: 4
+  2: 4
+short title: BSc (Hons) in Information Technology
+specialisation: Information Technology
+stages:
+  4:
+  - 1
+  - 2
+type: BSc (Hons)
+volume3: ''

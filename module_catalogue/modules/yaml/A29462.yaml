@@ -1,0 +1,34 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A29462
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Advanced Driver Assistance Systems
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0568
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0568
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0568
+- null
+ref: A29462
+short name: Adv. Driver Assistance Systems
+special regulations: null
+subgroup: Automotive, Automation and IoT
+tags:
+- all
+- autumn
+timetable: COMP-0568
+verified: false

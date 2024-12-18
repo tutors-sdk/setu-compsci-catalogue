@@ -1,0 +1,28 @@
+author: Jacqui Woods O'Brien
+change: ''
+co-ordinator: ''
+code: A14028
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Multimedia Databases
+programmes:
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0633
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: M
+  timetable: COMP-0633
+ref: A14028
+short name: Multimedia Databases
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: COMP-0633
+verified: true

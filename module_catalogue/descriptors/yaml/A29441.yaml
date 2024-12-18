@@ -1,0 +1,113 @@
+aim: The purpose of this module is to introduce the student to the fundamental concepts
+  and techniques of Data Mining. The student will become familiar with Data Mining
+  approaches (such as prediction, classification, clustering) and their typical solution
+  techniques (methods and algorithms) to datasets that support business intelligence
+  applications. The practical part of the module will present a suite of Data Mining
+  exercises that the student will solve. During each exercise, the student will apply
+  an appropriate Data Mining method and learn to evaluate and interpret the results.
+assessment criteria:
+- <40%:Unable to interpret and describe key concepts of data mining approaches.
+- 40%-49%:Be able to interpret and describe key concepts of data mining approaches.
+- 50%-59%:Ability to discuss key concepts of data mining approaches and ability to
+  discover and integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve problems using data mining techniques by experimenting
+  with the appropriate skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 25
+- learning outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 25
+- learning outcomes: 1,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A29441_-_CaM_-_DataandAnal_-_Data_Mining_1
+co-requisites: []
+code: A29441
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Data Mining 1
+indicative content:
+- 'Introduction to Data Mining: frameworks, inputs, outputs'
+- 'Exploratory Data Mining: relationships, clustering and network analysis using appropriate
+  algorithms and methods'
+- 'Predicting outcomes: classification, regression and time-series analysis'
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- Students will apply typical methods of Data Mining to data sets provided in the
+  practical classes.
+- Students will apply appropriate Data Mining methods to a data set for the purposes
+  of continuous assessment.
+- Students will interpret and present the findings produced in the practical classes
+  and continuous assessment.
+learning modes:
+- full time: 36
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Categorise typical fundamental Data Mining problems.
+- Appraise the concepts and fundamentals of Classification, Prediction and Clustering
+  and their solution techniques.
+- Evaluate the use of typical Data Mining methods and their appropriate implementation.
+- Solve Data Mining problems using the Data Mining methods learnt.
+- Assemble and interpret results of the Data Mining methods learnt.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0563
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: M
+  timetable: COMP-0563
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KPHTE_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: COMP-0563
+  title: Bachelor of Science (Honours) in Physics for Modern Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Data Mining 1
+supplementary material:
+- 'Han, Jiawei, Micheline Kamber and Jian Pei. \emph{...Data Mining, Third Edition:
+  Concepts and Techniques}. NY: Jian Pe, 2011.'
+- 'James, G., D. Witten, T. Hastie and R. Tibshirani. \emph{An Introduction to Statistical
+  Learning, with Applications in R}. NY: Springer, 2013.'
+- 'Pang-Ning, Tan, Michael Steinbach and Vipin Kumar. \emph{Introduction to Data Mining}.
+  NY: Addison-Wesley, 2006.'
+- 'Witten, I., E. Frank and M. Hall. \emph{Practical Machine Learning Tools and Techniques}.
+  NY: Elsevier, 2011.'

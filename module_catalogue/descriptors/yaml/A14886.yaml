@@ -1,0 +1,96 @@
+aim: This module examines the agile processes and tools used to deliver software applications
+  for dynamic environments. Students, working in teams, will use an integrated toolchain
+  to automate and accelerate the various stages of the agile process, from source
+  control to delivery. This will be used to deliver a small software application and
+  to explore the typical activities of modern agile practices.
+assessment criteria:
+- <40%:Inability to apply agile method to develop a software artifact.
+- 40%-49%:Ability to apply key agile concepts. Evidence of appropriate tools used
+  to create a software artifact.
+- 50%-59%:All the above and in addition, strong evidence of appropriate tools and
+  techniques used at various stages of the project lifecycle. Can explain the quality,
+  reliability, and efficiency improvements afforded using agile methods and associated
+  tools.
+- '60%-69%: All the above and in addition, evidence of continuous integration and
+  appropriate reporting. Knowledge and ability to incorporate requirement alterations
+  and changes.'
+- 70%-100%:All the above to an excellent level. Can incorporate features from self-directed
+  learning into state of the art in agile software practices. Demonstrates a comprehensive,
+  maintainable software solution from design to delivery using agile practices and
+  tools.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14886_-_CaM_-_InfoSystandMode_-_Agile_Software_Practice
+co-requisites: []
+code: A14886
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Agile Software Practice
+indicative content:
+- Agile project management processes and quality assurance
+- Collaborative source control
+- Project scaffolding tools
+- Automated project build and testing
+- Code refactoring techniques
+- Continuous integration tools
+- Continuous deployment
+learning and teaching methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and supporting technologies behind modern agile
+  approaches to software systems development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure to the automation tools and practical skills required to support an agile
+  project lifecycle.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research into state-of-the-art of agile software engineering
+  processes.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Assess agile software development methodologies for collaborative, change-driven
+  projects.
+- Integrate collaborative workflow tools into the development lifecycle.
+- Compose an appropriate test driven strategy for a software development project.
+- Automate project build and test processes and generate appropriate quality reports)
+  (domain appropriate, leave the same)
+- Create a Continuous Integration(CI) practice in collaborative software projects.
+- Justify the Continuous Delivery(CD) approach in the modern application economy.
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_KCSDV_B
+  semester: 1
+  stage: 4
+  status: M
+  timetable: COMP-0608
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Agile Software Practice
+supplementary material:
+- '"Thoughtworks - Continuous Delivery." https://www.thoughtworks.com/continuous-delivery'

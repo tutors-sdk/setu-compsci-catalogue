@@ -1,0 +1,24 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A22542
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Sport & Exercise Biomechanics 2
+programmes:
+- programme: WD_KDEVP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: SPRT-0701
+- null
+ref: A22542
+short name: Sport & Exe Biomechanics 2
+special regulations: null
+subgroup: Sports Technology
+tags:
+- all
+- autumn
+timetable: SPRT-0701
+verified: false

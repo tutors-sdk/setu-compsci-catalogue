@@ -1,0 +1,132 @@
+aim: The aim of this module is to prepare and encourage students to capitalize on
+  the learning potential of their flexible semester experience and enhance their industry
+  awareness. The module will focus on developing students' transferable skills and
+  encouraging professional awareness and practice.
+assessment criteria:
+- '<40%: Unable to present self as ethical and professional through their written
+  work, e-portfolio and presentation skills.'
+- '40%-49%: Able to present knowledge of self as ethical and professional through
+  their written work, e-portfolio and presentation skills.'
+- '50%-59%: Understands ethical and professional practice and can apply this through
+  their written and presented work.'
+- '60%-69%: Presented work shows evidence of analysis regarding the professional persona,
+  in the structure, content and format of their written work, e-portfolio and presentation
+  skills.'
+- '70%-100%: Excellent presented work; illustrates the evaluation of self as a professional
+  and evaluation of professional practice through presented materials.'
+assessment methods:
+- learning outcomes: 1, 2, 3, 4, 5, 6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '1'
+  main: false
+  name: Group Project
+  weighting: 40
+- learning outcomes: '2'
+  main: false
+  name: Presentation
+  weighting: 20
+- learning outcomes: 3, 4, 5, 6
+  main: false
+  name: Portfolio
+  weighting: 40
+basename: A11438_-_CaM_-_ProfSkil_-_Professional_Practice
+co-requisites: []
+code: A11438
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Ethics Resource Centre." http://www.ethics.org/'
+- '"Transferrable Skills Project." http://www.skillsproject.ie/'
+- '"gradireland." https://gradireland.com/'
+full title: Professional Practice
+indicative content:
+- Workplace ethics for the computing industry
+- Potential for learning during placement and the strategies commonly used
+- Identification of transferable skills for integration and progression in the workplace
+- 'Career Preparation: CV preparation and interview skills, career planning, e-portfolio
+  development'
+- 'Workplace and placement awareness: Managing equality and diversity, group dynamics
+  and teamwork, understanding organisational culture'
+- Work-based impression management including the impact of social media as a professional
+  presentation tool for personal and corporate identity
+learning and teaching methods:
+- Theory classes will comprise of lectures, case studies, group discussion, simulations
+  and project work.
+- The tutorial classes facilitate the student in implementing the theory learned in
+  the lectures and will give the student the opportunity to work on the continuous
+  assessment and receive feed-back.
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Tutorial
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Examine ethical conduct in the workplace.
+- Develop transferable skills for integration and progression in the workplace.
+- Construct an appropriate personal career development plan and professional profile,
+  to include a skills-needs analysis and CV.
+- Demonstrate professional skills through group and individual presentations.
+- Employ personal autonomy and take responsibility for their personal and academic
+  well-being.
+- Demonstrate the principles and practice of reflective learning.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0599
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0599
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0599
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0599
+  title: Bachelor of Science in Information Technology
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0599
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Lecture Room: Loose Seated'
+short title: Professional Practice
+supplementary material:
+- 'Billett, S. \emph{Learning in the Workplace: Strategies for Effective Practice}.
+  Australia: Allen & Unwin, 2001.'
+- 'Robbins, S.P. and P.L. Hunsaker. \emph{Training in Interpersonal Skills}. 6th ed.
+  USA: Pearson Education, 2012.'

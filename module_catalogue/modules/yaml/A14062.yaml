@@ -1,0 +1,29 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14062
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Human Centred Systems
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0618
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0618
+ref: A14062
+short name: Human Centred Systems
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0618
+verified: false

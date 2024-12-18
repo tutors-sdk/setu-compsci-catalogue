@@ -1,0 +1,44 @@
+author: Brendan Lyng
+change: ''
+co-ordinator: ''
+code: A11142
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Creative Problem Solving
+programmes:
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0605
+- programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0605
+- programme: WD_KCOMP_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0605
+- programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0605
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0605
+ref: A11142
+short name: Creative Problem Solving
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0605
+verified: true

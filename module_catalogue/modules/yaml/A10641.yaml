@@ -1,0 +1,34 @@
+author: School of Humanities
+change: ''
+co-ordinator: ''
+code: A10641
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Developmental Psychology
+programmes:
+- null
+- null
+- null
+- null
+- null
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PSYC-0060
+- null
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: PSYC-0060
+ref: A10641
+short name: Developmental Psychology
+special regulations: null
+subgroup: Humanities
+tags:
+- spring
+- all
+timetable: PSYC-0060
+verified: false

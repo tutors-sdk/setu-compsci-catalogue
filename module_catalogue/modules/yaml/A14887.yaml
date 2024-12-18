@@ -1,0 +1,23 @@
+author: Neil Quinlan/E de Leastar
+change: ''
+co-ordinator: ''
+code: A14887
+dirty: false
+external: false
+group: Computing and Mathematics
+name: ICT Skills Placement
+programmes:
+- programme: WD_KCOSC_G
+  semester: 3
+  stage: 1
+  status: M
+  timetable: PLAC-0128
+ref: A14887
+short name: ICT Skills Placement
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: PLAC-0128
+verified: false

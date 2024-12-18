@@ -1,0 +1,54 @@
+author: Mary Lyng
+change: ''
+co-ordinator: ''
+code: A13504
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Database Systems
+programmes:
+- null
+- programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KCOMP_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KCRCO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KDEVP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KDEVP_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+- programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0174
+ref: A13504
+short name: Database Systems
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- spring
+- all
+timetable: COMP-0174
+verified: true

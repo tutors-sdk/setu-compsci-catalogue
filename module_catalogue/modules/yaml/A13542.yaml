@@ -1,0 +1,48 @@
+author: Jimmy McGibney
+change: ''
+co-ordinator: ''
+code: A13542
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Applied Cryptography
+programmes:
+- programme: WD_KACCM_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+- programme: WD_KACCM_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+- programme: WD_KCMSC_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+- programme: WD_KCOFO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+- programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+- programme: WD_KINTT_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0451
+ref: A13542
+short name: Applied Cryptography
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+timetable: COMP-0451
+verified: true

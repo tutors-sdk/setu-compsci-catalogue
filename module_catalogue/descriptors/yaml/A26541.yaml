@@ -1,0 +1,98 @@
+aim: This module provides students with a solid grounding in the area of computer
+  and information security. The question of securing modern distributed applications
+  is treated holistically, where students assess security threats and vulnerabilities
+  at different layers and identify suitable services and technologies to help address
+  these threats. Cryptographic foundations that underpin many security mechanisms
+  are covered in some detail, as well as best practices in secure software development.
+  Students will also discuss incident handling and a selection of techniques and tools
+  for forensic investigations.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domains
+  of computer security.'
+- '40%-59%: Able to interpret, describe and discuss key concepts of the specific knowledge
+  domains of computer security. Able to discover and integrate related knowledge to
+  assess and implement security approaches.'
+- '60%-69%: Able to solve problems within the specific knowledge domains by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to propose solutions to
+  a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: '6'
+  main: false
+  name: Assignment
+  weighting: 10
+basename: A26541_-_CaM_-_ForeandSecu_-_Information_Security
+co-requisites: []
+code: A26541
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Open Web Application Security Project (OWASP)." https://www.owasp.org/'
+- '"The SANS Institute." https://www.sans.org/'
+full title: Information Security
+indicative content:
+- 'Security threats: attack methods; common vulnerabilities; threat modelling; security
+  services'
+- 'Cryptography: symmetric block and stream ciphers; public key cryptography; hash
+  functions; authentication schemes; key management & certificates'
+- 'Network and cloud security: TLS; VPNs; wireless security; identity and access management;
+  firewalls; intrusion prevention'
+- 'Software security: secure software development practices; OWASP Top 10; malware'
+- 'Security assessment: black and white box testing; penetration testing; standards,
+  compliance'
+- 'Incident response & recovery: steps involved in incident response; the forensic
+  process; data recovery; computer forensics'
+learning and teaching methods:
+- Combination of lectures and guided computer-based practical exercises.
+- Self-directed learning.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Evaluate the various security threats and attacks to which an organisation may be
+  susceptible.
+- Compare and contrast leading cryptographic techniques and determine their applicability
+  in a variety of practical scenarios.
+- Assess key aspects of system, network and cloud security in a heterogeneous computing
+  environment.
+- Evaluate the specific security concerns pertinent when developing and deploying
+  software applications.
+- Carry out a security assessment on a modern distributed application.
+- Recommend incident response approaches and assemble digital evidence from a variety
+  of sources.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+requested resources: []
+short title: Info Security
+supplementary material:
+- 'McGraw, G. \emph{Software Security: Building Security In}. Boston: Addison-Wesley,
+  2006.'
+- 'Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practice}.
+  4th ed.. Harlow: Pearson, 2018.'

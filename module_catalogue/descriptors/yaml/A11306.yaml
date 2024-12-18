@@ -1,0 +1,100 @@
+aim: The Internet of Things(IoT) encompasses a broad range and scale of devices and
+  applications. This module examines the protocols and standards used to interconnect
+  the various devices and applications in the Internet of Things. Students will cover
+  range of topics across the IoT protocol stack, including emerging networking protocols
+  and architectures, messaging, programming abstractions, and applications.
+assessment criteria:
+- <40%:Unable to explain the characteristics and uses of IoT protocols and standards;
+  unable to apply or implement IoT communication protocols.
+- 40%-49%:Be able to describe specific IoT protocols and their applications. Able
+  to successfully implement single IoT protocols.
+- 50%-59%:Able to design and implement a multi-protocol IoT solution. Able to discuss,
+  with sufficient knowledge, the relative merits of IoT protocol stack technologies
+  and solutions.
+- 60%-69%:Be able to create suitably complex IoT protocol solutions involving heterogeneous
+  environments and devices. This is complemented with the knowledge to select and
+  implement suitable technologies at all layers of the protocol stack.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3,4
+  main: false
+  name: Lab Report
+  weighting: 50
+- learning outcomes: 4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+- learning outcomes: 1,6
+  main: false
+  name: Assignment
+  weighting: 25
+basename: A11306_-_CaM_-_AutoAutoandIoT_-_Internet_of_Things_Standards_and_Protocols
+co-requisites: []
+code: A11306
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Internet of Things Standards and Protocols
+indicative content:
+- The Internet of Things protocol stack
+- 'Device level communication bus protocols: Event-driven bus protocols; serial communication'
+- Device interfacing and embedded application APIs
+- 'Wireless communication for the IoT: Introduction to Wireless Networks; wireless
+  protocols for low power devices; short-range wireless technologies'
+- 'Messaging protocols for the Internet of Things: Request-Response; Publish-Subscribe'
+learning and teaching methods:
+- Combination of lectures and computer/network laboratory work.
+- Labs will provide practical knowledge into the design and implementation of IoT-specific
+  communication protocol solutions.
+- Lectures will provide the theoretical knowledge of IoT protocols and standards.
+- As part of the lectures, case studies will be used to illustrate real-world IoT
+  solutions using the standards and protocols covered in lectures(e.g. smart spaces).
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Distinguish between the communication and data requirements for the general Web
+  protocol stack and Internet of Things protocol stack.
+- Create an appropriate physical layer specification for wireless networked devices
+  based on application requirements.
+- Use low power, low overhead, wireless communication protocols to interconnect resource
+  constrained sensors, actuators and other devices.
+- Apply lightweight messaging solutions that mediate between device level sensors
+  and higher layer applications and services.
+- Use IoT gateway solutions to connect devices and higher level service layer networks.
+- Design domain-specific IoT solutions (e.g. health care) using suitable IoT protocols
+  and standards.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 4
+  stage: 2
+  status: E
+  timetable: COMP-0560
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: IoT Standards and Protocols
+supplementary material: []

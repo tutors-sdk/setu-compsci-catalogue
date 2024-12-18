@@ -1,0 +1,253 @@
+basename: WD_KISYP_R_-_MSc_in_Computing_Information_Systems_Processes
+code: WD_KISYP_R
+dirty: false
+semesters:
+  0:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13557
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Agile Software Development
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0055
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14221
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      name: Business Process Analysis and Design
+      part time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      status: E
+      timetable: BUSI-0004
+    - assessments:
+        Continuous Assessment: 100
+      code: A14502
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Data Mining
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: DATA-0015
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13563
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Design Patterns
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0056
+    - assessments:
+        Continuous Assessment: 100
+      code: A13886
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Enterprise Web Development
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0484
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13662
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Ethics and e-Privacy
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: ETHS-0001
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13984
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Graph Theory and Optimisation
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0302
+    - assessments:
+        Continuous Assessment: 100
+      code: A14062
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 36
+        Workshop: 12
+      name: Human Centred Systems
+      part time:
+        Independent Learning: 222
+        Lecture: 36
+        Workshop: 12
+      status: E
+      timetable: COMP-0618
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14505
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: Information Systems Project Management
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0291
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14102
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 36
+        Workshop: 12
+      name: Information Systems and International Development
+      part time:
+        Independent Learning: 222
+        Lecture: 36
+        Workshop: 12
+      status: E
+      timetable: COMP-0289
+    - assessments:
+        Continuous Assessment: 100
+      code: A14031
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      name: Research Methods and Dissertation Proposal
+      part time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      status: E
+      timetable: RESA-0175
+    - assessments:
+        Continuous Assessment: 100
+      code: A07004
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 48
+      name: Socio-Technical Entrepreneurship
+      part time:
+        Independent Learning: 222
+        Lecture: 48
+      status: E
+      timetable: COMP-0288
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14381
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      name: Supply Chain Integration Technologies
+      part time:
+        Independent Learning: 222
+        Lecture: 36
+        Practical: 12
+      status: E
+      timetable: TECH-0012
+    - assessments:
+        Continuous Assessment: 100
+      code: A13384
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      name: User Experience and Design
+      part time:
+        Independent Learning: 222
+        Lecture: 24
+        Practical: 24
+      status: E
+      timetable: COMP-0619
+    mandatory: []
+  3:
+    elective: []
+    mandatory:
+    - assessments:
+        Dissertation: 100
+      code: A14067
+      credits: 20
+      external: false
+      full time:
+        Independent Learning: 516
+        Tutorial: 24
+      name: Dissertation
+      part time:
+        Independent Learning: 516
+        Tutorial: 24
+      status: M
+      timetable: DISS-0010

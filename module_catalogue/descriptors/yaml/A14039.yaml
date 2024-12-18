@@ -1,0 +1,90 @@
+aim: This module provides the essentials of computer forensics. Students will explore
+  the area of digital forensics through file system forensics, network/online forensics
+  and media forensics. Students will be introduced to the different stages of the
+  forensic process, issues relating to digital evidence and will use a selection of
+  forensic tools.
+assessment criteria:
+- '<40%: Unable to effectively use relevant tools. Unable to differentiate stages
+  of the forensic process.'
+- '40%-49%: Can conduct basic computer forensic investigations.'
+- '50%-59%: In addition to the above, can conduct computer forensic investigations
+  using appropriate controls and recover deleted data.'
+- '60%-69%: In addition, can interpret evidence extracted during a forensic investigation
+  and corroborate it with other sources of evidence.'
+- '70%-100%: All of the above to an excellent level. Can evaluate the appropriateness
+  of different forensic tools and approaches.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,5
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 2,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A14039_-_CaM_-_ForeandSecu_-_Computer_Forensics
+co-requisites: []
+code: A14039
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Willams, D. \emph{ACPO Good Practice Guide for Digital Evidence}. United Kingdom:
+  ACPO, 2012.'
+full title: Computer Forensics
+indicative content:
+- The forensic process
+- File systems and recovery of data
+- Live response
+- 'Network data: types of data; collecting and analysing data from a network'
+- 'Web forensics: HTTP headers; cookies; browser/server log analysis; proxy servers;
+  capturing web pages/web forms server-side data; web activity reconstruction; DNS'
+- 'Email forensics: e-mail activity reconstruction; message headers; message attachments;
+  tracing online e-mail'
+- Mobile device forensics
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 36
+  name: Lab
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Utilise forensic tools to analyse a file system and recover deleted data.
+- Perform a live response and gather network data.
+- Investigate web based services/applications.
+- Trace email data.
+- Collect electronic evidence from modern devices such as smart phones or tablets.
+level: Advanced
+pre-requisites: []
+programmes:
+- programme: WD_KINTE_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0654
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Computer Forensics
+supplementary material:
+- '"Forensic Focus." www.forensicfocus.com'
+- 'Altheide, C and H Carvey. \emph{Digital Forensics with Open Source Tools}. United
+  States: Syngress, 2011.'
+- 'Sammons, J. \emph{The Basics of Digital Forensics: The Primer for Getting Started
+  in Digital Forensics}. United States: Syngress, 2012.'
+- 'Solomon, M, K Rudolph, E Tittel, N Broom and D Barrett. \emph{Computer Forensics
+  JumpStart}. United States: Sybex, 2011.'

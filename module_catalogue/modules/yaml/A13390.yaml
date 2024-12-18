@@ -1,0 +1,39 @@
+author: David Power
+change: ''
+co-ordinator: ''
+code: A13390
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Wireless Communications
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMM-0064
+- programme: WD_KACCM_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMM-0064
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMM-0064
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMM-0064
+ref: A13390
+short name: Wireless Communications
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+- autumn
+timetable: COMM-0064
+verified: false

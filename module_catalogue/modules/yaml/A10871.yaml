@@ -1,0 +1,33 @@
+author: b Lyng
+change: NEW
+co-ordinator: ''
+code: A10871
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Game Development Practicum
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0668
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0668
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0668
+ref: A10871
+short name: Game Development Practicum
+special regulations: null
+subgroup: Game Development
+tags:
+- all
+- autumn
+timetable: COMP-0668
+verified: true

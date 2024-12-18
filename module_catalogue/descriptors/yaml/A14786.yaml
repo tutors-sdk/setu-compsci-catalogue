@@ -1,0 +1,109 @@
+aim: This is the capstone module for Semester one; it should bring together the student?s
+  knowledge on all aspects of IT and utilise many facets of their previous learning,
+  with a view to identifying a suitable research problem that is to be investigated.
+  This module requires the student to identify a research area of interest, conduct
+  a preliminary investigation, identify suitable research question(s), conduct a literature
+  review and critique and select a suitable methodology to enable them to gather and
+  analyse data. In addition, it requires the student to prepare a report on the first
+  stage of their fourth year project in conjunction with a learning contract established
+  between student and supervisor.
+assessment criteria:
+- '<40%: Unable to identify relevant research questions and conduct a thorough literature
+  review.'
+- '40%-49%: Be able to identify research questions and conduct a thorough literature
+  review.'
+- '50%-59%: Ability to identify research questions, conduct comprehensive literature
+  review, critique research methodologies.'
+- '60%-69%: Be able to identify research questions, conduct comprehensive literature
+  review, critique research methodologies and appraise other options.'
+- '70%-100%: All the above to an excellent level in terms of robustness, thoroughness
+  and completeness.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Dissertation
+  weighting: 100
+basename: A14786_-_CaM_-_ProfSkil_-_Project_1_Research
+co-requisites: []
+code: A14786
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Cresswell, J.S. \emph{Research Methods:Qualitative, Quantitaive and Mixed Methods
+  Approaches}. New York: Sage, 2002.'
+full title: Project 1 (Research)
+indicative content:
+- Write succinct and referenced, well-structured reports
+- Introduction
+- Analysis of research questions
+- Literature review
+- Research methodology
+learning and teaching methods:
+- The students will be introduced to the theory of conducting research through a series
+  of meetings with their supervisor,which will be interactive and discursive in nature.
+- The Supervisor will meet and guide the student on a weekly basis to develop a coherent
+  and achiveable research document.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 6
+  name: Tutorial
+  part time: ''
+- full time: 117
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise a research area.
+- Create appropriate research questions.
+- Complete a literature review.
+- Select an appropriate research methodology and data gathering technique.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KCSDV_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0111
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- dirty: true
+  programme: WD_KINTE_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+  title: Bachelor of Science (Honours) in Information Technology
+- null
+- null
+- dirty: true
+  programme: WD_KMULM_B
+  semester: 1
+  stage: 4
+  status: E
+  timetable: PROJ-0167
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources: []
+short title: Project 1 (Research)
+supplementary material: []

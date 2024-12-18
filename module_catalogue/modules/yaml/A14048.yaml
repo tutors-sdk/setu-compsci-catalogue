@@ -1,0 +1,38 @@
+author: Larry Stapleton
+change: ''
+co-ordinator: ''
+code: A14048
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computing Ethics
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0674
+ref: A14048
+short name: Computing Ethics
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+timetable: COMP-0674
+verified: true

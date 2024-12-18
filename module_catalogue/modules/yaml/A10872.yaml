@@ -1,0 +1,38 @@
+author: Kieran Murphy
+change: ''
+co-ordinator: ''
+code: A10872
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Applied Calculus
+programmes:
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0545
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0545
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0545
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0545
+ref: A10872
+short name: Applied Calculus
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: COMP-0545
+verified: false

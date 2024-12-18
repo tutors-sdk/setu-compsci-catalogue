@@ -1,0 +1,123 @@
+aim: Design, build and deploy a multi-screen mobile application incorporating an intuitive
+  and efficient navigation mechanism. Structure the implementation using accepted
+  best-practice with respect to patterns, frameworks and tools. Incorporate localised
+  persistence models + simple access to remote services. Introduce context services
+  such as location/camera and/or other sensor access. Evolve a multi-screen mobile
+  application into a networked, message driven, context aware application. Incorporate
+  in the application two-way access to remote REST (Representational State Transfer)
+  and Messaging services. Integrate on-device context including camera, location,
+  motion, climate and other sensors to deliver a rich user experience. Incorporate
+  3rd party components to deliver personalized mapping, media and general information
+  services.
+assessment criteria:
+- '<40%: Unable to implement a basic application. Cannot grasp fundamentals of the
+  application lifecycle or operate an appropriate IDE (Integrated Development Environment).'
+- '40%-49%: Be able to implement at simple application, with 2-3 separate views/activities.'
+- '50%-59%: Understand the basic of the application lifecycle and operate an IDE at
+  a basic level. Ability to model and implement an application of moderate complexity
+  -- including > 3 views + a simple persistence mechanism.'
+- '60%-69%: Be able to use an IDE competently and degug applications. Be able to implement
+  a reasonably sophisticated application with multiple view / navigation mechanisms.
+  The application will have local persistent storage and be able to interact with
+  a remote service as a basic level (read only say).'
+- '70%-100%: All the above to an excellent level. Be able to build an application
+  that can access on device sensors / subsystems (e.g. location or camera).'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 5,6,7,8,9,10
+  main: false
+  name: Assignment
+  weighting: 60
+basename: A14168_-_CaM_-_SoftandWebDeve_-_Mobile_Application_Development_-_ICT
+co-requisites: []
+code: A14168
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"Android Developer Resources." http://developer.android.com'
+- '"Apple Developer Resources." http://developer.apple.com/ios'
+- '"Cordova Developer Resources." https://cordova.apache.org'
+full title: Mobile Application Development - ICT
+indicative content:
+- 'Application Structure: Components; Resources; Security; General Assets'
+- 'User Experience: UX (User Experience) Principles, Navigation, Imagery, Fonts'
+- Simple User Interaction Patterns
+- 'Essential Application Structure Patterns: Appropriate Variations on Model/View/Controller
+  (MVVM (Model--view--viewmodel), MVP (Model--view--presenter) etc.)'
+- Resource access and management; Clean separation of concerns
+- 'Application Life-cycle: Startup/shutdown; Foreground/background'
+- UI (User Interface) State Preservation and Restoration; Concurrency
+- Advanced application architectural patterns
+- The build, test & deploy lifecycle
+- 'Accessing Platform Services: Persistence; Sensors / Subsystems (e.g. Location,
+  camera, movement etc.)'
+- 'Accessing External Services: Access Patterns (e.g. REST); Third Party Applications
+  & Components'
+- 'Build Processes: Dependency Management; Build Scripts (e.g. Gradle)'
+- Wireless Subsystem APIs (Application Programming Interface)
+- App Store interaction, including key management
+learning and teaching methods:
+- Lectures will introduce the general context of the curriculum, and explore specific
+  topics in depth.
+- Supervised, guided and scripted practicals will lead the student through the construction
+  of an application designed to illustrate key concepts covered in the lectures.
+- The focus is on learning by doing in a studio environment. Each practical will propose
+  a set of exercises -- to be solved in a subsequent practical.
+- Assignment One will focus ensuring the student can construct a new application equivalent
+  in style and structure to the guided practical.
+- Assessment Two will invite the student to analyse, design and implement a new application.
+learning modes:
+- full time: 48
+  name: Lecture
+  part time: ''
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 174
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- 'Decompose an application into its constituent parts, including but not limited
+  to: core application components, user experience resources, packaging.'
+- Design a coherent User Experience - using appropriate tools, practices and guidelines
+  - for a moderately sized application.
+- Produce a medium sized application, based on a limited set of design patterns.
+- Manage the application lifecycle.
+- Structure persistent storage on a device and reliably save and restore application
+  state.
+- Select the appropriate design patterns and tools in the development of complex mobile
+  apps.
+- Comment on the chosen mobile app framework and the underlying hardware components.
+- Design and develop complex multi-screen mobile apps from concept through to completion
+  using best practices and guidelines.
+- Set up the interaction of an application with internal sensors and physical subsystems.
+- 'Integrate a remote service API within an application, perhaps based on REST principles,
+  to deliver aspects of its core features set. For example: Maps/GIS (Geographic Information
+  Systems), Media Sharing, Social Networking.'
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOSC_G
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0523
+  title: Higher Diploma in Science in Computer Science
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Mobile App Development - ICT
+supplementary material:
+- 'Camden, R. \emph{Apache Cordova in Action}. New York: Manning, 2015.'
+- 'Neuburg, M. \emph{iOS 9 Programming Fundamen}\emph{tals with Swift: Swift, Xcode,
+  and Cocoa Basics}. New York: O''Rielly, 2015.'
+- 'Phillips, B. \emph{Android Programming: The Big Nerd Ranch Guide}. New York: Pearson,
+  2015.'

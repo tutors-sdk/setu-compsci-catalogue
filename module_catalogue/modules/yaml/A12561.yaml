@@ -1,0 +1,33 @@
+author: K Murphy
+change: MAJOR
+co-ordinator: ''
+code: A12561
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Game Development in C++
+programmes:
+- programme: WD_KACCM_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: GAME-0008
+- programme: WD_KCMSC_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: GAME-0008
+- programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: GAME-0008
+ref: A12561
+short name: Game Development in C++
+special regulations: null
+subgroup: Game Development
+tags:
+- all
+- autumn
+timetable: GAME-0008
+verified: true

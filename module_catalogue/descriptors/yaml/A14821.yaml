@@ -1,0 +1,109 @@
+aim: This module gives the student experience in developing a computing-related project
+  by creating a product or a good prototpye for a product. The student will present
+  their work at the end of the module by submitting a final report, in addition to
+  a poster, a short video, and a demonstration.
+assessment criteria:
+- '<40%: Failure to incorporate feedback. Failure to competently demonstrate understanding
+  of work.'
+- '40%-49%: Produces working, tested system to minimum requirements. Produces full
+  set of documentation. Able to demonstrate own work in competent manner.'
+- '50%-59%: As above and produces a working, tested system to meet most requirements
+  (unless failure to do so is justified). Documentation and reports are clear and
+  of good quality. Comprehensive knowledge of tools and technologies.'
+- '60%-69%: As above and requirements fully met unless failure to do so is justified.
+  Demonstrates ability to solve unfamiliar technical problems. Shows good judgement
+  in technology selection. Documentation shows evidence of ability to see limitations
+  or potential in approaches used.'
+- '70%-100%: As above and produces an excellent, professional calibre stand-alone
+  system with equally excellent documentation. Demonstrates ability to abstract ideas
+  and reflect on the process.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Final Project
+  weighting: 100
+basename: A14821_-_CaM_-_ProfSkil_-_Project_2_Development
+co-requisites: []
+code: A14821
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Project 2 (Development)
+indicative content:
+- Incorporate feedback from project supervisors/examiners, relating to the work done
+  in Semester 1, namely high level analysis and design and the construction of prototypes
+  and/or early iterations.
+- Develop further and document a testing strategy to ensure the quality of each software
+  module, each production-quality iteration and of the final product.
+- Further develop the student's ability to write referenced academic and technical
+  reports, principally a required final report, not less than 2000 words and not more
+  than 8000 words, accompanied by a poster and a video.
+- To provide the student with the opportunity (and requirement) to meet with a supervisor
+  week by week and to complete the work according to the initial or a revised plan.
+- To enable the student to apply their problem-solving and their technical skills
+  to address implementation issues as they arise.
+learning and teaching methods:
+- Weekly meetings with project supervisors.
+- Self-directed learning using library and Internet sources.
+- Trying out carefully considered ideas to test if they are workable.
+learning modes:
+- full time: 6
+  name: Tutorial
+  part time: ''
+- full time: 264
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Integrate feedback from Project 1.
+- Implement a fully tested, working system based on a specification and chosen development
+  methodology.
+- Appraise the limitations and potential of the chosen methodology and resulting solution.
+- Validate the final system, with accompanying report, video and poster and competently
+  discuss the problem area.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0169
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0169
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- programme: WD_KCSDV_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: ''
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: PROJ-0169
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+- null
+requested resources: []
+short title: Project 2 (Development)
+supplementary material:
+- 'Beck, K. \emph{Test-driven development: by example}. Boston: Addison-Wesley, 2003.'
+- 'Fowler, M. and K. Scott. \emph{UML distilled: a brief guide to the standard object
+  modelling language}. Boston: Addison-Wesley, 2004.'
+- 'Lacey, M. \emph{The Scrum field guide practical advice for your first year}. Harlow:
+  Addison-Wesley, 2012.'

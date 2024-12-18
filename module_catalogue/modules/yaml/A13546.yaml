@@ -1,0 +1,28 @@
+author: Catherine Fitzpatrick
+change: ''
+co-ordinator: ''
+code: A13546
+dirty: false
+external: false
+group: Computing and Mathematics
+name: eLearning
+programmes:
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0636
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0636
+ref: A13546
+short name: eLearning
+special regulations: null
+subgroup: Media Production
+tags:
+- spring
+- all
+timetable: COMP-0636
+verified: true

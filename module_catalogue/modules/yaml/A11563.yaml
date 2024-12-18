@@ -1,0 +1,43 @@
+author: Frank Walsh
+change: ''
+co-ordinator: ''
+code: A11563
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Internet of Things Applications
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0676
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0676
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0676
+- programme: WD_KINTT_BI
+  semester: 8
+  stage: 4
+  status: M
+  timetable: COMP-0676
+- programme: WD_KPHTE_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0676
+ref: A11563
+short name: Internet of Things Apps
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- spring
+- all
+timetable: COMP-0676
+verified: false

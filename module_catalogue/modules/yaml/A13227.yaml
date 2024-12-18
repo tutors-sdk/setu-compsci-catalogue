@@ -1,0 +1,28 @@
+author: Brenda O'Neill
+change: ''
+co-ordinator: ''
+code: A13227
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Video Production
+programmes:
+- programme: WD_KCRCO_B
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0596
+- programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0596
+ref: A13227
+short name: Video Production
+special regulations: null
+subgroup: Media Production
+tags:
+- spring
+- all
+timetable: COMP-0596
+verified: true

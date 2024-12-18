@@ -1,0 +1,23 @@
+author: Eamon de Leastar
+change: ''
+co-ordinator: ''
+code: A14167
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Programming Fundamentals - ICT
+programmes:
+- programme: WD_KCOSC_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0516
+ref: A14167
+short name: Programming Fundamentals - ICT
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: COMP-0516
+verified: true

@@ -1,0 +1,28 @@
+author: Sinead O'Riordan
+change: ''
+co-ordinator: ''
+code: A13264
+dirty: false
+external: false
+group: Computing and Mathematics
+name: 2D Animation
+programmes:
+- programme: WD_KCRCO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0591
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0591
+ref: A13264
+short name: 2D Animation
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- all
+- autumn
+timetable: COMP-0591
+verified: true

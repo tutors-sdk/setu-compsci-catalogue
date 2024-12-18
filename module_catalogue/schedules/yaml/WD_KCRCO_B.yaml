@@ -1,0 +1,815 @@
+basename: WD_KCRCO_B_-_BSc_H_in_Creative_Computing
+code: WD_KCRCO_B
+dirty: false
+semesters:
+  1:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13267
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 24
+      name: Communications Skills
+      part time:
+        Independent Learning: 111
+        Lecture: 24
+      status: M
+      timetable: COMS-0012
+    - assessments:
+        Continuous Assessment: 100
+      code: A10922
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Computer Systems 1
+      part time:
+        Independent Learning: 111
+        Lecture: 6
+        Practical: 18
+      status: M
+      timetable: COMP-0541
+    - assessments:
+        Continuous Assessment: 100
+      code: A13726
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 24
+      name: Creative Programming Fundamentals 1
+      part time: {}
+      status: M
+      timetable: COMP-0583
+    - assessments:
+        Continuous Assessment: 100
+      code: A13564
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Graphic Design 1
+      part time: {}
+      status: M
+      timetable: COMP-0584
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13942
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Introduction to Creative Media
+      part time: {}
+      status: M
+      timetable: COMP-0585
+    - assessments:
+        Continuous Assessment: 100
+      code: A13381
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: User Experience Design
+      part time: {}
+      status: M
+      timetable: COMP-0586
+  2:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A11062
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Computer Systems 2
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0546
+    - assessments:
+        Continuous Assessment: 100
+      code: A13728
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 24
+      name: Creative Programming Fundamentals 2
+      part time: {}
+      status: M
+      timetable: COMP-0587
+    - assessments:
+        Continuous Assessment: 100
+      code: A06793
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 48
+      name: Digital Imaging
+      part time: {}
+      status: M
+      timetable: COMP-0588
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A13783
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Tutorial: 12
+      name: Mathematics for Problem Solving
+      part time: {}
+      status: M
+      timetable: MATH-0028
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14165
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Pipeline Design Concepts
+      part time: {}
+      status: M
+      timetable: COMP-0589
+    - assessments:
+        Continuous Assessment: 100
+      code: A13422
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Website Development 1
+      part time:
+        Independent Learning: 111
+        Lecture: 6
+        Practical: 18
+      status: M
+      timetable: COMP-0590
+  3:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13264
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: 2D Animation
+      part time: {}
+      status: M
+      timetable: COMP-0591
+    - assessments:
+        Continuous Assessment: 100
+      code: A06882
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Workshop: 48
+      name: Audio Production
+      part time: {}
+      status: M
+      timetable: COMP-0592
+    - assessments:
+        Continuous Assessment: 100
+      code: A13503
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 24
+      name: Database Fundamentals
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0185
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13228
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: Graphic Design 2
+      part time: {}
+      status: M
+      timetable: COMP-0593
+    - assessments:
+        Continuous Assessment: 40
+        Final Written Examination: 60
+      code: A13551
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 36
+        Practical: 12
+        Tutorial: 12
+      name: Mathematics for Graphics and Statistics
+      part time: {}
+      status: M
+      timetable: MATH-0029
+    - assessments:
+        Continuous Assessment: 100
+      code: A13664
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Website Development 2
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0594
+  4:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13461
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: 3D Modelling Fundamentals
+      part time: {}
+      status: M
+      timetable: COMP-0595
+    - assessments:
+        Continuous Assessment: 100
+      code: A13504
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Database Systems
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0174
+    - assessments:
+        Continuous Assessment: 100
+      code: A11438
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Tutorial: 24
+      name: Professional Practice
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Tutorial: 12
+      status: M
+      timetable: COMP-0599
+    - assessments:
+        Continuous Assessment: 100
+      code: A13227
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Video Production
+      part time: {}
+      status: M
+      timetable: COMP-0596
+    - assessments:
+        Continuous Assessment: 100
+      code: A13641
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Web App Development 1
+      part time: {}
+      status: M
+      timetable: COMP-0597
+    - assessments:
+        Continuous Assessment: 100
+      code: A13548
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Web Design and Development
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0598
+  5:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A14843
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      name: Industrial Placement 1
+      part time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      status: E
+      timetable: PLAC-0154
+    - assessments:
+        Continuous Assessment: 100
+      code: A19801
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      name: Industrial Placement 2
+      part time:
+        Independent Learning: 89
+        Placement: 180
+        Tutorial: 12
+      status: E
+      timetable: PLAC-0155
+    - assessments:
+        Continuous Assessment: 100
+      code: A14903
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Professional Certification 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: PROF-0048
+    - assessments:
+        Continuous Assessment: 100
+      code: A19802
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Professional Certification 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: PROF-0049
+    - assessments:
+        Continuous Assessment: 100
+      code: A11347
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Study Abroad 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: STUD-0030
+    - assessments:
+        Continuous Assessment: 100
+      code: A19803
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Study Abroad 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: STUD-0031
+    - assessments:
+        Continuous Assessment: 100
+      code: A13730
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Voluntary Organisation Project 1
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: COMP-0663
+    - assessments:
+        Continuous Assessment: 100
+      code: A19804
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Voluntary Organisation Project 2
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: E
+      timetable: COMP-0664
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A15303
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 269
+        Tutorial: 12
+      name: Learning Portfolio-Flexible Semester
+      part time:
+        Independent Learning: 269
+        Tutorial: 12
+      status: M
+      timetable: COMP-0662
+  6:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 70
+        Final Project: 30
+      code: A13941
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: 3D Animation Practice
+      part time: {}
+      status: M
+      timetable: COMP-0965
+    - assessments:
+        Continuous Assessment: 100
+      code: A13845
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Digital Graphic Design
+      part time:
+        Independent Learning: 111
+        Practical: 24
+      status: M
+      timetable: DESG-0056
+    - assessments:
+        Continuous Assessment: 100
+      code: A13421
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lab: 24
+        Lecture: 36
+      name: Multimedia Networks
+      part time: {}
+      status: M
+      timetable: COMP-0966
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A11158
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: NoSQL Databases
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0661
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A07883
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Software Engineering
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0103
+    - assessments:
+        Continuous Assessment: 100
+      code: A13727
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Web App Development 2
+      part time: {}
+      status: M
+      timetable: COMP-0611
+  7:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A11565
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: 3D Lighting and Rendering
+      part time: {}
+      status: E
+      timetable: COMP-0631
+    - assessments:
+        Continuous Assessment: 100
+      code: A13204
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Advanced Media Productions
+      part time: {}
+      status: E
+      timetable: COMP-0632
+    - assessments:
+        Continuous Assessment: 100
+      code: A13481
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Instructional Design
+      part time: {}
+      status: E
+      timetable: DESG-0038
+    - assessments:
+        Final Project: 100
+      code: A14881
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Development)
+      part time: {}
+      status: E
+      timetable: PROJ-0166
+    - assessments:
+        Dissertation: 100
+      code: A14786
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 117
+        Lecture: 12
+        Tutorial: 6
+      name: Project 1 (Research)
+      part time: {}
+      status: E
+      timetable: PROJ-0167
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13623
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Computer Security
+      part time: {}
+      status: M
+      timetable: COMP-0628
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A13555
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Data Visualisation
+      part time: {}
+      status: M
+      timetable: COMP-0629
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14844
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Project Management
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: PROJ-0168
+    - assessments:
+        Continuous Assessment: 100
+      code: A35241
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 75
+        Lecture: 24
+        Practical: 36
+      name: Software Development Tools
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0982
+  8:
+    elective:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13944
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 12
+        Practical: 36
+      name: 3D Animation and Transmedia
+      part time: {}
+      status: E
+      timetable: COMP-0634
+    - assessments:
+        Continuous Assessment: 100
+      code: A14034
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Practical: 48
+      name: Advanced Graphic Design
+      part time: {}
+      status: E
+      timetable: COMP-0635
+    - assessments:
+        Final Project: 100
+      code: A14821
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 264
+        Tutorial: 6
+      name: Project 2 (Development)
+      part time: {}
+      status: E
+      timetable: PROJ-0169
+    - assessments:
+        Final Project: 100
+      code: A14866
+      credits: 10
+      external: false
+      full time:
+        Independent Learning: 264
+        Tutorial: 6
+      name: Project 2 (Research)
+      part time: {}
+      status: E
+      timetable: PROJ-0170
+    - assessments:
+        Continuous Assessment: 100
+      code: A13546
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: eLearning
+      part time: {}
+      status: E
+      timetable: COMP-0636
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13328
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 36
+        Practical: 12
+      name: Integrated Marketing
+      part time: {}
+      status: M
+      timetable: MARK-0193
+    - assessments:
+        Continuous Assessment: 100
+      code: A13663
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Mobile App Development 1
+      part time:
+        Independent Learning: 111
+        Lecture: 12
+        Practical: 12
+      status: M
+      timetable: COMP-0630
+    - assessments:
+        Continuous Assessment: 50
+        Final Written Examination: 50
+      code: A14028
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Multimedia Databases
+      part time: {}
+      status: M
+      timetable: COMP-0633

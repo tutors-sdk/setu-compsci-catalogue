@@ -1,0 +1,74 @@
+aim: This module formulates an appreciation of graphic design through the study of
+  historical influences, styles and culture. The student gains an in-depth knowledge
+  of graphic and visual interpretation to develop a fluency in visual and textual
+  problem solving to the provision of solutions for multiple mediums.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts in advanced graphic design.'
+- '40%-49%: Be able to interpret and describe key concepts of the advanced graphic
+  design.'
+- '50%-59%: Ability to discuss key concepts of advanced graphic design and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within advanced graphic design by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All of the above to an excellent level.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A14034_-_CaM_-_GrapDesiandAnim_-_Advanced_Graphic_Design
+co-requisites: []
+code: A14034
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Advanced Graphic Design
+indicative content:
+- 'History of Graphic Design: studies of influences and cultures'
+- Visual Styles & Approaches
+- 'Graphic Information Design: The Image and Its Role in Design, Infographics'
+- Expressive Typography
+- Advanced Colour Theory
+- Graphic Design Processes
+learning and teaching methods:
+- This module will be delivered using 2 hours of computer-based lectures, along with
+  2 hours of computer-based practicals each week.
+learning modes:
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Evaluate historical influences, styles and cultures in graphic design.
+- Arrange and design an infographic campaign.
+- Design text as art and apply expressive typography.
+- Design and create a graphic design project from problem to solution.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: COMP-0635
+  title: Bachelor of Science (Honours) in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Advanced Graphic Design
+supplementary material:
+- 'Eskilson, S.J. \emph{Graphic Design A History}. 2nd ed. London: Laurence King,
+  2012.'
+- 'Heller, S. and V. Vienne. \emph{100 Ideas That Changed Graphic Design}. 1st ed.
+  London: Laurence King, 2012.'
+- 'Skolos, N. and T. Wedell. \emph{Graphic Design Process}. 1st ed. London: Laurence
+  King, 2012.'
+- 'Taylor, F. \emph{How to Create a Portfolio and Get Hired}. 1st ed. London: Laurence
+  King, 2012.'

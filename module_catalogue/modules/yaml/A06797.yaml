@@ -1,0 +1,38 @@
+author: Aoife Hennessy
+change: ''
+co-ordinator: ''
+code: A06797
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Statistical Analysis
+programmes:
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+- programme: WD_KCOMP_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+- programme: WD_KDEVP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: STAT-0020
+ref: A06797
+short name: Statistical Analysis
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- spring
+- all
+timetable: STAT-0020
+verified: true

@@ -1,0 +1,50 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A11961
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Embedded Systems Scripting
+programmes:
+- null
+- programme: WD_EEELC_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: EMBS-0002
+- null
+- programme: WD_ETRIC_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: EMBS-0002
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: EMBS-0002
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: EMBS-0002
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: EMBS-0002
+- programme: WD_KINTT_BI
+  semester: 5
+  stage: 3
+  status: M
+  timetable: EMBS-0002
+ref: A11961
+short name: Embedded Systems Scripting
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: EMBS-0002
+verified: false

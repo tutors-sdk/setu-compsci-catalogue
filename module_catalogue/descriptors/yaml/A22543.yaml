@@ -1,0 +1,86 @@
+aim: The aim of this module is to guide students in assessing and critiquing the applications
+  of biomechanics in research and practice. This will also build on their theoretical
+  knowledge through the analysis of current research methodologies and findings.
+assessment criteria:
+- Final Examination (50%)- written paper
+- Continous assessment (50%) - Presentation of a Research project report involving
+  preparation, planning, execution and analysis of a detailed biomechanical project
+assessment methods:
+- learning outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning outcomes: 4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: 4,5
+  main: false
+  name: Project
+  weighting: 50
+basename: A22543_-_CaM_-_SporTech_-_Applied_Biomechanics
+co-requisites: []
+code: A22543
+credits: 5
+department: Sport and Exercise Science
+dirty: false
+essential material:
+- 'Robertson, D.G., G.E. Caldwell, J. Hamill, G. Kamen and S.N. Whittlesey. \emph{Research
+  Methods in Biomechanics}. 2nd ed. Champaign, IL: Human Kinetics, 2014.'
+full title: Applied Biomechanics
+indicative content:
+- Applications of motion analysis in research and practice
+- Applications of force platforms in research and practice
+- Applications of EMG in research and practice
+- Applications of sensor data (e.g. accelerometers, gyroscopes, GPS)
+- Applications of portable data collection (e.g. via phones, smart fabrics etc.)
+- Gait analysis (Running and Walking)
+- Simulation - forward and inverse dynamics
+- Applications of flexibility assessment and movement screening
+learning and teaching methods:
+- Lectures - incorporating interaction and pre-participation readings
+- Tutorials - Research focused - involving analysis and interpretation of scientific
+  journal articles
+- Practicals - Hands-on set-up and collection of biomechanics data. Careful attention
+  paid to accuracy and reliability of collection techniques
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 12
+  name: Tutorial
+  part time: ''
+- full time: 12
+  name: Practical
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise the applications of lab-based biomechanics systems in research and practise
+- Appraise the applications of field-based biomechanics systems in research and practise
+- Prescribe appropriate flexibility/screening assessments for specific population
+  groups
+- Devise an appropriate biomechanical testing protocol to address a specific practical/research
+  issue
+- Explain the findings from a biomechanical testing protocol
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- programme: WD_T0012_X
+  semester: 6
+  stage: 3
+  status: M
+  timetable: ''
+  title: Bachelor of Science (Honours) in Sport and Exercise Science
+requested resources:
+- 'Lecture Room: Loose Seated'
+short title: Applied Biomechanics
+supplementary material:
+- 'Bartlett, R.M. and M. Bussey. \emph{Sports Biomechanics: Reducing injury risk and
+  improving performance}. 2nd ed. Abingdon, UK: Routledge, 2012.'
+- 'Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement}. 4th
+  ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.'
+- 'Payton, C.J. and R.M. Bartlett. \emph{Biomechanical Evaluation of Movement in Sport
+  and Exercise}. Abingdon, UK: Routledge, 2008.'

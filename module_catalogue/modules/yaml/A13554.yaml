@@ -1,0 +1,28 @@
+author: Ann Vereker
+change: ''
+co-ordinator: ''
+code: A13554
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Network Theory Fundamentals
+programmes:
+- programme: WD_KCOMP_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0658
+- programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0658
+ref: A13554
+short name: Network Theory Fundamentals
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: COMP-0658
+verified: true

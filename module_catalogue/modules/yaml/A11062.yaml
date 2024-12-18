@@ -1,0 +1,83 @@
+author: Rob O'Connor
+change: ''
+co-ordinator: ''
+code: A11062
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Computer Systems 2
+programmes:
+- programme: WD_KACCM_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KACCM_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCMSC_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCOMP_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KCRCO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KDEVP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KDEVP_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KINTT_BI
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+- programme: WD_KMULA_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0546
+ref: A11062
+short name: Computer Systems 2
+special regulations: null
+subgroup: Networks and Cloud
+tags:
+- spring
+- all
+timetable: COMP-0546
+verified: false

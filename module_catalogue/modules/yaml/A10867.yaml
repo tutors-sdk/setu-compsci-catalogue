@@ -1,0 +1,33 @@
+author: P Felicia
+change: MINOR
+co-ordinator: ''
+code: A10867
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Advanced 3D Game Development
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0009
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0009
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0009
+ref: A10867
+short name: Advanced 3D Game Development
+special regulations: null
+subgroup: Game Development
+tags:
+- spring
+- all
+timetable: GAME-0009
+verified: true

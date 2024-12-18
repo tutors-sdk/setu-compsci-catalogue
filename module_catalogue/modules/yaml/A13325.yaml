@@ -1,0 +1,39 @@
+author: Mary Clarke
+change: ''
+co-ordinator: ''
+code: A13325
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Professional Communications
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0644
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0644
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: E
+  timetable: COMP-0644
+- programme: WD_KDEVP_BI
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0644
+ref: A13325
+short name: Professional Communications
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0644
+verified: true

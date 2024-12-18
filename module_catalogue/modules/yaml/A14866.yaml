@@ -1,0 +1,69 @@
+author: Ian Downey
+change: ''
+co-ordinator: ''
+code: A14866
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Project 2 (Research)
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KACCM_BI
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KCRCO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- null
+- programme: WD_KDEVP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KDEVP_BI
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KINTT_BI
+  semester: 8
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+- programme: WD_KMULM_B
+  semester: 2
+  stage: 4
+  status: E
+  timetable: PROJ-0170
+ref: A14866
+short name: Project 2 (Research)
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+timetable: PROJ-0170
+verified: true

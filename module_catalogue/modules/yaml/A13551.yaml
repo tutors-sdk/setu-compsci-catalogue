@@ -1,0 +1,28 @@
+author: Frank Leonard
+change: ''
+co-ordinator: ''
+code: A13551
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mathematics for Graphics and Statistics
+programmes:
+- programme: WD_KCRCO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MATH-0029
+- programme: WD_KMULA_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MATH-0029
+ref: A13551
+short name: Maths for Graphics and Stats
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: MATH-0029
+verified: true

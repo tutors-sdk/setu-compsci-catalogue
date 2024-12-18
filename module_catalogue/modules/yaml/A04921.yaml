@@ -1,0 +1,48 @@
+author: Brendan Lyng
+change: ''
+co-ordinator: ''
+code: A04921
+dirty: false
+external: false
+group: Computing and Mathematics
+name: The Computer Industry
+programmes:
+- programme: WD_KACCM_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+- programme: WD_KACCM_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+- programme: WD_KCMSC_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+- programme: WD_KCOFO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+- programme: WD_KCOMP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+- programme: WD_KINTT_BI
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0375
+ref: A04921
+short name: The Computer Industry
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: COMP-0375
+verified: true

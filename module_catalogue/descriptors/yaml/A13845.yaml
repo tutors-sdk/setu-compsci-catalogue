@@ -1,0 +1,80 @@
+aim: This module introduces the student to vector-based illustration software. Students
+  will produce high-quality artwork for both screen and print, and will gain an understanding
+  of the limitations of printing methods for various print media. This module also
+  introduces the student to industry-standard publishing applications for interactive
+  PDF documents, digital magazines, and EPUBs.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts that relate to graphic design.'
+- '40%-49%: Be able to interpret and describe key concepts that relate to graphic
+  design.'
+- '50%-59%: Ability to discuss key concepts that relate to graphic design and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve design problems by experimenting with the appropriate
+  skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A13845_-_CaM_-_GrapDesiandAnim_-_Digital_Graphic_Design
+co-requisites: []
+code: A13845
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Digital Graphic Design
+indicative content:
+- Digital Illustration
+- 'Structuring Media: single and multi-page layout'
+- Designing for screen vs. designing for print
+- Interactive PDFs, Digital Magazines and ePUBs
+- Packaging and pre-flight
+learning and teaching methods:
+- Practical classes will provide students with an opportunity to develop a range of
+  technical competencies relating to digital graphic design using industry-standard
+  tools and techniques.
+learning modes:
+- full time: 48
+  name: Practical
+  part time: 24
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Utilise a range of digital illustration techniques to enable them to develop a multimedia
+  portfolio.
+- Compose digital artwork, using a range of techniques and software, for both digital
+  and print media.
+- Create interactive files, PDF forms and digital publications for various mobile
+  devices.
+- Design and cost a print job for a business or event.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 6
+  stage: 3
+  status: M
+  timetable: DESG-0056
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: Multimedia Lab'
+short title: Digital Graphic Design
+supplementary material:
+- 'Faulkner, A. \emph{Adobe Photoshop CC Classroom in a Book (2015 release)}. 1st
+  ed. San Jose, CA: Adobe Press, 2015.'
+- 'Kordes Anton, K. \emph{Adobe InDesign CC Classroom in a Book (2015 release)}. 1st
+  ed. San Jose, CA: Adobe Press, 2015.'
+- 'Wood, B. \emph{Adobe I}\emph{llustrator CC Classroom in a Book (2014 release)}.
+  1st ed. San Jose, CA: Adobe Press, 2014.'

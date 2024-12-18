@@ -1,0 +1,87 @@
+aim: The purpose of this module is to introduce the student to the fundamental concepts
+  of Artificial Intelligence. The student will be introduced to symbolic A.I., knowledge
+  representation, search techniques and an A.I. programming paradigm.
+assessment criteria:
+- '<40%: Unable to explain the principles of AI techniques for solving simple problems.'
+- '40%-49%: Able to explain the principles of AI techniques for solving simple problems.'
+- '50%-59%: Able to explain and apply AI techniques for solving problems.'
+- '60%-69%: Able to explain, choose and apply AI techniques for solving complex problems.'
+- '70%-100%: Able to critically choose, adapt and apply complex AI techniques for
+  solving complex problems.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 100
+basename: A14322_-_CaM_-_SoftandWebDeve_-_Artificial_Intelligence
+co-requisites: []
+code: A14322
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Artificial Intelligence
+indicative content:
+- 'History of A.I: Introduction to problem characteristics; Historical and contemporary
+  applications'
+- 'Knowledge representation techniques: Trees; Productions; Frames; Semantic networks;
+  Predicate calculus and theorem proving'
+- 'Search: Un-informed; Bi-directional; Heuristic; Constraint based; Application domains'
+- 'A.I. architectures: Planning and case based reasoning; Production systems; Rule
+  based systems; Agent, reactive and blackboard systems; Non-monotonic systems; Neural
+  networks; Natural language systems'
+- 'Practical Programme: The student will exposed to A.I. problems in practical sessions
+  using an A.I language such as Prolog'
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practical.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element is intended to provide the student with the necessary skills
+  to represent and solve A.I. problems using a suitable programming language.
+- Student will be expected to read ahead on lecture content.
+- Student will be expected to complement lecture content with self-learning.
+- Student will be expected to develop skills to solve problems using A.I. language
+  in practicals.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Appraise various knowledge representation techniques.
+- infer using the rules of logic as applied in predicate calculus.
+- Appraise different heuristic search techniques and their applications.
+- Construct programs in an Artificial Intelligence based language.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: COMP-0215
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Artificial Intelligence
+supplementary material:
+- 'Luger, G. \emph{Artificial Intelligence: Structures and Strategies for Complex
+  Problem Solving}. 6th ed. Harlow: Addison Wesley, 2008.'
+- 'Negnevitsky, M. \emph{Artificial Intelligence: A Guide to Intelligent Systems}.
+  3rd ed. Harlow: Addison Wesley, 2011.'
+- 'Russell, S. and P. Norvig. \emph{Artificial Intelligence: A Modern Approach}. 3rd
+  ed. NJ: Prentice Hall, 2009.'

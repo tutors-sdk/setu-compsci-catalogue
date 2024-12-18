@@ -1,0 +1,96 @@
+aim: This module aims to provide students with an understanding of the development
+  of 2D video games and the game industry. It seeks to develop their technical skills
+  so that they become proficient in high-level 2D game programming using the Unity
+  Game Engine.
+assessment criteria:
+- '<40%: Cannot represent the conceptual design of the operating system components
+  presented in class or explain its operation principles at a basic level.'
+- '40%-49%: Knows the role of each component addressed by the learning outcomes and
+  can represent their conceptual design, supported with a basic narrative description
+  of the operation principles.'
+- '50%-59%: As well as a clear understanding of the components operation principles,
+  can describe some of the design alternatives covered in the lectures, showing awareness
+  for some of their strengths and weaknesses.'
+- '60%-69%: Can demonstrate a comprehensive understanding of the material covered
+  in the lectures.'
+- '70%-100%: Excellent understanding of the presented material and displays value
+  added knowledge as a result of independent learning.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+- learning outcomes: 2,4,6
+  main: false
+  name: Assignment
+  weighting: 60
+basename: A10866_-_CaM_-_GameDeve_-_2D_Game_Development
+co-requisites: []
+code: A10866
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: 2D Game Development
+indicative content:
+- History of 2D games
+- Key principles for interface design and player experience (PX)
+- Game development using Unity2D (or equivalent)
+- Structure of commercial game development teams
+- Play testing
+- Programming using Javascript
+- Game design principles
+- Game design documentation
+learning and teaching methods:
+- This module will be presented by lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practicals will be used to develop game development skills.
+- Assignments will allow students to demonstrate proficiency in applying practical
+  skills and concepts using a 2D game engine, e.g. Unity.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Demonstrate a familiarity with Unity's (or similar software) interface (e.g., know
+  common shortcuts and key actions necessary to the game development workflow or import
+  and use assets for their game (e.g., audio, textures, or animations).
+- Code mechanics of a 2D game (in JavaScript or similar language) using standard coding
+  structures (e.g., loops, conditional statements) and concepts (e.g., variables,
+  variable scope, functions).
+- Code inputs (e.g., keys), output (e.g., visual and audio), tags and layers.
+- Code collisions based on 2D physics for realistic effects.
+- Demonstrate knowledge of the history of video games and the links between societal
+  changes and game genres.
+- Communicate game design ideas and concepts using a game design document or equivalent.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0624
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'EQUIPMENT: MAC PCs'
+- 'Room Type: Computer Lab'
+short title: 2D Game Development
+supplementary material:
+- 'Blackman, S. and J. Wang. \emph{Unity for Absolute Beginners}. NY: Apress, 2014.'
+- 'Rouse, R. \emph{Game Design: Theory and Practice}. 2nd. NY: Publishing, 2001.'
+- 'Zimmerman, E. and K. Zalen. \emph{Rules of Play: Game Design Fundamentals}. NY:
+  MIT Press, 2003.'

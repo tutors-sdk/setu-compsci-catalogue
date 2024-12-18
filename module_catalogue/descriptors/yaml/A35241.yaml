@@ -1,0 +1,103 @@
+aim: The purpose of this module is to further develop programming skills through the
+  study of a programming language with an emphasis on the use of software development
+  toolsets. This module, through the creation of a diverse portfolio of projects,
+  will focus on developing well-designed, maintainable and robust applications that
+  are consistent with software development best practice.
+assessment criteria:
+- '<40%: Inability to design, develop and test maintainable, robust applications to
+  solve a particular problem along with an inability to utilise software development
+  tooling.'
+- '40%-49%: Ability to design, develop and test maintainable, robust applications
+  to solve a straight-forward problem whilst using basic software development tooling.'
+- '50%-59%: Comfortable with designing, developing and testing maintainable, robust
+  applications to solve problems similar to those presented in the module. Comfortable
+  with using software development tooling similar to that presented in the module.'
+- '60%-69%: Proficient with designing, developing and testing maintainable, robust,
+  high-quality applications to solve'
+- '70%-100%: Proficient with designing, developing and testing maintainable, robust,
+  high-quality, elegant applications to solve complex problems that are substantially
+  different to those studied in the module. High proficiency in software development
+  tooling along with the use of toolsets beyond those studied in the module.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A35241_-_CaM_-_SoftandWebDeve_-_Software_Development_Tools
+co-requisites: []
+code: A35241
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"GitHub." https://github.com/'
+- '"Kotlin Language." https://kotlinlang.org/'
+full title: Software Development Tools
+indicative content:
+- Use of complex constructs and data structures associated with the chosen programming
+  language.
+- Programming techniques for well-behaved, well-designed, robust applications.
+- Extensive use of software development tools throughout the development process e.g.
+  version control, build systems, Continuous Integration/Continuous Delivery (CI/CD),
+  profiling tools, code analysis, test-driven development, project management platforms,
+  etc
+- Read, understand, and consume APIs compatible with the chosen programming language
+  e.g. command line interfaces (CLI), RestAPI frameworks, persistence, etc.
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practical's
+  whilst capitalising on a web-enhanced learning environment.
+- The lectures will be used to introduce new topics and their related concepts.
+- A cooperative learning/peer tutoring (e.g. pair-programming, classroom forum support)
+  approach will be adopted during the practical sessions.
+- Self-directed learning will be encouraged throughout the duration of the module.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 36
+  name: Practical
+  part time: 12
+- full time: 75
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- The lectures will be used to introduce new topics and their related concepts.
+- A cooperative learning/peer tutoring (e.g. pair-programming, classroom forum support)
+  approach will be adopted during the practical sessions.
+- Self-directed learning will be encouraged throughout the duration of the module.
+level: Intermediate
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0982
+  title: Bachelor of Science in Software Systems Development
+- null
+- dirty: true
+  programme: WD_KDEVP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0982
+  title: Bachelor of Science (Honours) in Software Systems Development
+- null
+requested resources:
+- 'Room Type: Computer Lab'
+short title: SD Tools
+supplementary material:
+- '"Gradle." https://gradle.org/'
+- '"KUnit." https://kunit.dev/'
+- '"Markdown." https://www.markdownguide.org/'

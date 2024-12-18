@@ -1,0 +1,33 @@
+author: P Felicia
+change: MINOR
+co-ordinator: ''
+code: A14782
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Artificial Intelligence for Games
+programmes:
+- programme: WD_KACCM_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0006
+- programme: WD_KCMSC_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0006
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0006
+ref: A14782
+short name: AI for Games
+special regulations: null
+subgroup: Game Development
+tags:
+- spring
+- all
+timetable: GAME-0006
+verified: true

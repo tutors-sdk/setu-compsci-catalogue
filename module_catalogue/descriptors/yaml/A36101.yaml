@@ -1,0 +1,107 @@
+aim: This module will introduce the student to the principles and practice of designing
+  and implementing database systems. The student will gain competence in designing
+  relational databases using Entity Relationship Modelling. They will implement relational
+  databases using SQL data definition language. They will query the relational database
+  using SQL data manipulation language. The students will be introduced to the concepts
+  and use of NoSQL databases.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the Database design and
+  implementation domain.'
+- '40%-49%: Be able to interpret and describe key concepts of the Database design
+  and implementation domain, particularly the use of ER diagrams for the design of
+  relational databases and SQL DDL for the implementation of the relational database.'
+- '50%-59%: Ability to discuss key concepts of the Database design and implementation
+  domain and ability to discover and integrate related knowledge in other knowledge
+  domains. To design and develop a suitable relational database system for a business
+  scenario.'
+- '60%-69%: Be able to solve basic business analytics problems by experimenting with
+  the appropriate skills and tools. To design and develop a suitable relational database
+  system for a business scenario to a level that includes an enhanced ER diagram and
+  suitable queries appropriate to the business scenario.'
+- '70%-100%: All the above to an excellent level. Be able to analyse, design and implement
+  solutions to a high standard for a range of both complex and unforeseen problems
+  through the use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 70
+- learning outcomes: 1,3,6
+  main: false
+  name: Assignment
+  weighting: 30
+basename: A36101_-_CaM_-_DataandAnal_-_Database_Design_and_Implementation
+co-requisites: []
+code: A36101
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Database Design and Implementation
+indicative content:
+- Database Environment
+- 'Database Analysis and Design: Relational Modelling, Normalisation, NoSQL databases,
+  CAP theorem'
+- 'Physical Database Design: Implementation descriptions of physical database'
+- Database Implementation
+learning and teaching methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures using incremental steps to accomplish a skill.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a new business scenario.
+- For online delivery, the lectures and practicals will be a combination of comprehensive
+  rich media instructional content (notes), interactive synchronous video (live webinars/classes)
+  and asynchronous interactive video playback (on-demand).
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 87
+  name: Independent Learning
+  part time: 87
+learning outcomes:
+- Appraise the role of a database and its management system.
+- Construct Entity Relationship (ER) diagrams from business scenarios and reproduce
+  those diagrams into normalised relations ready for database implementation.
+- Construct a physical database design.
+- Create a relational database using SQL Data Definition Language (DDL).
+- Construct queries on a relational database using SQL Data Manipulation Language
+  (DML).
+- Assess the suitability and use of NoSQL databases.
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0621
+  title: Higher Diploma in Science in Business Systems Analysis
+- dirty: true
+  programme: WD_KCOSC_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0621
+  title: Higher Diploma in Science in Computer Science
+- null
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: DB Design and Implementation
+supplementary material:
+- 'Connolly, T. and C. Begg. \emph{Database Systems: A Practical Approach to Design
+  Implementation and Management}. 6th ed.. NY: Addison Wesley, 2014.'
+- 'Sadalage, P. and M. Folwer. \emph{NoSQL Distilled A Brief Guide to the Emerging
+  World of Polyglot Persistance}. NY: Addison-Wesley Professional, 2012.'

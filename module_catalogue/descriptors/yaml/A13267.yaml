@@ -1,0 +1,110 @@
+aim: The goal of this module is to enable students to develop key communication skills
+  that are essential to the work-place environment as well as the student?s academic
+  career. Such skills include interpersonal skills, oral presentation skills, ability
+  to participate in meetings, and ability to participate effectively in groups, along
+  with writing skills for work-related documents.
+assessment criteria:
+- '<40%: Unable to create and deliver a presentation. Unable to plan and deliver a
+  Workshop.'
+- '40%-49%: Be able to deliver oral presentation. Be able to plan and run a Workshop.'
+- '50%-59%: Demonstrates a proactive ability to plan and run a Workshop. Delivers
+  a well-structured presentation.'
+- '60%-69%: Demonstrates the ability to create a Workshop on an advanced technical
+  topic. Delivers a well-structured presentation using a prop.'
+- '70%-100%: Demonstrates the ability to create a Workshop on an advanced technical
+  topic that is digitally recorded is uploaded to YouTube. Delivers a well-structured
+  oral presentation using one or more props.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Portfolio
+  weighting: 20
+- learning outcomes: 3,4
+  main: false
+  name: Presentation
+  weighting: 30
+- learning outcomes: 5,6
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13267_-_CaM_-_ProfSkil_-_Communications_Skills
+co-requisites: []
+code: A13267
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Communications Skills
+indicative content:
+- Introduction to Human Communications
+- Communication Flows within Industry and Academia
+- Structuring and Writing Professional Reports
+- 'Meetings: Managing, Recording and Participation'
+- Communication Flows in Groups
+- Oral Presentations
+- Workshop Communication Strategy
+- Communications for Career Success
+learning and teaching methods:
+- Students will attend lectures to learn about the latest research supporting the
+  development of interpersonal skills.
+- Lectures will also provide a foundation for creating Communication Forums, such
+  as Websites and Workshops.
+- Tutorials will be focused on exploring the themes of interpersonal communications
+  in the digital environments.
+- Also explored will be practicing and developing both skill and confidence with oral
+  presentation.
+- Practical classes will be focused on providing students with an opportunity to apply
+  the themes discussed in both Lectures, and Tutorial using planned exercises, and
+  creating submissions for various CA elements.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 0
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Create a well-designed Professional Profile.
+- Construct a profile for Web-based Career Networking Websites.
+- Complete a professional presentation, using a Software Tool to showcase the presentation.
+- Give a professional presentation.
+- Complete a professionally written document.
+- Plan a Technical Workshop.
+level: Introductory
+pre-requisites: []
+programmes:
+- programme: WD_KCOMC_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+  title: Bachelor of Science in Software Systems Development
+- null
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+  title: Bachelor of Science in Information Technology
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMS-0012
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+short title: Communications Skills
+supplementary material:
+- 'Euson, B. \emph{C21: Communicating in the 21st Century, 4th edition}. 3rd ed. NY:
+  Wiley, 2012.'

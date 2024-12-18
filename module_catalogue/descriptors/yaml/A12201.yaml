@@ -1,0 +1,101 @@
+aim: This module explores the rules and principles that regulate the pre-trial and
+  trial stages of the criminal process.
+assessment criteria:
+- '<40%: The student does not meet any of the requisite learning outcomes of the module.'
+- '40%-49%: The student shows limited consideration of main points and concepts which
+  are required to be addressed. The student engages in a descriptive level of discussion
+  only, which shows a lack of evidence of the underpinning knowledge.'
+- '50%-59%: The student demonstrates consideration of, but a limited analysis of,
+  the required main points and concepts. The student engages in limited amount of
+  discussion and reflection, but shows a clear grasp of the underpinning principles.'
+- '60%-69%: The student addresses and analyses the main points required by the assessment
+  and shows evidence of a good grasp of the underpinning requisite knowledge. The
+  students shows some evidence of evaluation and synthesis of the relevant issues.'
+- '70%-100%: The student demonstrates an excellent level of critical analysis, originality
+  of thought and a comprehensive knowledge base. The student engages in excellent
+  levels of critical evaluation and synthesis of the relevant issues.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning outcomes: '4'
+  main: false
+  name: Project
+  weighting: 20
+- learning outcomes: '3'
+  main: false
+  name: Presentation
+  weighting: 30
+- learning outcomes: 1,2
+  main: true
+  name: Final Written Examination
+  weighting: 50
+basename: A12201_-_CaM_-_ForeandSecu_-_Criminal_Evidence
+co-requisites: []
+code: A12201
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- 'Heffernan, L and U Ni Raifeartaigh. \emph{Evidence in Criminal Trials}. Dublin:
+  Bloomsbury Professional, 2014.'
+full title: Criminal Evidence
+indicative content:
+- Items and classification of evidence. Function of Judge and jury in criminal cases.
+  Relevance, and weight of evidence
+- The burden and standard of proof in criminal cases
+- 'The testimony of witnesses. The competence and compellability of witnesses: spouses
+  and former spouses; the children; the accused; co-accused as witnesses in criminal
+  cases'
+- Corroboration in criminal cases
+- Hearsay in criminal cases. Confessions
+- Unlawfully obtained evidence - admissibility and judicial discretion
+- Character of evidence
+- Similar fact evidence
+- Expert and opinion evidence - preparation and presentation of export witness reports
+- Privilege
+learning and teaching methods:
+- Lectures, private reading, seminars, research assignments.
+learning modes:
+- full time: 48
+  name: Lecture
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Assess the rules which govern the admissibility and receivability of evidence during
+  the criminal trial
+- Summarise the critical facts, legal issues and decisions in court judgments which
+  concern the rules of criminal evidence.
+- Demonstrate both a practical and theoretical understanding of the rules which govern
+  the admissibility of witness testimony during the criminal trial process including
+  the evidence of expert witnesses.
+- Generate an expert witness report based on the student's interpretation of technical
+  information discerned from a hypothetical scenario.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- programme: WD_KCOFO_B
+  semester: 8
+  stage: 4
+  status: M
+  timetable: CRIM-0008
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: CRIM-0008
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources: []
+short title: Criminal Evidence
+supplementary material:
+- 'Fennell, C. \emph{The Law of Evidence in Ireland}. 3rd. Dublin: Bloomsbury Professional,
+  2009.'
+- Law Reform Commission. \emph{Consul}\emph{tation Paper on Expert Evidence} by Rickard-Clarke,
+  P.T.. Dublin. 2008.
+- 'McGrath, D. \emph{Evidence}. Dublin: Round Hall Brehon, 2014.'

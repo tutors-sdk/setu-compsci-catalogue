@@ -1,0 +1,95 @@
+aim: Design and construct realistic scenes/effects requiring advanced graphics rendering
+  techniques using OpenGL and the OpenGL Shading Language (GLSL).
+assessment criteria:
+- '<40%: Inability to demonstrate knowledge or understanding of the concepts outlined
+  in the syllabus content, inability to apply concepts to selected problems.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  outlined in syllabus content.'
+- '50%-59%: In addition to above, able to evaluate own code for significant performance
+  and resource bottlenecks.'
+- '60%-69%: All of the above, in addition implement all required features consistently
+  well.'
+- '70%-100%: All previous to an excellent level. Implement additional features or
+  uses techniques not directly presented in class.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A12601_-_CaM_-_GameDeve_-_Advanced_Graphics_for_Games
+co-requisites: []
+code: A12601
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Advanced Graphics for Games
+indicative content:
+- 'Constructive solid geometry (CSG): constructing objects using primitives and boolean
+  operations, ray tracing CSG models'
+- 'Surface modelling: parametric curves and surfaces, Beziers and NURBS, subdivision
+  surfaces, implicit surfaces and Voronoi diagrams'
+- 'Illumination: ray tracing, global illumination, reflection and refraction rays,
+  optimisation methods for ray tracing, Monte Carlo ray tracing and soft shadows,
+  photon mapping'
+- 'Textures: texture mapping, procedural textures, Perlin noise, normal mapping'
+- 'OpenGL and Shaders: Review of the OpenGL pipeline, programming GPUs, the basics
+  of the OpenGL shader language GLSL, vertex and fragment shaders, memory management
+  and optimisation concerns'
+learning and teaching methods:
+- Lectures will be used to present all the relevant theory and concepts that will
+  be used in the supervised labs. Supplementary material will be accessible online.
+- Practical exercises will provide students with an opportunity to develop a range
+  of technical competencies relating to creating graphical effects using industry
+  standard development tools, technologies and techniques.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Construct realistic scenes using core technologies of constructive solid geometry,
+  implicit surfaces, illumination technologies and texture mapping.
+- Assess a given geometry to determine properties such as normals, curvature, convex
+  hull, bounding box, etc..
+- Design and implement multi-pass rendering sequences on the GPU.
+- Evaluate the computational cost of a GPU implementation.
+level: Advanced
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 8
+  stage: 4
+  status: E
+  timetable: GAME-0007
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Advanced Graphics for Games
+supplementary material:
+- 'Angel, E. and D. Shreiner. \emph{Interactive Computer Graphics: A Top-Down Approach
+  with Shader-Based OpenGL}. 6. USA: Pearson, 2011.'
+- 'Hearn, D. \emph{Computer Graphics with OpenGL}. NY: Pearson, 2004.'
+- 'Shreiner, D., G. Sellers, J. Kessenich and B. Licea-Kane. \emph{OpenGL Programming
+  Guide: The Official Guide to Learning OpenGL}. 8. USA: Addison-Wesley Professional,
+  2013.'

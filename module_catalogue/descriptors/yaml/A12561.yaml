@@ -1,0 +1,100 @@
+aim: This module deepens the students knowledge of game development techniques in
+  C++ and an appropriate game framework and third party libraries to incorporate features
+  such as networking, artificial intelligence, multiplayer modes, and game physics.
+assessment criteria:
+- '<40%: Inability to design and implement a game. Inability to develop bespoke tools
+  for managing game assets as per Learning Outcome 2. Inability to critically assess
+  techniques for managing game resources.'
+- '40%-49%: Ability to design and implement a stand-alone game. Ability to develop
+  bespoke tools for managing game assets as per Learning Outcome 2. Ability to critically
+  assess techniques for managing game resources.'
+- '50%-59%: All the above and in addition, correctly choose appropriate data structures,
+  algorithms and patterns.'
+- '60%-69%: All of the above, in addition implement all required features consistently
+  well.'
+- '70%-100%: All previous to an excellent level. Starts to extend game and framework
+  with features such as resource caching, goal-based behaviour, etc.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 20
+- learning outcomes: 1,5,6
+  main: false
+  name: Assignment
+  weighting: 60
+basename: A12561_-_CaM_-_GameDeve_-_Game_Development_in_C++
+co-requisites: []
+code: A12561
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Game Development in C++
+indicative content:
+- 'Data structures and algorithms: tile sets and maps, decision trees, influence map,
+  dependency graphs, path finding, path following, hierarchical finite state machines,
+  design patterns'
+- 'Data-driven game engines: entity systems, component-based design and relevant design
+  patterns'
+- 'Memory and resource management: memory allocation and garbage collection; storing,
+  loading and caching strategies'
+- 'Networked games: networked game architectures and protocols, threads, critical
+  sections, latency'
+- Game libraries for AI, networking, physics, and audio
+learning and teaching methods:
+- Computer-based practicals will be used to demonstrate the application of theory
+  by the lecturer and allow students to gain practical development experience with
+  the direction of the lecturer.
+- Cooperative learning/peer tutoring (i.e. Pair-programming for practicals and team-based
+  approaches for some assignments).
+- Self-directed learning.
+learning modes:
+- full time: 48
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Develop a prototype of a non-trivial game containing features such as AI, multiplayer
+  modes, network- ing, or physics.
+- Design and implement bespoke tools for managing game assets.
+- Evaluate multiple programming paradigms appropriate to the game being developed
+  such Data Driven Development.
+- Create a suitable game framework and integrate additional libraries necessary for
+  physics, networking, AI and sound as required.
+- Evaluate and implement custom memory managers.
+- Evaluate and implement techniques for managing game resources which exceed available
+  memory.
+level: Advanced
+pre-requisites:
+- Introduction to C++ for Games
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 7
+  stage: 4
+  status: E
+  timetable: GAME-0008
+  title: Bachelor of Science (Honours) in Applied Computing
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Game Development in C++
+supplementary material:
+- 'Rollings, A. and D. Morris. \emph{Games Architecture and Design: A New edition}.
+  Boston: New Riders Publishing, 2004.'
+- '"Cocos 2D-x." http://www.cocos2d-x.org'
+- '"Gamasutra: The Art and Science of Making Games." http://www.gamasutra.com/'
+- '"GameDev.ent." http://www.gamedev.net/'
+- '"Microsoft DreamSpark." https://www.dreamspark.com/default.aspx'

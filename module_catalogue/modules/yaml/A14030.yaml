@@ -1,0 +1,44 @@
+author: John Sheppard
+change: ''
+co-ordinator: ''
+code: A14030
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Network Forensics
+programmes:
+- programme: WD_KACCM_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0129
+- programme: WD_KACCM_BI
+  semester: 6
+  stage: 3
+  status: M
+  timetable: COMP-0129
+- programme: WD_KCMSC_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0129
+- programme: WD_KCOFO_B
+  semester: 5
+  stage: 3
+  status: M
+  timetable: COMP-0129
+- programme: WD_KCOMP_B
+  semester: 5
+  stage: 3
+  status: E
+  timetable: COMP-0129
+ref: A14030
+short name: Network Forensics
+special regulations: null
+subgroup: Forensics and Security
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0129
+verified: false

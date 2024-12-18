@@ -1,0 +1,28 @@
+author: Brenda O'Neill
+change: ''
+co-ordinator: ''
+code: A13726
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Creative Programming Fundamentals 1
+programmes:
+- programme: WD_KCRCO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0583
+- programme: WD_KMULA_D
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0583
+ref: A13726
+short name: Creative Programming 1
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: COMP-0583
+verified: true

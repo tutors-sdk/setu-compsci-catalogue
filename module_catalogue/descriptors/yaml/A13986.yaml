@@ -1,0 +1,88 @@
+aim: This module introduces students to the capabilities of cloud computing. Basic
+  concepts of cloud computing are covered and students carry out a series of practical
+  exercises with cloud computing technologies and services.
+assessment criteria:
+- '<40%: Unable to explain key cloud computing concepts, technologies and services.
+  Unable to effectively use a cloud platform.'
+- '40%-49%: Able to explain key cloud computing concepts, technologies and services
+  and carry out basic analysis. Can deploy an application to a popular cloud platform.'
+- '50%-59%: In addition, can explain in substantial technical detail key cloud computing
+  technologies and services. Can deploy a moderately sophisticated application to
+  a popular cloud platform.'
+- '60%-69%: In addition, can deploy a complex application to a popular cloud platform.'
+- '70%-100%: All of the above to an excellent level. Can go beyond the basic practical
+  specification and demonstrate competence with other services.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4,5
+  main: false
+  name: Practical
+  weighting: 100
+basename: A13986_-_CaM_-_NetwandClou_-_Introduction_to_Cloud_Computing
+co-requisites: []
+code: A13986
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"IBM Bluemix." http://www.ibm.com/cloud-computing/bluemix/'
+full title: Introduction to Cloud Computing
+indicative content:
+- Basic concepts of cloud computing
+- Cloud technologies
+- Cloud usage scenarios
+- Using and integrating cloud services
+- 'Other issues: privacy, security, economics and cost-benefit analysis'
+learning and teaching methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element will involve laboratory exercises using a popular application
+  deployment platform (e.g. IBM Bluemix).
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 24
+  name: Practical
+  part time: 12
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Communicate the evolution of cloud computing.
+- Appraise the main cloud computing service models and deployment models that are
+  in widespread use.
+- Illustrate the operation of a selection of leading cloud technologies.
+- Deploy an application that integrates a selection of cloud services using a popular
+  cloud platform (e.g. IBM Bluemix).
+- Explore cloud computing services and technologies from the perspectives of security,
+  privacy and cost.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: E
+  timetable: COMP-0625
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- programme: WD_KINFT_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0625
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Intro to Cloud Computing
+supplementary material:
+- 'Rafaels, R. \emph{Cloud Computing: From Beginning to End}. 1st. New York: CreateSpace
+  Independent Publishing Platform, 2015.'

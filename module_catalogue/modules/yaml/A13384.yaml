@@ -1,0 +1,29 @@
+author: Anne Gannon
+change: ''
+co-ordinator: ''
+code: A13384
+dirty: false
+external: false
+group: Computing and Mathematics
+name: User Experience and Design
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0619
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: COMP-0619
+ref: A13384
+short name: User Experience and Design
+special regulations: null
+subgroup: Graphic Design and Animation
+tags:
+- spring
+- all
+- autumn
+timetable: COMP-0619
+verified: false

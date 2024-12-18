@@ -1,0 +1,98 @@
+aim: This module will introduce students to the principles of graph/network models
+  and information theory. The module will focus on the practical application of the
+  fundamental concepts to problems in computing, such as, resource allocation, planning,
+  optimization problems, and software testing.
+assessment criteria:
+- '<40%: Inability to demonstrate knowledge or understanding of the fundamental concepts
+  in graph and network models, information theory and finite state machines, as outlined
+  in the syllabus content, inability to apply concepts to selected problems.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  in graph and network models, information theory and finite state machines, as outlined
+  in syllabus content.'
+- '50%-59%: In addition to above, able to find the complete solution set to basic
+  problems, and in addition, able to supply a reasonable interpretation of generated
+  results.'
+- '60%-69%: All the above, in addition be able to independently determine appropriate
+  mathematical techniques to analyse applied problems and to express their work with
+  rigour and precision.'
+- '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
+  solution into a context and assess whether such solutions are meaningful.'
+assessment methods:
+- learning outcomes: 2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning outcomes: 1,2
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning outcomes: '2'
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+- learning outcomes: '1'
+  main: false
+  name: Practical
+  weighting: 25
+basename: A13554_-_CaM_-_MathandPhys_-_Network_Theory_Fundamentals
+co-requisites: []
+code: A13554
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Network Theory Fundamentals
+indicative content:
+- 'Graph and Network Models: Network algorithms for applied problems; Minimal spanning
+  tree and shortest route problems; project networks; application of network models'
+- 'Information Theory: Information measure and entropy; source coding; Shannon theory
+  and Huffman codes; noisy channel coding theorem; error correcting codes'
+- 'Finite-State Machines: Network and matrix representation; equilibrium and absorbing
+  states, applications to software testing; cellular automata models'
+learning and teaching methods:
+- The lectures will be used to present mathematical concepts.
+- The tutorials are used to reinforce material covered in lectures by practicing solving
+  problems.
+- The practicals will help students investigate and study real world problems using
+  industry based software.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 12
+- full time: 12
+  name: Tutorial
+  part time: 6
+- full time: 12
+  name: Practical
+  part time: 6
+- full time: 87
+  name: Independent Learning
+  part time: 111
+learning outcomes:
+- Use mathematical software to solve network based optimisation problems and interpret
+  solutions generated.
+- Apply appropriate algortihms to solve graph/network theory problems.
+- Apply fundamental concepts and techniques of information theory.
+- Apply finite-state machine techniques to problems in computing, such as software
+  testing.
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 3
+  stage: 2
+  status: M
+  timetable: COMP-0658
+  title: Bachelor of Science in Information Technology
+requested resources:
+- 'Room Type: Computer Lab'
+short title: Network Theory Fundamentals
+supplementary material:
+- 'Johnsonbaugh, R. \emph{Discrete Mathematics}. 7th Edition. New Jersey: Pearson,
+  2009.'
+- 'Jones, G. and J. Jones. \emph{Information and Coding Theory}. New York: Springer,
+  2000.'
+- 'Narsingh, D. \emph{Graph Theory with Applications to Engineering and Computer Science}.
+  New York: Dover Publications, 2016.'

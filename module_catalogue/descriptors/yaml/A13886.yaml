@@ -1,0 +1,86 @@
+aim: To enhance the student?s existing IT knowledge and experience with the skills-set
+  and knowledge required to design, develop and deploy full-stack enterprise web applications
+  using a range of modern platforms and tools. The module will also address foundation-level
+  material in web architecture, object-oriented programming, design representation
+  and relevant design patterns. In addition, the concepts and vocabulary surrounding
+  the topics covered will enable the student to communicate and participate more effectively
+  as a non-technical member (e.g. business analyst) of a software development team.
+assessment criteria:
+- '<40%: Unable to interpret and apply key concepts of enterprise web app development.'
+- '40%-59%: Demonstrate competency in the tool suite and an ability to develop small-scale
+  enterprise web solution.'
+- '60%-69%: Presents implemented solution to a medium-sized problem that demonstrate
+  an excellent understanding of the main patterns and practices of enterprise web
+  app design.'
+- '70%-100%: All of the above to an excellent standard, and incorporates self-directed
+  investigation into state-of-the-art enterprise web technology.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,3,5
+  main: false
+  name: Project
+  weighting: 60
+- learning outcomes: 2,3,4
+  main: false
+  name: Project
+  weighting: 40
+basename: A13886_-_CaM_-_SoftandWebDeve_-_Enterprise_Web_Development
+co-requisites: []
+code: A13886
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Enterprise Web Development
+indicative content:
+- 'Internet and Web: HTTP; Client-server architecture; Session management'
+- 'Design Patterns: Microservices; Publisher-Subscriber; MVC (Model View Controller);
+  ORM (Object Relational Mapping)'
+- 'Web Application frameworks: In-depth case studies'
+- 'Web API Design patterns and principles: REST'
+- Data persistence
+- 'Developer tool suite: Build automation; Test automation; Scaffolding; Version Control'
+learning and teaching methods:
+- Combination of lectures and computer-based practicals.
+- The lectures will cover the theory and supporting technologies behind enterprise
+  web development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure to the frameworks, tools and practical skills required to develop and build
+  enterprise web apps.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the state-of-the-art for enterprise
+  web app development.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 222
+  name: Independent Learning
+  part time: 222
+learning outcomes:
+- Develop a medium-sized Single Page Web App using best practice design principles
+  and patterns
+- Develop a web API using best practice design principles.
+- Setup and integrate suitable workflow automation tools for enterprise web development.
+- Choose particular solutions for non-functional requirements, including session management,
+  client-server communication and security, for a user requirement set.
+- Propose and select open-source platforms and tools for the specification, documentation
+  and testing of application components.
+level: Postgraduate
+pre-requisites: []
+programmes:
+- null
+- null
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Enterprise Web Development
+supplementary material:
+- 'Richardson, L. and M. Amundsen. \emph{RESTful Web APIs}. O''Reilly Media: O''Reilly
+  Media, 2010.'

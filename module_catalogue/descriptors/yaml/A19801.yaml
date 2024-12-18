@@ -1,0 +1,115 @@
+aim: The purpose of this work placement module is to require the student to apply
+  the knowledge, skills and competencies gained through the academic phase of the
+  course through putting them into practice in a relevant workplace environment. It
+  will provide the student with a broader skills-base on the completion of the degree.
+assessment criteria:
+- 'Fail: Candidate has not successfully completed the agreed period of work placement.'
+- 'Pass: Candidate has successfully completed the agreed period of work placement.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3,4
+  main: false
+  name: Employer's Report
+  weighting: 100
+basename: A19801_-_CaM_-_ProfSkil_-_Industrial_Placement_2
+co-requisites: []
+code: A19801
+credits: 10
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Industrial Placement 2
+indicative content:
+- The student is required to actively engage in securing and successfully completing
+  a work placement of an agreed duration, in a work setting approved by WIT.
+- Attendance at presentations on work placement, CV preparation and job interview
+  techniques.
+- At the outset of the Placement, the student will complete a Learning Agreement,
+  using the approved template, in consultation with the Placement Coordinator and
+  the Supervisor. The Learning Agreement details for the student the start and end
+  dates of the placement, the intended learning outcomes, tasks and requirements,
+  etc.
+- Students will be required to meet with their workplace and college mentors to discuss
+  their progress.
+learning and teaching methods:
+- Workshops and pre-placement meetings to help students secure and prepare for work
+  placement, covering areas such as CV preparation and job interview techniques.
+- Review with the work placement co-ordinator and workplace supervisor / mentor.
+- Practical in-placement learning in the workplace, with supervision by a designated
+  mentor in the place of employment.
+- Ongoing support of the work placement co-ordinator.
+learning modes:
+- full time: 12
+  name: Tutorial
+  part time: 12
+- full time: 180
+  name: Placement
+  part time: 180
+- full time: 89
+  name: Independent Learning
+  part time: 89
+learning outcomes:
+- Apply and develop knowledge, skills and competencies to the analysis and solving
+  of workplace problems, thereby integrating relevant practical work experience with
+  academic theory. Where possible, demonstrate new skills and knowledge acquired from
+  engagement with work placement.
+- Communicate effectively in an appropriate and professional manner and have developed
+  appropriate communication and interpersonal skills.
+- Determine and present personal skills and competencies along with strengths and
+  areas for further growth and development. These include communication, problem solving,
+  teamwork, etc.
+- Demonstrate personal autonomy and take responsibility for their own work and behaviour
+  in work
+level: Intermediate
+pre-requisites: []
+programmes:
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 6
+  stage: 3
+  status: E
+  timetable: PLAC-0155
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 5
+  stage: 3
+  status: E
+  timetable: PLAC-0155
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 6
+  stage: 3
+  status: E
+  timetable: PLAC-0155
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 5
+  stage: 3
+  status: E
+  timetable: PLAC-0155
+  title: Bachelor of Science in Information Technology
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 5
+  stage: 3
+  status: E
+  timetable: PLAC-0155
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources: []
+short title: Industrial Placement 2
+supplementary material:
+- 'Herbert, I. and A. Rothwell. \emph{``Managing your placement: a skills-based approach''''}.
+  NY: Palgrave and Macmillan, 2005.'
+- 'Sheridan, I. and M. Linehan. \emph{``Work placement in third-level programmes"}.
+  _: _, 2011.'

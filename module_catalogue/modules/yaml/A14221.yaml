@@ -1,0 +1,29 @@
+author: Liam Doyle
+change: ''
+co-ordinator: ''
+code: A14221
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Business Process Analysis and Design
+programmes:
+- programme: WD_KCESS_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: BUSI-0004
+- programme: WD_KISYP_R
+  semester: 0
+  stage: 1
+  status: E
+  timetable: BUSI-0004
+ref: A14221
+short name: Bus. Proc. Analysis & Design
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+- autumn
+timetable: BUSI-0004
+verified: true

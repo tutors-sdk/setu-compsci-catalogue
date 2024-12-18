@@ -1,0 +1,124 @@
+aim: Introduce the the student to the software development lifecycle via the implementation
+  of a simple but functional web application. In doing this, analyse & model a constrained
+  set of user requirements. Then design, build and deploy a simple web application.
+  Incorporate basic database, session support & server side rendering.
+assessment criteria:
+- '<40%: Unable to interpret, describe or implement key components of a simple web
+  application.'
+- '40%-49%: Be able to construct a minimal web application, incorporating server side
+  rendering.'
+- '50%-59%: Design and implement a web application including basic database and session
+  support.'
+- '60%-69%: All of the above including a simple model of the application structure.'
+- '70%-100%: All the above to an excellent level. Incorporate Unit Tests for a specific
+  subset of an application.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+- learning outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+basename: A13641_-_CaM_-_SoftandWebDeve_-_Web_App_Development_1
+co-requisites: []
+code: A13641
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Web App Development 1
+indicative content:
+- User Stories & Agile context
+- Introduction to Modelling
+- Hypertext Transfer Protocol (HTTP) Request/Response Life Cycle
+- Introductory Web Application Frameworks
+- Simple Object Relational Mapping tools
+- Test Driven Development
+learning and teaching methods:
+- Lectures will introduce the general context of the curriculum, and explore specific
+  topics in depth.
+- Supervised, guided and scripted practicals will lead the student through the construction
+  of selection of small applications, designed to illustrate key concepts covered
+  in the lectures.
+- Each practical will propose a set of exercises -- to be solved in a subsequent practical.
+- Assignment One will focus on the enhancement of the guided application.
+- Assessment Two will invite the student to analyse, design and implement a basic
+  but functional new application.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Identify the key components of a server rendered web application and incorporate
+  them into a running application.
+- Use Model View Controller & related patterns in the implementation of a web project.
+- Relate the request/response lifecycle, routing & session management in the context
+  of a modern application framework.
+- Convert a set of requirements into a set of discrete stories and translate these
+  stories into a simple project plan with associated timeline and testing strategy.
+- Model the user requirements and realize the model in a simple database.
+level: Introductory
+pre-requisites: []
+programmes:
+- null
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KCOFO_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0597
+  title: Bachelor of Science (Honours) in Computer Forensics and Security
+- dirty: true
+  programme: WD_KCOMC_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0597
+  title: Bachelor of Science in Software Systems Development
+- dirty: true
+  programme: WD_KCOMP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0597
+  title: Bachelor of Science (Honours) in Applied Computing
+- null
+- null
+- null
+- dirty: true
+  programme: WD_KINFT_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0597
+  title: Bachelor of Science in Information Technology
+- null
+- dirty: true
+  programme: WD_KMULA_D
+  semester: 4
+  stage: 2
+  status: M
+  timetable: COMP-0597
+  title: Bachelor of Science in Multimedia Applications Development
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Web App Development 1
+supplementary material:
+- 'Henderson, M. \emph{Instant CakePHP Starter}. New York: Packt Publishing, 2013.'
+- 'Richard-Foy, J. \emph{Play Framework Essentials}. New York: Packt Publishing, 2014.'
+- 'Syed, B. \emph{Beginning Node.js}. New York: Apress, 2014.'

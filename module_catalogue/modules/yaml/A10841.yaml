@@ -1,0 +1,48 @@
+author: Kieran Murphy
+change: ''
+co-ordinator: ''
+code: A10841
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Discrete Mathematics
+programmes:
+- programme: WD_KACCM_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MATH-0001
+- programme: WD_KACCM_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MATH-0001
+- programme: WD_KCMSC_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MATH-0001
+- programme: WD_KCOFO_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MATH-0001
+- programme: WD_KCOMP_B
+  semester: 1
+  stage: 1
+  status: M
+  timetable: MATH-0001
+- programme: WD_KINTT_BI
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MATH-0001
+ref: A10841
+short name: Discrete Mathematics
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: MATH-0001
+verified: false

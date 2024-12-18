@@ -1,0 +1,38 @@
+author: Kieran Murphy
+change: ''
+co-ordinator: ''
+code: A10873
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Mathematical Methods
+programmes:
+- programme: WD_KACCM_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MTHS-0039
+- programme: WD_KCMSC_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MTHS-0039
+- programme: WD_KCOFO_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MTHS-0016
+- programme: WD_KCOMP_B
+  semester: 3
+  stage: 2
+  status: M
+  timetable: MTHS-0039
+ref: A10873
+short name: Mathematical Methods
+special regulations: null
+subgroup: Mathematics and Physics
+tags:
+- all
+- autumn
+timetable: MTHS-0039
+verified: false

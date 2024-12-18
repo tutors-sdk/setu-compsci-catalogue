@@ -1,0 +1,33 @@
+author: Mary Fitzgerald
+change: ''
+co-ordinator: ''
+code: A14942
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Introduction to Software Engineering
+programmes:
+- programme: WD_KCOMC_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0601
+- programme: WD_KCOMP_D
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0601
+- programme: WD_KDEVP_B
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0601
+ref: A14942
+short name: Intro to Software Eng
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0601
+verified: false
