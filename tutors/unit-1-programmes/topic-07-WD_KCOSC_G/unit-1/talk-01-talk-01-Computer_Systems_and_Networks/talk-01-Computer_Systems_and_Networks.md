@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: fluent:cellular-data-1-24-regular
   color: 398126
 ---
 Computer Systems and Networks

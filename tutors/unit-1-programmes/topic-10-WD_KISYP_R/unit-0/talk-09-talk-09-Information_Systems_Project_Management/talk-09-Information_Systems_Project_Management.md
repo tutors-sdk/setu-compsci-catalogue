@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: fluent:device-meeting-room-remote-24-regular
   color: 398126
 ---
 Information Systems Project Management

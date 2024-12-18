@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: solar:palette-line-duotone
   color: 398126
 ---
 Business Process Analysis and Design

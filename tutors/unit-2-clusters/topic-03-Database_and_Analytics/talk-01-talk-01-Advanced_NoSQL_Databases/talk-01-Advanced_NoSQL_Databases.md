@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: ph:database-bold
   color: 398126
 ---
 Advanced NoSQL Databases

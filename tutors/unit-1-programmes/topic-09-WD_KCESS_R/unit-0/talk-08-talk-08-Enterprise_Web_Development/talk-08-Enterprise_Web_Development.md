@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: fluent:window-dev-tools-24-regular
   color: 398126
 ---
 Enterprise Web Development

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: fluent:app-store-24-regular
   color: 398126
 ---
 Agile Software Development

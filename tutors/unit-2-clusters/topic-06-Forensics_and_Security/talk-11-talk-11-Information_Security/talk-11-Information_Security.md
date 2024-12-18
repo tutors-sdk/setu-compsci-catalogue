@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: solar:shield-keyhole-minimalistic-line-duotone
   color: 398126
 ---
 Information Security

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: mingcute:code-line
   color: 398126
 ---
 Programming Fundamentals - ICT

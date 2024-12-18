@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: mingcute:computer-line
   color: 398126
 ---
 Design Patterns

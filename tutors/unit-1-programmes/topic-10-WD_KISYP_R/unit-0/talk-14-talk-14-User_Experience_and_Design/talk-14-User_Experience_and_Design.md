@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa:desktop
+  type: solar:palette-line-duotone
   color: 398126
 ---
 User Experience and Design
