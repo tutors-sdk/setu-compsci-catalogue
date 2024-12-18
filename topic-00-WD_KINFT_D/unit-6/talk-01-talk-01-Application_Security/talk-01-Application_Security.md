@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:security
+  color: F44336
 ---
 
 Application Security

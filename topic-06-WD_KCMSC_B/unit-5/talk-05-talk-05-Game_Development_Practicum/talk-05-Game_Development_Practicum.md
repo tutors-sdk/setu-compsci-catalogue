@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:sports-esports
+  color: 7C4DFF
 ---
 
 Game Development Practicum

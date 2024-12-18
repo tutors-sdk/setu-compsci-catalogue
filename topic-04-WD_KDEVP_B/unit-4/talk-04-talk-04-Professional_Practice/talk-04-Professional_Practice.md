@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:chat-bubble-outline
-  color: 4CAF50
+  type: material-symbols:workspace-premium
+  color: 795548
 ---
 
 Professional Practice

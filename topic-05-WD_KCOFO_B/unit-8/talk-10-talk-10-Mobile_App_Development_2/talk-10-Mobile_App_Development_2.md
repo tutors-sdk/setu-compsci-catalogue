@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:apps
+  color: 00BCD4
 ---
 
 Mobile App Development 2

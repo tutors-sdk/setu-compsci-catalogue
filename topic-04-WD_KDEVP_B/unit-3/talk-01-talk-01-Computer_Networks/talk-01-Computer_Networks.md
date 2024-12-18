@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:lan
-  color: 9C27B0
+  color: 673AB7
 ---
 
 Computer Networks

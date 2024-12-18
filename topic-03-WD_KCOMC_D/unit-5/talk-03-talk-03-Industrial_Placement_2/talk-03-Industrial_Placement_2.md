@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:work
-  color: 607D8B
+  type: material-symbols:badge
+  color: 78909C
 ---
 
 Industrial Placement 2

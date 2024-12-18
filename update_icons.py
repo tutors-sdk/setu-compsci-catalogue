@@ -4,64 +4,180 @@ import yaml
 
 # Icon mapping based on keywords in titles
 ICON_MAPPING = {
-    # Core Skills & Communications
-    r'communications?|professional practice|skills': {
+    # Communications & Skills
+    r'communications?': {
         'type': 'material-symbols:chat-bubble-outline',
         'color': '4CAF50'  # Green
     },
-    
-    # Programming & Development
-    r'programming|software|web|development|app': {
-        'type': 'material-symbols:code',
-        'color': '2196F3'  # Blue
-    },
-    
-    # Mathematics & Analytics
-    r'mathematics|statistics|algorithms|functions': {
-        'type': 'material-symbols:functions',
-        'color': 'FF9800'  # Orange
-    },
-    
-    # Systems & Networks
-    r'computer systems|networks?|database': {
-        'type': 'material-symbols:lan',
-        'color': '9C27B0'  # Purple
-    },
-    
-    # Design & UX
-    r'design|ux|user experience|graphic': {
-        'type': 'material-symbols:palette-outline',
-        'color': 'E91E63'  # Pink
-    },
-    
-    # Business & Enterprise
-    r'business|enterprise|entrepreneurship': {
-        'type': 'material-symbols:business-center',
+    r'professional practice': {
+        'type': 'material-symbols:workspace-premium',
         'color': '795548'  # Brown
     },
     
-    # Security & Infrastructure
-    r'security|cloud|infrastructure': {
-        'type': 'material-symbols:security',
-        'color': 'F44336'  # Red
+    # Programming & Development
+    r'programming|software': {
+        'type': 'material-symbols:code',
+        'color': '2196F3'  # Blue
+    },
+    r'web.*development': {
+        'type': 'material-symbols:web',
+        'color': '03A9F4'  # Light Blue
+    },
+    r'app development': {
+        'type': 'material-symbols:apps',
+        'color': '00BCD4'  # Cyan
     },
     
-    # Psychology & Social Sciences
-    r'psychology|social': {
-        'type': 'material-symbols:psychology',
-        'color': '009688'  # Teal
+    # Mathematics & Analytics
+    r'mathematics': {
+        'type': 'material-symbols:functions',
+        'color': 'FF9800'  # Orange
+    },
+    r'statistics': {
+        'type': 'material-symbols:monitoring',
+        'color': 'FF5722'  # Deep Orange
+    },
+    r'algorithms': {
+        'type': 'material-symbols:schema',
+        'color': 'FFC107'  # Amber
     },
     
-    # Languages & International
-    r'french|german|international': {
-        'type': 'material-symbols:translate',
+    # Systems & Networks
+    r'computer systems': {
+        'type': 'material-symbols:computer',
+        'color': '9C27B0'  # Purple
+    },
+    r'networks?': {
+        'type': 'material-symbols:lan',
+        'color': '673AB7'  # Deep Purple
+    },
+    r'database': {
+        'type': 'material-symbols:database',
         'color': '3F51B5'  # Indigo
     },
     
+    # Design & UX
+    r'design': {
+        'type': 'material-symbols:palette-outline',
+        'color': 'E91E63'  # Pink
+    },
+    r'user experience|ux': {
+        'type': 'material-symbols:person-play',
+        'color': 'F06292'  # Light Pink
+    },
+    r'graphic': {
+        'type': 'material-symbols:brush',
+        'color': 'FF4081'  # Pink A200
+    },
+    
+    # Business & Enterprise
+    r'business': {
+        'type': 'material-symbols:business-center',
+        'color': '795548'  # Brown
+    },
+    r'enterprise': {
+        'type': 'material-symbols:corporate-fare',
+        'color': '8D6E63'  # Brown 400
+    },
+    r'entrepreneurship': {
+        'type': 'material-symbols:rocket-launch',
+        'color': '6D4C41'  # Brown 600
+    },
+    
+    # Security & Infrastructure
+    r'security': {
+        'type': 'material-symbols:security',
+        'color': 'F44336'  # Red
+    },
+    r'cloud': {
+        'type': 'material-symbols:cloud',
+        'color': '03A9F4'  # Light Blue
+    },
+    r'infrastructure': {
+        'type': 'material-symbols:dns',
+        'color': 'E57373'  # Red 300
+    },
+    
+    # Psychology & Social Sciences
+    r'psychology': {
+        'type': 'material-symbols:psychology',
+        'color': '009688'  # Teal
+    },
+    r'social': {
+        'type': 'material-symbols:groups',
+        'color': '26A69A'  # Teal 400
+    },
+    
+    # Languages & International
+    r'french': {
+        'type': 'material-symbols:translate',
+        'color': '3F51B5'  # Indigo
+    },
+    r'german': {
+        'type': 'material-symbols:language',
+        'color': '5C6BC0'  # Indigo 400
+    },
+    r'international': {
+        'type': 'material-symbols:public',
+        'color': '7986CB'  # Indigo 300
+    },
+    
     # Project Work & Placement
-    r'project|placement|portfolio': {
+    r'project': {
         'type': 'material-symbols:work',
         'color': '607D8B'  # Blue Grey
+    },
+    r'placement': {
+        'type': 'material-symbols:badge',
+        'color': '78909C'  # Blue Grey 400
+    },
+    r'portfolio': {
+        'type': 'material-symbols:folder-special',
+        'color': '90A4AE'  # Blue Grey 300
+    },
+    
+    # Media & Animation
+    r'animation': {
+        'type': 'material-symbols:animation',
+        'color': 'FF4081'  # Pink A200
+    },
+    r'media': {
+        'type': 'material-symbols:perm-media',
+        'color': 'FF80AB'  # Pink A100
+    },
+    r'video': {
+        'type': 'material-symbols:videocam',
+        'color': 'C2185B'  # Pink 700
+    },
+    r'audio': {
+        'type': 'material-symbols:music-note',
+        'color': 'E91E63'  # Pink
+    },
+    
+    # Operating Systems & Tools
+    r'operating systems': {
+        'type': 'material-symbols:terminal',
+        'color': '424242'  # Grey 800
+    },
+    r'tools': {
+        'type': 'material-symbols:tools',
+        'color': '616161'  # Grey 700
+    },
+    
+    # Game Development
+    r'game': {
+        'type': 'material-symbols:sports-esports',
+        'color': '7C4DFF'  # Deep Purple A200
+    },
+    
+    # Research & Analysis
+    r'research': {
+        'type': 'material-symbols:research',
+        'color': '00BFA5'  # Teal A700
+    },
+    r'analysis': {
+        'type': 'material-symbols:analytics',
+        'color': '1DE9B6'  # Teal A400
     }
 }
 

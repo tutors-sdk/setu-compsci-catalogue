@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: material-symbols:terminal
+  color: 424242
 ---
 
 Operating Systems

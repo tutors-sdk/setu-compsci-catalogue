@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:lan
-  color: 9C27B0
+  type: material-symbols:database
+  color: 3F51B5
 ---
 
 Database Administration

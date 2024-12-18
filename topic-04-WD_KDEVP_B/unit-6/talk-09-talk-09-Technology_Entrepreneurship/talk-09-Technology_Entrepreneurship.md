@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:business-center
-  color: 795548
+  type: material-symbols:rocket-launch
+  color: 6D4C41
 ---
 
 Technology Entrepreneurship

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:work
-  color: 607D8B
+  type: material-symbols:folder-special
+  color: 90A4AE
 ---
 
 Learning Portfolio-Flexible Semester

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: material-symbols:sports-esports
+  color: 7C4DFF
 ---
 
 3D Game Assets

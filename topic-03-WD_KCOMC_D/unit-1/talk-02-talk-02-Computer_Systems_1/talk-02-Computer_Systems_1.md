@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:lan
+  type: material-symbols:computer
   color: 9C27B0
 ---
 

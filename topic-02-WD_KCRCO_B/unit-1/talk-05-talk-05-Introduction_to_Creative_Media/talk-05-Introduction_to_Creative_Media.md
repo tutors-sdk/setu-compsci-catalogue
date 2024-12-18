@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: material-symbols:perm-media
+  color: FF80AB
 ---
 
 Introduction to Creative Media

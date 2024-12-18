@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:functions
-  color: FF9800
+  type: material-symbols:schema
+  color: FFC107
 ---
 
 Data Structures and Algorithms 2

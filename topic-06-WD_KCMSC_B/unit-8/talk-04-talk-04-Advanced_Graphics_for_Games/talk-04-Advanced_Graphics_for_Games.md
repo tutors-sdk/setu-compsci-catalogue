@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:palette-outline
-  color: E91E63
+  type: material-symbols:brush
+  color: FF4081
 ---
 
 Advanced Graphics for Games

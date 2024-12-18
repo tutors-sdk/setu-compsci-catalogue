@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:translate
-  color: 3F51B5
+  type: material-symbols:language
+  color: 5C6BC0
 ---
 
 German Upper Intermediate 2 (B2.1b)

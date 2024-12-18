@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:business-center
-  color: 795548
+  type: material-symbols:corporate-fare
+  color: 8D6E63
 ---
 
 Enterprise Data Exchange and XML

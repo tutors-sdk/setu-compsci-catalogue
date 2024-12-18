@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: material-symbols:animation
+  color: FF4081
 ---
 
 3D Animation Practice

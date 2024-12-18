@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:corporate-fare
+  color: 8D6E63
 ---
 
 Enterprise Applications

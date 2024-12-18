@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:functions
-  color: FF9800
+  type: material-symbols:monitoring
+  color: FF5722
 ---
 
 Further Statistics

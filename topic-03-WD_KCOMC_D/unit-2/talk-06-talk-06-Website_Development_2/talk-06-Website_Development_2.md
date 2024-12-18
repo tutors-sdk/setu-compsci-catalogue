@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:web
+  color: 03A9F4
 ---
 
 Website Development 2

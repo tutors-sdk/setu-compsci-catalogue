@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:code
-  color: 2196F3
+  type: material-symbols:work
+  color: 607D8B
 ---
 
 Project 1 (Development)

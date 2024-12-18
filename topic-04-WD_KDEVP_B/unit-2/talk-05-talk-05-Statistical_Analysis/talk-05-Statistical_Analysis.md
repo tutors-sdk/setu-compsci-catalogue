@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: material-symbols:analytics
+  color: 1DE9B6
 ---
 
 Statistical Analysis
