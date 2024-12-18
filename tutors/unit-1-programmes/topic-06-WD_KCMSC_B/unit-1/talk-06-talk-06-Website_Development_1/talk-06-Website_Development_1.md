@@ -1,7 +1,7 @@
 ---
 icon:
-  type: lucide:globe
-  color: 00BCD4
+  type: carbon:application-web
+  color: 1B5E20
 ---
 Website Development 1
 

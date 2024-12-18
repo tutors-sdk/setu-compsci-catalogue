@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:task-complete
-  color: 689F38
+  type: carbon:education
+  color: 78909C
 ---
 IT Operations Management
 

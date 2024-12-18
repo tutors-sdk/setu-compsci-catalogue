@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:ai-status
-  color: D81B60
+  type: carbon:education
+  color: 78909C
 ---
 Integrated Marketing
 

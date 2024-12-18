@@ -1,7 +1,7 @@
 ---
 icon:
-  type: iconoir:network-alt
-  color: E64A19
+  type: carbon:cloud-foundry
+  color: 0277BD
 ---
 Networks Infrastructure
 

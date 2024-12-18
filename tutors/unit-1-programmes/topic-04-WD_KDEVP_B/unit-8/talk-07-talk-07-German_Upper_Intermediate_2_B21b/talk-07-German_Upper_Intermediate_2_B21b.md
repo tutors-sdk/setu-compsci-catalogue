@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 00897B
+  type: carbon:education
+  color: 78909C
 ---
 German Upper Intermediate 2 (B2.1b)
 

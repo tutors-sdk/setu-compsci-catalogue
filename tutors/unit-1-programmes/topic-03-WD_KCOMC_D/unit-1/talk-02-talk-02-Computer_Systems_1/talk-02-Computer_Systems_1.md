@@ -1,6 +1,6 @@
 ---
 icon:
-  type: streamline:computer-chip-1
+  type: carbon:bare-metal-server
   color: FF5722
 ---
 Computer Systems 1

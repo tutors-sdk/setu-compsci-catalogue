@@ -1,7 +1,7 @@
 ---
 icon:
-  type: lucide:globe
-  color: 00BCD4
+  type: carbon:education
+  color: 78909C
 ---
 Web App Development 1
 

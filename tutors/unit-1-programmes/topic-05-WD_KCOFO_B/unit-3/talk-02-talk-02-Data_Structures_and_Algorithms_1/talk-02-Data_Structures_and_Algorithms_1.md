@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 673AB7
+  type: carbon:flow
+  color: 3E2723
 ---
 Data Structures and Algorithms 1
 

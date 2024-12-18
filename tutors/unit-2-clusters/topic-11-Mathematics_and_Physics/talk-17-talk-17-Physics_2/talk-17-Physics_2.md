@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:flow-modeler
-  color: 37474F
+  type: carbon:education
+  color: 78909C
 ---
 Physics 2
 

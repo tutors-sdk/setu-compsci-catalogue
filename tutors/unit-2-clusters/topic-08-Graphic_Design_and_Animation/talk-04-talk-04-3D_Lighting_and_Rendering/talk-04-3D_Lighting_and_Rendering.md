@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:checkmark-outline
-  color: 33691E
+  type: carbon:education
+  color: 78909C
 ---
 3D Lighting and Rendering
 

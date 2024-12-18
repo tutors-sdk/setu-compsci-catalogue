@@ -1,7 +1,7 @@
 ---
 icon:
-  type: vscode-icons:file-type-js-official
-  color: 4CAF50
+  type: carbon:education
+  color: 78909C
 ---
 Secure Programming and Scripting
 

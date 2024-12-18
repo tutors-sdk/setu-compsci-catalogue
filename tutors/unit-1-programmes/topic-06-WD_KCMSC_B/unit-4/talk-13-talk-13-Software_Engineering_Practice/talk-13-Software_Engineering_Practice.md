@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:education
+  color: 78909C
 ---
 Software Engineering Practice
 

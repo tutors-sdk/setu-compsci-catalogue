@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:paint-brush-bold
-  color: FF9800
+  type: carbon:user-interface
+  color: FB8C00
 ---
 User Experience Design
 

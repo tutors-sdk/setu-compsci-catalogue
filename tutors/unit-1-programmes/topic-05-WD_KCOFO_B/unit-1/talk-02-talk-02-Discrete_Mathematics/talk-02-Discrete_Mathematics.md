@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:function-bold
-  color: 795548
+  type: carbon:chart-combo
+  color: 3E2723
 ---
 Discrete Mathematics
 

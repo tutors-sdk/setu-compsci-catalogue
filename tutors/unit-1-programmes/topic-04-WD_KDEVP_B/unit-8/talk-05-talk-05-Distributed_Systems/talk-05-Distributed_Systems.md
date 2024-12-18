@@ -1,7 +1,7 @@
 ---
 icon:
-  type: streamline:cloud-sync
-  color: 03A9F4
+  type: carbon:education
+  color: 78909C
 ---
 Distributed Systems
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:user-gear-duotone
-  color: 1976D2
+  type: carbon:education
+  color: 78909C
 ---
 Professional Certification 2
 

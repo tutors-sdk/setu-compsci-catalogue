@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:database
-  color: 9C27B0
+  type: carbon:task-complete
+  color: 7CB342
 ---
 Database Systems
 

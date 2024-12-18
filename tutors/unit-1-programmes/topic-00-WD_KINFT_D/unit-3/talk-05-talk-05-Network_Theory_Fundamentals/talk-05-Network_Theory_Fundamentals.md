@@ -1,7 +1,7 @@
 ---
 icon:
-  type: iconoir:network-alt
-  color: E64A19
+  type: carbon:test
+  color: 9E9E9E
 ---
 Network Theory Fundamentals
 

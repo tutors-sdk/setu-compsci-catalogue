@@ -1,7 +1,7 @@
 ---
 icon:
-  type: iconoir:network-alt
-  color: E64A19
+  type: carbon:security-compliance
+  color: D32F2F
 ---
 Network and System Security
 

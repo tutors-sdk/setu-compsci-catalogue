@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:game-console
-  color: 6A1B9A
+  type: carbon:education
+  color: 78909C
 ---
 Introduction to C++ for Games
 

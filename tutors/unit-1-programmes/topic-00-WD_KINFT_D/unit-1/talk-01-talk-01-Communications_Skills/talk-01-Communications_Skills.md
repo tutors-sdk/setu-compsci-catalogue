@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fluent:chat-24-regular
+  type: carbon:chat
   color: 2196F3
 ---
 Communications Skills

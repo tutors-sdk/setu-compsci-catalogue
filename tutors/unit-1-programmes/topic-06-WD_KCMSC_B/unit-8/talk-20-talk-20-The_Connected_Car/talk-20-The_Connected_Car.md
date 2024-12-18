@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cloud-satellite-config
-  color: D32F2F
+  type: carbon:education
+  color: 78909C
 ---
 The Connected Car
 

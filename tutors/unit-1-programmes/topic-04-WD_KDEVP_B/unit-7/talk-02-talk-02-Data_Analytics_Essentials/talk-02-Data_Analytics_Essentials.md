@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 673AB7
+  type: carbon:data-enrichment
+  color: 311B92
 ---
 Data Analytics Essentials
 

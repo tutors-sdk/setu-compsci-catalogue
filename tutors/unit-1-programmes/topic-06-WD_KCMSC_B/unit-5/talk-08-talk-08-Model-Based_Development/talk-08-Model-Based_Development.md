@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: carbon:education
+  color: 78909C
 ---
 Model-Based Development
 

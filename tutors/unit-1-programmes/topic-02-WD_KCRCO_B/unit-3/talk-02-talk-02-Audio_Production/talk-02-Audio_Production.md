@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:code
-  color: 26A69A
+  type: carbon:education
+  color: 78909C
 ---
 Audio Production
 

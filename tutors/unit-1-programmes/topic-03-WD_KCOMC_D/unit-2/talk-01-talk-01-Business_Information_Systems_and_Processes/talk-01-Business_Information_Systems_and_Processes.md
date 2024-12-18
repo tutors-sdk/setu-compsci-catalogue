@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:information
-  color: 5C6BC0
+  type: carbon:analytics
+  color: 1565C0
 ---
 Business Information Systems and Processes
 

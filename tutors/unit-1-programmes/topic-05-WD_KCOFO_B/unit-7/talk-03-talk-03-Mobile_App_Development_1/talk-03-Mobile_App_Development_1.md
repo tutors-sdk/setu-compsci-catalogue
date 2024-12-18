@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: logos:android
+  color: 7B1FA2
 ---
 Mobile App Development 1
 

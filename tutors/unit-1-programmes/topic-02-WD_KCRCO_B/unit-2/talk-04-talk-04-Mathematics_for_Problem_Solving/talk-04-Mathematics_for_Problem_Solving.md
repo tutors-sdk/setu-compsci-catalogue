@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:function-bold
-  color: 795548
+  type: carbon:education
+  color: 78909C
 ---
 Mathematics for Problem Solving
 

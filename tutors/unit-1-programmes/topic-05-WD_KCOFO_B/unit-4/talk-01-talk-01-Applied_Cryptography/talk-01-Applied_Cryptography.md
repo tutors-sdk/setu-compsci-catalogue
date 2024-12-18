@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:security
-  color: F44336
+  type: carbon:education
+  color: 78909C
 ---
 Applied Cryptography
 

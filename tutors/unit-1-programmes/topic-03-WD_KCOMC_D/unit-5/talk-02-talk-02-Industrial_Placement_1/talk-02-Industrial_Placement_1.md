@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:screen
-  color: FFB74D
+  type: carbon:skill-level
+  color: 01579B
 ---
 Industrial Placement 1
 

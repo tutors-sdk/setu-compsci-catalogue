@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:paint-brush-bold
-  color: FF9800
+  type: carbon:game-console
+  color: 311B92
 ---
 Introduction to Game Design
 

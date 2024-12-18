@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: logos:nodejs
+  color: 4CAF50
 ---
 Internet of Things Applications
 

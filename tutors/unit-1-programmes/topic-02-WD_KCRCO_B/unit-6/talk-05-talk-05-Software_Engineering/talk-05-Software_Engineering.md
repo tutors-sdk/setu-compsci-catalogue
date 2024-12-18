@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:chemistry
+  color: 004D40
 ---
 Software Engineering
 

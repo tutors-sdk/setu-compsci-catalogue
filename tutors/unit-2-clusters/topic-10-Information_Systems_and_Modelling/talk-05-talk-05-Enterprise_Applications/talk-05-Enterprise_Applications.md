@@ -1,7 +1,7 @@
 ---
 icon:
-  type: clarity:building-line
-  color: 1565C0
+  type: carbon:enterprise
+  color: 0D47A1
 ---
 Enterprise Applications
 

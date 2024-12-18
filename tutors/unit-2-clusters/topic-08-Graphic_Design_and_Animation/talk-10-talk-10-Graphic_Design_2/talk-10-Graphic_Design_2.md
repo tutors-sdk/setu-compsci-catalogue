@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:paint-brush-bold
-  color: FF9800
+  type: carbon:education
+  color: 78909C
 ---
 Graphic Design 2
 

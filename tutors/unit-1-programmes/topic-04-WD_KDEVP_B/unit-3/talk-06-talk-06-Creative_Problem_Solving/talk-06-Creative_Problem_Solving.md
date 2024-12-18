@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:ai-status
-  color: D81B60
+  type: carbon:research
+  color: 00ACC1
 ---
 Creative Problem Solving
 

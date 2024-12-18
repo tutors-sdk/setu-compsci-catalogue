@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:machine-learning
-  color: E91E63
+  type: carbon:education
+  color: 78909C
 ---
 Artificial Intelligence for Games
 

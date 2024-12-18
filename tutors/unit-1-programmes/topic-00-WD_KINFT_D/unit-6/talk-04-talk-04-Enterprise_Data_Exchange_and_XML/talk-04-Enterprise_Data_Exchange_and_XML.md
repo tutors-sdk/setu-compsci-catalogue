@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 673AB7
+  type: carbon:industry
+  color: 0D47A1
 ---
 Enterprise Data Exchange and XML
 

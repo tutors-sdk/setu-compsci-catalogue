@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:database
-  color: 9C27B0
+  type: vscode-icons:file-type-sql
+  color: 8E24AA
 ---
 NoSQL Databases
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:laptop
-  color: C62828
+  type: carbon:education
+  color: 78909C
 ---
 Embedded Systems Scripting
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: vscode-icons:file-type-js-official
-  color: 4CAF50
+  type: logos:python
+  color: 388E3C
 ---
 Programming Concepts
 

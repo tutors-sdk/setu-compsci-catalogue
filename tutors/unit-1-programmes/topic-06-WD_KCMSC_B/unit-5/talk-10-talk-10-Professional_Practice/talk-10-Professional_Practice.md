@@ -1,6 +1,6 @@
 ---
 icon:
-  type: ph:user-gear-duotone
+  type: carbon:user-profile
   color: 1976D2
 ---
 Professional Practice

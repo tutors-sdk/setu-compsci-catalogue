@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:chip
+  color: 5E35B1
 ---
 Embedded Systems
 

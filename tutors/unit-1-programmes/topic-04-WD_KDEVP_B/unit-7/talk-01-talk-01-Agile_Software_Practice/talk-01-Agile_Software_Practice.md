@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:scrum-board
+  color: 689F38
 ---
 Agile Software Practice
 

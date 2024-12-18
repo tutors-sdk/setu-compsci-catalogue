@@ -1,6 +1,6 @@
 ---
 icon:
-  type: streamline:cloud-sync
+  type: carbon:cloud-satellite
   color: 03A9F4
 ---
 Introduction to Cloud Computing

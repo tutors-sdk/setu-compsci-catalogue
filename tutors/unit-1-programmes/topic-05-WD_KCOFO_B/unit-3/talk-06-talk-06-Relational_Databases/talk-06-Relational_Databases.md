@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:database
-  color: 9C27B0
+  type: carbon:education
+  color: 78909C
 ---
 Relational Databases
 

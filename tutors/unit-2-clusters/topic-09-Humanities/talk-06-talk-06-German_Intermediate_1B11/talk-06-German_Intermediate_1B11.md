@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 00897B
+  type: logos:react
+  color: 03A9F4
 ---
 German Intermediate 1(B1.1)
 

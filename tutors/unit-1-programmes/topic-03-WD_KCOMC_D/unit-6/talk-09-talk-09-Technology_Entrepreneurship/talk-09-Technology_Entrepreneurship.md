@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:chart-candlestick
-  color: 3F51B5
+  type: carbon:education
+  color: 78909C
 ---
 Technology Entrepreneurship
 

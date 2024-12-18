@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:task
-  color: 8BC34A
+  type: carbon:search
+  color: 006064
 ---
 Project 1 (Research)
 

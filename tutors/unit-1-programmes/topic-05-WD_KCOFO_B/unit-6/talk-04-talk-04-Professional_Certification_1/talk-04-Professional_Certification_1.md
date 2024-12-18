@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:user-gear-duotone
-  color: 1976D2
+  type: carbon:study
+  color: 00838F
 ---
 Professional Certification 1
 

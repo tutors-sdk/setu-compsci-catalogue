@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: carbon:delivery
+  color: 1B5E20
 ---
 3D Animation Practice
 

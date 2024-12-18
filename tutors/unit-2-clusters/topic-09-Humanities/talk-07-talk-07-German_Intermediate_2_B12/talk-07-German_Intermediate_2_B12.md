@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 00897B
+  type: carbon:education
+  color: 78909C
 ---
 German Intermediate 2 (B1.2)
 

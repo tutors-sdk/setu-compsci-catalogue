@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fluent:chat-24-regular
-  color: 2196F3
+  type: carbon:education
+  color: 78909C
 ---
 Professional Communications
 

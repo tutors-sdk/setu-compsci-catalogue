@@ -1,7 +1,7 @@
 ---
 icon:
-  type: vscode-icons:file-type-js-official
-  color: 4CAF50
+  type: carbon:iot-platform
+  color: 673AB7
 ---
 Internet of Things Standards and Protocols
 

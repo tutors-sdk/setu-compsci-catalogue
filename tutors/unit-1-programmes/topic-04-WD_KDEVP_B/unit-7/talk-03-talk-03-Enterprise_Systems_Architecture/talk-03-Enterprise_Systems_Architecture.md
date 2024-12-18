@@ -1,7 +1,7 @@
 ---
 icon:
-  type: clarity:building-line
-  color: 1565C0
+  type: carbon:education
+  color: 78909C
 ---
 Enterprise Systems Architecture
 

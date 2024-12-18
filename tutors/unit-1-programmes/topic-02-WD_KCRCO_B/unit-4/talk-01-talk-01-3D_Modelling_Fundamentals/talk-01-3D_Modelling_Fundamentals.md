@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:screen
-  color: FFB74D
+  type: carbon:education
+  color: 78909C
 ---
 3D Modelling Fundamentals
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: iconoir:network-alt
-  color: E64A19
+  type: carbon:education
+  color: 78909C
 ---
 Industrial Automation Systems
 

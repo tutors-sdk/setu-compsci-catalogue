@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:machine-learning
+  type: carbon:machine-learning-model
   color: E91E63
 ---
 Artificial Intelligence

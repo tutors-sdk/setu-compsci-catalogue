@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:game-console
-  color: 6A1B9A
+  type: carbon:3d-cursor
+  color: 1A237E
 ---
 3D Game Assets
 

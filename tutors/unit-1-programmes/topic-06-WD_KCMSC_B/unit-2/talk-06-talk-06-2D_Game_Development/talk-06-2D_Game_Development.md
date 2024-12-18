@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: carbon:game-wireless
+  color: 4527A0
 ---
 2D Game Development
 

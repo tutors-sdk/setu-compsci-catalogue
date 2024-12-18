@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:user-avatar
+  color: FF5722
 ---
 Formal Specification
 

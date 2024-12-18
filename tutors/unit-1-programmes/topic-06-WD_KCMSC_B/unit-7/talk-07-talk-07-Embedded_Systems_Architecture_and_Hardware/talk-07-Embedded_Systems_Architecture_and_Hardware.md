@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: carbon:hardware
+  color: 512DA8
 ---
 Embedded Systems Architecture & Hardware
 

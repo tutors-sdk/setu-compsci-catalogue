@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:flow-stream
-  color: 558B2F
+  type: carbon:education
+  color: 78909C
 ---
 Criminal Evidence
 

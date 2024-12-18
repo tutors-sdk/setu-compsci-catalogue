@@ -1,7 +1,7 @@
 ---
 icon:
-  type: streamline:computer-chip-1
-  color: FF5722
+  type: carbon:virtual-machine
+  color: F4511E
 ---
 Computer Systems 2
 

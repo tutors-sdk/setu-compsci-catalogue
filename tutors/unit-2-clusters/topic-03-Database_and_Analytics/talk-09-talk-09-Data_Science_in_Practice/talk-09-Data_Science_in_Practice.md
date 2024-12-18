@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 673AB7
+  type: carbon:data-structured
+  color: 4527A0
 ---
 Data Science in Practice
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:information
-  color: 5C6BC0
+  type: carbon:education
+  color: 78909C
 ---
 Digital Transformation of Information Systems
 

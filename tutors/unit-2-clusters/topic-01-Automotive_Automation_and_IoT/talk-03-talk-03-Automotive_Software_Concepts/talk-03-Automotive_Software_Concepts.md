@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:application
-  color: 388E3C
+  type: carbon:microservices
+  color: 1A237E
 ---
 Automotive Software Concepts
 

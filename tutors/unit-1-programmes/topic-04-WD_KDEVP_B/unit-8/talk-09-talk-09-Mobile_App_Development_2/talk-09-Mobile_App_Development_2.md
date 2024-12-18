@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: carbon:sensor
+  color: 311B92
 ---
 Mobile App Development 2
 

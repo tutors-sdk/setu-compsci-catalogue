@@ -1,6 +1,6 @@
 ---
 icon:
-  type: iconoir:network-alt
+  type: carbon:network-enterprise
   color: E64A19
 ---
 Computer Networks

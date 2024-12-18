@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-vis-4
-  color: 673AB7
+  type: carbon:education
+  color: 78909C
 ---
 Data Mining 1
 

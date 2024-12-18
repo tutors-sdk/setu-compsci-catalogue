@@ -1,7 +1,7 @@
 ---
 icon:
-  type: vscode-icons:file-type-js-official
-  color: 4CAF50
+  type: carbon:debug
+  color: 616161
 ---
 Embedded Firmware
 

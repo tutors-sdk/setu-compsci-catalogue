@@ -1,7 +1,7 @@
 ---
 icon:
-  type: lucide:globe
-  color: 00BCD4
+  type: logos:css-3
+  color: 2196F3
 ---
 Web Design and Development
 

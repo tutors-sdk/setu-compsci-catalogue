@@ -1,7 +1,7 @@
 ---
 icon:
-  type: streamline:computer-chip-1
-  color: FF5722
+  type: carbon:education
+  color: 78909C
 ---
 Automotive Diagnostic Protocols
 

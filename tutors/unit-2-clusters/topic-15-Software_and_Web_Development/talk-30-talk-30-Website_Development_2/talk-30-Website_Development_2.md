@@ -1,7 +1,7 @@
 ---
 icon:
-  type: lucide:globe
-  color: 00BCD4
+  type: logos:html-5
+  color: FF5722
 ---
 Website Development 2
 
