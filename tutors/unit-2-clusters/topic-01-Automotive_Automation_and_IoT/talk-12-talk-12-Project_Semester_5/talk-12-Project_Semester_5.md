@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: ph:assembly-bold
+  color: 78909C
 ---
 Project Semester 5
 

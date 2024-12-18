@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:book
-  color: 607D8B
+  type: ph:graduation-cap-bold
+  color: 78909C
 ---
 Advanced 3D Game Development
 

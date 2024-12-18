@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:database
+  type: ph:database-bold
   color: 26A69A
 ---
 Database Fundamentals

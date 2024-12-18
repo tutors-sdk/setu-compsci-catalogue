@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:flow
+  type: ri:flow-chart
   color: 9575CD
 ---
 Data Structures and Algorithms 1

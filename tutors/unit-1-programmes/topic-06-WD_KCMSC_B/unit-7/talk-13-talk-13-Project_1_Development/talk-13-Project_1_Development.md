@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:application-web
+  type: mdi:application-web
   color: 7E57C2
 ---
 Project 1 (Development)

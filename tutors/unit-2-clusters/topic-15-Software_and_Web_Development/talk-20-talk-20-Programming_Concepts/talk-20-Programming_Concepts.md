@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:ai-status
+  type: ri:robot-2-fill
   color: 7986CB
 ---
 Programming Concepts

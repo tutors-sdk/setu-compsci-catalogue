@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:book
+  type: ph:book-bold
   color: 607D8B
 ---
 Database Systems

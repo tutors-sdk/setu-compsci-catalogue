@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: ph:learning-bold
+  color: 37474F
 ---
 The Connected Car
 

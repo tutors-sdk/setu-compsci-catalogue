@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:chemistry
+  type: mdi:flask
   color: 84FFFF
 ---
 Software Engineering

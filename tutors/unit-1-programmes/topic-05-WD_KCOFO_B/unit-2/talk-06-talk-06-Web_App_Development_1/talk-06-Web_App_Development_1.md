@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:bare-metal-server
+  type: mdi:server
   color: EC407A
 ---
 Web App Development 1

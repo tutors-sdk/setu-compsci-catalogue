@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:presentation-file
+  type: ph:presentation-file-bold
   color: 37474F
 ---
 Advanced Graphic Design

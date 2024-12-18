@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:data-base
+  type: ph:data-base-bold
   color: 37474F
 ---
 3D Lighting and Rendering

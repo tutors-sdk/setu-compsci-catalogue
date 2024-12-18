@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:assembly-cluster
+  type: ph:assembly-cluster-bold
   color: 263238
 ---
 German Upper Intermediate 1( B2.1a)

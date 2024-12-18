@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:catalog
+  type: ph:catalog-bold
   color: 607D8B
 ---
 Website Development 2

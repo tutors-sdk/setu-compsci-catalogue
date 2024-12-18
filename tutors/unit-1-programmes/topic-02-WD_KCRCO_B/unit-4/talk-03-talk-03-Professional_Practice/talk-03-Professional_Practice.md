@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:user-profile
+  type: ph:user-gear-bold
   color: FF9800
 ---
 Professional Practice

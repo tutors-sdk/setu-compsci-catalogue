@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:cognitive
+  type: ph:cognitive-bold
   color: 37474F
 ---
 Relational Databases

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:debug
+  type: mdi:bug
   color: FFA726
 ---
 Embedded Firmware

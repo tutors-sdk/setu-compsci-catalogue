@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:analytics
+  type: mdi:briefcase
   color: FB8C00
 ---
 Business Intelligence and Data Warehousing

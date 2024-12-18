@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:chart-histogram
+  type: mdi:chart-histogram
   color: 81C784
 ---
 Further Statistics

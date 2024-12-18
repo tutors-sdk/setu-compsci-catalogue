@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:api
+  type: mdi:api
   color: 7E57C2
 ---
 Web App Development 2

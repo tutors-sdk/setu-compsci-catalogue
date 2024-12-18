@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:course
+  type: ph:course-bold
   color: 546E7A
 ---
 German Intermediate 1(B1.1)

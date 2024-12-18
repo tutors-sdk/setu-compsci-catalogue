@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:study-next
-  color: 455A64
+  type: ph:course-bold
+  color: 546E7A
 ---
 Automotive Diagnostic Protocols
 

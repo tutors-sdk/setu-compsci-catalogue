@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:presentation-file
-  color: 37474F
+  type: ph:portfolio-bold
+  color: 455A64
 ---
 Advanced Driver Assistance Systems
 

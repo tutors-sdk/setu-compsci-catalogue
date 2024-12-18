@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:learning
+  type: ph:learning-bold
   color: 37474F
 ---
 Developmental Psychology

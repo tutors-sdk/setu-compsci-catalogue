@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:lecture
-  color: 263238
+  type: ph:presentation-file-bold
+  color: 37474F
 ---
 Automotive Software Development
 

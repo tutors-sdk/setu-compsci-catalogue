@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:group-presentation
+  type: ph:group-presentation-bold
   color: 78909C
 ---
 French Upper Intermediate 2 (B2.1b)

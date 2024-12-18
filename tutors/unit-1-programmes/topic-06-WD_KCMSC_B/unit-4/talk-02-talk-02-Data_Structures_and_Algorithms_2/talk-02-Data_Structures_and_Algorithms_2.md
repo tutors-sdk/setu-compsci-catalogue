@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:data-structured
+  type: mdi:file-tree
   color: 4DB6AC
 ---
 Data Structures and Algorithms 2

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:industry
+  type: mdi:factory
   color: EF6C00
 ---
 Web Design and Development

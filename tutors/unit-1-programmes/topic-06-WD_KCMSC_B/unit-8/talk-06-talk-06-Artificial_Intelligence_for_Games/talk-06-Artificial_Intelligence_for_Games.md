@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:course
-  color: 546E7A
+  type: ph:book-bold
+  color: 607D8B
 ---
 Artificial Intelligence for Games
 

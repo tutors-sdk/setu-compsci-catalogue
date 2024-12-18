@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:report
-  color: 455A64
+  type: ph:skill-level-advanced-bold
+  color: 546E7A
 ---
 Project Semester 4
 

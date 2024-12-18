@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:network
+  type: mdi:network
   color: FF7043
 ---
 Computer Networks

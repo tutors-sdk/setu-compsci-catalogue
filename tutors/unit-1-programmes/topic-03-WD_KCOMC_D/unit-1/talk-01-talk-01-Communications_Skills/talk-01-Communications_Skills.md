@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level
+  type: ph:star-bold
   color: E65100
 ---
 Communications Skills

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:workspace
+  type: ph:workspace-bold
   color: 546E7A
 ---
 3D Modelling Fundamentals

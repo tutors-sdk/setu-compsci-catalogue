@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: ph:data-base-bold
+  color: 37474F
 ---
 Introduction to C++ for Games
 

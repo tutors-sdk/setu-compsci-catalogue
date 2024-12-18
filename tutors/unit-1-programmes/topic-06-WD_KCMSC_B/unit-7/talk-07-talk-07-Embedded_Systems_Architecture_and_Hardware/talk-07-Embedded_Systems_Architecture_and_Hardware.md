@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:hardware
+  type: ph:cpu-bold
   color: F06292
 ---
 Embedded Systems Architecture & Hardware

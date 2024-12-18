@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:microservices
+  type: mdi:circuit-board
   color: 7E57C2
 ---
 Automotive Software Concepts

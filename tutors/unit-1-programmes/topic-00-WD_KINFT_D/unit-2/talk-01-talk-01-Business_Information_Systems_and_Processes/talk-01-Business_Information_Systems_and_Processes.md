@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:task-complete
+  type: ph:kanban-bold
   color: FFA726
 ---
 Business Information Systems and Processes

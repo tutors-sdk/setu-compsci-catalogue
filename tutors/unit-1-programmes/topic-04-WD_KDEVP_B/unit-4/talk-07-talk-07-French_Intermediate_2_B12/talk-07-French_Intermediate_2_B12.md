@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:notebook
+  type: ph:notebook-bold
   color: 263238
 ---
 French Intermediate 2 (B1.2)

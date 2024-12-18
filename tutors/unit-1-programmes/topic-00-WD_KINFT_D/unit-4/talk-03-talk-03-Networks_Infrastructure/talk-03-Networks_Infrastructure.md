@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:network-4
+  type: mdi:lan
   color: 81D4FA
 ---
 Networks Infrastructure

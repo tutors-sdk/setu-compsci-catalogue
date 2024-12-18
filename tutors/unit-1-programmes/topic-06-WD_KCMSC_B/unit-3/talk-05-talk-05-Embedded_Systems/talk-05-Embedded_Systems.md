@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:notebook
-  color: 263238
+  type: ph:microchip-bold
+  color: 9575CD
 ---
 Embedded Systems
 

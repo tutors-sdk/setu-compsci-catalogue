@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:document
-  color: 78909C
+  type: ph:notebook-bold
+  color: 263238
 ---
 Introduction to Game Design
 

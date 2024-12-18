@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:system
+  type: mdi:desktop-tower-monitor
   color: BA68C8
 ---
 Computer Systems 1

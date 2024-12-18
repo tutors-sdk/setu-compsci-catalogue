@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:study-next
+  type: ph:study-next-bold
   color: 455A64
 ---
 Introduction to Psychology

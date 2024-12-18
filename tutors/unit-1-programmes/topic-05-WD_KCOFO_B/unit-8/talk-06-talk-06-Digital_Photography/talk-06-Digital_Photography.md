@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:forum
+  type: ph:forum-bold
   color: 607D8B
 ---
 Digital Photography

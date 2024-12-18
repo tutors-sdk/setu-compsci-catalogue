@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-basic
+  type: ph:skill-level-basic-bold
   color: 78909C
 ---
 Digital Graphic Design

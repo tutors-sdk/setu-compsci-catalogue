@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:delivery
+  type: mdi:delivery
   color: 673AB7
 ---
 3D Animation and Transmedia

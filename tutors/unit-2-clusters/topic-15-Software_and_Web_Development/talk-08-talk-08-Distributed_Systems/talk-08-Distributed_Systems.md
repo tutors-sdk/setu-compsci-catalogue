@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:lecture
+  type: ph:lecture-bold
   color: 263238
 ---
 Distributed Systems

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:certificate
-  color: 546E7A
+  type: ph:template-bold
+  color: 607D8B
 ---
 Wireless Communications
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:code
+  type: ph:code-bold
   color: 9575CD
 ---
 Programming Fundamentals 1

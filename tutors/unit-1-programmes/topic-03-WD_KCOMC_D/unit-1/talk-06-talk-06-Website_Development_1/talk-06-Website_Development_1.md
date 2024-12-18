@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:web-services
+  type: mdi:web
   color: 42A5F5
 ---
 Website Development 1

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: ph:forum-bold
+  color: 607D8B
 ---
 Mobile Game Development
 

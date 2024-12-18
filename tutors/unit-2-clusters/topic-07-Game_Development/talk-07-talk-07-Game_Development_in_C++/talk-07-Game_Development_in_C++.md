@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:group-presentation
-  color: 78909C
+  type: ph:lecture-bold
+  color: 263238
 ---
 Game Development in C++
 

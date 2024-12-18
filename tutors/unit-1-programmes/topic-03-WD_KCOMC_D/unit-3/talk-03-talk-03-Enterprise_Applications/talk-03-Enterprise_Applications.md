@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:enterprise
+  type: mdi:office-building
   color: F57C00
 ---
 Enterprise Applications

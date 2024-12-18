@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:infrastructure
+  type: mdi:layers
   color: 8D6E63
 ---
 Enterprise Data Exchange and XML

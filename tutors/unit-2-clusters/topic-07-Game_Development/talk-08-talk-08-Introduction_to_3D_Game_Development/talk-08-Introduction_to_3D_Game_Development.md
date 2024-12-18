@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: ph:skill-level-basic-bold
+  color: 78909C
 ---
 Introduction to 3D Game Development
 

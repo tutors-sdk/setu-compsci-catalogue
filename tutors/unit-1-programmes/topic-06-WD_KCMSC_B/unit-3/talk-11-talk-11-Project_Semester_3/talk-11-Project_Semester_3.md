@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: ph:workspace-bold
+  color: 546E7A
 ---
 Project Semester 3
 

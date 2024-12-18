@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:portfolio
-  color: 455A64
+  type: ph:certificate-bold
+  color: 546E7A
 ---
 Start-up Lab
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
+  type: ph:skill-level-intermediate-bold
   color: 607D8B
 ---
 Project Management

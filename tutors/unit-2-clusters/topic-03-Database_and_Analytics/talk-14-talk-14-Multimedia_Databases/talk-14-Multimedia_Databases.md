@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:portfolio
+  type: ph:portfolio-bold
   color: 455A64
 ---
 Multimedia Databases

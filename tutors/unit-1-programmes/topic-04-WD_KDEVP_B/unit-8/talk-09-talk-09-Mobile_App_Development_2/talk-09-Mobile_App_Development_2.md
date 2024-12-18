@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:sensor
+  type: mdi:access-point
   color: 4DB6AC
 ---
 Mobile App Development 2

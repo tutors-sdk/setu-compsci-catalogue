@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:virtual-machine
+  type: mdi:virtual-machine
   color: 03A9F4
 ---
 Computer Systems 2

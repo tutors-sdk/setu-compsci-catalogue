@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:analytics-reference
+  type: mdi:chart-scatter-plot
   color: B2EBF2
 ---
 Statistical Analysis

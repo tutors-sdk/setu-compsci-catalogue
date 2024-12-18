@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:computer
+  type: mdi:desktop-classic
   color: 1E88E5
 ---
 Introduction to Computer Security

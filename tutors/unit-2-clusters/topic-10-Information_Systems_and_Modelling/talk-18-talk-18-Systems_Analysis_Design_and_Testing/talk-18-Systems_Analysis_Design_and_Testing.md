@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:test
+  type: mdi:test-tube
   color: 66BB6A
 ---
 Systems Analysis, Design and Testing

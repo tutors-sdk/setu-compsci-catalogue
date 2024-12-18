@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:template
+  type: ph:template-bold
   color: 607D8B
 ---
 Integrated Marketing

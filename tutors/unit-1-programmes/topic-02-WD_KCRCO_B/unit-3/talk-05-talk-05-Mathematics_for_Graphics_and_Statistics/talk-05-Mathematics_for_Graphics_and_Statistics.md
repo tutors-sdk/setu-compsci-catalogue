@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:document
+  type: ph:document-bold
   color: 78909C
 ---
 Mathematics for Graphics and Statistics

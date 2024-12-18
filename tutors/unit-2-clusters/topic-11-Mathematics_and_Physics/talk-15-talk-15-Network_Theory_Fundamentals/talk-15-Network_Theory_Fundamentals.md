@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:software
+  type: ph:app-window-bold
   color: 4FC3F7
 ---
 Network Theory Fundamentals

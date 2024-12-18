@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:research
+  type: ph:magnifying-glass-bold
   color: 00ACC1
 ---
 Creative Problem Solving

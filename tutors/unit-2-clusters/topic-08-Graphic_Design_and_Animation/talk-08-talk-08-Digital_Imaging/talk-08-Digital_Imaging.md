@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:education
+  type: ph:graduation-cap-bold
   color: 78909C
 ---
 Digital Imaging

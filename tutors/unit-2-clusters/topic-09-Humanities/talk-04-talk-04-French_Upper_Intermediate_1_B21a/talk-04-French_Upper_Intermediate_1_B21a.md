@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:data-base
+  type: ph:data-base-bold
   color: 37474F
 ---
 French Upper Intermediate 1 (B2.1a)

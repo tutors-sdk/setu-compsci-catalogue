@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
+  type: ph:skill-level-advanced-bold
   color: 546E7A
 ---
 Computer Security

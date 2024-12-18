@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:chart-line
+  type: mdi:chart-line
   color: FF8A65
 ---
 Data Visualisation

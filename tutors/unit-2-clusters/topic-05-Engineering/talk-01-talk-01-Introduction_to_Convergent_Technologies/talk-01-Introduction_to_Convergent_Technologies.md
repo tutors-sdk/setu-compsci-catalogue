@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:forum
-  color: 607D8B
+  type: ph:group-presentation-bold
+  color: 78909C
 ---
 Introduction to Convergent Technologies
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-basic
-  color: 78909C
+  type: ph:concept-bold
+  color: 263238
 ---
 Industrial Automation Systems
 

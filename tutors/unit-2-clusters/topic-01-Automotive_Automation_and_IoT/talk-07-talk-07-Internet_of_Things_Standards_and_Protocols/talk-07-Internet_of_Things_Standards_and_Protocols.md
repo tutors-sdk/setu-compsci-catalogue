@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:iot-platform
+  type: mdi:chip
   color: FF7043
 ---
 Internet of Things Standards and Protocols

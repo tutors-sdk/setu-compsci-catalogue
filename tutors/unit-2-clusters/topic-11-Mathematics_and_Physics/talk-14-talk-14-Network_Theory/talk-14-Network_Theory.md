@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: ph:skill-level-intermediate-bold
+  color: 607D8B
 ---
 Network Theory
 

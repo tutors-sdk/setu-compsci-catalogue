@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:concept
+  type: ph:concept-bold
   color: 263238
 ---
 Applied Cryptography

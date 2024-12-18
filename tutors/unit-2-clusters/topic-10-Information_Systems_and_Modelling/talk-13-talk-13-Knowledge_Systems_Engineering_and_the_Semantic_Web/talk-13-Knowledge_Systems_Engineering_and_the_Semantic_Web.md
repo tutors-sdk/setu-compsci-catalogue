@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:assembly
+  type: ph:assembly-bold
   color: 78909C
 ---
 Knowledge Systems Engineering and the Semantic Web

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:chart-bubble
+  type: mdi:chart-bubble
   color: 4DB6AC
 ---
 Business Intelligence Visualisation

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:group-presentation
+  type: ph:group-presentation-bold
   color: 78909C
 ---
 Computing Ethics

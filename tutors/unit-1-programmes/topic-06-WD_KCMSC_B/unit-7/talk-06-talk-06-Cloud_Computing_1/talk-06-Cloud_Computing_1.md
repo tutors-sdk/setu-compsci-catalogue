@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:laptop
+  type: mdi:laptop
   color: 42A5F5
 ---
 Cloud Computing 1

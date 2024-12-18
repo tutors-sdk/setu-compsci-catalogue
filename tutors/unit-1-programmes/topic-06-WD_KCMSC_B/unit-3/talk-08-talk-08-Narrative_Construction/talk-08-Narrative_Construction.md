@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:catalog
-  color: 607D8B
+  type: ph:document-bold
+  color: 78909C
 ---
 Narrative Construction
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:certificate
+  type: ph:certificate-bold
   color: 546E7A
 ---
 Online Forensics

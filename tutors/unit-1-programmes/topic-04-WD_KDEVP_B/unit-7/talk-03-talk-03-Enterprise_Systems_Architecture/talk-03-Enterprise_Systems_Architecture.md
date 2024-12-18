@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:report
+  type: ph:report-bold
   color: 455A64
 ---
 Enterprise Systems Architecture

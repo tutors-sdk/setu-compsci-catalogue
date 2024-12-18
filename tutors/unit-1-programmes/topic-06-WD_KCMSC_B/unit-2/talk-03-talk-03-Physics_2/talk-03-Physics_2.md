@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:course
+  type: ph:course-bold
   color: 546E7A
 ---
 Physics 2

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:learning
-  color: 37474F
+  type: ph:study-next-bold
+  color: 455A64
 ---
 Internet of Things Applications
 

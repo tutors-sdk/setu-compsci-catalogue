@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:cloud
+  type: ph:cloud-bold
   color: 29B6F6
 ---
 Introduction to Cloud Computing

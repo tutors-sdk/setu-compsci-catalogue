@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:machine-learning
+  type: mdi:brain
   color: AB47BC
 ---
 Advanced Graphics for Games

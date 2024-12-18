@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly
-  color: 78909C
+  type: ph:assembly-cluster-bold
+  color: 263238
 ---
 Model-Based Development
 

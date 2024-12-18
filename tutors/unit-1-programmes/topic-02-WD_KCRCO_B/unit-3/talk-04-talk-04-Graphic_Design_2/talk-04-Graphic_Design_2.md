@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:notebook
+  type: ph:notebook-bold
   color: 263238
 ---
 Graphic Design 2

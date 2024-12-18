@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:concept
-  color: 263238
+  type: ph:cognitive-bold
+  color: 37474F
 ---
 3D Game Assets
 

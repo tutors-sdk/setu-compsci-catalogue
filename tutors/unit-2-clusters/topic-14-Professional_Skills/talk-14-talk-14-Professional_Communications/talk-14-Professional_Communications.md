@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:workspace
-  color: 546E7A
+  type: ph:catalog-bold
+  color: 607D8B
 ---
 Professional Communications
 

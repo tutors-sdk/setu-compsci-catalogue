@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:data-vis-1
+  type: mdi:chart-box
   color: 4DD0E1
 ---
 Mathematics Fundamentals

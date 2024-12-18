@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:task
+  type: mdi:clipboard-check
   color: FFB74D
 ---
 Voluntary Organisation Project 1

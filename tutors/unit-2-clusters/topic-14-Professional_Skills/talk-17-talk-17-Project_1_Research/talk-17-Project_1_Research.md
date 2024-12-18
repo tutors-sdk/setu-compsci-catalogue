@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:search
+  type: mdi:magnify
   color: 80DEEA
 ---
 Project 1 (Research)

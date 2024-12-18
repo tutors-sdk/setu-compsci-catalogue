@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:chip
+  type: mdi:memory
   color: FFB74D
 ---
 Operating Systems

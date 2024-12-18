@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:study
+  type: ph:books-bold
   color: 4DD0E1
 ---
 Professional Certification 1
