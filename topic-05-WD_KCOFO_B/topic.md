@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:shield-lock
-  color: F44336
+  type: mdi:code-braces-box
+  color: 3D5AFE
 ---
 
 # BSc (Hons) in Computer Forensics & Security

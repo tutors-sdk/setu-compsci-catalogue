@@ -1,6 +1,6 @@
 ---
 icon:
-  type: mdi:school
+  type: mdi:school-outline
   color: 1565C0
 ---
 

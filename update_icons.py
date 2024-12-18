@@ -85,6 +85,26 @@ ICON_MAPPING = {
         'type': 'mdi:database',
         'color': '3F51B5'  # Indigo
     },
+    r'Networks?\s*Infrastructure': {
+        'type': 'mdi:network-outline',
+        'color': '0288D1'  # Light Blue 700
+    },
+    r'Computer\s*Networks?': {
+        'type': 'mdi:lan',
+        'color': '039BE5'  # Light Blue 600
+    },
+    r'Network.*Security': {
+        'type': 'mdi:security-network',
+        'color': 'E53935'  # Red 600
+    },
+    r'Network.*Theory': {
+        'type': 'mdi:graph-outline',
+        'color': '00ACC1'  # Cyan 600
+    },
+    r'Network.*Forensics': {
+        'type': 'mdi:magnify-scan',
+        'color': 'E57373'  # Red 300
+    },
     
     # Design & UX
     r'design': {
@@ -287,29 +307,42 @@ icon:
 def update_markdown_files(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file == 'topic.md':
+            if file.endswith('.md'):
                 file_path = os.path.join(root, file)
-                # Get the parent directory name for top-level topics
-                parent_dir = os.path.basename(os.path.dirname(file_path))
                 
+                # Skip files that don't need icons
+                if not file.startswith('talk-'):
+                    continue
+                    
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
 
-                # For top-level topics, use the directory-based mapping
-                if parent_dir in ICON_MAPPING:
-                    icon_info = ICON_MAPPING[parent_dir]
-                    frontmatter = f"---\nicon:\n  type: {icon_info['type']}\n  color: {icon_info['color']}\n---\n\n"
+                # Extract the title from the markdown
+                title_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
+                if title_match:
+                    title = title_match.group(1)
                     
-                    # If content already has frontmatter, remove it
-                    content = re.sub(r'^---\n.*?\n---\n\n', '', content, flags=re.DOTALL)
+                    # Find matching icon
+                    icon_info = None
+                    for pattern, icon in ICON_MAPPING.items():
+                        if re.search(pattern, title, re.IGNORECASE):
+                            icon_info = icon
+                            break
                     
-                    # Add new frontmatter
-                    updated_content = frontmatter + content
-                    
-                    # Write back to file
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        f.write(updated_content)
-                        print(f"Updated top-level topic: {file_path}")
+                    if icon_info:
+                        # Create frontmatter with icon
+                        frontmatter = f"---\nicon:\n  type: {icon_info['type']}\n  color: {icon_info['color']}\n---\n\n"
+                        
+                        # If content already has frontmatter, remove it
+                        content = re.sub(r'^---\n.*?\n---\n\n', '', content, flags=re.DOTALL)
+                        
+                        # Add frontmatter to content
+                        updated_content = frontmatter + content
+                        
+                        # Write back to file
+                        with open(file_path, 'w', encoding='utf-8') as f:
+                            f.write(updated_content)
+                            print(f"Updated: {file_path}")
 
 def process_directory(directory):
     """Process all markdown files in the directory and its subdirectories."""

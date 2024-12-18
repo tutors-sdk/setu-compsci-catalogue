@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:code-bold
-  color: 2196F3
+  type: mdi:monitor-dashboard
+  color: 304FFE
 ---
 
 # BSc in Software Systems Development
