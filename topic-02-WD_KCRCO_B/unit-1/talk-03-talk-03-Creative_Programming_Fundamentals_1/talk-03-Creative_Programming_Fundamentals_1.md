@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:keyboard
-  color: 398126
+  type: material-symbols:code
+  color: 2196F3
 ---
 
 Creative Programming Fundamentals 1

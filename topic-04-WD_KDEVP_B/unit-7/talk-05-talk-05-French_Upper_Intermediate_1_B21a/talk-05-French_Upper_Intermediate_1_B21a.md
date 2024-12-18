@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:translate
+  color: 3F51B5
 ---
 
 French Upper Intermediate 1 (B2.1a)

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: mdi:help-circle-outline
+  type: material-symbols:school
   color: 398126
 ---
 

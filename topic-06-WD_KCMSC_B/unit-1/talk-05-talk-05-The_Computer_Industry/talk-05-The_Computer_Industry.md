@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa6-solid:industry
+  type: material-symbols:school
   color: 398126
 ---
 

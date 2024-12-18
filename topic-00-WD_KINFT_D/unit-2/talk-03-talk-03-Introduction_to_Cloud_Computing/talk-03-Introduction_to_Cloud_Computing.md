@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:cloud
-  color: 398126
+  type: material-symbols:security
+  color: F44336
 ---
 
 Introduction to Cloud Computing

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:database-search
-  color: 398126
+  type: material-symbols:lan
+  color: 9C27B0
 ---
 
 Multimedia Databases

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:psychology
+  color: 009688
 ---
 
 Introduction to Social Psychology

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:translate
+  color: 3F51B5
 ---
 
 German Intermediate 2 (B1.2)

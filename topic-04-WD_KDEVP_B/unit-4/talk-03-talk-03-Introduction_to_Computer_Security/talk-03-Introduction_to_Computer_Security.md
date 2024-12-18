@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:security
+  color: F44336
 ---
 
 Introduction to Computer Security

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:gamepad-variant-outline
-  color: 398126
+  type: material-symbols:code
+  color: 2196F3
 ---
 
 Advanced 3D Game Development

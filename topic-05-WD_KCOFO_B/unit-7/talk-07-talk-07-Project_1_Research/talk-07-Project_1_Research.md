@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:work
+  color: 607D8B
 ---
 
 Project 1 (Research)

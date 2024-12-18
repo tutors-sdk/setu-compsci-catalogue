@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:business-center
+  color: 795548
 ---
 
 Technology Entrepreneurship

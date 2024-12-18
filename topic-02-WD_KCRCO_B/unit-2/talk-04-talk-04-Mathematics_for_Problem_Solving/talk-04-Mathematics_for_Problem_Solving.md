@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: material-symbols:functions
+  color: FF9800
 ---
 
 Mathematics for Problem Solving

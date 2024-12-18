@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:chart-bar
-  color: 398126
+  type: material-symbols:functions
+  color: FF9800
 ---
 
 Statistics and Probability
