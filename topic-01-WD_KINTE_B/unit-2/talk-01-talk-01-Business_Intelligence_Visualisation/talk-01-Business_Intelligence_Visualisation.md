@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:business-center
+  type: carbon:analytics
   color: 795548
 ---
 

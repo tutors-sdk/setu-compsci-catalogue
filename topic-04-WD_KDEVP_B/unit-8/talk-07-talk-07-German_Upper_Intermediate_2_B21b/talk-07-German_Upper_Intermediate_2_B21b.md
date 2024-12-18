@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:language
+  type: emojione-v1:flag-for-germany
   color: 5C6BC0
 ---
 

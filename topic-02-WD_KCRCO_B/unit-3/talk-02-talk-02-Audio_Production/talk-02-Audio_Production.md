@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:music-note
+  type: ph:wave-sine-bold
   color: E91E63
 ---
 

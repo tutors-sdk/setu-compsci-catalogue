@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:animation
+  type: ph:film-reel-bold
   color: FF4081
 ---
 

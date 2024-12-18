@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:brush
+  type: ph:pencil-circle-bold
   color: FF4081
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:lan
+  type: ph:nodes-bold
   color: 673AB7
 ---
 

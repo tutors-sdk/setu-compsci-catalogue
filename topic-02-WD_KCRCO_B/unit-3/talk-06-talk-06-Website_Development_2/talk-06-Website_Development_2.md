@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:web
+  type: carbon:development
   color: 03A9F4
 ---
 

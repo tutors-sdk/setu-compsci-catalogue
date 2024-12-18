@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:functions
+  type: ph:function-bold
   color: FF9800
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:videocam
+  type: ph:video-camera-bold
   color: C2185B
 ---
 

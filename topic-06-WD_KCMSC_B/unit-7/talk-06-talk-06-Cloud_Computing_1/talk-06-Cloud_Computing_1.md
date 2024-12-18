@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:cloud
+  type: carbon:cloud
   color: 03A9F4
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:apps
+  type: mdi:cellphone-link
   color: 00BCD4
 ---
 

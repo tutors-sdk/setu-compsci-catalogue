@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:schema
+  type: carbon:flow
   color: FFC107
 ---
 

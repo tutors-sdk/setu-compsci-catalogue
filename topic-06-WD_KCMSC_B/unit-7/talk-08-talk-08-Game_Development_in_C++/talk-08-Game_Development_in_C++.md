@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:sports-esports
+  type: ph:game-controller-bold
   color: 7C4DFF
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:computer
+  type: carbon:bare-metal-server
   color: 9C27B0
 ---
 

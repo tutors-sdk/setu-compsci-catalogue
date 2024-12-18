@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:chat-bubble-outline
+  type: mdi:message-text
   color: 4CAF50
 ---
 

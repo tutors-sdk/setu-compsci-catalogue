@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:terminal
+  type: carbon:terminal
   color: 424242
 ---
 

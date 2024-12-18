@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:psychology
+  type: ph:brain-bold
   color: 009688
 ---
 

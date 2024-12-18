@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:school
-  color: 398126
+  type: mdi:magnify-scan
+  color: E57373
 ---
 
 Online Forensics

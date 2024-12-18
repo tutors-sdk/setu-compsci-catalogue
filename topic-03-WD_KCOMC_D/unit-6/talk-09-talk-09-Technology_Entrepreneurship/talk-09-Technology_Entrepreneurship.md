@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:rocket-launch
+  type: ph:rocket-launch-bold
   color: 6D4C41
 ---
 

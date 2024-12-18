@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:folder-special
+  type: carbon:portfolio
   color: 90A4AE
 ---
 

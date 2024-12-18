@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:badge
+  type: carbon:workspace
   color: 78909C
 ---
 

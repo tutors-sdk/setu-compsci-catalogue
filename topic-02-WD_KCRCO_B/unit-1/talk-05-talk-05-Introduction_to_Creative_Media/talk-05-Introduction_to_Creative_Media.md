@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:perm-media
+  type: carbon:media-library
   color: FF80AB
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:analytics
+  type: carbon:data-vis-4
   color: 1DE9B6
 ---
 

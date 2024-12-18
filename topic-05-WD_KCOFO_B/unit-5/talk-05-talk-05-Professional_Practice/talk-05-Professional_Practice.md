@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:workspace-premium
+  type: carbon:certificate
   color: 795548
 ---
 

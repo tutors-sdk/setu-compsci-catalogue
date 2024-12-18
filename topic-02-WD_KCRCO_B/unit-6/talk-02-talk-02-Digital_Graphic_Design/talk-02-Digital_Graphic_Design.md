@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:palette-outline
+  type: ph:paint-brush-bold
   color: E91E63
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:translate
+  type: emojione-v1:flag-for-france
   color: 3F51B5
 ---
 

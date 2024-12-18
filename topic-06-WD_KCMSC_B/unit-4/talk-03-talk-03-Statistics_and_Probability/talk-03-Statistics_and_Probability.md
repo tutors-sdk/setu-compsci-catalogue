@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:monitoring
+  type: carbon:chart-line-data
   color: FF5722
 ---
 

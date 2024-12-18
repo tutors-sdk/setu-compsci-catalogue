@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:corporate-fare
+  type: carbon:enterprise
   color: 8D6E63
 ---
 

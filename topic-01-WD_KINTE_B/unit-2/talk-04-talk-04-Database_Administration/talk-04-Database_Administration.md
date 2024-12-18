@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:database
+  type: mdi:database
   color: 3F51B5
 ---
 

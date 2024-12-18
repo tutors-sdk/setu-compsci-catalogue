@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:security
+  type: mdi:shield-lock
   color: F44336
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:work
+  type: carbon:task
   color: 607D8B
 ---
 
