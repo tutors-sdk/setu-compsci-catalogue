@@ -47,7 +47,7 @@ icon:
 # Columns Icon/Color were populated by Pete/chatGPT
 df = pd.read_csv("module_display_settings.csv")
 
-OUTPUT = "unit-2-clusters/"
+OUTPUT = "tutors/unit-2-clusters/"
 
 def run(verbose=False):
 
