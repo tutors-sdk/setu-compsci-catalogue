@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:ai-status
+  color: D81B60
 ---
 
 This module aims to: Introduce students to the main concepts and ideas in social psychology and develop their ability to apply these ideas to modern s ... 

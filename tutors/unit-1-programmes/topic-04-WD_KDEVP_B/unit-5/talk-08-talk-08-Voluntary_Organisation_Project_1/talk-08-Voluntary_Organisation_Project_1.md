@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:task
+  color: 8BC34A
 ---
 
 This module aims to allow students to experience a particular area of volunteering in Irish community. Students will choose an area of volunteering wh ... 

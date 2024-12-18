@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:ai-status
+  color: D81B60
 ---
 
 The aim of this module is to demonstrate how companies apply marketing concepts and strategy in high technology industries. ... 

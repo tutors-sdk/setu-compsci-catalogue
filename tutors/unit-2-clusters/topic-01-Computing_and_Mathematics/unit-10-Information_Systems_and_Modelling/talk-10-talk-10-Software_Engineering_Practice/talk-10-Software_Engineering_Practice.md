@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:hammer-wrench
-  color: 398126
+  type: carbon:application
+  color: 388E3C
 ---
 
 The objective of this module is to provide students with the understanding of techniques and methods used to develop reliable quality software. Studen ... 
