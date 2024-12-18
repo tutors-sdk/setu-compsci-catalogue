@@ -1,3 +1,3 @@
-# Computing and Mathematics Modules Clusters
+# Computing and Mathematics Module Clusters
 
 
