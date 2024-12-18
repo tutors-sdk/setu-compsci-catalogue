@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:cognitive
+  color: 37474F
 ---
 Automated Cloud Services
 

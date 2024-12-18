@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 German Upper Intermediate 2 (B2.1b)
 

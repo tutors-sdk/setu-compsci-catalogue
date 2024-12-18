@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:education
+  type: carbon:skill-level-basic
   color: 78909C
 ---
 Business Intelligence and Data Warehousing

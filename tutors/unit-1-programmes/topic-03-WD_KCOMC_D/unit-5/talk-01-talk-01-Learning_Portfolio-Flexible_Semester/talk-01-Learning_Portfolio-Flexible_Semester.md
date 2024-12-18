@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:study-next
+  color: 455A64
 ---
 Learning Portfolio-Flexible Semester
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:report
+  color: 455A64
 ---
 Project 1 (Development)
 

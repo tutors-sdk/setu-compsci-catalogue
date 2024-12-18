@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:book
+  color: 607D8B
 ---
 Operating Systems
 

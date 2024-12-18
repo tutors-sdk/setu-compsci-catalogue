@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:education
+  type: carbon:assembly
   color: 78909C
 ---
 Computer Forensics
