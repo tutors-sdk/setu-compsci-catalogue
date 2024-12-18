@@ -1,7 +1,0 @@
----
-icon:
-  type: fa:desktop
-  color: 398126
----
-
-Introduces the student to the fundamental building blocks of the visual aspect of the Web, with an emphasis on the basics of HTML, CSS and Java Script ... 

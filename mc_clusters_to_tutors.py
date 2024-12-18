@@ -39,6 +39,7 @@ icon:
   type: {icon}
   color: {color}
 ---
+{title}
 
 {description}
 """
@@ -63,47 +64,39 @@ def run(verbose=False):
         clusters[group] = dict(sorted(clusters[group].items()))
         for cluster in clusters[group]:
             clusters[group][cluster] = sorted(clusters[group][cluster], key=lambda x: x[1])
-                    
-    # group <-> topic
-    for k, group in enumerate(clusters,1):
 
-        topic = f"{OUTPUT}/topic-{k:02d}-{clean_filename(group)}"
+    # only upload for one group - the CM department              
+    group = 'Computing and Mathematics'
+
+    # cluster <-> topic
+    for k, cluster in enumerate(clusters[group],1):
+
+        topic = f"{OUTPUT}/topic-{k:02d}-{clean_filename(cluster)}"
         os.makedirs(topic, exist_ok=True)
-        content = topic_content.format(title=group, description="")
+        content = topic_content.format(title=cluster, description="")
         open(f"{topic}/topic.md", "wt").write(content)
 
-        # cluster <-> unit
-        for kk, cluster in enumerate(clusters[group],1):
-
-            unit = f"unit-{kk}-{clean_filename(cluster)}"
-            if verbose: print(f"\t{unit}")
-            os.makedirs(f"{topic}/{unit}", exist_ok=True)
-            title = f"{cluster}"
-            content = unit_content.format(title=title, description="")
-            open(f"{topic}/{unit}/topic.md", "wt").write(content)
-
+        # module <-> talk
+        for kk, (ref,title) in enumerate(clusters[group][cluster],1):
             
-            # module <-> talk
-            for kkk, (ref,title) in enumerate(clusters[group][cluster],1):
-                
-                target = f"talk-{kk:02d}-" + clean_filename(title)
-                card = f"talk-{kk:02d}-{target}"
-                if verbose: print(f"\t\t{card}")
-                os.makedirs(f"{topic}/{unit}/{card}", exist_ok=True)
+            target = f"talk-{kk:02d}-" + clean_filename(title)
+            card = f"talk-{kk:02d}-{target}"
+            if verbose: print(f"\t\t{card}")
+            os.makedirs(f"{topic}/{card}", exist_ok=True)
 
-                df_tmp = df.query(f"Module_Title=='{title}'")
-                if df_tmp.shape[0]:
-                    icon = df_tmp.Icon.values[0]
-                    color = df_tmp.Color.values[0]
-                else:
-                    icon = 'fa:desktop'
-                    color = 398126
-                description = descriptors[ref]['aim'][:150] + " ... " 
-                content = module_content.format(title=title, icon=icon, color=color, description=description)
-                open(f"{topic}/{unit}/{card}/{target}" + ".md", "wt").write(content)
+            df_tmp = df.query(f"Module_Title=='{title}'")
+            if df_tmp.shape[0]:
+                icon = df_tmp.Icon.values[0]
+                color = df_tmp.Color.values[0]
+            else:
+                icon = 'fa:desktop'
+                color = 398126
+            description = descriptors[ref]['aim'][:150] + " ... " 
+            content = module_content.format(title=title, icon=icon, color=color, description=description)
+            open(f"{topic}/{card}/{target}" + ".md", "wt").write(content)
 
-                source = f"module_catalogue/descriptors/pdf/{ref}.pdf"
-                shutil.copyfile(source, f"{topic}/{unit}/{card}/{target}" + ".pdf")
+            source = f"module_catalogue/descriptors/pdf/{ref}.pdf"
+            shutil.copyfile(source, f"{topic}/{card}/{target}" + ".pdf")
 
 
 if __name__=="__main__":
