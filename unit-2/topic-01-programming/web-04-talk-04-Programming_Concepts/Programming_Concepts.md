@@ -4,6 +4,6 @@ icon:
   color: 2196F3
 ---
 
-Programming Concepts
+Programming Fundamentals 1
 
-This module will provide the student with an introduction to programming concepts. The student is in ... 
+This module will introduce the student to fundamental programming techniques. The student will learn ... 
