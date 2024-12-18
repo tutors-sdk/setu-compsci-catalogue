@@ -1,7 +1,7 @@
 ---
 icon:
-  type: codicon:tools
-  color: 009688
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
 This laboratory-based module provides a comprehensive study of model-based design and development for dynamic, embedded control systems. Industry-stan ... 

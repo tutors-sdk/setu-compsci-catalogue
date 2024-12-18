@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:screen
-  color: FFB74D
+  type: mdi:help-circle-outline
+  color: 398126
 ---
 
 The purpose of this work placement module is to require the student to apply the knowledge, skills and competencies gained through the academic phase  ... 
