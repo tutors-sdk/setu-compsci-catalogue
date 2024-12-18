@@ -4,6 +4,36 @@ import yaml
 
 # Icon mapping based on keywords in titles
 ICON_MAPPING = {
+    # Top-level topics (must be unique)
+    'topic-00-WD_KINFT_D': {
+        'type': 'mdi:school-outline',
+        'color': '1565C0'  # Blue 800
+    },
+    'topic-01-WD_KINTE_B': {
+        'type': 'mdi:laptop-account',
+        'color': '0D47A1'  # Blue 900
+    },
+    'topic-02-WD_KCRCO_B': {
+        'type': 'mdi:palette-swatch',
+        'color': '6200EA'  # Deep Purple A700
+    },
+    'topic-03-WD_KCOMC_D': {
+        'type': 'mdi:monitor-dashboard',
+        'color': '304FFE'  # Indigo A700
+    },
+    'topic-04-WD_KDEVP_B': {
+        'type': 'mdi:developer-board',
+        'color': '2962FF'  # Blue A700
+    },
+    'topic-05-WD_KCOFO_B': {
+        'type': 'mdi:code-braces-box',
+        'color': '3D5AFE'  # Indigo A400
+    },
+    'topic-06-WD_KCMSC_B': {
+        'type': 'mdi:application-brackets',
+        'color': '1A237E'  # Indigo 900
+    },
+    
     # Communications & Skills
     r'communications?': {
         'type': 'mdi:message-text',
@@ -213,7 +243,9 @@ def determine_icon(title):
     """Determine the appropriate icon based on the title."""
     title_lower = title.lower()
     for pattern, icon in ICON_MAPPING.items():
-        if re.search(pattern, title_lower):
+        if isinstance(pattern, str) and pattern in title_lower:
+            return icon
+        elif re.search(pattern, title_lower):
             return icon
     return DEFAULT_ICON
 
@@ -255,38 +287,29 @@ icon:
 def update_markdown_files(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file.endswith('.md'):
+            if file == 'topic.md':
                 file_path = os.path.join(root, file)
+                # Get the parent directory name for top-level topics
+                parent_dir = os.path.basename(os.path.dirname(file_path))
+                
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
 
-                # Skip files that don't need icons
-                if not content.strip() or content.startswith('---'):
-                    continue
-
-                # Extract the title from the markdown
-                title_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
-                if title_match:
-                    title = title_match.group(1)
+                # For top-level topics, use the directory-based mapping
+                if parent_dir in ICON_MAPPING:
+                    icon_info = ICON_MAPPING[parent_dir]
+                    frontmatter = f"---\nicon:\n  type: {icon_info['type']}\n  color: {icon_info['color']}\n---\n\n"
                     
-                    # Find matching icon
-                    icon_info = None
-                    for pattern, icon in ICON_MAPPING.items():
-                        if re.search(pattern, title, re.IGNORECASE):
-                            icon_info = icon
-                            break
+                    # If content already has frontmatter, remove it
+                    content = re.sub(r'^---\n.*?\n---\n\n', '', content, flags=re.DOTALL)
                     
-                    if icon_info:
-                        # Create frontmatter with icon
-                        frontmatter = f"---\nicon:\n  type: {icon_info['type']}\n  color: {icon_info['color']}\n---\n\n"
-                        
-                        # Add frontmatter to content
-                        updated_content = frontmatter + content
-                        
-                        # Write back to file
-                        with open(file_path, 'w', encoding='utf-8') as f:
-                            f.write(updated_content)
-                            print(f"Updated: {file_path}")
+                    # Add new frontmatter
+                    updated_content = frontmatter + content
+                    
+                    # Write back to file
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(updated_content)
+                        print(f"Updated top-level topic: {file_path}")
 
 def process_directory(directory):
     """Process all markdown files in the directory and its subdirectories."""
