@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:information
+  color: 5C6BC0
 ---
 Business Information Systems and Processes
 

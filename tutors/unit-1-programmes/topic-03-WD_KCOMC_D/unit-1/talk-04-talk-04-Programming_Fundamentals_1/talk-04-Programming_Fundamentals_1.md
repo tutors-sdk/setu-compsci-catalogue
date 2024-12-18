@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:keyboard
-  color: 398126
+  type: vscode-icons:file-type-js-official
+  color: 4CAF50
 ---
 Programming Fundamentals 1
 

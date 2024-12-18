@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:task
+  color: 8BC34A
 ---
 Project 2 IT (Research)
 

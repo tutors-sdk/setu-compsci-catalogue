@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:application
+  color: 388E3C
 ---
 Embedded Systems
 

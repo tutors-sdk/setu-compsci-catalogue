@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:user-gear-duotone
+  color: 1976D2
 ---
 Professional Certification 1
 

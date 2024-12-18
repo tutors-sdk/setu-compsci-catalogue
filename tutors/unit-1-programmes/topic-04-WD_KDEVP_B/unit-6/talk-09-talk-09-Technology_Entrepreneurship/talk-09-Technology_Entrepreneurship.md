@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:chart-candlestick
+  color: 3F51B5
 ---
 Technology Entrepreneurship
 

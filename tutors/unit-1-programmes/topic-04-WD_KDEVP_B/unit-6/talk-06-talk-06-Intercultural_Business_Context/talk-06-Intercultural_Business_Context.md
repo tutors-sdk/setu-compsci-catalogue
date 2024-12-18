@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:analytics
+  color: 0D47A1
 ---
 Intercultural Business Context
 

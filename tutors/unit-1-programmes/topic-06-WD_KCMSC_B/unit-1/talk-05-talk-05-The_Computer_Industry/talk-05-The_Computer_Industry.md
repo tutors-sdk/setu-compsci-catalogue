@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa6-solid:industry
-  color: 398126
+  type: carbon:ai-status
+  color: D81B60
 ---
 The Computer Industry
 

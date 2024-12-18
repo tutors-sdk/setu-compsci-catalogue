@@ -1,7 +1,7 @@
 ---
 icon:
-  type: icon-park-outline:physics
-  color: 398126
+  type: carbon:flow-modeler
+  color: 37474F
 ---
 Physics 2
 

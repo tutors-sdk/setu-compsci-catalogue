@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:laptop
+  color: C62828
 ---
 Embedded Systems Scripting
 

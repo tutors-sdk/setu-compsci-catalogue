@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:information
+  color: 5C6BC0
 ---
 Digital Transformation of Information Systems
 

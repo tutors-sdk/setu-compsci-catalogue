@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:development
+  color: 00897B
 ---
 Introduction to Convergent Technologies
 

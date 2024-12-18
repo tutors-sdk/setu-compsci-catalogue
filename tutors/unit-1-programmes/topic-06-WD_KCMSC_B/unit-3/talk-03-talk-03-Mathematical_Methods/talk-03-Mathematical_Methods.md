@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:flow-stream
+  color: 558B2F
 ---
 Mathematical Methods
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:cloud-satellite-config
+  color: D32F2F
 ---
 The Connected Car
 

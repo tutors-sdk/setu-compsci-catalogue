@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:gamepad-variant-outline
-  color: 398126
+  type: codicon:tools
+  color: 009688
 ---
 Introduction to 3D Game Development
 

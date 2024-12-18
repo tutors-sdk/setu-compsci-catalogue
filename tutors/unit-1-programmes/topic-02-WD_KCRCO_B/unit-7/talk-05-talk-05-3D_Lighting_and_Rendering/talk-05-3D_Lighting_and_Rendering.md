@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:checkmark-outline
+  color: 33691E
 ---
 3D Lighting and Rendering
 

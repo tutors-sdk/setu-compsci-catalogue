@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:chart-bar
-  color: 398126
+  type: ph:function-bold
+  color: 795548
 ---
 Mathematics for Graphics and Statistics
 

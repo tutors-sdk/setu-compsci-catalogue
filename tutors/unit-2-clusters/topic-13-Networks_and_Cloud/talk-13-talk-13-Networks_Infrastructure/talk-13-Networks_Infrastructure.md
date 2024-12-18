@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:network-wired
-  color: 398126
+  type: iconoir:network-alt
+  color: E64A19
 ---
 Networks Infrastructure
 

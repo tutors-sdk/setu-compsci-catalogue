@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:analytics-reference
+  color: 455A64
 ---
 Systems Analysis, Design and Testing
 

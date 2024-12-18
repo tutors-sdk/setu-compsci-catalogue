@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: tabler:code
+  color: 26A69A
 ---
 Audio Production
 

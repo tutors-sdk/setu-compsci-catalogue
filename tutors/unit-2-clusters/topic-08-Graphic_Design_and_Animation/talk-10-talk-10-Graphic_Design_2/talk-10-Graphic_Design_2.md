@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:paint-brush-bold
+  color: FF9800
 ---
 Graphic Design 2
 

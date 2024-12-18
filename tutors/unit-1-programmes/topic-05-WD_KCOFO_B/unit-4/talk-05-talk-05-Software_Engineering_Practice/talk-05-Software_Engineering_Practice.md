@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:hammer-wrench
-  color: 398126
+  type: carbon:application
+  color: 388E3C
 ---
 Software Engineering Practice
 

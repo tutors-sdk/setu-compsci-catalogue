@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:screen
+  color: FFB74D
 ---
 Industrial Placement 1
 

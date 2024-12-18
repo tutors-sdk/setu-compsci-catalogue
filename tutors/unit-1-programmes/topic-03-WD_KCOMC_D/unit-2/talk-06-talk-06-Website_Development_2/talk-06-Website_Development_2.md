@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: lucide:globe
+  color: 00BCD4
 ---
 Website Development 2
 

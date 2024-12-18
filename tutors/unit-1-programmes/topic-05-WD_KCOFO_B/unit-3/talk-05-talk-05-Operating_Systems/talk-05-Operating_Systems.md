@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:terminal
-  color: 398126
+  type: carbon:laptop
+  color: C62828
 ---
 Operating Systems
 

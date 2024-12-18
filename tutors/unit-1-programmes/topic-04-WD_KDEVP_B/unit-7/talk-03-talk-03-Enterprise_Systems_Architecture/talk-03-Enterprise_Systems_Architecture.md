@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: clarity:building-line
+  color: 1565C0
 ---
 Enterprise Systems Architecture
 

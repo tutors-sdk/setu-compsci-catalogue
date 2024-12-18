@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:game-console
+  color: 6A1B9A
 ---
 Introduction to C++ for Games
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:machine-learning
+  color: E91E63
 ---
 Business Intelligence Visualisation
 

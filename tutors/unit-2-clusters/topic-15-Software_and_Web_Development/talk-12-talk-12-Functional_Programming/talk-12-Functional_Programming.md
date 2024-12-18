@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: vscode-icons:file-type-js-official
+  color: 4CAF50
 ---
 Functional Programming
 

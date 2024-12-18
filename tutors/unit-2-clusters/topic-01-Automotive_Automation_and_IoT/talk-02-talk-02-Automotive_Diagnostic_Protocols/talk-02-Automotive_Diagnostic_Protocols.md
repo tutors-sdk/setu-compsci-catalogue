@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: streamline:computer-chip-1
+  color: FF5722
 ---
 Automotive Diagnostic Protocols
 

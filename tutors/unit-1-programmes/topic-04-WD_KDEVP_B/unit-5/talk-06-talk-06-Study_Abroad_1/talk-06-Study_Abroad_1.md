@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:study
+  color: 00838F
 ---
 Study Abroad 1
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:education
+  color: 78909C
 ---
 French Intermediate 2 (B1.2)
 

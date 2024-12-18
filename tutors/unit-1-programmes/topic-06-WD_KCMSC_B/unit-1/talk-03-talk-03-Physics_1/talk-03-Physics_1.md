@@ -1,7 +1,7 @@
 ---
 icon:
-  type: icon-park-outline:physics
-  color: 398126
+  type: ph:paint-brush-bold
+  color: FF9800
 ---
 Physics 1
 

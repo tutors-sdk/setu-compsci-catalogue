@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:clipboard-check-outline
-  color: 398126
+  type: carbon:task
+  color: 8BC34A
 ---
 Project Management
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa:superscript
-  color: 398126
+  type: ph:function-bold
+  color: 795548
 ---
 Discrete Mathematics
 
