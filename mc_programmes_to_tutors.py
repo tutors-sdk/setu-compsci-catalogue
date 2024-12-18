@@ -39,6 +39,7 @@ icon:
   type: {icon}
   color: {color}
 ---
+{title}
 
 {description}
 """
