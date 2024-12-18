@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:cloud
+  color: 03A9F4
 ---
 
 Automated Cloud Services

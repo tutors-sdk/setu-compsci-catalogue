@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:paint-brush-bold
+  color: E91E63
 ---
 
 Digital Graphic Design

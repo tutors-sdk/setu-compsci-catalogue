@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:media-library
+  color: FF80AB
 ---
 
 Advanced Media Productions

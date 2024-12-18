@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:pencil-circle-bold
+  color: FF4081
 ---
 
 Advanced Graphics for Games

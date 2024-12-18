@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:flow
+  color: FFC107
 ---
 
 Data Structures and Algorithms 1

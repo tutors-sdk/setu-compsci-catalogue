@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:film-reel-bold
+  color: FF4081
 ---
 
 3D Animation and Transmedia

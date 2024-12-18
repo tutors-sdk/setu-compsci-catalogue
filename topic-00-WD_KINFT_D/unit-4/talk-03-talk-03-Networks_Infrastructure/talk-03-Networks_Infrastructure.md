@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:network-wired
-  color: 398126
+  type: ph:nodes-bold
+  color: 673AB7
 ---
 
 Networks Infrastructure

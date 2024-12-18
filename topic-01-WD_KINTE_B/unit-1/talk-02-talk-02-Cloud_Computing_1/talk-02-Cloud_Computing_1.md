@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa-solid:cloud
-  color: 398126
+  type: carbon:cloud
+  color: 03A9F4
 ---
 
 Cloud Computing 1

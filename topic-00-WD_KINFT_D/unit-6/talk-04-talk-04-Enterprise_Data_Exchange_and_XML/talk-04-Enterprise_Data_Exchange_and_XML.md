@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:enterprise
+  color: 8D6E63
 ---
 
 Enterprise Data Exchange and XML

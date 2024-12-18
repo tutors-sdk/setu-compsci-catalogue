@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: mdi:magnify-scan
+  color: E57373
 ---
 
 Computer Forensics

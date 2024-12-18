@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:workspace
+  color: 78909C
 ---
 
 Industrial Placement 2

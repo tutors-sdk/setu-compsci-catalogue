@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: mdi:message-text
+  color: 4CAF50
 ---
 
 Communications Skills

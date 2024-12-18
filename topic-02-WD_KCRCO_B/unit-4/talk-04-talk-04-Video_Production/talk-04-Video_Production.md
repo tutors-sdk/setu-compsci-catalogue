@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:video-camera-bold
+  color: C2185B
 ---
 
 Video Production

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: icon-park-outline:robot-one
+  type: material-symbols:school
   color: 398126
 ---
 

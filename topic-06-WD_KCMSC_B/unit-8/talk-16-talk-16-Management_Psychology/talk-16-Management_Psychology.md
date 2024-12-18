@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:brain-bold
+  color: 009688
 ---
 
 Management Psychology

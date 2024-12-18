@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: mdi:shield-lock
+  color: F44336
 ---
 
 Application Security

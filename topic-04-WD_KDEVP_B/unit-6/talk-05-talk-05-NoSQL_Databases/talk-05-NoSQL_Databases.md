@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:database-search
-  color: 398126
+  type: mdi:database
+  color: 3F51B5
 ---
 
 NoSQL Databases

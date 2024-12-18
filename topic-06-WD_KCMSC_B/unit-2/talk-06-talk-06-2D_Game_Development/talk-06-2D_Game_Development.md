@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:gamepad-variant-outline
-  color: 398126
+  type: ph:game-controller-bold
+  color: 7C4DFF
 ---
 
 2D Game Development

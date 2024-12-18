@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:code-bold
+  color: 2196F3
 ---
 
 Software Development Tools

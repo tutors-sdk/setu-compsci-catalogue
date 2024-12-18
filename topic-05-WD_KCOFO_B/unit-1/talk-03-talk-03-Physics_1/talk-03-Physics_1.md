@@ -1,6 +1,6 @@
 ---
 icon:
-  type: icon-park-outline:physics
+  type: material-symbols:school
   color: 398126
 ---
 

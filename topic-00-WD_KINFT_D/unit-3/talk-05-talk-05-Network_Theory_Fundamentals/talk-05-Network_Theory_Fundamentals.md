@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:nodes-bold
+  color: 673AB7
 ---
 
 Network Theory Fundamentals

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: fa:desktop
-  color: 398126
+  type: carbon:bare-metal-server
+  color: 9C27B0
 ---
 
 Computer Systems 2

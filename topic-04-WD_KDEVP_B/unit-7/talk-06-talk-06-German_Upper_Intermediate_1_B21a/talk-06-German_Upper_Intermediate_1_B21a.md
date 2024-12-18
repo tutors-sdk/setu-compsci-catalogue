@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: emojione-v1:flag-for-germany
+  color: 5C6BC0
 ---
 
 German Upper Intermediate 1( B2.1a)

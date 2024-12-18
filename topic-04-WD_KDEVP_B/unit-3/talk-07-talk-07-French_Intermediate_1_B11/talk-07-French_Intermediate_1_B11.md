@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: emojione-v1:flag-for-france
+  color: 3F51B5
 ---
 
 French Intermediate 1 (B1.1)

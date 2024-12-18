@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:wave-sine-bold
+  color: E91E63
 ---
 
 Audio Production

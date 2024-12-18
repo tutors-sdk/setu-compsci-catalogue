@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: mdi:cellphone-link
+  color: 00BCD4
 ---
 
 Mobile App Development 2

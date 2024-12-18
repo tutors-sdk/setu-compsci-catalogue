@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: carbon:portfolio
+  color: 90A4AE
 ---
 
 Learning Portfolio-Flexible Semester

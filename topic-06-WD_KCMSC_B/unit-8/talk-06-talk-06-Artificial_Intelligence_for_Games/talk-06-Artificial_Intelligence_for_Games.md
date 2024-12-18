@@ -1,7 +1,7 @@
 ---
 icon:
-  type: icon-park-outline:robot-one
-  color: 398126
+  type: ph:game-controller-bold
+  color: 7C4DFF
 ---
 
 Artificial Intelligence for Games

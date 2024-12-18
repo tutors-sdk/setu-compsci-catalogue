@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: mdi:database
+  color: 3F51B5
 ---
 
 Database Systems

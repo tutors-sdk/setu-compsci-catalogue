@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:help-circle-outline
-  color: 398126
+  type: ph:rocket-launch-bold
+  color: 6D4C41
 ---
 
 Technology Entrepreneurship
