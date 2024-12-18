@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:template
+  type: carbon:forum
   color: 607D8B
 ---
 Professional Communications

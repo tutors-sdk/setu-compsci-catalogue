@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:report
+  color: 455A64
 ---
 Game Development in C++
 

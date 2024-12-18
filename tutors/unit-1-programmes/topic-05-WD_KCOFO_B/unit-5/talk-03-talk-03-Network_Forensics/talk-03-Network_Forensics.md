@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:template
+  type: carbon:skill-level-intermediate
   color: 607D8B
 ---
 Network Forensics

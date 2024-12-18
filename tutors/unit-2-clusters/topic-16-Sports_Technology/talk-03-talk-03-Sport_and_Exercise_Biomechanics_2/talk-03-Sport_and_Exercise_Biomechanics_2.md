@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Sport & Exercise Biomechanics 2
 

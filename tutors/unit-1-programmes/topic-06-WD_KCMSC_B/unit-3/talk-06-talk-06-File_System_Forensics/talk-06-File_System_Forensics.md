@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:course
+  color: 546E7A
 ---
 File System Forensics
 

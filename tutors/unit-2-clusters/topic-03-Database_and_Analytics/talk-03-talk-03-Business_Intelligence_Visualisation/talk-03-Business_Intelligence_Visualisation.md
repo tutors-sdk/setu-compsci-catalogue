@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:data-base
-  color: 37474F
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Business Intelligence Visualisation
 

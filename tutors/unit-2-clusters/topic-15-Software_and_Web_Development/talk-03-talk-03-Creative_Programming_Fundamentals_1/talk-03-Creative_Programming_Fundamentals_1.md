@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:forum
+  color: 607D8B
 ---
 Creative Programming Fundamentals 1
 

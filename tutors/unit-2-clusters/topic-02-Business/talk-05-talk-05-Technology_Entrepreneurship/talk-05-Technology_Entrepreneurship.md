@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:cognitive
+  color: 37474F
 ---
 Technology Entrepreneurship
 

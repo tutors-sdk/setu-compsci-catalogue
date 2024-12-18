@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Physics 1
 

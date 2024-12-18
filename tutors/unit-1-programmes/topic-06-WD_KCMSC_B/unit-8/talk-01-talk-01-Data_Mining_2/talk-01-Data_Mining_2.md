@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Data Mining 2
 

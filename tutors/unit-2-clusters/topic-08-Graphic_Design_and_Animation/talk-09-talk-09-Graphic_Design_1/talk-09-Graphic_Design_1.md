@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:education
+  color: 78909C
 ---
 Graphic Design 1
 

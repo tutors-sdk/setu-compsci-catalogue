@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:study-next
+  color: 455A64
 ---
 Network Theory
 

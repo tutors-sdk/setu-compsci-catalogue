@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
+  type: carbon:certificate
   color: 546E7A
 ---
 Digital Photography

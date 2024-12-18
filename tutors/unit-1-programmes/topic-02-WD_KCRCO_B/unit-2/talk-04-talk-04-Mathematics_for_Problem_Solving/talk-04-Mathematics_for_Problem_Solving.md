@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:learning
+  color: 37474F
 ---
 Mathematics for Problem Solving
 

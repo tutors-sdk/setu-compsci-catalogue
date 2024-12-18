@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Knowledge Systems Engineering and the Semantic Web
 

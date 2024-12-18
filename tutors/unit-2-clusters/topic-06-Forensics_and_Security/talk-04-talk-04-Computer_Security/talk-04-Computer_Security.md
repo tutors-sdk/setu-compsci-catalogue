@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:data-base
+  color: 37474F
 ---
 Computer Security
 

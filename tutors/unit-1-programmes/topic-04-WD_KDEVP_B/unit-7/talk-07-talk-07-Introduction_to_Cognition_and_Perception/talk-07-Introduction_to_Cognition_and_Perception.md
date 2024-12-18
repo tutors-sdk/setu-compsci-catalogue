@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:data-base
+  color: 37474F
 ---
 Introduction to Cognition and Perception
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:learning
+  color: 37474F
 ---
 Project Semester 4
 

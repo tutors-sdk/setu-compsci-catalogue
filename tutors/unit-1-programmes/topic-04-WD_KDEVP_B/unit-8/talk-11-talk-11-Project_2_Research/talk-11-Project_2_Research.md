@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:education
+  color: 78909C
 ---
 Project 2 (Research)
 

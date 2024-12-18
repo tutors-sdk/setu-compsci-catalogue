@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:course
+  color: 546E7A
 ---
 Introduction to Software Engineering
 

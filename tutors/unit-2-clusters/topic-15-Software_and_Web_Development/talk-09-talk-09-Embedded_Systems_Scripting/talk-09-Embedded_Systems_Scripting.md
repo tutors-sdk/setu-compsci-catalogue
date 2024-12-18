@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:notebook
+  color: 263238
 ---
 Embedded Systems Scripting
 

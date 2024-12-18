@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:workspace
+  color: 546E7A
 ---
 Graphic Design 2
 

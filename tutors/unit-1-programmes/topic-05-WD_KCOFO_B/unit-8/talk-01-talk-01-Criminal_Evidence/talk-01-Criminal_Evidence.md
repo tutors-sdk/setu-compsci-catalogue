@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:data-base
+  color: 37474F
 ---
 Criminal Evidence
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 Automotive Software Development
 

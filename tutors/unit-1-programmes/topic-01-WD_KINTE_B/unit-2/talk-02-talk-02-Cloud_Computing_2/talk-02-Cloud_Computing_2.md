@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:assembly-cluster
-  color: 263238
+  type: carbon:assembly
+  color: 78909C
 ---
 Cloud Computing 2
 

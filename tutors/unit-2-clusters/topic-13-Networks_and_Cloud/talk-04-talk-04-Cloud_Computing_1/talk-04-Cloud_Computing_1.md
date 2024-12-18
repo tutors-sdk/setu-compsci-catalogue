@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-intermediate
-  color: 607D8B
+  type: carbon:skill-level-advanced
+  color: 546E7A
 ---
 Cloud Computing 1
 

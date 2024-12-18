@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:cognitive
+  color: 37474F
 ---
 Mathematics for Graphics and Statistics
 

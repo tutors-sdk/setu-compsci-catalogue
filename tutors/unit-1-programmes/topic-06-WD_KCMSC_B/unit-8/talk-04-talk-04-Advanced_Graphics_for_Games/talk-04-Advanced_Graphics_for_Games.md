@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:template
+  color: 607D8B
 ---
 Advanced Graphics for Games
 

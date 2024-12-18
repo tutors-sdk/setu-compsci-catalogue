@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:assembly
+  color: 78909C
 ---
 3D Lighting and Rendering
 

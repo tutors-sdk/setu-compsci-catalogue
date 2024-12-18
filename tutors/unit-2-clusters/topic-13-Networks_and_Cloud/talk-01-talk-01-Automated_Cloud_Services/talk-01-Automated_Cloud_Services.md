@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:cognitive
-  color: 37474F
+  type: carbon:concept
+  color: 263238
 ---
 Automated Cloud Services
 

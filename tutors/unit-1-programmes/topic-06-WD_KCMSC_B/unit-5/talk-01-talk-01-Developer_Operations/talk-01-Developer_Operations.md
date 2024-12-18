@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:concept
+  color: 263238
 ---
 Developer Operations
 

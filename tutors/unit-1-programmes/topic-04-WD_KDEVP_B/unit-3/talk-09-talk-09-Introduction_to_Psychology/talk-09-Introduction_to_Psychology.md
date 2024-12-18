@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:learning
+  color: 37474F
 ---
 Introduction to Psychology
 

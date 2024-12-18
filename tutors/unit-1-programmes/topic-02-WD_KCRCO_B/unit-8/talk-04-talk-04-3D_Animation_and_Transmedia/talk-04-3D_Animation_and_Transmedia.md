@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:lecture
+  color: 263238
 ---
 3D Animation and Transmedia
 

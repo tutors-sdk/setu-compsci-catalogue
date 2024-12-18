@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:presentation-file
+  color: 37474F
 ---
 Multimedia Databases
 

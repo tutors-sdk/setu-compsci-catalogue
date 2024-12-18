@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:assembly-cluster
+  color: 263238
 ---
 Software Development Tools
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
+  type: carbon:course
   color: 546E7A
 ---
 Introduction to 3D Game Development

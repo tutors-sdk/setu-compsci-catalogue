@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:skill-level-basic
+  color: 78909C
 ---
 Legal Principles of Computer Forensics
 

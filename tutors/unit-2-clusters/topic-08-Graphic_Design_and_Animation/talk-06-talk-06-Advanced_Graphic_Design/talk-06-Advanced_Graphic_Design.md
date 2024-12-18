@@ -1,6 +1,6 @@
 ---
 icon:
-  type: carbon:education
+  type: carbon:group-presentation
   color: 78909C
 ---
 Advanced Graphic Design

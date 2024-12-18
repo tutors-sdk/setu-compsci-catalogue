@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:report
+  color: 455A64
 ---
 Web App Development 2
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:lecture
+  color: 263238
 ---
 Project 2 IT (Prototyping)
 

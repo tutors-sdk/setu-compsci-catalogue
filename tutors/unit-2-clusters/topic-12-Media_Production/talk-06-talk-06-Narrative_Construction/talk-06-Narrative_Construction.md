@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:group-presentation
+  color: 78909C
 ---
 Narrative Construction
 

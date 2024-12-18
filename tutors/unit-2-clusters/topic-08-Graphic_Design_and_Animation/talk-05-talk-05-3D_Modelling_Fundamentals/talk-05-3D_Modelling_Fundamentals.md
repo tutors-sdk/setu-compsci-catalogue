@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:concept
+  color: 263238
 ---
 3D Modelling Fundamentals
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:study-next
+  color: 455A64
 ---
 Mathematical Methods
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:template
-  color: 607D8B
+  type: carbon:assembly
+  color: 78909C
 ---
 Applied Biomechanics
 

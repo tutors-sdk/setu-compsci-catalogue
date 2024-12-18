@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:cognitive
+  color: 37474F
 ---
 Application Security
 

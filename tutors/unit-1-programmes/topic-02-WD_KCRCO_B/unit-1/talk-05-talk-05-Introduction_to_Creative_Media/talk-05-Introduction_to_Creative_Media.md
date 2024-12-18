@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:skill-level-advanced
-  color: 546E7A
+  type: carbon:book
+  color: 607D8B
 ---
 Introduction to Creative Media
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:development
-  color: 455A64
+  type: carbon:assembly
+  color: 78909C
 ---
 Advanced 3D Game Development
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:education
-  color: 78909C
+  type: carbon:notebook
+  color: 263238
 ---
 Applied Cryptography
 
