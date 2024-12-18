@@ -1,3 +1,0 @@
-# Computing and Mathematics
-
-
