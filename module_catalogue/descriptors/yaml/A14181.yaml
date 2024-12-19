@@ -1,0 +1,72 @@
+aim: This module aims to provide students with fundamental knowledge and skills related
+  to software validation and verification.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domain(s).'
+- '40%-49%: Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).'
+- '50%-59%: Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+basename: A14181_-_CaM_-_InfoSystandMode_-_Software_Validation_and_Evolution
+co-requisites: []
+code: A14181
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Software Validation and Evolution
+indicative content:
+- Validation planning
+- Testing fundamentals, including test plan creation and test cases
+- Black-box and white-box testing techniques, reviews, and static analysis techniques
+- Unit, integration, validation, performance, regression, and system testing
+- Object-oriented testing
+- Inspections
+- Software mainteneance, reuse and versioning
+learning and teaching methods:
+- This module will be presented by a combination of lectures and computer-based practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practicals will be used so that students put their knowledge into parctice to
+  either design or implement test plans and test cases.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Lab
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Compare and explain testing approaches based on their types, methods and levels.
+- Compare and explain the validation and verification processes.
+- Produce a test plan for a small- or medium-size project.
+- Design and perform manual and automated tests using relevant tools.
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0082
+  title: Higher Diploma in Science in Business Systems Analysis
+requested resources:
+- 'Room Type: Computer Lab'
+- 'EQUIPMENT: MAC PCs'
+short title: SW Validation and Evolution
+supplementary material:
+- 'Rakitin, S. \emph{Software Verification and Validation for Practitioners and Managers,
+  2 Edition}. 2nd. MA, USA: Artech House Print on Demand, 2001.'
+- 'Saleh, H. \emph{JavaScript Unit testing}. Mumbai, India: Packt Publishing, 2013.'

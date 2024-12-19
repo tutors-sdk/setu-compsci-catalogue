@@ -1,0 +1,29 @@
+author: Brenda Mullally
+change: ''
+co-ordinator: ''
+code: A13665
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Data Analytics
+programmes:
+- null
+- programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: DATA-0013
+- programme: WD_SAFICT_G
+  semester: 3
+  stage: 6
+  status: M
+  timetable: DATA-0013
+ref: A13665
+short name: Data Analytics
+special regulations: null
+subgroup: Database and Analytics
+tags:
+- all
+- autumn
+timetable: DATA-0013
+verified: true

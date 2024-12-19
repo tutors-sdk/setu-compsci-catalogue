@@ -1,0 +1,23 @@
+author: Maria Cahill
+change: ''
+co-ordinator: ''
+code: A13741
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Career Development Skills
+programmes:
+- programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: DEVE-0006
+ref: A13741
+short name: Career Development Skills
+special regulations: null
+subgroup: Professional Skills
+tags:
+- spring
+- all
+timetable: DEVE-0006
+verified: true

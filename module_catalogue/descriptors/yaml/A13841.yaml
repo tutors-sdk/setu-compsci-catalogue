@@ -1,0 +1,90 @@
+aim: This module introduces the student to the principles of good design for web interfaces.
+  These principles are grounded in Cognitive Science and HCI (Human Computer Interaction)
+  theories. Web Design introduces the student to the basic principles and development
+  of web based applications, and examines related web accessibility guidelines. The
+  student will become competent in raw HTML (HyperText Markup Language) and CSS (Cascading
+  Style Sheets), demonstrated by the creation of a simple interactive website.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts that relate to HCI and Web
+  Design.'
+- '40%-49%: Be able to interpret and describe key concepts that relate to HCI and
+  Web Design.'
+- '50%-59%: Ability to discuss key concepts that relate to HCI and Web Design and
+  ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems that relate to HCI and Web Design by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse HCI and Web Design
+  solutions to a high standard for a range of both complex and unforeseen problems
+  through the use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 30
+- learning outcomes: 2,3,4
+  main: false
+  name: Project
+  weighting: 70
+basename: A13841_-_CaM_-_SoftandWebDeve_-_HCI_and_Web_Design
+co-requisites: []
+code: A13841
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"CSS Tutorial." W3Schools. http://www.w3schools.com/css/'
+- '"HTML Tutorial." W3Schools. http://www.w3schools.com/html/'
+full title: HCI and Web Design
+indicative content:
+- 'Cognitive Science: Introduction; Memory; Attention; Perception'
+- 'HCI: Guidelines; User requirements; Usability; Interface Design; Evaluation'
+- 'Web Design: page layout and web design principles'
+- 'World-wide-web: Overview; accessibility; navigation; document construction'
+- 'HTML: structure; text; images; tables; forms; DIVs; audio; video'
+- 'CSS: text; images; tables; forms; positioning'
+- Responsive web design
+learning and teaching methods:
+- The lectures will introduce the theory content to the student.
+- The student will be encouraged to participate in class discussions and ask questions
+  to support their learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures, and allow them to develop practical skills in web development.
+- Supplementary material will be accessible online.
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 87
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Evaluate a website against cognitive science theories and HCI guidelines.
+- Critique interface design guidelines and design a usable web interface that adheres
+  to accepted standards.
+- Develop an interactive website using HTML and CSS.
+- Evaluate the website developed in relation to accepted standards.
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0390
+  title: Higher Diploma in Science in Business Systems Analysis
+requested resources:
+- 'Room Type: Computer Lab'
+short title: HCI and Web Design
+supplementary material:
+- 'Duckett, J. \emph{HTML & CSS: Design and Build Websites}. 1st ed. Indiana: Wiley,
+  2011.'
+- 'Sharp, H., Y. Rogers and J. Preece. \emph{Interaction Design: Beyond Human-Computer
+  Interaction}. 4th ed. West Sussex: Wiley, 2015.'

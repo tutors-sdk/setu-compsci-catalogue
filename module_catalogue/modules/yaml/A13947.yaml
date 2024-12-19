@@ -1,0 +1,23 @@
+author: Rosanne Birney/Neil Quinlan
+change: ''
+co-ordinator: ''
+code: A13947
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Work Placement (15 credits)
+programmes:
+- programme: WD_KBUSY_G
+  semester: 3
+  stage: 1
+  status: M
+  timetable: PLAC-0135
+ref: A13947
+short name: Work Placement (15 credits)
+special regulations: null
+subgroup: Professional Skills
+tags:
+- all
+- autumn
+timetable: PLAC-0135
+verified: true

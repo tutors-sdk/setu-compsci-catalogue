@@ -1,0 +1,88 @@
+aim: The purpose of this module is to enable learners to evaluate their current career
+  situation, and develop future plans and goals in the form of a career proposal.
+  The module will allow learners the opportunity to identify career-related strengths,
+  skills and competencies, to critically reflect on preferred work environments and
+  to identify needs for further information. Elements of career management and development
+  covered by the module include social media and online reputation, networking and
+  collaboration, as well as CV and applications preparation and interview skills.
+  Dedicated resources will be available to support participants.
+assessment criteria:
+- '<40%: Unable to present material which illustrates knowledge of the career development
+  process. No practice interview.'
+- '40%-49%: Able to present material which illustrates knowledge of the career development
+  process. Indicates knowledge of the interview process.'
+- '50%-59%: Ability to present a career development portfolio which shows the application
+  of knowledge regarding the career development process. Applies knowledge of the
+  interview process, illustrated through preparation and performance during the practice
+  interview.'
+- '60%-69%: Be able to present a career development portfolio which shows analysis
+  of career planning and development. Presents self as a professional in the practice
+  interview.'
+- '70%-100%: All the above to an excellent level. Be able to demonstrate through the
+  portfolio delivered a high level of evaluation regarding their career development.
+  Excellent performance in the practice interview.'
+assessment methods:
+- learning outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 1, 2, 3, 4, 5
+  main: false
+  name: Portfolio
+  weighting: 100
+basename: A13741_-_CaM_-_ProfSkil_-_Career_Development_Skills
+co-requisites: []
+code: A13741
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material:
+- '"gradireland." gradireland.com. https://gradireland.com/'
+full title: Career Development Skills
+indicative content:
+- 'Self-awareness: reflection workshops and exercises to identify personal skills,
+  abilities, interests and motivations and relate these to career opportunities'
+- 'Social Media and Online Reputation: how to use and leverage social networks to
+  maximise chances of getting a job'
+- Investigating the job market in a discipline / industry area
+- 'Career Preparation: CV preparation, career planning, e-portfolio development'
+- 'Interviews: preparing and delivering an interview presentation'
+- 'Career Planning: developing an appropriate personal career development plan'
+learning and teaching methods:
+- The module will be delivered by a combination of lectures, group discussions, workshops,
+  individual and group presentations, simulation interviews and peer group feedback.
+learning modes:
+- full time: 12
+  name: Lecture
+  part time: ''
+- full time: 24
+  name: Practical
+  part time: ''
+- full time: 99
+  name: Independent Learning
+  part time: ''
+learning outcomes:
+- Critique their personal strengths and aptitudes, and critically evaluate their position
+  in the relevant jobs market.
+- Construct an appropriate personal career development plan, with an appropriate industry
+  focus.
+- Create an advanced graduate career portfolio and develop skills for different employment
+  interview scenarios.
+- Evaluate the theoretical concepts of experiential and work-based learning.
+- Evaluate the role of critical reflection in work based learning.
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: DEVE-0006
+  title: Higher Diploma in Science in Business Systems Analysis
+requested resources:
+- 'Lecture Room: Loose Seated'
+short title: Career Development Skills
+supplementary material:
+- 'Robbins, S.P. and P.L. Hunsaker. \emph{Training in Interpersonal Skills}. 6th ed.
+  USA: Pearson Education, 2012.'

@@ -1,0 +1,23 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A34041
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Business Systems and Software Engineering
+programmes:
+- programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0983
+ref: A34041
+short name: Bus Sys and S/W Eng
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0983
+verified: false

@@ -1,0 +1,154 @@
+basename: WD_KBUSY_G_-_HDip_in_Science_in_Business_Systems_Analysis
+code: WD_KBUSY_G
+dirty: false
+semesters:
+  1:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13665
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Data Analytics
+      part time: {}
+      status: M
+      timetable: DATA-0013
+    - assessments:
+        Continuous Assessment: 100
+      code: A36101
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Database Design and Implementation
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: COMP-0621
+    - assessments:
+        Continuous Assessment: 100
+      code: A34021
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Enterprise Applications for Business
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ENTR-0043
+    - assessments:
+        Continuous Assessment: 100
+      code: A13841
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: HCI and Web Design
+      part time: {}
+      status: M
+      timetable: COMP-0390
+  2:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A34041
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Business Systems and Software Engineering
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: COMP-0983
+    - assessments:
+        Continuous Assessment: 100
+      code: A13741
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 99
+        Lecture: 12
+        Practical: 24
+      name: Career Development Skills
+      part time: {}
+      status: M
+      timetable: DEVE-0006
+    - assessments:
+        Continuous Assessment: 100
+      code: A33861
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Enterprise Data Interchange
+      part time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      status: M
+      timetable: ENTR-0044
+    - assessments:
+        Continuous Assessment: 100
+      code: A13943
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lecture: 24
+        Practical: 24
+      name: Project and Change Management
+      part time: {}
+      status: M
+      timetable: PROJ-0150
+    - assessments:
+        Continuous Assessment: 100
+      code: A14181
+      credits: 5
+      external: false
+      full time:
+        Independent Learning: 87
+        Lab: 24
+        Lecture: 24
+      name: Software Validation and Evolution
+      part time: {}
+      status: M
+      timetable: COMP-0082
+  3:
+    elective: []
+    mandatory:
+    - assessments:
+        Continuous Assessment: 100
+      code: A13947
+      credits: 15
+      external: false
+      full time:
+        Independent Learning: 399
+        Tutorial: 6
+      name: Work Placement (15 credits)
+      part time: {}
+      status: M
+      timetable: PLAC-0135

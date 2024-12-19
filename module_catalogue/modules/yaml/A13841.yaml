@@ -1,0 +1,23 @@
+author: Rosanne Birney
+change: ''
+co-ordinator: ''
+code: A13841
+dirty: false
+external: false
+group: Computing and Mathematics
+name: HCI and Web Design
+programmes:
+- programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: COMP-0390
+ref: A13841
+short name: HCI and Web Design
+special regulations: null
+subgroup: Software and Web Development
+tags:
+- all
+- autumn
+timetable: COMP-0390
+verified: false

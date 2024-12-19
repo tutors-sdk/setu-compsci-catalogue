@@ -1,0 +1,23 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A33861
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Enterprise Data Interchange
+programmes:
+- programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: ENTR-0044
+ref: A33861
+short name: EDI
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: ENTR-0044
+verified: false

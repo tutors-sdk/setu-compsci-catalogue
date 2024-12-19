@@ -1,0 +1,23 @@
+author: Patrick Felicia
+change: ''
+co-ordinator: ''
+code: A14181
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Software Validation and Evolution
+programmes:
+- programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0082
+ref: A14181
+short name: SW Validation and Evolution
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- spring
+- all
+timetable: COMP-0082
+verified: true

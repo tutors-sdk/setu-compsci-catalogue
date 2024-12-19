@@ -1,0 +1,93 @@
+aim: The objective of this module is to provide students with the understanding of
+  techniques and methods used to model business systems to enable the development
+  of reliable quality software. Students will analyse and design a system using various
+  business and software analysis tools in order to gain an insight into how they can
+  be utilised in the business modelling and software engineering process.
+assessment criteria:
+- '<40%: Unable to interpret and describe key concepts of Business Process Analysis
+  and Software Engineering.'
+- '40%-49%: Be able to interpret and describe key concepts of software engineering.'
+- '50%-59%: Ability to understand and apply the basics for BPM and Software Engineering
+  Modelling'
+- '60%-69%: Be able to select appropriate methodologies and apply the techniques of
+  BPM and SE modelling to complete, real world systems'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex systems and unforeseen problems through
+  the use and modification of appropriate skills and tools.'
+assessment methods:
+- learning outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 25
+- learning outcomes: 2,3,4
+  main: false
+  name: Assignment
+  weighting: 60
+- learning outcomes: 1,2,5
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+basename: A34041_-_CaM_-_InfoSystandMode_-_Business_Systems_and_Software_Engineering
+co-requisites: []
+code: A34041
+credits: 5
+department: Computing and Mathematics
+dirty: false
+essential material: []
+full title: Business Systems and Software Engineering
+indicative content:
+- Evolution of the Business to Software Analysis Process
+- Software Processes and Methodologies
+- Requirements Engineering
+- Business Process Modelling
+- Object Oriented Modelling
+learning and teaching methods:
+- This module will be presented using a combination of lectures and practical classes
+- The lectures will be used to introduce new topics and their related concepts.
+- In practical classes, students will apply these concepts and engage with DevOps
+  tools in order to gain experience in the software engineering process.
+- For online delivery, the lectures and practical's will be a combination of comprehensive
+  rich media instructional content (notes), interactive synchronous video (live webinars/classes)
+  and asynchronous interactive video playback (on-demand).
+learning modes:
+- full time: 24
+  name: Lecture
+  part time: 24
+- full time: 24
+  name: Practical
+  part time: 24
+- full time: 87
+  name: Independent Learning
+  part time: 87
+learning outcomes:
+- Analyse the function of the BSA in software engineering.
+- Identify the business and software requirements.
+- Model business systems using BMP tools.
+- Evolve the business models into software models using UML
+- Consider the importance of software testing and software quality in the development
+  of software systems.
+level: Advanced
+pre-requisites: []
+programmes:
+- dirty: true
+  programme: WD_KBUSY_G
+  semester: 2
+  stage: 1
+  status: M
+  timetable: COMP-0983
+  title: Higher Diploma in Science in Business Systems Analysis
+requested resources:
+- 'COMPUTER LAB: BYOD Lab'
+short title: Bus Sys and S/W Eng
+supplementary material:
+- 'Dennis, A, B Wixom and D Tegarden. \emph{Systems Analysis and Design}. 6th . New
+  York: Wiley, 2021.'
+- 'Dumas, M., M. La Rosa, J. Mendling and H. Reijers. \emph{Fundamentals of Business
+  Process Management}. 2nd ed. Boston: Springer, 2018.'
+- 'Pressman, R. and B. Maxim. \emph{Software Engineering: A Practitioner''s Approach}.
+  9th ed. New York: McGraw-Hill, 2019.'
+- 'Sommerville, I. \emph{Software Engineering}. 10th ed. Boston: Pearson, 2015.'

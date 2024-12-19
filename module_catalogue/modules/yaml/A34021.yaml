@@ -1,0 +1,23 @@
+author: ''
+change: ''
+co-ordinator: ''
+code: A34021
+dirty: false
+external: false
+group: Computing and Mathematics
+name: Enterprise Applications for Business
+programmes:
+- programme: WD_KBUSY_G
+  semester: 1
+  stage: 1
+  status: M
+  timetable: ENTR-0043
+ref: A34021
+short name: Ent App for Bus
+special regulations: null
+subgroup: Information Systems and Modelling
+tags:
+- all
+- autumn
+timetable: ENTR-0043
+verified: false
