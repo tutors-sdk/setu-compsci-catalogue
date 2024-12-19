@@ -1,7 +1,7 @@
 ---
 icon:
-  type: vscode-icons:file-type-sql
-  color: 00758F
+  type: mdi:database
+  color: 64FFDA
 ---
 NoSQL Databases
 

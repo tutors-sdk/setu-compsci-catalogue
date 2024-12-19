@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:document-bold
-  color: 78909C
+  type: mdi:cube-outline
+  color: 536DFE
 ---
 Mathematics for Graphics and Statistics
 

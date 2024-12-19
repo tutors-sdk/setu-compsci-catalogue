@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:assembly-bold
-  color: 78909C
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Network Forensics
 

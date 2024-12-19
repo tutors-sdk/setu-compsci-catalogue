@@ -1,7 +1,7 @@
 ---
 icon:
-  type: logos:git
-  color: F05032
+  type: mdi:memory
+  color: 536DFE
 ---
 Digital Transformation of Information Systems
 

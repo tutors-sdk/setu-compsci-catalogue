@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:document-bold
-  color: 78909C
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Study Abroad 1
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:kanban-bold
-  color: FFA726
+  type: mdi:sitemap
+  color: 448AFF
 ---
 Business Information Systems and Processes
 

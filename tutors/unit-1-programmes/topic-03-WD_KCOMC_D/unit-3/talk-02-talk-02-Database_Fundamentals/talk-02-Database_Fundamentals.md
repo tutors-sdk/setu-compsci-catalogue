@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:database-bold
-  color: 26A69A
+  type: mdi:table
+  color: E040FB
 ---
 Database Fundamentals
 

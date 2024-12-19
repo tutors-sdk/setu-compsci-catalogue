@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:workspace-bold
-  color: 546E7A
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Voluntary Organisation Project 2
 

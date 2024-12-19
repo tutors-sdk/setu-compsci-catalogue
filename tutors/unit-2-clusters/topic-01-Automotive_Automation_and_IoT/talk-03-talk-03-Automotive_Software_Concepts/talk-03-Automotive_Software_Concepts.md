@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:circuit-board
-  color: 7E57C2
+  type: mdi:car-cog
+  color: E040FB
 ---
 Automotive Software Concepts
 

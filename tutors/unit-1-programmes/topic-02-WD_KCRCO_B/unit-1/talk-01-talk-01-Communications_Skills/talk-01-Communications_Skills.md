@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:star-bold
-  color: E65100
+  type: mdi:palette
+  color: FF4081
 ---
 Communications Skills
 

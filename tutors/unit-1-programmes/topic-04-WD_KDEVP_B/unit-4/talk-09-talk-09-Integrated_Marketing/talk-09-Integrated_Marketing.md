@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:template-bold
-  color: 607D8B
+  type: mdi:book-open
+  color: 00FF84
 ---
 Integrated Marketing
 

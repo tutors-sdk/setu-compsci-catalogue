@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:group-presentation-bold
-  color: 78909C
+  type: mdi:book-open
+  color: 00FF84
 ---
 User Experience Design
 

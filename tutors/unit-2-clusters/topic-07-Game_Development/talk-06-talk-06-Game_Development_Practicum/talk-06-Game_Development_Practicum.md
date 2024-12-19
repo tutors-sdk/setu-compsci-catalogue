@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:report-bold
-  color: 455A64
+  type: mdi:book-minus-multiple
+  color: 0A0A23
 ---
 Game Development Practicum
 

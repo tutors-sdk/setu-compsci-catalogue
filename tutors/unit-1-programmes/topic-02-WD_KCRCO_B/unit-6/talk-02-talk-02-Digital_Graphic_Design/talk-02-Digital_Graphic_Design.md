@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-basic-bold
-  color: 78909C
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Digital Graphic Design
 

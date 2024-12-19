@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:presentation-file-bold
-  color: 37474F
+  type: mdi:book-open
+  color: 00FF84
 ---
 Data Mining 2
 

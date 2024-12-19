@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:chart-scatter-plot
-  color: B2EBF2
+  type: mdi:chart-bell-curve-cumulative
+  color: EEFF41
 ---
 Statistical Analysis
 

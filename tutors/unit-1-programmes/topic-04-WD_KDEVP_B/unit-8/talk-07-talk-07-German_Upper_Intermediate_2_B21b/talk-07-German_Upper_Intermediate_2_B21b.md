@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:forum-bold
-  color: 607D8B
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 German Upper Intermediate 2 (B2.1b)
 

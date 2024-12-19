@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:study-next-bold
-  color: 455A64
+  type: mdi:atom
+  color: 76FF03
 ---
 Physics 1
 

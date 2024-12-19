@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:chart-line
-  color: FF8A65
+  type: mdi:chart-bell-curve
+  color: EEFF41
 ---
 Data Visualisation
 

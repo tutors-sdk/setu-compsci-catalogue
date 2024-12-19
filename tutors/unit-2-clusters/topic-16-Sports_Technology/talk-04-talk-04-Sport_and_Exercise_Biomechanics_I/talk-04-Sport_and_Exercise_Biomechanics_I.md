@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-basic-bold
-  color: 78909C
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 Sport & Exercise Biomechanics I
 

@@ -1,7 +1,7 @@
 ---
 icon:
   type: mdi:clipboard-check
-  color: FFB74D
+  color: 18FFFF
 ---
 Voluntary Organisation Project 1
 

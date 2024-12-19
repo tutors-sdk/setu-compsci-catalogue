@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:assembly-cluster-bold
-  color: 263238
+  type: mdi:graph
+  color: 18FFFF
 ---
 Model-Based Development
 

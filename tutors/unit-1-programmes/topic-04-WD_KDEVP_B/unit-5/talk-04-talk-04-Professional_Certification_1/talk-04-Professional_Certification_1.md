@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:books-bold
-  color: 4DD0E1
+  type: mdi:book-open
+  color: 00FF84
 ---
 Professional Certification 1
 

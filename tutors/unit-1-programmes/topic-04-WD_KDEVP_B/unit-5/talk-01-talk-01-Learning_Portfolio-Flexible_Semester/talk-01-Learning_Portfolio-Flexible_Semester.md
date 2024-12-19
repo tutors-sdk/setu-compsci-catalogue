@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:course-bold
-  color: 546E7A
+  type: mdi:book-open
+  color: 00FF84
 ---
 Learning Portfolio-Flexible Semester
 

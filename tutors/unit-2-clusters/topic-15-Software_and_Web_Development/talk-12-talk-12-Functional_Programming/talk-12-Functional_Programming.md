@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:book-bold
-  color: 607D8B
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Functional Programming
 

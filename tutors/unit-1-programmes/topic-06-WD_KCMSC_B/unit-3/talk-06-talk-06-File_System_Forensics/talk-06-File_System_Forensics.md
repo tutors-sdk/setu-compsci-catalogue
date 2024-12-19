@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:catalog-bold
-  color: 607D8B
+  type: mdi:book-minus
+  color: 58CC02
 ---
 File System Forensics
 

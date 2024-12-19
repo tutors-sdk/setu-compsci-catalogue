@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:concept-bold
-  color: 263238
+  type: mdi:encryption
+  color: FFFF00
 ---
 Applied Cryptography
 

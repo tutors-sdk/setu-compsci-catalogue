@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:desktop-tower-monitor
-  color: BA68C8
+  type: mdi:code-braces
+  color: FF4081
 ---
 Computer Systems 1
 

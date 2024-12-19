@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-advanced-bold
-  color: 546E7A
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Software Engineering Practice
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-intermediate-bold
-  color: 607D8B
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Network Theory
 

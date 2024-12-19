@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:data-base-bold
-  color: 37474F
+  type: mdi:book-open
+  color: 00FF84
 ---
 French Upper Intermediate 1 (B2.1a)
 

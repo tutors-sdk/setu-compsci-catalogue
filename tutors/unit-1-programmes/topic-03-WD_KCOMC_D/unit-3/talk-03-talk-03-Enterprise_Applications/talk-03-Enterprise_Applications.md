@@ -1,7 +1,7 @@
 ---
 icon:
   type: mdi:office-building
-  color: F57C00
+  color: 18FFFF
 ---
 Enterprise Applications
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:application-web
-  color: 7E57C2
+  type: mdi:book-open
+  color: 00FF84
 ---
 Project 1 (Development)
 

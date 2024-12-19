@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:forum-bold
-  color: 607D8B
+  type: mdi:book-education
+  color: 02262B
 ---
 Digital Photography
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:book-bold
-  color: 607D8B
+  type: mdi:book-education
+  color: 02262B
 ---
 Mathematics for Problem Solving
 

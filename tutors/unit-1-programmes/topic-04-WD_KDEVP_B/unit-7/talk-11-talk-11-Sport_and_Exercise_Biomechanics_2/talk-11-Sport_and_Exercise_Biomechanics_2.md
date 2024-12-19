@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:template-bold
-  color: 607D8B
+  type: mdi:book-education
+  color: 02262B
 ---
 Sport & Exercise Biomechanics 2
 

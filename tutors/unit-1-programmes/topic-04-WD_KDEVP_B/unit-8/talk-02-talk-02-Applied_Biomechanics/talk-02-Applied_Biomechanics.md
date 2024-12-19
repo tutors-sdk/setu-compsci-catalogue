@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:certificate-bold
-  color: 546E7A
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Applied Biomechanics
 

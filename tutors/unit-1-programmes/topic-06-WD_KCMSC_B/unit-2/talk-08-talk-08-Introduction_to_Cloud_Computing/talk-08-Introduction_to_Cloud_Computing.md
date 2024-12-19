@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:cloud-bold
-  color: 29B6F6
+  type: mdi:cloud
+  color: FFAB40
 ---
 Introduction to Cloud Computing
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:report-bold
-  color: 455A64
+  type: mdi:book-education
+  color: 02262B
 ---
 Statistics and Probability
 

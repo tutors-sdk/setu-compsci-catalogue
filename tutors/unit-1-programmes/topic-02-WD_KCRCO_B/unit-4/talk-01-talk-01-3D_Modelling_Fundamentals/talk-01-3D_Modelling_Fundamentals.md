@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:workspace-bold
-  color: 546E7A
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 3D Modelling Fundamentals
 

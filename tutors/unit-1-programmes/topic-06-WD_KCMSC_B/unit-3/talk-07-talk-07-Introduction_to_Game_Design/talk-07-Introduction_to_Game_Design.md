@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:notebook-bold
-  color: 263238
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 Introduction to Game Design
 

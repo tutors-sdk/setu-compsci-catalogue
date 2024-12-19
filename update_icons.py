@@ -1,191 +1,164 @@
 import pandas as pd
+import random
 
 # Define a mapping of keywords to icons and colors - with unique icons for each type
 icon_mapping = {
-    # Programming Languages
-    'Python': {'icon': 'logos:python', 'color': '4B8BBE'},
-    'Java': {'icon': 'logos:java', 'color': 'F89820'},
-    'JavaScript': {'icon': 'logos:javascript', 'color': 'F7DF1E'},
-    'HTML': {'icon': 'logos:html-5', 'color': 'E34F26'},
-    'CSS': {'icon': 'logos:css-3', 'color': '1572B6'},
-    'SQL': {'icon': 'vscode-icons:file-type-sql', 'color': '00758F'},
+    # Automotive & IoT
+    'Advanced Driver Assistance': {'icon': 'mdi:car-cruise-control', 'color': 'FF5252'},
+    'Automotive Diagnostic': {'icon': 'mdi:car-wrench', 'color': 'FF4081'},
+    'Automotive Software': {'icon': 'mdi:car-cog', 'color': 'E040FB'},
+    'Connected Car': {'icon': 'mdi:car-connected', 'color': '7C4DFF'},
+    'Embedded Systems': {'icon': 'mdi:chip', 'color': '536DFE'},
+    'Industrial Automation': {'icon': 'mdi:robot-industrial', 'color': '448AFF'},
+    'IoT': {'icon': 'mdi:iot', 'color': '40C4FF'},
+    'Model-Based': {'icon': 'mdi:graph', 'color': '18FFFF'},
     
-    # Development concepts
-    'Web': {'icon': 'carbon:web-services', 'color': '42A5F5'},
-    'API': {'icon': 'carbon:api', 'color': '7E57C2'},
-    'Database': {'icon': 'carbon:database', 'color': '26A69A'},
-    'Network': {'icon': 'carbon:network', 'color': 'FF7043'},
-    'Cloud': {'icon': 'carbon:cloud', 'color': '29B6F6'},
-    'Server': {'icon': 'carbon:bare-metal-server', 'color': 'EC407A'},
+    # Database & Analytics
+    'NoSQL': {'icon': 'mdi:database', 'color': '64FFDA'},
+    'Business Intelligence': {'icon': 'mdi:chart-box', 'color': '69F0AE'},
+    'Data Warehouse': {'icon': 'mdi:database-clock', 'color': '76FF03'},
+    'Data Analytics': {'icon': 'mdi:chart-bell-curve', 'color': 'EEFF41'},
+    'Data Mining': {'icon': 'mdi:pickaxe', 'color': 'FFFF00'},
+    'Data Science': {'icon': 'mdi:flask', 'color': 'FFD740'},
+    'Database Admin': {'icon': 'mdi:database-cog', 'color': 'FFAB40'},
+    'Database Design': {'icon': 'mdi:database-edit', 'color': 'FF6E40'},
+    'Database Systems': {'icon': 'mdi:database-sync', 'color': 'FF5252'},
+    'Multimedia Database': {'icon': 'mdi:database-image', 'color': 'FF4081'},
+    'Relational Database': {'icon': 'mdi:table', 'color': 'E040FB'},
     
-    # Software Engineering
-    'Testing': {'icon': 'carbon:test', 'color': '66BB6A'},
-    'Debug': {'icon': 'carbon:debug', 'color': 'FFA726'},
-    'Code': {'icon': 'carbon:code', 'color': '5C6BC0'},
-    'Git': {'icon': 'logos:git', 'color': 'F05032'},
-    'Algorithm': {'icon': 'carbon:flow', 'color': '9575CD'},
-    'Data Structure': {'icon': 'carbon:data-structured', 'color': '4DB6AC'},
+    # Electronics & Engineering
+    'Electronics': {'icon': 'mdi:circuit-board', 'color': '7C4DFF'},
+    'Digital': {'icon': 'mdi:memory', 'color': '536DFE'},
+    'Analog': {'icon': 'mdi:sine-wave', 'color': '448AFF'},
+    'Microcontroller': {'icon': 'mdi:chip', 'color': '40C4FF'},
+    'PCB': {'icon': 'mdi:circuit-board', 'color': '18FFFF'},
     
-    # System & Architecture
-    'Operating System': {'icon': 'carbon:terminal', 'color': '78909C'},
-    'Architecture': {'icon': 'carbon:infrastructure', 'color': '8D6E63'},
-    'System': {'icon': 'carbon:system', 'color': 'BA68C8'},
-    'Hardware': {'icon': 'carbon:hardware', 'color': 'F06292'},
-    'Software': {'icon': 'carbon:software', 'color': '4FC3F7'},
-    'Memory': {'icon': 'carbon:chip', 'color': 'FFB74D'},
+    # Forensics & Security
+    'Forensics': {'icon': 'mdi:magnify-scan', 'color': '64FFDA'},
+    'Security': {'icon': 'mdi:shield-lock', 'color': '69F0AE'},
+    'Cybersecurity': {'icon': 'mdi:security', 'color': '76FF03'},
+    'Network Security': {'icon': 'mdi:shield-network', 'color': 'EEFF41'},
+    'Cryptography': {'icon': 'mdi:encryption', 'color': 'FFFF00'},
     
-    # Data Science & Analytics
-    'Data': {'icon': 'carbon:data-vis-1', 'color': '4DD0E1'},
-    'Analytics': {'icon': 'carbon:chart-line', 'color': 'FF8A65'},
-    'Statistics': {'icon': 'carbon:chart-histogram', 'color': '81C784'},
-    'Machine Learning': {'icon': 'carbon:machine-learning', 'color': 'AB47BC'},
-    'AI': {'icon': 'carbon:ai-status', 'color': '7986CB'},
-    'Visualization': {'icon': 'carbon:chart-bubble', 'color': '4DB6AC'},
+    # Game Development
+    'Game': {'icon': 'mdi:gamepad-variant', 'color': 'FFD740'},
+    'Game Engine': {'icon': 'mdi:unity', 'color': 'FFAB40'},
+    'Game Physics': {'icon': 'mdi:physics', 'color': 'FF6E40'},
+    'Game AI': {'icon': 'mdi:robot', 'color': 'FF5252'},
     
-    # IoT & Embedded
-    'IoT': {'icon': 'carbon:iot-platform', 'color': 'FF7043'},
-    'Embedded': {'icon': 'carbon:chip', 'color': '9575CD'},
-    'Sensors': {'icon': 'carbon:sensor', 'color': '4DB6AC'},
-    'Microcontroller': {'icon': 'carbon:microservices', 'color': '7E57C2'},
+    # Graphics & Animation
+    'Graphics': {'icon': 'mdi:palette', 'color': 'FF4081'},
+    'Design': {'icon': 'mdi:pencil-ruler', 'color': 'E040FB'},
+    'Animation': {'icon': 'mdi:animation', 'color': '7C4DFF'},
+    '3D': {'icon': 'mdi:cube-outline', 'color': '536DFE'},
     
-    # Research & Innovation
-    'Research': {'icon': 'carbon:research', 'color': '00ACC1'},
-    'Innovation': {'icon': 'carbon:idea', 'color': '26C6DA'},
-    'Study': {'icon': 'carbon:study', 'color': '4DD0E1'},
-    'Investigation': {'icon': 'carbon:search', 'color': '80DEEA'},
-    'Analysis': {'icon': 'carbon:analytics-reference', 'color': 'B2EBF2'},
-    'Experiment': {'icon': 'carbon:chemistry', 'color': '84FFFF'},
+    # Information Systems
+    'Information Systems': {'icon': 'mdi:sitemap', 'color': '448AFF'},
+    'Systems Analysis': {'icon': 'mdi:chart-gantt', 'color': '40C4FF'},
+    'Enterprise': {'icon': 'mdi:office-building', 'color': '18FFFF'},
+    'Business Process': {'icon': 'mdi:flowchart', 'color': '64FFDA'},
     
-    # Project & Professional
-    'Project': {'icon': 'carbon:task', 'color': 'FFB74D'},
-    'Management': {'icon': 'carbon:task-complete', 'color': 'FFA726'},
-    'Professional': {'icon': 'carbon:user-profile', 'color': 'FF9800'},
-    'Business': {'icon': 'carbon:analytics', 'color': 'FB8C00'},
-    'Enterprise': {'icon': 'carbon:enterprise', 'color': 'F57C00'},
-    'Industry': {'icon': 'carbon:industry', 'color': 'EF6C00'},
-    'Skills': {'icon': 'carbon:skill-level', 'color': 'E65100'},
+    # Mathematics & Physics
+    'Mathematics': {'icon': 'mdi:function', 'color': '69F0AE'},
+    'Physics': {'icon': 'mdi:atom', 'color': '76FF03'},
+    'Statistics': {'icon': 'mdi:chart-bell-curve-cumulative', 'color': 'EEFF41'},
+    'Linear Algebra': {'icon': 'mdi:matrix', 'color': 'FFFF00'},
     
-    # Software Engineering specific
-    'Programming Fundamentals': {'icon': 'carbon:code', 'color': '9575CD'},
-    'Software Engineering': {'icon': 'carbon:application-web', 'color': '7E57C2'},
-    'Development Process': {'icon': 'carbon:delivery', 'color': '673AB7'},
+    # Networks & Cloud
+    'Networks': {'icon': 'mdi:lan', 'color': 'FFD740'},
+    'Cloud': {'icon': 'mdi:cloud', 'color': 'FFAB40'},
+    'DevOps': {'icon': 'mdi:infinity', 'color': 'FF6E40'},
+    'Infrastructure': {'icon': 'mdi:server', 'color': 'FF5252'},
     
-    # Computing & Desktop alternatives
-    'Computing': {'icon': 'carbon:laptop', 'color': '42A5F5'},
-    'Computer': {'icon': 'carbon:computer', 'color': '1E88E5'},
-    'Desktop': {'icon': 'carbon:screen', 'color': '1976D2'},
-    'Workstation': {'icon': 'carbon:development', 'color': '1565C0'},
-    'Terminal': {'icon': 'carbon:terminal', 'color': '0D47A1'},
-    'Command Line': {'icon': 'carbon:terminal-3270', 'color': '0277BD'},
-    'Shell': {'icon': 'carbon:ibm-cloud-shell', 'color': '01579B'},
-    
-    # Additional Computing concepts with varied icons
-    'Computing Systems': {'icon': 'carbon:devices', 'color': '0288D1'},
-    'Computer Architecture': {'icon': 'carbon:bare-metal-server', 'color': '039BE5'},
-    'Operating System': {'icon': 'carbon:virtual-machine', 'color': '03A9F4'},
-    'System Software': {'icon': 'carbon:software-resource', 'color': '29B6F6'},
-    'Computer Hardware': {'icon': 'carbon:hardware-security-module', 'color': '4FC3F7'},
-    'Computer Network': {'icon': 'carbon:network-4', 'color': '81D4FA'},
+    # Software Development
+    'Software': {'icon': 'mdi:code-braces', 'color': 'FF4081'},
+    'Web': {'icon': 'mdi:web', 'color': 'E040FB'},
+    'Programming': {'icon': 'mdi:code-tags', 'color': '7C4DFF'},
+    'Development': {'icon': 'mdi:developer-board', 'color': '536DFE'},
+    'Testing': {'icon': 'mdi:test-tube', 'color': '448AFF'},
+    'Agile': {'icon': 'mdi:sync', 'color': '40C4FF'},
+    'Project': {'icon': 'mdi:clipboard-check', 'color': '18FFFF'},
     
     # Default (fallback)
-    'default': {'icon': 'carbon:education', 'color': '78909C'}
+    'default': {'icon': 'mdi:school', 'color': '78909C'}
 }
 
 # Default education-related icons for variety
 education_icons = [
-    {'icon': 'carbon:education', 'color': '78909C'},
-    {'icon': 'carbon:book', 'color': '607D8B'},
-    {'icon': 'carbon:course', 'color': '546E7A'},
-    {'icon': 'carbon:study-next', 'color': '455A64'},
-    {'icon': 'carbon:learning', 'color': '37474F'},
-    {'icon': 'carbon:notebook', 'color': '263238'},
-    {'icon': 'carbon:document', 'color': '78909C'},
-    {'icon': 'carbon:catalog', 'color': '607D8B'},
-    {'icon': 'carbon:workspace', 'color': '546E7A'},
-    {'icon': 'carbon:cognitive', 'color': '37474F'},
-    {'icon': 'carbon:concept', 'color': '263238'},
-    {'icon': 'carbon:skill-level-basic', 'color': '78909C'},
-    {'icon': 'carbon:skill-level-intermediate', 'color': '607D8B'},
-    {'icon': 'carbon:skill-level-advanced', 'color': '546E7A'},
-    {'icon': 'carbon:report', 'color': '455A64'},
-    {'icon': 'carbon:data-base', 'color': '37474F'},
-    {'icon': 'carbon:assembly-cluster', 'color': '263238'},
-    {'icon': 'carbon:assembly', 'color': '78909C'},
-    {'icon': 'carbon:template', 'color': '607D8B'},
-    {'icon': 'carbon:certificate', 'color': '546E7A'},
-    {'icon': 'carbon:portfolio', 'color': '455A64'},
-    {'icon': 'carbon:presentation-file', 'color': '37474F'},
-    {'icon': 'carbon:lecture', 'color': '263238'},
-    {'icon': 'carbon:group-presentation', 'color': '78909C'},
-    {'icon': 'carbon:forum', 'color': '607D8B'}
+    {'icon': 'mdi:book-open-page-variant', 'color': 'A435F0'},
+    {'icon': 'mdi:book-open-variant', 'color': '0056D2'},
+    {'icon': 'mdi:book-education', 'color': '02262B'},
+    {'icon': 'mdi:book-lock', 'color': 'F15B2A'},
+    {'icon': 'mdi:book-lock-open', 'color': '149EF2'},
+    {'icon': 'mdi:book-minus', 'color': '58CC02'},
+    {'icon': 'mdi:book-minus-multiple', 'color': '0A0A23'},
+    {'icon': 'mdi:book-multiple', 'color': '1F4056'},
+    {'icon': 'mdi:book-multiple-variant', 'color': '14BF96'},
+    {'icon': 'mdi:book-open', 'color': '00FF84'}
 ]
 
 def get_icon_and_color(title, aim):
     """Determine the most appropriate icon and color based on module title and aim."""
-    title_words = set(title.lower().split())
-    aim_words = set(aim.lower().split())
-    all_words = title_words.union(aim_words)
+    title = title.lower()
+    aim = aim.lower() if aim else ""
     
-    # Track used icons to ensure uniqueness
-    used_icons = set()
+    # Try to match based on title first
+    for key, value in icon_mapping.items():
+        if key.lower() in title:
+            return value['icon'], value['color']
     
-    # First try exact matches in title
-    for keyword in icon_mapping:
-        if keyword.lower() in title.lower():
-            icon_color = icon_mapping[keyword]
-            if icon_color['icon'] not in used_icons:
-                used_icons.add(icon_color['icon'])
-                return icon_color
+    # If no match in title, try matching based on aim
+    for key, value in icon_mapping.items():
+        if aim and key.lower() in aim:
+            return value['icon'], value['color']
     
-    # Then try matches in all words
-    for keyword in icon_mapping:
-        if keyword.lower() in ' '.join(all_words):
-            icon_color = icon_mapping[keyword]
-            if icon_color['icon'] not in used_icons:
-                used_icons.add(icon_color['icon'])
-                return icon_color
-    
-    # If no match found, try to make an educated guess based on common words
+    # If still no match, try to make an educated guess based on common words
     common_words = {
-        'system': icon_mapping['Computing Systems'],
-        'computer': icon_mapping['Computer'],
-        'computing': icon_mapping['Computing'],
-        'desktop': icon_mapping['Desktop'],
-        'workstation': icon_mapping['Workstation'],
-        'terminal': icon_mapping['Terminal'],
-        'shell': icon_mapping['Shell'],
-        'command': icon_mapping['Command Line'],
-        'operating': icon_mapping['Operating System'],
-        'architecture': icon_mapping['Computer Architecture'],
-        'hardware': icon_mapping['Computer Hardware'],
-        'network': icon_mapping['Computer Network'],
-        
-        # Keep other existing mappings
-        'application': icon_mapping['Software'],
-        'framework': icon_mapping['API'],
-        'tool': icon_mapping['Code'],
-        'method': icon_mapping['Algorithm'],
-        'principle': icon_mapping['Data Structure'],
-        'fundamental': icon_mapping['Data'],
-        'introduction': icon_mapping['Study'],
-        'advanced': icon_mapping['Machine Learning'],
-        'practical': icon_mapping['Code'],
-        'theory': icon_mapping['Data Structure'],
-        'laboratory': icon_mapping['Experiment'],
-        'workshop': icon_mapping['Code'],
-        'computation': icon_mapping['Data'],
-        'interface': icon_mapping['API'],
-        'scripting': icon_mapping['Code'],
-        'engineering': icon_mapping['Software Engineering']
+        'automotive': icon_mapping['Automotive Diagnostic'],
+        'automation': icon_mapping['Industrial Automation'],
+        'robot': icon_mapping['Game AI'],
+        'business': icon_mapping['Business Intelligence'],
+        'enterprise': icon_mapping['Enterprise'],
+        'database': icon_mapping['Database Systems'],
+        'analytics': icon_mapping['Data Analytics'],
+        'data': icon_mapping['Data Science'],
+        'electronics': icon_mapping['Electronics'],
+        'circuit': icon_mapping['PCB'],
+        'engineering': icon_mapping['Microcontroller'],
+        'forensics': icon_mapping['Forensics'],
+        'security': icon_mapping['Security'],
+        'cyber': icon_mapping['Cybersecurity'],
+        'game': icon_mapping['Game'],
+        'gaming': icon_mapping['Game'],
+        'graphics': icon_mapping['Graphics'],
+        'design': icon_mapping['Design'],
+        'animation': icon_mapping['Animation'],
+        'media': icon_mapping['Graphics'],
+        'production': icon_mapping['Graphics'],
+        'communication': icon_mapping['Graphics'],
+        'information': icon_mapping['Information Systems'],
+        'modeling': icon_mapping['Systems Analysis'],
+        'mathematics': icon_mapping['Mathematics'],
+        'physics': icon_mapping['Physics'],
+        'statistics': icon_mapping['Statistics'],
+        'network': icon_mapping['Networks'],
+        'cloud': icon_mapping['Cloud'],
+        'infrastructure': icon_mapping['Infrastructure'],
+        'software': icon_mapping['Software'],
+        'web': icon_mapping['Web'],
+        'programming': icon_mapping['Programming'],
+        'development': icon_mapping['Development'],
+        'sports': icon_mapping['Game'],
+        'fitness': icon_mapping['Game']
     }
     
-    for word, mapping in common_words.items():
-        if word in ' '.join(all_words):
-            if mapping['icon'] not in used_icons:
-                used_icons.add(mapping['icon'])
-                return mapping
+    for word, icon_info in common_words.items():
+        if word in title or (aim and word in aim):
+            return icon_info['icon'], icon_info['color']
     
-    return icon_mapping['default']
+    # If no specific match found, return a random education icon
+    random_icon = random.choice(education_icons)
+    return random_icon['icon'], random_icon['color']
 
 def update_csv_icons(filename):
     """Update icons and colors in a CSV file."""
@@ -200,22 +173,23 @@ def update_csv_icons(filename):
         # Update icons and colors
         for index, row in df.iterrows():
             if filename == 'module_display_settings.csv':
-                icon_color = get_icon_and_color(row['Module_Title'], row['Aim'])
+                icon, color = get_icon_and_color(row['Module_Title'], row['Aim'])
             else:
                 desc = row[description_col] if description_col else ''
-                icon_color = get_icon_and_color(row['Name'], desc)
+                icon, color = get_icon_and_color(row['Name'], desc)
             
             attempts = 0
             max_attempts = 10  # Prevent infinite loop
             
             # If icon is already used, try to find an alternative
-            while icon_color['icon'] in used_icons and attempts < max_attempts:
+            while icon in used_icons and attempts < max_attempts:
                 found_alternative = False
                 for keyword in icon_mapping:
                     if (keyword.lower() in row['Module_Title'].lower() or 
                         keyword.lower() in row['Aim'].lower()):
                         if icon_mapping[keyword]['icon'] not in used_icons:
-                            icon_color = icon_mapping[keyword]
+                            icon = icon_mapping[keyword]['icon']
+                            color = icon_mapping[keyword]['color']
                             found_alternative = True
                             break
                 if not found_alternative:
@@ -225,13 +199,14 @@ def update_csv_icons(filename):
                         education_icon_index += 1
                         next_icon = education_icons[education_icon_index % len(education_icons)]
                         attempts += 1
-                    icon_color = next_icon
+                    icon = next_icon['icon']
+                    color = next_icon['color']
                     education_icon_index += 1
                 attempts += 1
             
-            df.at[index, 'Icon'] = icon_color['icon']
-            df.at[index, 'Color'] = icon_color['color']
-            used_icons.add(icon_color['icon'])
+            df.at[index, 'Icon'] = icon
+            df.at[index, 'Color'] = color
+            used_icons.add(icon)
         
         # Save the updated CSV
         df.to_csv(filename, index=False)

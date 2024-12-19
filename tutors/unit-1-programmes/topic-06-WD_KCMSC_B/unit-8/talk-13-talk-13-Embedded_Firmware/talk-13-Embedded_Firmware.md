@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:bug
-  color: FFA726
+  type: mdi:book-multiple-variant
+  color: 14BF96
 ---
 Embedded Firmware
 

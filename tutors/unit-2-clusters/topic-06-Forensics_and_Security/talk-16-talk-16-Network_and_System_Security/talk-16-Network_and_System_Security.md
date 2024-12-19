@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-basic-bold
-  color: 78909C
+  type: mdi:shield-network
+  color: EEFF41
 ---
 Network and System Security
 

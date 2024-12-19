@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:memory
-  color: FFB74D
+  type: mdi:book-education
+  color: 02262B
 ---
 Operating Systems
 

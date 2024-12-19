@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:assembly-cluster-bold
-  color: 263238
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 Advanced Media Productions
 

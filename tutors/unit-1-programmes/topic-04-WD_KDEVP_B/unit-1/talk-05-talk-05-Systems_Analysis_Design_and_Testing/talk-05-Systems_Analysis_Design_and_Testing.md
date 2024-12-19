@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:test-tube
-  color: 66BB6A
+  type: mdi:pencil-ruler
+  color: E040FB
 ---
 Systems Analysis, Design and Testing
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:portfolio-bold
-  color: 455A64
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 Creative Programming Fundamentals 1
 

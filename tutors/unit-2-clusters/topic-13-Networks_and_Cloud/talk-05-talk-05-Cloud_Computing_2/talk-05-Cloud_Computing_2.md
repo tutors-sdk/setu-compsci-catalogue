@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-advanced-bold
-  color: 546E7A
+  type: mdi:book-education
+  color: 02262B
 ---
 Cloud Computing 2
 

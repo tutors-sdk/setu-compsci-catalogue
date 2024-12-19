@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:book-bold
-  color: 607D8B
+  type: mdi:database-sync
+  color: FF5252
 ---
 Database Systems
 

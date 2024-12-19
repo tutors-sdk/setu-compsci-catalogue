@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:concept-bold
-  color: 263238
+  type: mdi:robot-industrial
+  color: 448AFF
 ---
 Industrial Automation Systems
 

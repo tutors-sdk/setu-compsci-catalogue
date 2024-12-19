@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:catalog-bold
-  color: 607D8B
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Intercultural Business Context
 

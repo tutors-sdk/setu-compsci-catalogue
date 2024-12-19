@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:factory
-  color: EF6C00
+  type: mdi:developer-board
+  color: 536DFE
 ---
 Web Design and Development
 

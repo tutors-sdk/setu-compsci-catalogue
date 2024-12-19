@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:lecture-bold
-  color: 263238
+  type: mdi:physics
+  color: FF6E40
 ---
 Game Development in C++
 

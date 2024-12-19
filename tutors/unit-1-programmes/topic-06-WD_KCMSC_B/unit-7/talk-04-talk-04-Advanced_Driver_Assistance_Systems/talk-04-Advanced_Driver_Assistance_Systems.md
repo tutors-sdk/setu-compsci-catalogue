@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:portfolio-bold
-  color: 455A64
+  type: mdi:car-cruise-control
+  color: FF5252
 ---
 Advanced Driver Assistance Systems
 

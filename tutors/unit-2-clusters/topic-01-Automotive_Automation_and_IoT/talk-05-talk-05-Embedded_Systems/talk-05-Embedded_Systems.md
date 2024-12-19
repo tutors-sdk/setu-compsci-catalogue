@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:microchip-bold
-  color: 9575CD
+  type: mdi:chip
+  color: 536DFE
 ---
 Embedded Systems
 

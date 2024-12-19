@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:lan
-  color: 81D4FA
+  type: mdi:server
+  color: FF5252
 ---
 Networks Infrastructure
 

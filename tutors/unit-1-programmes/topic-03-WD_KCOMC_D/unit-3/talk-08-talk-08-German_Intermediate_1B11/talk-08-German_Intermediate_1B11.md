@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:course-bold
-  color: 546E7A
+  type: mdi:book-multiple-variant
+  color: 14BF96
 ---
 German Intermediate 1(B1.1)
 

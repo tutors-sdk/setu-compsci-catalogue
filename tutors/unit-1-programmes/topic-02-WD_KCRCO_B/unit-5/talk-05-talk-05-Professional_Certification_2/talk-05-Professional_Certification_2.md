@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:notebook-bold
-  color: 263238
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Professional Certification 2
 

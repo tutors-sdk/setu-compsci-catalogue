@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:course-bold
-  color: 546E7A
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Physics 2
 

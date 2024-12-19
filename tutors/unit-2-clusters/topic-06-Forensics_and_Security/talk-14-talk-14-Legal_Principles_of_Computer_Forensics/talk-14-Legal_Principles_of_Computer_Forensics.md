@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:assembly-cluster-bold
-  color: 263238
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Legal Principles of Computer Forensics
 

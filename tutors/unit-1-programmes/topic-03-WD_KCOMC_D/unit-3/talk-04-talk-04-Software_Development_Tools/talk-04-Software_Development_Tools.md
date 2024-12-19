@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:report-bold
-  color: 455A64
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Software Development Tools
 

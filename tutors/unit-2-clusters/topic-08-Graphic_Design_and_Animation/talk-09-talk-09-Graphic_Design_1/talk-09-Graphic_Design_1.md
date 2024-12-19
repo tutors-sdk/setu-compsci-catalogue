@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:presentation-file-bold
-  color: 37474F
+  type: mdi:book-multiple-variant
+  color: 14BF96
 ---
 Graphic Design 1
 

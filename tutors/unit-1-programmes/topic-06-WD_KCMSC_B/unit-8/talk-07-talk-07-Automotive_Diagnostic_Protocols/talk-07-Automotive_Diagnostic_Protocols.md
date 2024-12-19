@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:course-bold
-  color: 546E7A
+  type: mdi:car-wrench
+  color: FF4081
 ---
 Automotive Diagnostic Protocols
 

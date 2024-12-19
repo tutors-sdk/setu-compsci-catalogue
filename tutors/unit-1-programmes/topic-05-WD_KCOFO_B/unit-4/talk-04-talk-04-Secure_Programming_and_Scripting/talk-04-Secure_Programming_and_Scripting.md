@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-intermediate-bold
-  color: 607D8B
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Secure Programming and Scripting
 

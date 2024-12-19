@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:group-presentation-bold
-  color: 78909C
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Computing Ethics
 

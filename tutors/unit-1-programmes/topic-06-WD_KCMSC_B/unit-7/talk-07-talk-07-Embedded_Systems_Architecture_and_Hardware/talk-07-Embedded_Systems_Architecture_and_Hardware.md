@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:cpu-bold
-  color: F06292
+  type: mdi:book-education
+  color: 02262B
 ---
 Embedded Systems Architecture & Hardware
 

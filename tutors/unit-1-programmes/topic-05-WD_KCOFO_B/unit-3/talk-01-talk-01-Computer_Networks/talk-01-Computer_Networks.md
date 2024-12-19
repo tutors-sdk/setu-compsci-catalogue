@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:network
-  color: FF7043
+  type: mdi:lan
+  color: FFD740
 ---
 Computer Networks
 

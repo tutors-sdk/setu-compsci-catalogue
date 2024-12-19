@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:cognitive-bold
-  color: 37474F
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Technology Entrepreneurship
 

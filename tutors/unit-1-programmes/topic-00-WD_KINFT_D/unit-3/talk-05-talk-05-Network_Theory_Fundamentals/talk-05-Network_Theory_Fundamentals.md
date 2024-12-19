@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:app-window-bold
-  color: 4FC3F7
+  type: mdi:test-tube
+  color: 448AFF
 ---
 Network Theory Fundamentals
 

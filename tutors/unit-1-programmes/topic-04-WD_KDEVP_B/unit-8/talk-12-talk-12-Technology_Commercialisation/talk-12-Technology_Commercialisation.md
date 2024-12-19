@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:book-bold
-  color: 607D8B
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Technology Commercialisation
 

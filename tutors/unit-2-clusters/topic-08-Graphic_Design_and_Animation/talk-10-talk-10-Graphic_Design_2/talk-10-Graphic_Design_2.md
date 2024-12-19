@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:notebook-bold
-  color: 263238
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Graphic Design 2
 

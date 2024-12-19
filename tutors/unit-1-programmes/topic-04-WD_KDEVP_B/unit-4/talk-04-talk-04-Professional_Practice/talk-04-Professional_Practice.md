@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:user-gear-bold
-  color: FF9800
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Professional Practice
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:presentation-file-bold
-  color: 37474F
+  type: mdi:book-education
+  color: 02262B
 ---
 Advanced Graphic Design
 

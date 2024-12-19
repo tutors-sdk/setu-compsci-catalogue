@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-intermediate-bold
-  color: 607D8B
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Multimedia Networks
 

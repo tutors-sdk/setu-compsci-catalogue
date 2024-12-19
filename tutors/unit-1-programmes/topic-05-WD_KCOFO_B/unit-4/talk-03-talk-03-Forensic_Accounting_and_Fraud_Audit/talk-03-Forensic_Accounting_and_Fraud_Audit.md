@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-basic-bold
-  color: 78909C
+  type: mdi:book-open
+  color: 00FF84
 ---
 Forensic Accounting and Fraud Audit
 

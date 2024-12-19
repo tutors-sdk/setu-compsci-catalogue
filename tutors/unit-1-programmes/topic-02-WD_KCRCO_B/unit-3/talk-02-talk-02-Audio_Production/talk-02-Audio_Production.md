@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:learning-bold
-  color: 37474F
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Audio Production
 

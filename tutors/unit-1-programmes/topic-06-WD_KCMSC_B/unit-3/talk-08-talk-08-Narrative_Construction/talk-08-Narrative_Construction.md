@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:document-bold
-  color: 78909C
+  type: mdi:book-multiple-variant
+  color: 14BF96
 ---
 Narrative Construction
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:workspace-bold
-  color: 546E7A
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Introduction to Social Psychology
 

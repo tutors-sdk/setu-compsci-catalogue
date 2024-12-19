@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:api
-  color: 7E57C2
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Web App Development 2
 

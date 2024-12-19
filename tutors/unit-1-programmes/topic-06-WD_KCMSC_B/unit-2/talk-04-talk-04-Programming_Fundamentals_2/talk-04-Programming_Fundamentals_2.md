@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:graduation-cap-bold
-  color: 78909C
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Programming Fundamentals 2
 

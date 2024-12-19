@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:data-base-bold
-  color: 37474F
+  type: mdi:book-multiple
+  color: 1F4056
 ---
 Introduction to C++ for Games
 

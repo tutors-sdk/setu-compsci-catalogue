@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:concept-bold
-  color: 263238
+  type: mdi:book-minus
+  color: 58CC02
 ---
 Automated Cloud Services
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:data-base-bold
-  color: 37474F
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Developer Operations
 

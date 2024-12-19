@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:lecture-bold
-  color: 263238
+  type: mdi:gamepad-variant
+  color: FFD740
 ---
 Introduction to Creative Media
 

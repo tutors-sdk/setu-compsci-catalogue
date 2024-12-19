@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:briefcase
-  color: FB8C00
+  type: mdi:database-clock
+  color: 76FF03
 ---
 Business Intelligence and Data Warehousing
 

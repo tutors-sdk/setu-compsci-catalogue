@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:desktop-classic
-  color: 1E88E5
+  type: mdi:shield-lock
+  color: 69F0AE
 ---
 Introduction to Computer Security
 

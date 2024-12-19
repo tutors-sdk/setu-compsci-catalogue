@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:group-presentation-bold
-  color: 78909C
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Introduction to Convergent Technologies
 

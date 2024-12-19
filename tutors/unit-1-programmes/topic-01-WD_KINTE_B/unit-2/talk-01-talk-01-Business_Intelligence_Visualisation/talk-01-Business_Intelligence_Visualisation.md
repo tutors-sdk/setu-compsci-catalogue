@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:chart-bubble
-  color: 4DB6AC
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 Business Intelligence Visualisation
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:portfolio-bold
-  color: 455A64
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Artificial Intelligence
 

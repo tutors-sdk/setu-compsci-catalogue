@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:study-next-bold
-  color: 455A64
+  type: mdi:animation
+  color: 7C4DFF
 ---
 2D Animation
 

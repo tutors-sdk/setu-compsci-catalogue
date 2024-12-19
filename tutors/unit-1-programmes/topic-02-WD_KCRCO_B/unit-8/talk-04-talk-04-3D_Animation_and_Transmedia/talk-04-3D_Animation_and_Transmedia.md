@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:delivery
-  color: 673AB7
+  type: mdi:book-open-variant
+  color: 0056D2
 ---
 3D Animation and Transmedia
 

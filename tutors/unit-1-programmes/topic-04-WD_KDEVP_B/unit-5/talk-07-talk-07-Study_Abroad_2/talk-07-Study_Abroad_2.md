@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:catalog-bold
-  color: 607D8B
+  type: mdi:book-education
+  color: 02262B
 ---
 Study Abroad 2
 

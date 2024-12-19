@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:forum-bold
-  color: 607D8B
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Creative Programming Fundamentals 2
 

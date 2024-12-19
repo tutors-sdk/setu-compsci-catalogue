@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-advanced-bold
-  color: 546E7A
+  type: mdi:book-lock-open
+  color: 149EF2
 ---
 Project Semester 4
 

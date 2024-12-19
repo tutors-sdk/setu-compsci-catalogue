@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:concept-bold
-  color: 263238
+  type: mdi:book-open
+  color: 00FF84
 ---
 3D Animation Practice
 

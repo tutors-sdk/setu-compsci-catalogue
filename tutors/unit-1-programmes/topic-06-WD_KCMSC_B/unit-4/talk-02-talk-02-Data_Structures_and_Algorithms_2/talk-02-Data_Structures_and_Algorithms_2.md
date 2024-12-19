@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:file-tree
-  color: 4DB6AC
+  type: mdi:book-multiple-variant
+  color: 14BF96
 ---
 Data Structures and Algorithms 2
 

@@ -1,7 +1,7 @@
 ---
 icon:
   type: mdi:web
-  color: 42A5F5
+  color: E040FB
 ---
 Website Development 1
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:chart-box
-  color: 4DD0E1
+  type: mdi:function
+  color: 69F0AE
 ---
 Mathematics Fundamentals
 

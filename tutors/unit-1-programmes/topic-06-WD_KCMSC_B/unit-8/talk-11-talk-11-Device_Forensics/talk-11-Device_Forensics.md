@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:lecture-bold
-  color: 263238
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Device Forensics
 

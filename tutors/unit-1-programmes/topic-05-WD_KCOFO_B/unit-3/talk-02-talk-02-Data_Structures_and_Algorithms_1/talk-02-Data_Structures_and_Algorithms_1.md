@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ri:flow-chart
-  color: 9575CD
+  type: mdi:flask
+  color: FFD740
 ---
 Data Structures and Algorithms 1
 

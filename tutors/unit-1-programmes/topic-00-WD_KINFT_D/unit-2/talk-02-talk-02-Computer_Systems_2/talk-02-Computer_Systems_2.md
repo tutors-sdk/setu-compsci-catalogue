@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:virtual-machine
-  color: 03A9F4
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Computer Systems 2
 

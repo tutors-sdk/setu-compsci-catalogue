@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-basic-bold
-  color: 78909C
+  type: mdi:book-education
+  color: 02262B
 ---
 Introduction to 3D Game Development
 

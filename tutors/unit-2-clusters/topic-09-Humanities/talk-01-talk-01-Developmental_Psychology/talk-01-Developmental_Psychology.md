@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:learning-bold
-  color: 37474F
+  type: mdi:book-open-page-variant
+  color: A435F0
 ---
 Developmental Psychology
 

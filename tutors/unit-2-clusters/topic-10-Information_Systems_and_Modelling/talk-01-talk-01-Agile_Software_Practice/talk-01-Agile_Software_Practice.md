@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:skill-level-intermediate-bold
-  color: 607D8B
+  type: mdi:sync
+  color: 40C4FF
 ---
 Agile Software Practice
 

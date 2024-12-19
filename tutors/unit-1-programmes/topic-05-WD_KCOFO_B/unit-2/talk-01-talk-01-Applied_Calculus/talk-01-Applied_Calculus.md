@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:notebook-bold
-  color: 263238
+  type: mdi:book-lock
+  color: F15B2A
 ---
 Applied Calculus
 

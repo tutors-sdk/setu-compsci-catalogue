@@ -1,7 +1,7 @@
 ---
 icon:
-  type: ph:study-next-bold
-  color: 455A64
+  type: mdi:unity
+  color: FFAB40
 ---
 2D Game Development
 
