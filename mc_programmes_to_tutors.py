@@ -103,7 +103,7 @@ def run(programme_codes, verbose=False):
                 shutil.copyfile(source, f"{topic}/{unit}/{card}/{target}" + ".pdf")
 
 
-CM_PROGRAMMES = "WD_KINFT_D WD_KINTE_B WD_KCRCO_B WD_KCOMC_D WD_KDEVP_B WD_KCOFO_B WD_KCMSC_B WD_KCOSC_G WD_KDAAN_G WD_KCESS_R WD_KISYP_R".split()
+CM_PROGRAMMES = "WD_KINFT_D WD_KINTE_B WD_KCRCO_B WD_KCOMC_D WD_KDEVP_B WD_KCOFO_B WD_KCMSC_B WD_KBUSY_G WD_KCOSC_G WD_KDAAN_G WD_KCESS_R WD_KISYP_R".split()
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description='Generate a tutor course for a set of programmes in the module catalogue.')
