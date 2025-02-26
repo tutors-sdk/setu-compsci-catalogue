@@ -1,4 +1,4 @@
 credits: Peter Windle, Kieran Murphy, Eamonn De Leastar
 parent: #
-lightboxpdf: false
+pdfOrientation : "portrait"
 
