@@ -1,0 +1,136 @@
+# Mathematics Fundamentals
+
+## Module Information
+
+| **Field** | **Details** |
+|-----------|-------------|
+| **Module Code** | A13501 |
+| **Module Title** | Mathematics Fundamentals |
+| **Short Title** | Mathematics Fundamentals |
+| **Credits** | 5 ECTS |
+| **Level** | Introductory (Level 8) |
+| **Department** | Computing and Mathematics |
+| **Module Author** | Ann Vereker |
+| **Cluster** | Mathematics and Physics |
+
+---
+
+## Module Aim
+
+This module introduces students to the basic concepts in matrices, linear and non linear functions, sequences and series and logic. Practical labs will act as a support as students will perform relevant calculations and construct relevant graphs.
+
+---
+
+## Learning Outcomes
+
+On successful completion of this module, learners will be able to:
+
+1. Manipulate 2D matrix operations.
+2. Solve equations using matrices and the inverse method.
+3. Utilise the rules of indices and logs to simplify expressions and to solve equations.
+4. Construct appropriate sequences, series and limits calculations.
+5. Construct truth tables by using logical operators.
+6. Use industry based software to perform mathematical calculations.
+7. Construct linear and non linear graphs using suitable software.
+
+---
+
+## Indicative Content
+
+The module covers the following topics:
+
+- Matrices: Matrix operations; Solving linear equations using the inverse method
+- Linear Functions: Slopes; Intercepts; Plotting lines
+- Exponential & Logarithmic Functions: Properties; Rules of indices & logs; Graphs
+- Sequences & Series: Arithmetic; Geometric; Limits
+- Logic: Logical operators & truth tables
+
+---
+
+## Learning and Teaching Methods
+
+The lectures will be used to present the mathematical material.
+
+In tutorials students will solve problems which will be based on material covered in the lectures.
+
+In practicals students will perform calculations by using built in functions along with creating their own formulae.
+
+Students will also use graphing tools to explore the properties of functions.
+
+### Contact Hours
+
+| **Activity** | **Full Time Hours** | **Part Time Hours** |
+|--------------|---------------------|---------------------|
+| Lecture | 24 | 12 |
+| Tutorial | 12 | 6 |
+| Practical | 12 | 6 |
+| Independent Learning | 87 | 111 |
+| **Total** | **135** | **135** |
+
+---
+
+## Assessment Methods
+
+| **Assessment Type** | **Learning Outcomes** | **Weighting** |
+|---------------------|----------------------|---------------|
+| **Final Written Examination** | 3,4,5 | **60%** |
+| **Continuous Assessment** | 1,2,6,7 | **40%** |
+| - In-Class Assessment | 1,2 | 15% |
+| - Practical | 6,7 | 25% |
+
+---
+
+## Assessment Criteria
+
+### Fail (<40%)
+<40%: Unable to interpret and describe key mathematical concepts.
+
+### Pass (40%-49%)
+40%-49%: Be able to interpret and describe key mathematical concepts.
+
+### Credit (50%-59%)
+50%-59%: Ability to discuss key mathematical concepts and ability to discover and integrate related knowledge in other knowledge domains.
+
+### Distinction (60%-69%)
+60%-69%: Be able to solve mathematical problems using appropriate skills and software tools.
+
+### High Distinction (70%-100%)
+70%-100%: All the above to an excellent level. Be able to analyse and design solutions to a high standard for a range of both complex and unforeseen problems through the use and modification of appropriate mathematical skills and tools.
+
+---
+
+## Pre-requisites and Co-requisites
+
+- **Pre-requisites:** None
+- **Co-requisites:** None
+
+---
+
+## Recommended Reading
+
+### Supplementary Material
+
+- "https://moodle.wit.ie." https://moodle.wit.ie
+- Lipschutz, S. \emph{Essential Computer Mathematics}. New York: Graw-Hill, 1982.
+- Morgan, G. and S. O' Neill. \emph{Essential Computer Applications}. 4th Edition. Dublin: Gill & Macmillan, 2007.
+
+---
+
+## Programme Information
+
+This module is available on the following programmes:
+
+| **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
+|-------------------|---------------------|-----------|--------------|------------|
+| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 1 | 1 | Mandatory |
+| WD_KINFT_D | Bachelor of Science in Information Technology | 1 | 1 | Mandatory |
+
+---
+
+## Resources Required
+
+- Room Type: Computer Lab
+
+---
+
+*Module Code: A13501 | Timetable Code: MTHS-0051*
