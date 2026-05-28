@@ -1,3 +1,9 @@
+---
+icon:
+  type: fa:desktop
+  color: 398126
+---
+
 # Database Design and Implementation
 
 ## Module Information

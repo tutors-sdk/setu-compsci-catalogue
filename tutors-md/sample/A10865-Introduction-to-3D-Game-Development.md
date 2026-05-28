@@ -1,3 +1,9 @@
+---
+icon:
+  type: mdi:gamepad-variant
+  color: FFD740
+---
+
 # Introduction to 3D Game Development
 
 ## Module Information

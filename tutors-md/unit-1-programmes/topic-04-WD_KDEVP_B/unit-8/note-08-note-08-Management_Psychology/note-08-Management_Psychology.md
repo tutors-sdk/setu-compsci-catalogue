@@ -1,3 +1,9 @@
+---
+icon:
+  type: mdi:book-multiple-variant
+  color: 14BF96
+---
+
 # Management Psychology
 
 ## Module Information

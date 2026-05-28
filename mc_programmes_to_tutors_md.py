@@ -19,7 +19,7 @@ def load(folder='descriptors', id="*"):
     return {file.rsplit("/")[-1].split(".")[0]:yaml.safe_load(open(file)) for file in files}
 
 
-def generate_module_markdown(descriptor, module_info):
+def generate_module_markdown(descriptor, module_info, icon='fa:desktop', color='398126'):
     """Generate markdown content for a module descriptor."""
 
     # Basic information
@@ -32,8 +32,16 @@ def generate_module_markdown(descriptor, module_info):
     author = module_info.get('author', 'N/A')
     subgroup = module_info.get('subgroup', 'N/A')
 
-    # Build the markdown content
-    md = f"# {full_title}\n\n"
+    # Build the markdown content with frontmatter
+    md = f"""---
+icon:
+  type: {icon}
+  color: {color}
+---
+
+# {full_title}
+
+"""
 
     # Module Information Table
     md += "## Module Information\n\n"
@@ -282,13 +290,10 @@ def run(programme_codes, verbose=False):
                 else:
                     icon = 'fa:desktop'
                     color = 398126
-                description = descriptors[ref]['aim'][:150] + " ... "
-                content = module_content.format(title=title, icon=icon, color=color, description=description)
-                open(f"{topic}/{unit}/{card}/{target}" + ".md", "wt").write(content)
 
-                # Generate markdown version of module descriptor
+                # Generate markdown version of module descriptor with frontmatter
                 if ref in descriptors and ref in modules:
-                    markdown_content = generate_module_markdown(descriptors[ref], modules[ref])
+                    markdown_content = generate_module_markdown(descriptors[ref], modules[ref], icon, color)
                     open(f"{topic}/{unit}/{card}/{target}" + ".md", "wt").write(markdown_content)
 
 
