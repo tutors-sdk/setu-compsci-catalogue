@@ -2,5 +2,4 @@ credits: Peter Windle, Kieran Murphy, Eamonn De Leastar
 parent: #
 pdfOrientation : portrait
 llm: 2
-github: https://github.com/tutors-sdk/setu-compsci-catalogue/tree/main/tutors-md/blob/main
-
+github: https://github.com/tutors-sdk/setu-compsci-catalogue/blob/main/tutors-md/
